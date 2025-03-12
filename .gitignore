@@ -4,3 +4,4 @@
 # c program
 c/*
 !c/*.c
+!c/lib
