@@ -2,6 +2,8 @@
 .env
 
 # c program
-c/hello
-c/eod
-c/add
+c/a.out
+c/*
+c/*.o 
+
+
