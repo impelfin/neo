@@ -3,6 +3,7 @@
 
 # c program
 c/*
+c/**/test
 !c/**/*.c
 !c/**/*.h
 !c/**/*.a
