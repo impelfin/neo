@@ -5,8 +5,9 @@
 c/*
 !c/*.c
 !c/lib
-!c/makefile
-c/makefile/*.o
+c/makefile/
+!c/makefile/*.c
+!c/makefile/*.h
 c/meta/
 !c/meta/*.c
 !c/meta/Makefile
