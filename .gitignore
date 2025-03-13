@@ -3,7 +3,7 @@
 
 # c program
 c/*
-c/**/test
+c/makefile/test
 !c/**/*.c
 !c/**/*.h
 !c/**/*.a
