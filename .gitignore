@@ -3,10 +3,12 @@
 
 # c program
 c/*
-c/makefile/test
+c/*.o
+!c/**/
 !c/**/*.c
-!c/**/*.h
-!c/**/*.a
+!c/**/lib/
+!c/**/lib/*.a
+!c/**/lib/*.h
 !c/**/Makefile*
 
 # Java
