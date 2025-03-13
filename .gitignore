@@ -3,9 +3,7 @@
 
 # c program
 c/*
-!c/*.c
-!c/lib
-c/makefile/
-c/meta/
-!c/meta/*.c
-!c/meta/Makefile
+!c/**/*.c
+!c/**/*.h
+!c/**/*.a
+!c/**/Makefile*
