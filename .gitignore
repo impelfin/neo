@@ -4,12 +4,9 @@
 # c program
 c/*
 c/*.o
-!c/**/
 !c/**/*.c
 !c/**/*.h
-!c/**/lib/
-!c/**/lib/*.a
-!c/**/lib/*.h
+!c/**/*.a
 !c/**/Makefile*
 
 # Java
