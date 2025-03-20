@@ -40,7 +40,7 @@ EOF
 #echo "## Configuring firewall"
 #firewall-cmd --permanent --add-port=8080/tcp
 #firewall-cmd --permanent --add-port=1521/tcp
-#firewall-cmd --reload
+firewall-cmd --reload
 
 echo
 echo "## Checking listener and network status"
