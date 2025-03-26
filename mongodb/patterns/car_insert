@@ -1,0 +1,9 @@
+use test
+
+db.car.drop()
+
+db.car.insert({engine:"A", frame:"AX_1", tire:"R16", car_type:"TAXI", lamp:1, gas_tank:1})
+db.car.insert({engine:"B", frame:"AX_3", tire:"R18", car_type:"BUS", auto_door:2})
+db.car.insert({engine:"A", frame:"AX_2", tire:"R18", car_type:"TAXI", lamp:2, gas_tank:2})
+
+db.car.find({},{_id:0})
