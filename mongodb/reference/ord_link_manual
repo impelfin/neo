@@ -1,0 +1,36 @@
+use test
+
+db.ord.drop()
+db.ord_detail.drop()
+
+db.ord.insert({
+    ord_id : "2025-03-26",
+    customer_name:"woman",
+    emp_name:"magee",
+    total:"219500",
+    payment_type:"Credit",
+    order_filled:"y",
+})
+db.ord.find({ord_id:"2025-03-26"},{ord_id:1,_id:1})
+
+db.ord_detail.insert({
+    ord_id:"2025-03-26",
+    item_id:[{
+        item_id:"1",
+        product_name:"bunny",
+        item_price:"135",
+        qty:"500",
+        price:"67500"
+    },{
+        item_id:"2",
+        product_name:"pro ski",
+        item_price:"380",
+        qty:"400",
+        price:"152000"
+    }],
+    ordid_id:db.ord.findOne({ord_id:"2025-03-26"})._id
+})
+
+db.ord_detail.find({ordid_id:db.ord.findOne({ord_id:"2025-03-26"})._id}, {ordid_id:1, _id:0})
+
+db.ord.findOne({_id:db.ord_detail.findOne().ordid_id}).total
