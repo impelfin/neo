@@ -1,0 +1,31 @@
+use test
+
+db.ord.drop()
+db.ord.insert({
+    ord_id : "2025-03-26",
+    customer_name:"woman",
+    emp_name:"magee",
+    total:"219500",
+    payment_type:"Credit",
+    order_filled:"y",
+})
+
+db.ord.update({ord_id:"2025-03-26"},
+    {$set:{
+        item_id:[{
+            item_id:"1",
+            product_name:"bunny",
+            item_price:"135",
+            qty:"500",
+            price:"67500"
+        },{
+            item_id:"2",
+            product_name:"pro ski",
+            item_price:"380",
+            qty:"400",
+            price:"152000"
+        }]
+    }
+})
+
+db.ord.find().pretty()
