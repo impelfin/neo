@@ -1,0 +1,4 @@
+use test
+
+db.bios.find().pretty()
+

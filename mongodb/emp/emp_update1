@@ -1,0 +1,11 @@
+use test
+
+db.emp.find({depno:30},{_id:0})
+
+db.emp.update(
+	{depno:{$eq:30}},
+	{$set:{depno:40}},
+	{multi:true}
+)
+
+db.emp.find({depno:40},{_id:0})

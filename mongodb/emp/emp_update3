@@ -1,0 +1,12 @@
+use test
+
+db.emp.find({sal:{$gte:3350}},{_id:0})
+
+db.emp.update(
+	{sal:{$gte:3350}},
+	{$inc:{sal:1500}},
+	{multi:true}
+)
+
+db.emp.find({},{_id:0})
+
