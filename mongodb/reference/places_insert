@@ -1,0 +1,15 @@
+use test
+
+db.places.drop()
+db.people.drop()
+
+db.places.insert({
+    name : "Broadway Center",
+    url: "bc.example.net"
+})
+
+db.people.insert({
+    name:"Erin",
+    places_id:db.places.findOne({name:"Broadway Center"})._id,
+    url: "bc.example.net/Erin"
+})
