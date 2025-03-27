@@ -11,3 +11,5 @@ rsconf = {
 rs.initiate(rsconf)
 
 rs.status()
+
+exit
