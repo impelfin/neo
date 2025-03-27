@@ -20,12 +20,7 @@ else
 fi
 
 # MongodB Daemon Start
-/replica/mongodb/bin/mongod --config /work/neo/mongodb/replica/master.conf &
-/replica/mongodb/bin/mongod --config /work/neo/mongodb/replica/slave1.conf &
-/replica/mongodb/bin/mongod --config /work/neo/mongodb/replica/slave2.conf &
-/replica/mongodb/bin/mongod --config /work/neo/mongodb/replica/arbiter.conf &
-netstat -ntlp | grep mongo
-sleep 3s
+./start_replica.sh
 
 # Replica Init Setup
 /replica/mongodb/bin/mongo --port 10000 < rs_start    
