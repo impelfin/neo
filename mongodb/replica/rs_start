@@ -1,0 +1,13 @@
+rsconf = {
+  _id:"replica",
+  members:[
+    {_id:0, host:"localhost:10000", priority:2},
+    {_id:1, host:"localhost:10001", priority:1},
+    {_id:2, host:"localhost:10002", priority:1},
+    {_id:3, host:"localhost:10003", priority:1, arbiterOnly:true},
+  ]
+}
+
+rs.initiate(rsconf)
+
+rs.status()
