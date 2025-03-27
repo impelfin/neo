@@ -1,0 +1,5 @@
+use test
+
+db.seoul.find({}, {_id:0}).count()
+db.seoul.findOne({}, {_id:0})
+
