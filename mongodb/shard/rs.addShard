@@ -1,0 +1,3 @@
+sh.addShard("ShardReplSet/shard:27021")
+sh.addShard("ShardReplSet/shard:27022")
+exit
