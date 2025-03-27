@@ -56,4 +56,3 @@ mongo $IP_TEMP:27017 < rs.addShard
 
 # netstatus
 netstat -ntlp | grep mongo
-
