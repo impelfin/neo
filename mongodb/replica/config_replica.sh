@@ -2,7 +2,6 @@
 
 # Mongodb Daemon Stop
 ./stop_replica.sh
-sleep 5s
 
 # Directory Setup
 if [ -d /replica/data ]; then
