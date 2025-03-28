@@ -3,7 +3,7 @@
 echo
 echo "## Database Data Import"
 sqlplus system/1234@xe < shop_user_create.sql
-sqlplus system/1234@xe < shop_member.sql
+sqlplus system/1234@xe < shop_membertbl.sql
 sqlplus system/1234@xe < shop_producttbl.sql
 sqlplus system/1234@xe < shop_usertbl.sql
 sqlplus system/1234@xe < shop_buytbl.sql
