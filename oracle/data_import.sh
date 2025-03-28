@@ -1,4 +1,5 @@
 #!/bin/bash
+
 echo
 echo "## Database Data Import"
 sqlplus system/1234@xe < shop_user_create.sql
