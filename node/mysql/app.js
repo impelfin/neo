@@ -22,7 +22,7 @@ app.get('/', function (req, res) {
     connection.query('SELECT * FROM st_info', function (err, rows, fields) {
         connection.end();
         if (err) {
-            res.send(rews);
+            res.send(rows);
             console.log("The solution is : ", rows);
         } else {
             console.log('Error while performing Query~!!\n\n');
