@@ -15,9 +15,40 @@ app.get('/Hello', (req, res) => {
 
 // select all rows from st_info table
 app.get('/select', async (req, res) => {
-    const [rows] = await pool.query('select * from st_info');
+    const [rows, fields] = await pool.query('select * from st_info');
     console.log(rows);
-    res.send(rows);
+    // res.send(result);
+    res.writeHead(200);
+    var template = `
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8">
+        <title>Result</title>
+    </head>
+    <body>
+    <table border="1" margin:auto; text-align:center;>
+        <tr>
+            <th>ST_ID</th>
+            <th>NAME</th>
+            <th>DEPT</th>
+        </tr>   
+        `;
+        for (var i=0; i<rows.length; i++) {
+        template += `
+        <tr>
+            <th>${rows[i]['ST_ID']}</th>
+            <th>${rows[i]['NAME']}</th>
+            <th>${rows[i]['DEPT']}</th>
+        </tr>
+        `;
+    }
+    template += `
+    </table>
+    </body>
+    </html>
+    `;
+    res.end(template);
 })
 
 // insert data to st_info table
