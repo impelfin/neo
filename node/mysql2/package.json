@@ -1,5 +1,5 @@
 {
-  "name": "mysql-sync-web",
+  "name": "mysql2",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
@@ -10,11 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "body-parser": "^2.2.0",
-    "cookie-parser": "^1.4.7",
     "dotenv": "^16.4.7",
-    "express": "^4.21.2",
-    "morgan": "^1.10.0",
-    "sync-mysql": "^3.0.1"
+    "mysql2": "^3.14.0"
   }
 }
