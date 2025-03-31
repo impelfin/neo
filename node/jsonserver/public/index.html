@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>JSON Server - CRUD</title>
+  </head>
+  <body>
+    <h1>JSON Server - CRUD</h1>
+    <hr />
+    <form action="postData" method="post" name="userForm" target="targetURL">
+      <input
+        type="button"
+        value="get Data"
+        onclick='document.targetURL.location.href="/getData"'
+      />
+      <p />
+      ID &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:
+      <input type="text" size="15" name="id" />
+      <p />
+      name : <input type="text" size="15" name="name" />
+      <p />
+      <hr />
+      <input type="submit" value="post Data" />&nbsp;&nbsp;
+      <button type="submit" formaction="putData">put Data</button>&nbsp;&nbsp;
+      <button type="submit" formaction="deleteData">delete Data</button>
+      <p />
+    </form>
+    <hr />
+    <iframe
+      name="targetURL"
+      class="iframe-preview center"
+      width="90%"
+      height="500"
+      style="border: none"
+      src="http://192.168.1.53:8000/Hello"
+    >
+    </iframe>
+  </body>
+</html>
