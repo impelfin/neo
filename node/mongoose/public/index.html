@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Mongoose Example</title>
+    </head>
+    <body>
+        <h1>Mongoose Example</h1>
+        <form method="post" action="/insert" name="mongoForm" target="targetURL">
+            <input type="button" value="Users Collection" onclick='document.targetURL.location.href="/list"'>&nbsp;&nbsp;&nbsp;
+            <input type="button" value="get User" onclick='document.targetURL.location.href="/get?input="+document.mongoForm.userid.value'><p>
+            <p>Userid &nbsp;<input type="text" name="userid" size=10 /></p>
+            <p>Name &nbsp;&nbsp;<input type="text" name="name" size=10 /></p>
+            <p>City &nbsp;&nbsp;<input type="text" name="city" size=10></p>
+            <p>Sex &nbsp;&nbsp;<input type="radio" name="sex" size=10 value="male" />Male
+            <input type="radio" name="sex" size=10 value="female" checked="checked"/>Female<p />
+            <p>Age &nbsp;&nbsp;<input type="text" name="age" size=10></p>
+            <hr />
+            <input type="submit" value="Insert" onclick='this.form.action="/insert"'>&nbsp;&nbsp;&nbsp;
+            <input type="submit" value="Update" onclick='this.form.action="/update"'>&nbsp;&nbsp;&nbsp;
+            <input type="submit" value="Delete" onclick='this.form.action="/delete"'>&nbsp;&nbsp;&nbsp;<p>
+        </form>
+        <hr>
+        <iframe name="targetURL" width="90%" height="400" style="border:none" src="http://192.168.1.34:8000/Hello">
+        </iframe>
+    </body>
+</html>

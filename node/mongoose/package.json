@@ -1,0 +1,21 @@
+{
+  "name": "mongoose",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "async": "^3.2.6",
+    "body-parser": "^2.2.0",
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^6.1.5",
+    "morgan": "^1.10.0",
+    "path": "^0.12.7"
+  }
+}
