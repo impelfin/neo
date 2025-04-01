@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>다양한 원호 그리기</title></head>
+<body>
+<h3>다양한 원호 그리기</h3>
+<hr>
+<canvas id="myCanvas" style="background-color:aliceblue"
+	 width="800" height="200"></canvas>
+<script>
+	let canvas = document.getElementById('myCanvas');
+	let context = canvas.getContext("2d");
+
+	context.beginPath();
+	context.arc(100, 100, 40, 0, 2*Math.PI, false); // 시계 방향
+	context.stroke();
+
+	context.beginPath();
+	context.arc(300, 100, 40, Math.PI/2, 1.5*Math.PI); // 시계 방향
+	context.stroke();
+
+	context.beginPath();
+	context.arc(500, 100, 40, 0, Math.PI, true); // 반시계 방향
+	context.stroke();
+
+	context.beginPath();
+	context.arc(700, 100, 40, Math.PI/2, 0, true); // 반시계 방향
+	context.stroke();
+</script>
+</body>
+</html>

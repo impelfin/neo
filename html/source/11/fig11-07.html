@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>베이지어 곡선 그리기</title></head>
+<body>
+<h3>베이지어 곡선 그리기</h3>
+<hr>
+<canvas id="myCanvas" style="background-color:beige"
+	 width="300" height="150"></canvas>
+<script>
+	var canvas = document.getElementById('myCanvas');
+	var context = canvas.getContext('2d');
+
+	context.beginPath(); // 빈 경로 만들기
+	context.moveTo(20, 50); // (20, 120)을 시작점으로 설정
+	context.quadraticCurveTo(50, 150, 130, 20);
+	context.stroke();
+
+	context.beginPath(); // 빈 경로 만들기
+	context.moveTo(150, 20); // (20, 120)을 시작점으로 설정
+	context.bezierCurveTo(200, 150, 220, 0, 280, 100);
+	context.stroke();
+</script>
+</body>
+</html>
