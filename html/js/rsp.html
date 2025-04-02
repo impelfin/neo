@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>가위 바위 보 게임</title>
+  </head>
+  <body>
+    <h3>가위 바위 보 게임</h3>
+    <hr />
+    <script>
+        while(true) {
+            let rsp_map = { 1: "가위", 2: "바위", 3: "보" };
+            let user = prompt("1~3 사이의 숫자를 입력하세요.(1:가위, 2:바위, 3:보)", 3);
+            user = parseInt(user); // 문자열을 숫자로 바꿈
+            if (user == 1 || user == 2 || user == 3) {
+                let com = Math.floor(Math.random() * 3 + 1);
+                verdict = user - com;
+                document.write("User : " + rsp_map[user] + " vs  Com : " + rsp_map[com] + "<br>");
+                if (verdict == -2 || verdict == 1)
+                    document.write("당신이 이겼습니다.<br>");
+                else if (verdict == 2 || verdict == -1)
+                    document.write("당신이 졌습니다.<br>");
+                else document.write("무승부입니다.<br>");     
+                break;
+            } else {
+                alert("다시 입력하세요");
+            }       
+        }
+    </script>
+  </body>
+</html>

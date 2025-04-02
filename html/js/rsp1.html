@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h3>Rock Scissors Paper</h3>
+    <hr />
+    <script>
+      while (1) {
+        let rsp_map = { 1: "가위", 2: "바위", 3: "보" };
+        let x = Math.floor(Math.random() * 3 + 1);
+        let n = parseInt(prompt("가위(1) 바위(2) 보(3)!", 3));
+            if (n == 1 || n == 2 || n == 3) {
+            document.write("컴퓨터 : " + rsp_map[x]);
+            document.write("<br /><br /> YOU : " + rsp_map[n]);
+            document.write("<br /><br />");
+            if (n == x) {
+                document.write("무승부쓰~");
+            } else if ((n + x) % 2 == 1) {
+                n > x ? document.write("이겼쓰~ 뺌") : document.write("졌쓰~");
+            } else if ((n + x) % 2 == 0) {
+                n < x ? document.write("이겼쓰~ 뺌") : document.write("졌쓰~");
+            }
+            break;
+            } else {
+            alert("다시 입력하세요");
+            }
+        }
+    </script>
+  </body>
+</html>

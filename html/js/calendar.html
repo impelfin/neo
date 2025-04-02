@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Calendar</title>
+  </head>
+  <body>
+    <h3>Calendar</h3>
+    <hr />
+    <script>
+        let input = prompt("원하는 년도와 달을 입력하세요.(예 : 202504)", 202504);
+        const input_year = input.substr(0, 4);
+        const input_month = input.substr(4, 2);
+        var startDay = new Date(input_year + "-" + input_month).getDay();
+        var endDay = new Date(input_year, input_month, 0).getDate();
+        document.write("<h4><pre>Sun  Mon  Tue  Wed  Thu  Fri  Sat</pre></h4>");
+        let i = 1;
+        while (i <= endDay + startDay) {
+          if (i <= startDay)
+            document.write("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;");
+          else if (i + startDay < 10)
+            document.write(
+              "&nbsp;&nbsp;&nbsp;" +
+                (i - startDay) +
+                "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
+            );
+          else document.write(i - startDay + "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;");
+          if (i % 7 == 0) document.write("<br>");
+          i++;
+        }
+      </script>
+  </body>
+</html>
+

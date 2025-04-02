@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>  
+        <meta charset="UTF-8">
+        <title>quiz3 - random 배열 생성 후 값 뒤집어 저장한 후 출력</title>
+    </head>
+    <body>
+        <h3>quiz3 - random 배열 생성 후 값 뒤집어 저장한 후 출력</h3>
+        <hr>
+        <script>
+            let n = 5;
+            let array = new Array(n);
+            let max = 0;
+            document.write("배열의 길이 : " + n + "<br>");
+            document.write("원래 배열의 값 : ");
+            for (let i = 0; i < n; i++) {
+                array[i] = Math.floor(Math.random() * 100 + 1);
+                document.write(array[i] + " ");
+            }
+            // for(let i = 0; i < n / 2; i++) {
+            //     let temp = array[i];
+            //     array[i] = array[n - 1 - i];
+            //     array[n - 1 - i] = temp;
+            // }
+            for (let i =0, j = array.length - 1; i < j; i++, j--) {
+                let temp = array[i];
+                array[i] = array[j];
+                array[j] = temp;
+            }
+            document.write("<br> Reverse 배열의 값 : ");
+            for (i = 0; i < n; i++) document.write(array[i]+ " ");
+        </script>
+    </body>
+</html>

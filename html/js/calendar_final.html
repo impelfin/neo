@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Calendar</title>
+    <style>
+      .sun {
+        color: red;
+      }
+
+      .sat {
+        color: blue;
+      }
+
+      body {
+        font: bold 20px monaco, sans-serif;
+      }
+
+      table {
+        border-collapse: collapse;
+        border-style: none;
+      }
+
+      td, th {
+        text-align: center;
+        padding: 5px;
+        height: 5px;
+        width: 20px;
+      }
+
+      thead {
+        background: lightblue;
+        color: black;
+      }
+
+      tbody tr :hover {
+        background: papayawhip;
+      }
+    </style>
+  </head>
+  <body>
+    <h3>Calendar</h3>
+    <hr />
+    <script>
+      let input = prompt("원하는 년도와 달을 입력하세요.(예 : 202504)", 202504);
+      const input_year = input.substr(0, 4);
+      const input_month = input.substr(4, 2);
+      var startDay = new Date(input_year + "-" + input_month).getDay();
+      var endDay = new Date(input_year, input_month, 0).getDate();
+      document.write(
+        "<h4 style='text-align:center'>" +
+          input_year +
+          " / " +
+          input_month +
+          "</h4>"
+      );
+    </script>
+    <table id="calendar" border="3" align="center" width="400" height="300">
+      <thead>
+        <tr>
+          <!-- <th class="sun">Sun</th>
+          th>Mon</th>
+          <th>Tue</th>
+          <th>Wed</th>
+          <th>Thu</th>
+          <th>Fri</th>
+          <th class="sat">Sat</th> -->
+          <script>
+            let week = new Array(
+              "Sun",
+              "Mon",
+              "Tue",
+              "Wed",
+              "Thu",
+              "Fri",
+              "Sat"
+            );
+            for (i = 0; i < week.length; i++) {
+              if (i == 0)
+                document.write("<th class='sun'>" + week[i] + "</th>");
+              else if (i == week.length - 1)
+                document.write("<th class='sat'>" + week[i] + "</th>");
+              else document.write("<th>" + week[i] + "</th>");
+            }
+          </script>
+        </tr>
+      </thead>
+      <script>
+        let i = 1;
+        for (i = 1; i <= endDay + startDay; i++) {
+          if (i % 7 == 1) document.write("<tr>");
+          if (i <= startDay) document.write("<td></td>");
+          if (i > startDay) {
+            document.write("<td>" + (i - startDay) + "</td>");
+          }
+          if (i % 7 == 0) document.write("</tr>");
+        }
+      </script>
+    </table>
+  </body>
+</html>
