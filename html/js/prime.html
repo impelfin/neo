@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>함수 이용 - 소수 판별</title>
+    <script>
+        function prime(n) {
+            let i;
+            for (i = 2; i <= n; i++) {
+                if (n % 2 == 0) break;
+                else continue;
+            }
+            return i - 1;
+        }
+    </script>
+  </head>
+  <body>
+    <h3>함수 이용 - 소수 판별</h3>
+    <hr />
+    <script>
+        let n = prompt("숫자를 입력하세요.", 5);
+        let a = prime(parseInt(n));
+        if (a == n) {
+            document.write(`입력하신 숫자 ${n}는 소수입니다.`);
+        } else {
+            document.write(`입력하신 숫자 ${n}는 소수가 아닙니다.`);
+        }
+    </script>
+  </body>
+</html>

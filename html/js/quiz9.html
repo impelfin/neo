@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Object Prototype으로 Book 객체 만들기</title>
+        <script>
+            function Book(title, author, totalPage, category, price) {
+                this.title = title;
+                this.author = author;
+                this.totalPage = totalPage;
+                this.category = category;
+                this.price = price;
+                this.leftover = totalPage;
+                this.rentalState = 1;
+                this.rentalUser = "";
+                this.rentalDay = 0;
+
+                this.reading = function (page) {
+                    this.leftover -= page;
+                    return this.leftover;
+                }
+                this.rental = function (user, day) {
+                    this.rentalUser = user;
+                    this.rentalDay = day;
+                    this.rentalState = 0;
+                    return this.rentalState;
+                }
+            }     
+        </script>
+    </head>
+    <body>
+    <h3>Object Prototype으로 Book 객체 만들기</h3>
+    <hr />
+    <script>
+        let book = new Book("스며드는 리눅스", "문준현", 350, "IT", 30000);
+
+        document.write(`<b>Book</b><br>`);
+        document.write(`Title : ${book.title} <br>`);
+        document.write(`Author : ${book.author} <br>`);
+        document.write(`Category : ${book.category} <br>`);
+        document.write(`Price : ${book.price} <br>`);
+        document.write(`<hr />`);
+
+        document.write(`
+            현재 전체 페이지 : ${book.totalPage} <br>
+            잔여 페이지 : ${book.reading(50)} <br> 
+            <hr />       
+        `);
+        book.rental("이단비", 30);
+        let state = {0: "대여중", 1: "대여가능"};
+        document.write(`
+            현재 ${book.title} 은 
+            ${book.rentalUser} 님에게
+            ${book.rentalDay}일 동안
+            ${state[book.rentalState]}입니다.
+            <hr />
+        `);
+        book.reading(100);
+    </script>
+    </body>
+    </head>
+</html>

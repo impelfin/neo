@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>프로토타입으로 Car 객체 만들기</title>
+    <script>
+      function Car(brand, grade, maxFuel, displacement, price) {
+        this.brand = brand; // 차종
+        this.grade = grade; // 차량 종류
+        this.maxFuel = maxFuel; // 총 연료량
+        this.displacement = displacement; // 총 주행거리
+        this.price = price; // 가격
+
+        this.leftoverFuel = maxFuel;
+
+        this.info = function () {
+          document.write(`
+            brand : ${this.brand}<br>
+            grade : ${this.grade}<br>
+            maxfuel : ${this.maxFuel}<br>
+            displacement : ${this.displacement}<br>
+            price : ${this.price}<br><hr>`);
+        };
+      }
+    </script>
+  </head>
+  <body>
+    <h3>프로토타입으로 Car 객체 만들기</h3>
+    <hr />
+    <script>
+      let benz = new Car("Benz", "SUV", 900, 4000, 3000);
+      benz.info();
+    //   benz.drive("Seoul", "Busan", 400);
+    //   benz.drive("Busan", "Incheon", 460);
+    //   benz.refueling(860);
+
+      let bmw = new Car("BMW", "Sedan", 500, 2500, 2000);
+      bmw.info();
+    //   bmw.drive("Seoul", "Daejeon", 300);
+    //   bmw.refueling(200);
+    //   bmw.drive("Daejeon", "Seoul", 300);
+    </script>
+  </body>
+</html>

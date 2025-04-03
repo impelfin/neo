@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>PrimeNumber</title>
+</head>
+<body>
+<h3>Q.소수인지 확인해보자요.</h3>
+<hr>
+<script>
+    let num= prompt("숫자를 넣어주세요.", 3);
+    num = parseInt(num);
+    function checkprime(n){
+        for(let i = 2; i <= n; i++){
+            if(n == 2) return 1;
+            if(n % i == 0) {
+                return 0;
+            }
+            return i;
+        }
+    }
+    let a = checkprime(num)
+    if(a == 0) document.write(`입력하신 숫자(${num})는 소수가 아닙니다.`)
+    else document.write(`입력하신 숫자(${num})는 소수입니다.`)
+
+</script>
+</body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Input.py to Javascript</title>
+  </head>
+  <body>
+    <h3>Input.py to Javascript</h3>
+    <hr />
+    <script>
+        let n = parseInt(prompt("How much number input? :", "3"));
+        let building = prompt("Input numbers (space-separated):", "3 2 5").split(" ").map(Number);      
+        let min = Math.min(...building);
+        let sum = building.reduce((a, b) => a + b, 0);
+        let result = sum - min * n; 
+        document.write(`building : ${building} <br>`);
+        document.write(`min(building) : ${min} <br>`);
+        document.write(`min(building) * n : ${min * n} <br>`);
+        document.write(`sum(building) : ${sum} <br>`);
+        document.write(`sum(building) - (min(building) * n) : ${result}`);
+    </script>
+  </body>
+</html>

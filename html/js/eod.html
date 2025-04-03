@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>함수 이용 - 홀/짝 판별</title>
+    <script>
+        function eod(n) {
+            if (n % 2 == 0) {
+                return 1;
+            } else {
+                return 0;
+            }
+        }
+    </script>
+  </head>
+  <body>
+    <h3>함수 이용 - 홀/짝 판별</h3>
+    <hr />
+    <script>
+        let n = prompt("숫자를 입력하세요.", 3);
+        let a = eod(parseInt(n));
+        if (a == 1) {
+            document.write(`입력하신 숫자 ${n}는 짝수입니다.`);
+        } else {
+            document.write(`입력하신 숫자 ${n}는 홀수입니다.`);
+        }
+    </script>
+  </body>
+</html>
