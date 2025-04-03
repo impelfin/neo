@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Quiz6</title>
+</head>
+<body>
+<h3>중복없이 랜덤 숫자 발생</h3>
+<hr>
+<script>
+  while(true) {
+    let number = prompt("두개의 숫자(배열의 크기, 랜덤 최대값)를 입력해주세요(예 : 5,10)",'5,10');
+    number = number.split(",");
+    if(parseInt(number[0]) >= parseInt(number[1])){
+      alert("배열의 크기를 랜덤 최댓값보다 작거나 같게 해주세요.")
+      continue;
+    } else {
+      array = new Array(number[0]);
+      for (i =0; i < number[0]; i++){
+        array[i] = Math.floor(Math.random() * number[1] + 1);
+        for(j = 0; j < i ; j++){
+          if(array[i] == array[j]){
+            i--;
+            continue;
+          }
+        }
+      }
+    }
+    document.write(`배열의 길이 : ${array.length}<br>
+    입력된 배열 : [${array}]<br>`);
+    break;
+  }
+</script>
+</body>
+</html>

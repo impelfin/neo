@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>
+      랜덤 배열 생성 후 각 배열의 원소를 누접합산 하여 3n보다 크면 종료
+    </title>
+  </head>
+  <body>
+    <h3>랜덤 배열 생성 후 각 배열의 원소를 누적합산 하여 3n보다 크면 종료</h3>
+    <hr />
+    <script>
+      let n = 5;
+      let array = new Array(n);
+      let sum = 0;
+      document.write("배열의 길이 : " + n);
+      document.write("<br> 배열의 값 : ");
+      for (let i = 0; i < n; i++) {
+        array[i] = Math.floor(Math.random() * 10 + 1);
+        document.writeln(array[i]);
+        sum += array[i];
+        if (sum > n * 3) {
+          document.write(
+            "<br> 종료 시점의 인덱스 : array[" + i + "] <br> sum = " + sum);
+          break;
+        }
+      }
+    </script>
+  </body>
+</html>
+

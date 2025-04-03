@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Date 객체로 경과 시간 알아내기</title>
+  </head>
+  <body>
+    <h3>Date 객체로 경과 시간 알아내기</h3>
+    <hr />
+    <script>
+      let now = new Date();
+      document.write(`현재 시간 : ${now} <br><br>`);
+      let oldTime = new Date(2022, 7, 1, 9, 0, 0);
+      document.write(`기준 시간 : ${oldTime} <br><br>`);
+      let diff = now - oldTime;
+      document.write(`경과 시간 : ${diff} <br><br>`);
+
+      let elased_sec = diff / 1000;
+      let elased_min = elased_sec / 60;
+      let elased_hour = elased_min / 60;
+      let elased_day = elased_hour / 24;
+      document.write(`경과 시간(일) : ${Math.round(elased_day)} <br>`);
+      document.write(`경과 시간(시) : ${Math.round(elased_hour)} <br>`);
+      document.write(`경과 시간(분) : ${Math.round(elased_min)} <br>`);
+      document.write(`경과 시간(초) : ${Math.round(elased_sec)} <br>`);
+    </script>
+  </body>
+</html>
