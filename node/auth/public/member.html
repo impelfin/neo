@@ -4,53 +4,53 @@
         <meta charset="utf-8">
         <title>User Authentication</title>
         <link type="text/css" rel="stylesheet" href="mystyle.css" />
-        <script>
-            let id = "";
-            let now = "";
-            let data = "";
-            function getParameter(name) {
-              name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
-              var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
-                results = regex.exec(location.search);
-              return results === null
-                ? ""
-                : decodeURIComponent(results[1].replace(/\+/g, " "));
-            }
-      
-            id = getParameter("id");
-            now = new Date();
-      
-            function login() {
-              if (!window.sessionStorage) {
-                alert("세션 스토리지를 지원하지 않습니다.");
+            <script>
+      let id = "";
+      let now = "";
+      let data = "";
+      function getParameter(name) {
+        name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+        var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+          results = regex.exec(location.search);
+        return results === null
+          ? ""
+          : decodeURIComponent(results[1].replace(/\+/g, " "));
+      }
+
+      id = getParameter("id");
+      now = new Date();
+
+      function login() {
+        if (!window.sessionStorage) {
+          alert("세션 스토리지를 지원하지 않습니다.");
+          return;
+        } else {
+          if (id == "") {
+            alert("잘못된 접근 방식입니다!!");
+            sessionStorage.removeItem("");
+            location.href = "index.html";
+          } else {
+            for (var i = 0; i < sessionStorage.key.length; i++) {
+              if (id == sessionStorage.key(i)) {
+                sessionStorage.setItem(id, now);
                 return;
-              } else {
-                if (id == "") {
-                  alert("잘못된 접근 방식입니다!!");
-                  sessionStorage.removeItem("");
-                  location.href = "index.html";
-                } else {
-                  for (var i = 0; i < sessionStorage.key.length; i++) {
-                    if (id == sessionStorage.key(i)) {
-                      sessionStorage.setItem(id, now);
-                      return;
-                    }
-                    sessionStorage.setItem(id, now);
-                    alert(`사용자 ${id} 님이 로그인 하셨습니다.`);
-                  }
-                }
               }
+              sessionStorage.setItem(id, now);
+              alert(`관리자 ${id} 님이 로그인 하셨습니다.`);
             }
-      
-            window.addEventListener("beforeunload", (event) => {
-              event.preventDefault();
-              event.returnValue = "";
-            });
-      
-            function logout() {
-              sessionStorage.removeItem(id);
-            }
-        </script>
+          }
+        }
+      }
+
+      window.addEventListener("beforeunload", (event) => {
+        event.preventDefault();
+        event.returnValue = "";
+      });
+
+      function logout() {
+        sessionStorage.removeItem(id);
+      }
+    </script>
     </head>
     <body onload="login()" onunload="logout()">
         <h3>User Authentication</h3>
