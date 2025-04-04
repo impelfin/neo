@@ -1,0 +1,86 @@
+body {
+    background-color: mistyrose;
+    font:bold 19px monospace, sans-serif
+}
+h3 {
+    color:purple;
+    margin-left: 20px;
+}
+hr {
+    border: 5px solid yellowgreen;
+}
+input {
+    color: black;
+    font-size: 15px;
+}
+button {
+    background-color: rgb(155, 200, 60);
+    border: 1px groove black;
+    width: 120px;
+    height: 30px;
+    padding: 5px;
+    font-size: 15px;
+}
+a {
+    font-family: monospace;
+    font-size: 18px;
+    color: #ff1493;
+}
+input[type="text"] {
+    background-color:lightblue;
+    border: 1px groove black;
+}
+input[type="password"] {
+    background-color:rgb(236,186,186);
+    border: 1px groove black;
+}
+input[type="submit"] {
+    background-color:rgb(158,220,60);
+    border: 1px groove black;
+    width: 80px;
+    height: 30px;
+    padding: 5px;
+}
+input[type="reset"] {
+    background-color:rgb(60,220,215);
+    border: 1px groove black;
+    width: 80px;
+    height: 30px;
+    padding: 5px;
+}
+input[type="button"] {
+    background-color:rgb(158,220,60);
+    border: 1px groove black;
+    width: 120px;
+    height: 30px;
+    padding: 5px;
+}
+div.box {
+    background: rgba(136,136,90,0.109);
+    border-style: solid;
+    border-color: peru;
+    border-radius: 35px;
+    width: 350px;
+    height: 180px;
+
+    margin: 70px;
+    border-width: 1px;
+    padding: 50px;
+}
+div.box-inner {
+    border-style: none;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+div.noround {
+    border-style: solid;
+    border-color: peru;
+    text-align: center;
+    width: 350px;
+    height: 180px;
+
+    margin: 70px;
+    border-width: 1px;
+    padding: 50px;
+}
