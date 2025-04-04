@@ -21,6 +21,31 @@
             displacement : ${this.displacement}<br>
             price : ${this.price}<br><hr>`);
         };
+
+        this.drive = function (from, to, distance) {
+          this.leftoverFuel -= distance;
+          this.displacement += distance;
+          document.write(
+            `${this.brand} 차량이 ${from}에서 ${to}까지 ${distance}Km 주행하셨습니다.<br>
+             총 주행거리는 ${this.displacement}입니다.<br> 
+            `
+          );
+          if (this.leftoverFuel > 50)
+            document.write(
+              `잔여 연료량은 ${this.leftoverFuel}입니다. <br><hr />`
+            );
+          else
+            document.write(
+              `잔여 연료량은 ${this.leftoverFuel}입니다. <br> 주유가 필요합니다. <br><hr />`
+            );
+        };
+
+        this.refueling = function (amount) {
+          this.leftoverFuel += amount;
+          document.write(
+            `${amount}L 주유하여 잔여 연료량은 ${this.leftoverFuel}입니다. <br><hr />`
+          );
+        };
       }
     </script>
   </head>
@@ -30,15 +55,15 @@
     <script>
       let benz = new Car("Benz", "SUV", 900, 4000, 3000);
       benz.info();
-    //   benz.drive("Seoul", "Busan", 400);
-    //   benz.drive("Busan", "Incheon", 460);
-    //   benz.refueling(860);
+      benz.drive("Seoul", "Busan", 400);
+      benz.drive("Busan", "Incheon", 460);
+      benz.refueling(860);
 
       let bmw = new Car("BMW", "Sedan", 500, 2500, 2000);
       bmw.info();
-    //   bmw.drive("Seoul", "Daejeon", 300);
-    //   bmw.refueling(200);
-    //   bmw.drive("Daejeon", "Seoul", 300);
+      bmw.drive("Seoul", "Daejeon", 300);
+      bmw.refueling(200);
+      bmw.drive("Daejeon", "Seoul", 300);
     </script>
   </body>
 </html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>오저모??</title>
+    </head>
+    <body>
+        <h1>오저모??</h1>
+        <hr>
+        <form name="menuForm" action="/tdm" method="post">
+            <fieldset>
+                <legend>오늘 저녁 뭐 먹지??</legend>
+                    date : 	<input type="date" value="2025-04-01">
+                    time : 	<input type="time" value="19:30"><br>
+                <hr />
+                <input type="radio" name="menu" value=1>
+                <label>한 식</label>
+                <select name="korea">
+                    <option value="1" selected>김치찌개</option>
+                    <option value="2">된장찌개</option>
+                    <option value="3">비빔밥</option>
+                </select><p />
+                <input type="radio" name="menu" value=2>
+                <label>중 식</label>
+                <select name="china">
+                    <option value="1" selected>짜장면</option>
+                    <option value="2">짬뽕</option>
+                    <option value="3">탕수육</option>
+                </select><p />
+                <input type="radio" name="menu" value=3>
+                <label>양 식</label>
+                <select name="western">
+                    <option value="1" selected>스테이크</option>
+                    <option value="2">뇨끼</option>
+                    <option value="3">파스타</option>
+                </select><p />
+                <input type="radio" name="menu" value=4>
+                <label>기 타</label>
+                <input type="text" size="10" name="m_name">
+                <hr />
+                &nbsp;&nbsp;<input type="submit" value="전송">&nbsp;&nbsp;
+                <input type="reset" value="취소"><p />
+            </fieldset>
+        </form>
+    </body>
+</html>
