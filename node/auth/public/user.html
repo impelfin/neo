@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>User Home</title>
+    <link type="text/css" rel="stylesheet" href="mystyle.css" />
+    <script>
+      let id = "";
+      let now = "";
+      let data = "";
+      function getParameter(name) {
+        name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+        var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+          results = regex.exec(location.search);
+        return results === null
+          ? ""
+          : decodeURIComponent(results[1].replace(/\+/g, " "));
+      }
+
+      id = getParameter("id");
+      now = new Date();
+
+      function login() {
+        if (!window.sessionStorage) {
+          alert("세션 스토리지를 지원하지 않습니다.");
+          return;
+        } else {
+          if (id == "") {
+            alert("잘못된 접근 방식입니다!!");
+            sessionStorage.removeItem("");
+            location.href = "index.html";
+          } else {
+            for (var i = 0; i < sessionStorage.key.length; i++) {
+              if (id == sessionStorage.key(i)) {
+                sessionStorage.setItem(id, now);
+                return;
+              }
+              sessionStorage.setItem(id, now);
+              alert(`사용자 ${id} 님이 로그인 하셨습니다.`);
+            }
+          }
+        }
+      }
+
+      window.addEventListener("beforeunload", (event) => {
+        event.preventDefault();
+        event.returnValue = "";
+      });
+
+      function logout() {
+        sessionStorage.removeItem(id);
+      }
+
+      function gohome() {
+        location.href = `user.html?id=${id}`;
+      }
+    </script>
+</head>
+<body onload="login()" onunload="logout()">
+    <nav id="menubar">
+        <ul>
+            <li>
+                <a href="javascript:void(0);" onclick="gohome();">Home</a>
+            </li>
+            <li>
+                <a href="about.html" target="lower">AboutMe</a>
+            </li>
+            <li style="position: fixed; right: 10px;">
+                <a href="index.html">logout</a>
+            </li>
+        </ul>
+    </nav>
+    <iframe name="lower" 
+    width="70%" 
+    height="500" 
+    style="border:none" 
+    src="main.html">
+    </iframe>
+</body>
+</html>

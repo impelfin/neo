@@ -46,7 +46,7 @@ input[type="reset"] {
     border: 1px groove black;
     width: 80px;
     height: 30px;
-    padding: 5px;
+    padding:5px;
 }
 input[type="button"] {
     background-color:rgb(158,220,60);
@@ -83,4 +83,46 @@ div.noround {
     margin: 70px;
     border-width: 1px;
     padding: 50px;
+}
+#menubar {
+    background: olive;
+}
+#menubar ul {
+    margin:0;
+    padding: 0;
+    width: 567px;
+}
+#menubar ul li {
+    display: inline-block;
+    list-style-type: none;
+    padding: 0px 15px;
+}
+#menubar ul li a {
+    color: white;
+    text-decoration: none;
+}
+#menubar ul li a:hover{
+    color: rgb(21, 217, 184);
+}
+table {
+    border-collapse: collapse;
+}
+th {
+    text-align: center;
+    padding: 5px;
+    height: 15px;
+    width: 100px;
+}
+td {
+    text-align: left;
+    padding: 5px;
+    height: 15px;
+    width: 100px;
+}
+thead,
+tfoot {
+    background: aliceblue;
+}
+tbody tr:hover{
+    background: pink;
 }

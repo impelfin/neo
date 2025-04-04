@@ -18,6 +18,58 @@ var connection = new mysql({
     database: process.env.database
 });
 
+function template_nodata(res) {
+    res.writeHead(200);
+    var template = `
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>No Data</title>
+            <meta charset="UTF-8">
+            <link type="text/css" rel="stylesheet" href="mystyle.css" />
+        </head>
+        <body>
+            <h3>데이터가 존재하지 않습니다.</h3>
+        </body>
+        </html>
+    `;
+    res.end(template);
+}
+
+function template_result(result, res) {
+    res.writeHead(200);
+    var template = `
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>No Data</title>
+            <meta charset="UTF-8">
+            <link type="text/css" rel="stylesheet" href="mystyle.css" />
+        </head>
+        <body>
+            <table border="1" style="margin:auto;">
+            <thead>
+                <tr><th>User ID</th><th>Password</th></tr>
+            </thead>
+            <tbody>
+                `;
+        for (var i=0; i<result.length; i++) {
+            template+=`
+                <tr>
+                    <td>${result[i]['userid']}</td>
+                    <td>${result[i]['passwd']}</td>
+                </tr>
+            `;
+        }
+    template += `
+            </tbody>
+            </table>
+        </body>
+        </html>
+    `;
+    res.end(template);
+}
+
 app.get('/Hello', (req, res) => {
     res.send('Hello World!!')
 })
@@ -25,18 +77,19 @@ app.get('/Hello', (req, res) => {
 // login
 app.post('/login', (req, res) => {
     const { id, pw } = req.body;
-    const result = connection.query("select * from user where userid=? and passwd=?", [id, pw]);
+    const result = connection.query('select * from user where userid=? and passwd=?', [id, pw]);
+    // console.log(result);
     if (result.length == 0) {
-        res.redirect('error.html')
+      res.redirect('error.html');
     }
     if (id == 'admin' || id == 'root') {
-        console.log(id + " => Administrator Logined")
-        res.redirect('member.html')
+      console.log(id + ' => Administrator Logined');
+      res.redirect('member.html?id=' + id);
     } else {
-        console.log(id + " => User Logined")
-        res.redirect('main.html')
+      console.log(id + ' => User Logined');
+      res.redirect('user.html?id=' + id);
     }
-})
+  });
 
 // register
 app.post('/register', (req, res) => {
@@ -74,14 +127,24 @@ app.post('/register', (req, res) => {
 app.get('/select', (req, res) => {
     const result = connection.query('select * from user');
     console.log(result);
-    res.send(result);
+    // res.send(result);
+    if (result.length == 0) {
+        template_nodata(res);
+    } else {
+        template_result(result, res);
+    }
 })
 
 app.get('/selectQuery', (req, res) => {
     const id = req.query.id;
     const result = connection.query('select * from user where userid = ?', [id]);   
     console.log(result);
-    res.send(result);
+    // res.send(result);
+    if (result.length == 0) {
+        template_nodata(res);
+    } else {
+        template_result(result, res);
+    }
 })
 
 app.post('/insert', (req, res) => { 

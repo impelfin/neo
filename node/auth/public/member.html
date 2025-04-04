@@ -1,28 +1,79 @@
-<!DOCTYPE html>
+<!Doctype html>
 <html>
     <head>
         <meta charset="utf-8">
         <title>User Authentication</title>
-        <link type="text/css" rel="stylesheet" href="mystyle.css">
+        <link type="text/css" rel="stylesheet" href="mystyle.css" />
+        <script>
+            let id = "";
+            let now = "";
+            let data = "";
+            function getParameter(name) {
+              name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+              var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+                results = regex.exec(location.search);
+              return results === null
+                ? ""
+                : decodeURIComponent(results[1].replace(/\+/g, " "));
+            }
+      
+            id = getParameter("id");
+            now = new Date();
+      
+            function login() {
+              if (!window.sessionStorage) {
+                alert("세션 스토리지를 지원하지 않습니다.");
+                return;
+              } else {
+                if (id == "") {
+                  alert("잘못된 접근 방식입니다!!");
+                  sessionStorage.removeItem("");
+                  location.href = "index.html";
+                } else {
+                  for (var i = 0; i < sessionStorage.key.length; i++) {
+                    if (id == sessionStorage.key(i)) {
+                      sessionStorage.setItem(id, now);
+                      return;
+                    }
+                    sessionStorage.setItem(id, now);
+                    alert(`사용자 ${id} 님이 로그인 하셨습니다.`);
+                  }
+                }
+              }
+            }
+      
+            window.addEventListener("beforeunload", (event) => {
+              event.preventDefault();
+              event.returnValue = "";
+            });
+      
+            function logout() {
+              sessionStorage.removeItem(id);
+            }
+        </script>
     </head>
-    <body>
+    <body onload="login()" onunload="logout()">
         <h3>User Authentication</h3>
-        <hr />
-        <div class="box" style="height: 250px;">
-        <form action="/insert" method="post" name="userForm" target="targetURL">
-            <p>Userid &nbsp;<input type="text" name="id" size=10></p>
-            <p>Password &nbsp;<input type="password" name="pw" size=10></p>
-            <div class="box-inner">
-                <input type="button" value="get select" onclick='document.targetURL.location.href="/select"'/>&nbsp;&nbsp;
-                <input type="button" value="get selectQuery" onclick='document.targetURL.location.href="/selectQuery?id="+document.userForm.id.value'/><p />
-                <input type="submit" value="post insert" />&nbsp;&nbsp;
-                <input type="submit" value="post update" formaction="/update"/>&nbsp;&nbsp;
-                <input type="submit" value="post delete" formaction="/delete"/><p />
-            </div>
-        </form>
+        <hr /> 
+        <div class="box" style="height: 250px">
+            <form action="/insert" method="post" name="userForm" target="targetURL">
+                <p>Userid &nbsp; <input type="text" name="id" size=15></p>
+                <p>Password  <input type="password" name="pw" size=15></p>
+                <div class="box-inner">
+                    <p>
+                    <input type="button" value="get select" onclick='document.targetURL.location.href="/select"' />&nbsp;&nbsp;
+                    <input type="button" value="get selectQuery" onclick='document.targetURL.location.href="/selectQuery?id="+document.userForm.id.value' />&nbsp;&nbsp;
+                    </p>
+                    <p>
+                    <input type="submit" value="post Insert" />&nbsp;&nbsp;
+                    <input type="submit" value="post Update" formaction="/update" />&nbsp;&nbsp;
+                    <input type="submit" value="post Delete" formaction="/delete" />&nbsp;&nbsp;
+                    </p>
+                </div>
+            </form>
         </div>
-        <hr>
-        <iframe name="targetURL" width="90%" height="400" style="border:none" src="http://192.168.1.34:8000/Hello">
+        <hr />
+        <iframe name="targetURL" class="iframe-preview center" width="90%" height="500" style="border:none" src="http://192.168.1.53:8000/Hello">
         </iframe>
     </body>
 </html>
