@@ -167,7 +167,7 @@ app.get('/selectQuery', (req, res) => {
 
 // Request O, Query 0
 app.post('/selectQuery', (req, res) => {
-    const id = req.query.id;
+    const id = req.body.id;
     if (id == '') {
         res.write("<script>alert('User-id is empty!');</script>");
     } else {
