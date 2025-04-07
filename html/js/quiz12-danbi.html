@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta charset="UTF-8">
+      <title>Palindrome</title>
+      <script>
+        const cheeckPalindrome = () => {
+          let input = document.getElementById("input").value;
+          let number = document.getElementById("number").checked;
+          let string = document.getElementById("string").checked;
+          let result = "";
+          
+          if(number) {
+            input = parseInt(input);
+            result = input.toString().split("").reverse().join("");
+          } else if(string) {
+            input = input.split("").reverse().join("");
+          }
+          document.getElementById("output").innerText =(`입력하신 숫자/문자는 Palindrome${input == result ? " 입니다." : "이 아닙니다."}`)
+        }
+      </script>
+  </head>
+  <body style="padding-left: 4px;">
+    <h3>Palindrome</h3>
+    <hr>
+    <form>
+      <input type=text id="input" placeholder="숫자/문자 3글자">
+      <input type="button" value="Check Palindrome" onclick="cheeckPalindrome()">
+      <p>
+        <input type="radio" name="ta" value="0" id="number" checked><label for="rsp1">숫자</label>
+        <input type="radio" name="ta" value="1" id="string"><label for="rsp2">문자</label>
+      </p>
+      <div style="margin: 10px;">
+        <span id="output">3자리 문자 또는 숫자를 입력하세요</span>
+      </div>
+    </form>
+  </body>
+</html>

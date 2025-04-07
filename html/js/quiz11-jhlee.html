@@ -1,0 +1,46 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>가위 바위 보 게임</title>
+    <script>
+        function rspGame() {
+                let rsp_map = { 1: "가위", 2: "바위", 3: "보" };
+                const radio = document.getElementsByName("rsp");
+                for (let i = 0; i < radio.length; i++) {
+                    if (radio[i].checked) {
+                        user = radio[i].value;
+                        break;
+                    }
+                }
+            
+            //let user = prompt("1~3 사이의 숫자를 입력하세요.(1:가위, 2:바위, 3:보)", 3);
+            user = parseInt(user); // 문자열을 숫자로 바꿈
+            if (user == 1 || user == 2 || user == 3) {
+                let com = Math.floor(Math.random() * 3 + 1);
+                verdict = user - com;
+                
+                if (verdict == -2 || verdict == 1)
+                    alert(`User: ${rsp_map[user]} vs Com: ${rsp_map[com]}\n당신이 이겼습니다.`);
+                else if (verdict == 2 || verdict == -1)
+                    alert(`User: ${rsp_map[user]} vs Com: ${rsp_map[com]}\n당신이 졌습니다.`);
+                else alert(`User: ${rsp_map[user]} vs Com: ${rsp_map[com]}\n무승부입니다.`);        
+            }       
+        }
+    </script>
+  </head>
+  <body>
+    <h3>가위 바위 보 게임</h3>
+    <hr />
+    <form>
+        <input type = "radio" name="rsp" value="1" checked> 가위
+        <input type = "radio" name="rsp" value="2"> 바위
+        <input type = "radio" name="rsp" value="3"> 보
+        <button onclick="rspGame()">Game go</button>
+    </form>
+
+    
+    
+  </body>
+</html>

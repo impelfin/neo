@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Palindrome</title>
+    <script>
+      let isNum = 0;
+      let result = 1;
+      function checkPalindrome() {
+        let ta_v = document.getElementsByName("ta");
+        for (let i = 0; i < ta_v.length; i++) {
+          if (ta_v[i].checked == true) {
+            isNum = i;
+          }
+        }
+        let input_v = document.getElementById("input").value;
+        let output_v = document.getElementById("output");
+        if (!isNum) {
+          let num = Number(input_v);
+          let input1 = Math.floor(num / 100);
+          let input2 = Math.floor((num / 10) % 10);
+          let input3 = Math.floor(num % 10);
+          result = input1 == input3 ? 1 : 0;
+        } else {
+          let char = input_v.split("");
+          result = char[0] == char[2] ? 1 : 0;
+        }
+        if (result == 1)
+          output_v.innerHTML = "입력하신 숫자/문자는 Palindrome입니다.";
+        else output_v.innerHTML = "입력하신 숫자/문자는 Palindrome이 아닙니다.";
+      }
+    </script>
+  </head>
+  <body>
+    <h3>Palindrome</h3>
+    <hr />
+    <form>
+      <input type="text" id="input" placeholder="숫자/문자 3글자" />
+      <input
+        type="button"
+        value="Check Palindrome"
+        onclick="checkPalindrome()"
+      />
+      <p>
+        <input type="radio" name="ta" value="0" checked />숫자
+        <input type="radio" name="ta" value="1" />문자
+      </p>
+    </form>
+    <div style="margin:10px">
+      <span id="output">3자리 문자 또는 숫자를 입력하세요.</span>
+    </div>
+  </body>
+</html>

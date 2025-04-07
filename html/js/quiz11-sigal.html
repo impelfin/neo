@@ -1,0 +1,25 @@
+<body>
+    <h3>가위 바위 보 게임2</h3>
+    <hr>
+    <script>
+        let rsp_map = { 1: "가위", 2: "바위", 3: "보" };
+        function gameGo() {
+            let user = document.querySelector('input[name="rps"]:checked').value;
+            let com = Math.floor(Math.random() * 3 + 1);
+            if (user == 1 || user == 2 || user == 3) {
+                verdict = user - com;
+
+                if (verdict == -2 || verdict == 1)
+                    alert(`User : ${rsp_map[user]} vs Com : ${rsp_map[com]}\n당신이 이겼습니다.`);
+                else if (verdict == 2 || verdict == -1)
+                    alert(`User: ${rsp_map[user]} vs Com: ${rsp_map[com]}\n당신이 졌습니다.`);
+                else alert(`User: ${rsp_map[user]} vs Com: ${rsp_map[com]}\n무승부입니다.`);
+            }
+
+        }
+    </script>
+    <input type="radio" name="rps" value="1" checked />가위
+    <input type="radio" name="rps" value="2" />바위
+    <input type="radio" name="rps" value="3" />보
+    <button onclick="gameGo()">Game Go!!</button>
+</body>

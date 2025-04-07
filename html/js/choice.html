@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Random User List</title>
+</head>
+<body>
+    <h3>Random User List</h3>
+    <hr />
+    <script>
+        let n = 17;
+        let array = new Array(n);
+        let user_map = { 
+            1: "갈서인", 
+            2: "김민선", 
+            3: "서예린",
+            4: "안지오",
+            5: "유태성",
+            6: "유한이",
+            7: "이단비",
+            8: "이인철",
+            9: "이지호",
+            10: "이태경",
+            11: "이한세",
+            12: "정민아",
+            13: "정은비",
+            14: "조유빈",
+            15: "주서연",
+            16: "주서영",
+            17: "현휘찬"
+        
+        };
+        document.write("User List <br>");
+        for (let i=0; i<n; i++) {
+            array[i] = (Math.floor(Math.random() * n + 1))
+            for(j = 0; j < i ; j++){
+                if(array[i] == array[j]){
+                i--;
+                continue;
+            }
+          }
+        }
+        for (i =0; i< n; i++) document.write(`${i + 1} : ${user_map[array[i]]} <br>`);
+    </script>
+</body>
+</html>

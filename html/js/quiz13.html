@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>CSS 스타일 동적 변경 - toggle</title>
+    <script>
+      let state = 1;
+      function change() {
+        state = !state; // toggle
+        let span = document.getElementById("mySpan");
+        if (state == 1) {
+          span.style.color = "green";
+          span.style.fontSize = "30px";
+          span.style.display = "block";
+          span.style.width = "6em";
+          span.style.border = "3px dotted magenta";
+          span.style.margin = "20px";
+          span.innerHTML = "결과입니다";
+        } else {
+          span.style.color = "red";
+          span.style.fontSize = "20px";
+          span.style.display = "block";
+          span.style.width = "10em";
+          span.style.border = "2px dotted green";
+          span.style.margin = "20px";
+          span.innerHTML = "문장입니다.";
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <h3>CSS 스타일 동적 변경 - toggle</h3>
+    <hr />
+    <p style="color: blue">
+      이것은 <span id="mySpan" style="color: red">문장입니다.</span>
+    </p>
+    <input type="button" value="스타일 변경" onclick="change()" />
+  </body>
+</html>
