@@ -24,6 +24,7 @@ node/**/node_modules
 node/**/package-lock.json
 
 ## python
+.idea
 python/**/.venv
 python/**/__pycache__/
 
