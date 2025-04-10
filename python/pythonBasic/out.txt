@@ -1,0 +1,2 @@
+This is file is out.txt 
+end of file
