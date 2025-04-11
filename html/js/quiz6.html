@@ -11,7 +11,7 @@
   while(true) {
     let number = prompt("두개의 숫자(배열의 크기, 랜덤 최대값)를 입력해주세요(예 : 5,10)",'5,10');
     number = number.split(",");
-    if(parseInt(number[0]) >= parseInt(number[1])){
+    if(parseInt(number[0]) > parseInt(number[1])){
       alert("배열의 크기를 랜덤 최댓값보다 작거나 같게 해주세요.")
       continue;
     } else {
