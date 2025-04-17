@@ -6,8 +6,8 @@ import folium, requests
 address = '서울특별시 서초구 서초대로74길 33'
 url = 'https://dapi.kakao.com/v2/local/search/address.json?query=' + address
 
-BASE_DIR = os.path.dirname(os.path.relpath("../../../"))
-secret_file = os.path.join(BASE_DIR, 'secret.json')
+BASE_DIR = os.path.dirname(os.path.relpath("./"))
+secret_file = os.path.join(BASE_DIR, '../../secret.json')
 
 with open(secret_file) as f:
     secrets = json.loads(f.read())
