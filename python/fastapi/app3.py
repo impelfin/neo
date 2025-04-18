@@ -2,8 +2,9 @@ import uvicorn
 from fastapi import FastAPI, status
 from fastapi.responses import PlainTextResponse, JSONResponse
 from datetime import datetime
-from pydantic import BaseModel, EmailStr, Field, json_schema
+from pydantic import BaseModel, EmailStr, Field
 from typing import Optional
+import uuid
 
 app = FastAPI()
 
@@ -22,10 +23,8 @@ class ResponseUserDto(BaseModel):
     class Config:
         json_schema_extra = {
             'example': {
-                'nickname': '왓슨',
-                'email': 'watson@example.com',
-                'phone': '010-1234-5678',
-                'description': '버즈니 왓슨입니다.'
+                'id' : uuid.uuid4(),
+                'email': 'watson@example.com'
             }
         }
 
@@ -68,7 +67,7 @@ async def register_req_user(req: RequestUserDto):
     status_code=201,
     response_model = ResponseUserDto,
     responses={
-        200: {
+        201: {
             "description": "가입 사용자 정보"
         }
     }
@@ -77,4 +76,5 @@ async def register_res_user(req: ResponseUserDto):
     return req.dict()
 
 if __name__ == '__main__':
-    uvicorn.run(app, host='0.0.0.0', port=3000
+    uvicorn.run(app, host='0.0.0.0', port=3000)
+    
