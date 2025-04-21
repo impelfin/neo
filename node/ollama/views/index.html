@@ -1,0 +1,48 @@
+<!-- views/index.html -->
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Ollama Web Interface</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Ollama Web Interface</h1>
+      <hr />
+      <div id="model-list" class="model-list"></div>
+      <form id="download-form" class="download-form">
+        <input
+          type="text"
+          id="download-model"
+          name="download-model"
+          placeholder="다운로드할 모델명 입력 (예: llama3)"
+          required
+        />
+        <button type="submit">모델 다운로드</button>
+      </form>
+      <div id="download-result" class="download-result"></div>
+      <hr />
+      <div class="model-select-wrap">
+        <select id="model-select" name="model" required>
+          <option value="">모델 선택</option>
+        </select>
+      </div>
+      <form id="ask-form">
+        <input
+          type="text"
+          id="prompt"
+          name="prompt"
+          placeholder="질문을 입력하세요"
+          required
+        />
+        <button type="submit">질문하기</button>
+      </form>
+      <div id="result"></div>
+      <hr />
+      <h2>요청/응답 로그</h2>
+      <ul id="log"></ul>
+    </div>
+    <script src="/main.js"></script>
+  </body>
+</html>
