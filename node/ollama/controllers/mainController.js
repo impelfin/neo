@@ -76,7 +76,7 @@ router.post("/api/ask", (req, res) => {
   // 최신 ollama CLI는 --prompt 플래그 대신 표준 입력 사용
   const child = exec(`ollama run ${model}`, (error, stdout, stderr) => {
     if (error) return res.status(500).json({ error: stderr || error.message });
-    res.json({ result: stdout.trim() });
+    res.json({ result: stdout.trim().replace(/\n/g, "<br>") });
   });
   child.stdin.write(prompt + "\n");
   child.stdin.end();

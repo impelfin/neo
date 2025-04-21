@@ -94,7 +94,7 @@ document.addEventListener('DOMContentLoaded', function () {
       });
       const data = await res.json();
       if (data.error) throw new Error(data.error);
-      resultDiv.textContent = data.result || '결과 없음';
+      resultDiv.innerHTML = data.result || '결과 없음';
       addLog('[' + model + '] 질문: ' + prompt + ' → ' + (data.result || '결과 없음'));
     } catch (err) {
       resultDiv.textContent = '에러 발생';
