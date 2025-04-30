@@ -22,13 +22,14 @@ maven/**/target
 ## nodejs
 node/**/node_modules
 node/**/package-lock.json
+node/**/.serverless
 
 ## python
 .idea
 secret.json
 python/**/.venv
 python/**/__pycache__/
-**/ secret.json
+**/secret.json
 
 ## mongodb
 mongodb/backup
