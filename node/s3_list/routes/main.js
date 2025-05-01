@@ -46,7 +46,7 @@ app.get('/list', (req, res) => {
                     </tr>
         `;
         for (var i = 1; i < data.Contents.length; i++) {
-          template += `
+            template += `
                     <tr>
                         <th> ${data.Contents[i]['Key']} </th>
                         <th> ${data.Contents[i]['LastModified']} </th>
@@ -71,7 +71,7 @@ app.get('/list', (req, res) => {
             </html>
             `;
         res.end(template);
-      });
     });
+});
 
 module.exports = app;
