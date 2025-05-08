@@ -1,0 +1,5 @@
+services:
+  webserver:
+    build: 
+      context: data
+      dockerfile: myDockerfile
