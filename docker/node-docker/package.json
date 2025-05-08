@@ -1,0 +1,12 @@
+{
+    "name": "docker_app",
+    "version": "1.0.0",
+    "description": "node on docker",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "Moon",
+    "dependencies":{
+    	"express":"^4.16.1"
+    }
+}
