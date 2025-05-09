@@ -1,0 +1,10 @@
+# Service Definition
+version: "3.3"
+services:
+  node:
+    restart: always
+    build: .
+    env_file:
+      - .env
+    ports:
+      - 8080:8080
