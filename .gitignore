@@ -39,3 +39,6 @@ oracle/node/dbConfig.js
 oracle/**/node_modules
 oracle/**/package-lock.json
 
+## docker
+docker/mysql/mysql*
+docker/mongodb/mongo*

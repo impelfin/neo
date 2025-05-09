@@ -1,0 +1,15 @@
+use test
+db.worldcup.drop()
+
+db.worldcup.insert({no:1, nation:"Filastin", date:"2024/09/05", score:"0-0"})
+db.worldcup.insert({no:2, nation:"Oman", date:"2024/09/10",score:"3-1"})
+db.worldcup.insert({no:3, nation:"Jordan", date:"2024/10/10", score:"2-0"})
+db.worldcup.insert({no:4, nation:"Iraq", date:"2024/10/15", score:"3-2"})
+db.worldcup.insert({no:5, nation:"Kuwait", date:"2024/11/14", score:"3-1"})
+db.worldcup.insert({no:6, nation:"Filastin", date:"2024/11/19", score:"1-1"})
+db.worldcup.insert({no:7, nation:"Oman", date:"2025/03/20", score:"1-1"})
+db.worldcup.insert({no:8, nation:"Jordan", date:"2025/03/26", score:"1-1"})
+db.worldcup.insert({no:9, nation:"Iraq", date:"2025/06/06"})
+db.worldcup.insert({no:10, nation:"Kuwait", date:"2025/06/10"})
+
+db.worldcup.find()
