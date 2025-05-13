@@ -1,0 +1,16 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: my-nginx
+  labels:
+    run: my-nginx
+spec:
+  type: NodePort  # service type
+  ports:
+    - nodePort : 31001   # outter port
+      port: 8080         # service port
+      targetPort: 80     # container port (pod port)
+      protocol: TCP
+      name: http
+  selector:
+    app: nginx
