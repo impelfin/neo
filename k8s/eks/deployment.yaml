@@ -32,4 +32,4 @@ spec:
       targetPort: 8080
   type: LoadBalancer
   externalIPs:
-    - 192.168.1.111
+    - 13.209.180.129 
