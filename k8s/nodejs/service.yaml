@@ -1,0 +1,19 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: node-web-app
+  labels:
+    run: node-web-app
+spec:
+  type: NodePort
+  ports:
+    - nodePort : 30000   # outter port
+      port: 8080         # service port
+      targetPort: 8000     # container port (pod port)
+      protocol: TCP
+      name: http
+  selector:
+    app: node-web-app
+  type: LoadBalancer
+  externalIPs:
+    - 13.209.180.129
