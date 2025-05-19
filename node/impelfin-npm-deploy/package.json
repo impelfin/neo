@@ -1,0 +1,20 @@
+{
+  "name": "impelfin-npm-deploy",
+  "version": "1.0.2",
+  "description": "npm-deploy",
+  "main": "index.js",
+  "bin": {
+    "log-run"  : "bin/cli.js"
+  },
+  "keywords": [
+    "npm-deploy"
+  ],
+  "author": "",
+  "license": "MIT",
+  "files": [
+    "cli"
+  ],
+  "dependencies": {
+    "commander": "^14.0.0"
+  }
+}
