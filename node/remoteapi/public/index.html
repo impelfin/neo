@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>RESTful API Example</title>
+    </head>
+    <body>
+        <h1>RESTful API Example</h1><hr />
+        <h4>GET APIs</h4><hr />
+        <form method="post" action="/api/users/userBody" name="userForm" target="targetURL">
+            <input type="button" value="GET /HELLO" onclick='document.targetURL.location.href="/Hello"'>&nbsp;&nbsp;
+            <input type="button" value="get /api/users" onclick='document.targetURL.location.href="/api/users"'><p />
+            <input type="button" value="get Query String /api/users/user" onclick='document.targetURL.location.href="/api/users/user?id="+document.userForm.id.value'>&nbsp;&nbsp;
+            <input type="button" value="get Query params /api/users/user" onclick='document.targetURL.location.href="/api/users/"+document.userForm.id.value'>&nbsp;&nbsp;<p />
+            I D &nbsp;&nbsp;&nbsp;<input type="text" name="id" size=10 /><p />
+            NAME <input type="text" name="name" size=10 /><p />
+            <input type="button" value="get Query String id & name /api/users/user" onclick='document.targetURL.location.href="/api/users/user?id="+document.userForm.id.value+"&name="+document.userForm.name.value'>&nbsp;&nbsp;
+            <hr /><h4>POST APIs</h4><hr />
+            <button type="submit" formaction="/api/users/userBody">post /api/users/userBody</button>&nbsp;&nbsp;
+            <button type="submit" formaction="/api/users/add">post /api/users/add</button>&nbsp;&nbsp;
+        </form>
+        <hr>
+        <iframe name="targetURL" width="90%" height="400" style="border:none" src="/Hello">
+        </iframe>
+    </body>
+</html>

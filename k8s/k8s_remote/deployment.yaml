@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: remoteapi
+  labels:
+    app: remoteapi
+spec:
+  replicas: 1   # pod
+  selector:
+    matchLabels:
+      app: remoteapi
+  template:
+    metadata:
+      labels:
+        app: remoteapi
+    spec:
+      containers:
+        - name: remoteapi
+          image: impelfin/remoteapi
+          ports:
+            - containerPort: 8000 # container port(pod port)
