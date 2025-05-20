@@ -14,7 +14,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 // mongoose configuration
 const mongoose = require('mongoose');
-mongoose.connect('mongodb://13.209.180.129:27017/test')
+mongoose.connect('mongodb://localhost:27017/test')
 
 var main = require('./routes/main');
 app.use('/', main);

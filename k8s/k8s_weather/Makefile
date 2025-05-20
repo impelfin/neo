@@ -34,8 +34,8 @@ k8commit:
 	docker push impelfin/weathers
 
 k8clean:
-	docker rm -f $$(docker ps -aq)
-	docker rmi -f $$(docker images -q)
+	docker rm -f weather
+	docker rmi -f weather weathers impelfin/weathers
 
 # === Kubernetes 명령 ===
 appdep:
