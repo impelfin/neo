@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: weathers
+  labels:
+    app: weathers
+spec:
+  replicas: 1   # pod
+  selector:
+    matchLabels:
+      app: weathers
+  template:
+    metadata:
+      labels:
+        app: weathers
+    spec:
+      containers:
+        - name: weathers
+          image: impelfin/weathers
+          ports:
+            - containerPort: 8000 # container port(pod port)
