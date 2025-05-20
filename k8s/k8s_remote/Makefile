@@ -7,9 +7,9 @@ run:
 	docker run -it -d -p 8000:8000 --name remote remote
 exec:	
 	docker exec -it remote /bin/bash
-start:
+dstart:
 	docker start remote
-stop:
+dstop:
 	docker stop remote
 logs:
 	docker logs remote

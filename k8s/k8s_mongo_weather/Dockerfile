@@ -19,11 +19,11 @@ RUN apt -y update; apt -y upgrade; apt -y install vim git net-tools
 WORKDIR /root
 
 # Step 4 : Config file copy
-COPY weather.tar.gz .
+COPY weather_new.tar.gz .
 
 # Step 5 : Install express
-RUN tar xvzf weather.tar.gz
-WORKDIR '/root/weather'
+RUN tar xvzf weather_new.tar.gz
+WORKDIR '/root/weather_new'
 RUN npm install 
 RUN npm install -g nodemon
 

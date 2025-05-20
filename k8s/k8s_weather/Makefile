@@ -7,9 +7,9 @@ run:
 	docker run -it -d -p 8000:8000 --name weather weather
 exec:	
 	docker exec -it weather /bin/bash
-start:
+dstart:
 	docker start weather
-stop:
+dstop:
 	docker stop weather
 logs:
 	docker logs weather
