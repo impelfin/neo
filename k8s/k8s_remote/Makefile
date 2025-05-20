@@ -31,7 +31,7 @@ k8init:
 getnode:
 	kubectl get nodes
 appdep:
-	kubectl apply -f delpoyment.yaml
+	kubectl apply -f deployment.yaml
 appsvc:
 	kubectl apply -f service.yaml
 getdep:
