@@ -16,13 +16,13 @@ run:
 exec:	
 	docker exec -it weather /bin/bash
 
-dockerstop:
+dstop:
 	docker stop weather mongo
 
-dockerstart:
+dstart:
 	docker start weather mongo
 
-logs:
+dlogs:
 	docker logs weather
 
 ps:
