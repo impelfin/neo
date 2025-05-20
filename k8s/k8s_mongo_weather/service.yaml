@@ -1,0 +1,19 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: weathers
+  labels:
+    run: weathers
+spec:
+  type: NodePort
+  ports:
+    - nodePort : 30800   # outter port
+      port: 8080         # service port
+      targetPort: 8000     # container port (pod port)
+      protocol: TCP
+      name: http
+  selector:
+    app: weathers
+  type: LoadBalancer
+  externalIPs:
+    - 13.209.180.129
