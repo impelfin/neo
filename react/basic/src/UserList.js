@@ -1,21 +1,35 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 
-function User({ user }) {
+const User = React.memo(function User({ user, onRemove, onToggle }) {
+    useEffect(() => {
+        console.log('user value setted...');
+        console.log(user);
+        return () => {
+            console.log('before user value');
+            console.log('user');
+        };
+    }, [user]);
+
     return (
         <div>
-            <b>{user.username}</b>-<span>{user.email}</span>
+            <b style={{ cursor: 'pointer', color: user.active ? 'green' : 'black' }} onClick={() => onToggle(user.id)}>
+                {user.username}
+            </b>
+            &nbsp;&nbsp;
+            <span>{user.email}</span>
+            <button onClick={() => onRemove(user.id)}>삭제</button>
         </div>
     );
-}
+});
 
-function UserList({ users }) {
+function UserList({ users, onRemove, onToggle }) {
     return (
         <div>
             {users.map(user => (
-                <User user={user} key={user.id} />
+                <User user={user} key={user.id} onRemove={onRemove} onToggle={onToggle} />
             ))}
         </div>
     );
 }
 
-export default UserList;
+export default React.memo(UserList);
