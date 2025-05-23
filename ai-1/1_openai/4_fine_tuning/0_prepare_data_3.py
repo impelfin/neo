@@ -15,7 +15,6 @@ for (root, directories, files) in os.walk(dir_path):
 print(file_paths)
 
 for file_path in file_paths:
-
     print(file_path)
 
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -25,9 +24,7 @@ for file_path in file_paths:
 
     for i in range(0, len(messages), 2):
         user_message = messages[i]
-
         assistant_message = messages[i + 1] if i + 1 < len(messages) else {"role": "assistant", "text": ""}
-
         jsonl_data.append({
             "messages": [
                 {"role": "user", "content": user_message['text']},
