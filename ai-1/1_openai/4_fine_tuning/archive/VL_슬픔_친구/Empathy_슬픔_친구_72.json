@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010141",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010141",
+        "relation": "친구",
+        "situation": "아빠는 힘들어도 참고 견딘다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내일 드디어 주말이네. 이번 주 정말 힘든 일의 연속이었어.",
+            "utterance_id": "BE22010141.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞다. 이번에 새 직장으로 옮겼지? 많이 힘들었구나. 별일은 없었지?",
+            "utterance_id": "BE22010141.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "새로운 곳에서 다시 시작하려니까 힘들더라. 우리 아빠는 지금 나이에도 일하고 계시는데 어떻게 버티셨을까?",
+            "utterance_id": "BE22010141.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이직해서 새로 일하는 게 쉽진 않지. 맞아, 부모님들은 정말 대단하신 거 같아. 몇십 년을 쉬지도 않고 계속 일하시고 말이야.",
+            "utterance_id": "BE22010141.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 저번 주에 아빠랑 좀 다퉜거든. 그런데 오늘 회사가 힘드니까 아빠 생각이 나면서 죄송스럽고 슬프다.",
+            "utterance_id": "BE22010141.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있었구나, 네가 마음이 많이 안 좋았겠다. 원래 힘들면 부모님이 보고 싶고 그렇잖아. 심하게 다툰 거니?",
+            "utterance_id": "BE22010141.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "심한 건 아니고. 근데 아빠는 평생 나를 위해 열심히 일하고 계시잖아. 그런 분께 내가 별것도 아닌 걸로 화를 낸 게 후회가 돼.",
+            "utterance_id": "BE22010141.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "계속 아버지께 화를 낸 게 생각났구나. 새 직장에 적응하기도 바빴을 텐데 계속 신경이 쓰이고 마음이 힘들었겠다. 정말 힘든 한 주를 보냈겠어.",
+            "utterance_id": "BE22010141.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그것 때문에 유독 마음 한구석에서 아빠 생각이 나면서 슬프더라고. 아빠는 힘들어도 참고 견디시는데 나는 직장 스트레스로 화를 냈으니까.",
+            "utterance_id": "BE22010141.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 밖에서 힘든 일이 있을수록 부모님께 투덜거리게 되는 거 같아. 나도 너처럼 한 적이 많아서 네 마음 완전 이해가 된다. 너는 얼마나 마음이 불편하고 죄송스러울까.",
+            "utterance_id": "BE22010141.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자식들은 다 비슷한가 봐. 아빠랑 화해하고 싶은데 어떻게 해야 할까?",
+            "utterance_id": "BE22010141.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 먼저 화를 냈으니까 고민되겠지만, 먼저 말을 걸어봐. 네가 어떻게 이야기를 꺼내도 잘 들어주시고 이해해주실 거야. 너무 걱정하지 않았으면 좋겠어.",
+            "utterance_id": "BE22010141.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇겠지? 항상 아빠가 먼저 말을 꺼내셨으니까 이번엔 내가 먼저 죄송하다고 해야겠다.",
+            "utterance_id": "BE22010141.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이야. 맛있는 거 먹으면서 잘 풀어봐. 네가 부모님께 얼마나 잘해드리는지 내가 아는데 이번엔 네가 예민해서 실수로 생긴 일 같아. 부모님이랑 잘 화해하고 새 직장에서도 잘 적응했으면 좋겠어.",
+            "utterance_id": "BE22010141.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래야겠어. 고맙다 조만간 보자!",
+            "utterance_id": "BE22010141.15"
+        }
+    ]
+}

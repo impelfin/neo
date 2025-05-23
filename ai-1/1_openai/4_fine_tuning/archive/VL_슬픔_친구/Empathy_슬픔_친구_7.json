@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009322",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009322",
+        "relation": "친구",
+        "situation": "다리에 깁스를 해서 출퇴근 시간이 오래 걸린다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "깁스를 하고 출퇴근하는 게 너무 불편해. 택시라도 타고 다녀야 하나. 이젠 너무 지쳐서 감당할 자신이 없어.",
+            "utterance_id": "BE22009322.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하필이면 다리를 다쳐서 더 불편할 것 같아. 깁스는 얼마나 더 해야 한대?",
+            "utterance_id": "BE22009322.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에 좀 심하게 다친 거여서 최소 이번 달까지는 계속해야 할 것 같아. 문제는 전철에서 매일 사람들에게 치여. 얼마나 고통스러운지 내 기분이 이해되니?",
+            "utterance_id": "BE22009322.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 진심으로 이해해. 아프면 정말 서럽잖아. 네가 출퇴근길에 사람들 사이에서 치일 것을 생각하면 나까지 너무 속상해.",
+            "utterance_id": "BE22009322.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "깁스 한 이후로 계속 지각하고 있어. 회사 사람들도 내가 아프니까 이해한다고는 하지만, 은근히 눈치가 보여. 아픈데 눈치까지 보는 나 자신이 너무 슬프고 서러워.",
+            "utterance_id": "BE22009322.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 서럽지? 네가 얼른 회복해서, 다시 웃을 수 있으면 좋겠어. 슬픈 네 모습을 보는 게 내 마음이 더 아프다.",
+            "utterance_id": "BE22009322.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그때 다친 날로 돌아가고 싶어. 왜 내가 그때 다쳐서 이렇게 고생을 해야 하는 걸까. 정말 후회되고 한탄스러워.",
+            "utterance_id": "BE22009322.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 어쩔 수 없는 사고였잖아. 네 잘못이 아니니 너무 자책하지 말았으면 해. 시간이 조금 더 지나면 너도 다시 건강해지고 웃을 수 있는 날이 올 거야.",
+            "utterance_id": "BE22009322.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그때 일로 인해서 이 고생을 매일 해야 되잖아. 날씨도 더운데 걷는 것도 느려서 1시간이면 갈 거리가 2시간을 걸리고 있어. 시간을 버리는 것 같아서 정말 슬프다.",
+            "utterance_id": "BE22009322.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 같은 날씨에 힘들게 출근할 너를 생각하니 걱정이 된다. 몸도 아픈데 출퇴근까지 힘들면 나였어도 마음이 정말 울적해질 것 같아.",
+            "utterance_id": "BE22009322.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 속상해. 일주일 뒤면 깁스를 푸는데도, 내가 벌써 2주일째 이렇게 출퇴근하다 보니 많이 지쳤어.",
+            "utterance_id": "BE22009322.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전철을 2시간씩 타다 보면 당연히 지칠 수 있어. 게다가 다리까지 아픈 불편함과 서러움이 겹쳤지? 힘들고 지칠 땐 내가 항상 네 옆에 있을 거니 너무 걱정하지 마.",
+            "utterance_id": "BE22009322.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "위로해줘서 고마워. 나 마음이 너무 지쳤었는데, 네 말을 들으니 위로가 돼. 계속 눈물 났었는데 이제 살 것 같아.",
+            "utterance_id": "BE22009322.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "더운데 고생하며 애쓰는 네가 대견스럽다. 네가 위로받을 수 있다면, 난 언제나 너를 위해 이야기해줄 수 있어. 같이 힘내보자 우리.",
+            "utterance_id": "BE22009322.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "내가 힘든 걸 알아줘서 고마워. 너의 말대로 일주일 금방 지나갈 거야. 조금만 더 힘내 볼래.",
+            "utterance_id": "BE22009322.15"
+        }
+    ]
+}

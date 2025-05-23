@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22010311",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010311",
+        "relation": "친구",
+        "situation": "엄마가 힘들게 돈을 번다고 아이가 비가 오는데 우산을 사지 않았다고 한다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 나 오늘 버스 정류장에서 눈물 흘렸어. 지금 생각해도 너무 가슴이 아프고 슬퍼서 가슴이 먹먹하다.",
+            "utterance_id": "BE22010311.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 문자를 읽고 가슴이 다 철렁했어. 너무 걱정된다. 자세하게 말해줘.",
+            "utterance_id": "BE22010311.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 비가 내려서 버스 정류장에서 비가 그칠 때까지 있었는데 한 아이가 비를 맞으면서 달려오더라고. 정류장에서 엄마와 통화를 하는데 듣고 눈물이 나서 혼났어. 엄마가 힘들게 번 돈으로 우산 사기가 아깝다면서 그냥 집에 가겠다고 하는 거야.",
+            "utterance_id": "BE22010311.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 너의 문자만 읽은 건데 마음이 아파서 가슴이 답답하다. 어린아이가 엄마에게 그런 말을 하다니. 너 옆에서 눈물 참느라 힘들었겠어.",
+            "utterance_id": "BE22010311.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이가 그런 말을 하니까 갑자기 거기 정류장에 있던 사람들이 다 하늘을 쳐다보더라고. 나도 이렇게 마음이 아픈데 듣는 엄마는 가슴이 미어지실 것 같고. 슬프기도 하고 안타깝기도 하고 복잡한 감정이 들더라고.",
+            "utterance_id": "BE22010311.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 어린아이가 그런 말을 하는데 눈물이 안 나는 사람이 어디 있겠어. 아이의 마음이 절실히 느껴지는 대화를 듣고 슬퍼지는 게 당연한 거야.",
+            "utterance_id": "BE22010311.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 우산이 없어서 너무 안타까웠어. 아이를 딱히 도와줄 방법도 없고 우산을 사라고 돈을 주기에는 아이의 자존심이 많이 상하잖아. 딱히 도울 방법이 없어서 답답하고 죄스러운 마음이었어.",
+            "utterance_id": "BE22010311.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이에게는 미안하지만 네가 잘못한 일이 아니니까 그렇게 아파하고 미안한 감정에 너를 빠트리지 마. 넌 그냥 정류장에 있었던 것뿐인걸.",
+            "utterance_id": "BE22010311.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇긴 해도 어른이 돼서 아이 한 명도 도울 수가 없었잖아. 그런 나 자신이 무력하게 느껴져서 슬펐던 것 같아.",
+            "utterance_id": "BE22010311.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 심성이 곱기 때문에 그 아이에게 느꼈던 미안함이 더 컸던 거라 생각해. 너는 학장 시절부터 항상 남을 돕는데 앞장서던 친구였잖아. 그런 모습을 볼 때마다 우리 친구들은 너를 대단하게 여겼고.",
+            "utterance_id": "BE22010311.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각하면 부끄럽다. 난 그저 봉사 활동으로 약간의 도움을 드리는 것뿐이었어 그때는. 성인이 돼서는 회사 일이 바쁘다는 핑계로 아무것도 안 하는 사람이 되어 버린걸.",
+            "utterance_id": "BE22010311.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "넌 항상 자신을 내려서 말하잖아. 난 어제도 다른 친구에게 네가 했던 선행을 들었다고. 넌 아직도 변하지 않은 선한 내 친구야.",
+            "utterance_id": "BE22010311.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각해 주면 내가 부끄럽기도 하고 고마워. 오늘 버스 정류장에서 아이가 한 말이 있잖아. 전화로 엄마에게 했던 그게 내 가슴속에 큰 슬픔으로 다가와서 아직 마음을 추스르기 어려워.",
+            "utterance_id": "BE22010311.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 나도 너의 문자를 읽고는 아직도 가슴이 갑갑해. 그래도 주변에서 너처럼 같이 슬퍼하는 사람들이 많았다니 아직 세상은 따듯하네.",
+            "utterance_id": "BE22010311.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "응 맞아. 오늘 아이가 비 오는데 우산도 사지 않고 있었던 이유가 너무 슬퍼서 많이 우울했었어. 그런데 너와의 문자를 통해서 조금은 감정이 추스른 것 같아. 고마워.",
+            "utterance_id": "BE22010311.15"
+        }
+    ]
+}

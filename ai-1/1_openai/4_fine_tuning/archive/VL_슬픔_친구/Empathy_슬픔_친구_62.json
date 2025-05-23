@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009969",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009969",
+        "relation": "친구",
+        "situation": "거기에 대해 대답하지 않았다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 종일 눈물만 흘렸어.",
+            "utterance_id": "BE22009969.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일 있었어?",
+            "utterance_id": "BE22009969.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 나 오늘 회사 면접 본 거 알지. 면접관이 나 자신이 제일 마음에 들었던 때가 있었냐고 물어봤거든? 근데 거기에 대답하지 않았어.",
+            "utterance_id": "BE22009969.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "순간 네가 누구를 위해 살았나, 하는 생각이 들어 자괴감이 몰아쳤구나. 그 멍멍한 감정에 사로잡힌 후 너 자신을 사랑스럽게 봤을 때를 생각하려니 입이 떨어지지 않았고.",
+            "utterance_id": "BE22009969.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 뭔가 나 자신을 재촉해서 쉼 없이 달려온 것 같긴 하거든? 그런데 나 자신이 스스로 마음에 드냐는 질문 하나로 하늘이 무너졌어.",
+            "utterance_id": "BE22009969.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 그간 취업 준비로 너무 바빴잖아. 그래서 너 자신을 돌아보면서 잘한 부분은 칭찬해주고 부족한 부분은 보듬어주지 못했기 때문이지 않을까?",
+            "utterance_id": "BE22009969.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그 이유도 있는데 무엇보다 나는 한순간도 나를 사랑하지 못한 것 같아. 하염없이 눈물만 흐르네.",
+            "utterance_id": "BE22009969.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 삶의 주인은 너인데 진정 너를 사랑하지 못한다고 자각하니까 가슴이 얼마나 미어지는 것 같았겠어. 내가 다 속상해서 고개가 숙여질 정도야.",
+            "utterance_id": "BE22009969.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "앞으로도 나는 나를 사랑하고 나의 노력을 인정하지 못할 것 같아 그저 몸만 웅크려져.",
+            "utterance_id": "BE22009969.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇구나. 지금은 네가 네 삶을 살아갈 수 없을 것 같다고 느낄 수도 있을 거라고 생각해. 하지만 내가 본 너는 네 발전을 위해 누구보다도 열심히 땀 흘린 사람이야. 네가 잘 해왔다는 걸 인정해줘.",
+            "utterance_id": "BE22009969.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 남들도 다 열심히 사는 거잖아. 내가 무언가를 이뤄내고 사는 게 뭐가 특별해.",
+            "utterance_id": "BE22009969.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "열심히 산다는 게 몸과 마음이 힘든 일인데도 네가 해내고 있는 거잖아. 남들에게 기준을 맞추지 말고 너를 조금씩 보듬어줘 봐. 그게 너 자신을 사랑하는 첫 시작일 거야.",
+            "utterance_id": "BE22009969.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼... 정말 너무 어렵겠지만 조금씩 나 자신에게 따뜻한 마음으로 다가가 보도록 해볼게.",
+            "utterance_id": "BE22009969.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 혹시라도 네가 다시금 너 자신이 마음에 드는 때가 없어서 위태위태할 때 내가 옆에 있을게. 그러니 너무 걱정하지 마.",
+            "utterance_id": "BE22009969.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "정말 고마워. 네가 그렇게 말해주니 조금은 가슴이 놓이는 것만 같아.",
+            "utterance_id": "BE22009969.15"
+        }
+    ]
+}

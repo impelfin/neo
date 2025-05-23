@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009316",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009316",
+        "relation": "친구",
+        "situation": "5년을 함께 지낸 고양이를 다른 곳으로 입양 보내게 되었다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 어제 정말 슬펐어. 5년 동안 함께 지낸 고양이를 친구 집에 입양 보냈거든. 집으로 오는 발길이 떨어지지 않을 만큼 서글펐어.",
+            "utterance_id": "BE22009316.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "깊이 사랑하는 애완동물이어서 정말 힘들었겠다. 지난번에 얘기했던 알레르기 때문이니?",
+            "utterance_id": "BE22009316.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 5년 동안 힘들게 버텼는데, 이젠 너무 심해져서 도저히 어쩔 수 없었어. 이제 고양이와 헤어졌다고 생각하니 눈물이 앞을 가려. 설움도 북받쳐 올라와 견딜 수 없어.",
+            "utterance_id": "BE22009316.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 찢어지는 것 같겠다. 소중한 존재를 이제 곁에서 볼 수 없으니 비통한 마음이 들 거야.",
+            "utterance_id": "BE22009316.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 하늘이 무너지는 것 같았어. 마치 온 세상을 잃은 슬픔 같았어. 지금도 눈앞에 아른거려서 마음이 괴로워.",
+            "utterance_id": "BE22009316.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "함께 한 추억을 떠올리면 가슴이 찢어지겠다. 나는 이야기만 들어도 눈에 눈물이 고여.",
+            "utterance_id": "BE22009316.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고양이를 처음 만났던 순간을 떠올리니 눈물이 줄줄 났어. 알레르기에 취약한 내 몸이 원망스러워 죽겠어.",
+            "utterance_id": "BE22009316.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 체질 때문에 강아지와 헤어졌으니 얼마나 속상할까. 네 마음속에 슬픔이 파도처럼 밀려왔겠구나.",
+            "utterance_id": "BE22009316.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "비통에 젖어서 어젠 잠도 한숨도 못 잤어. 눈을 떠도, 눈을 감아도 고양이 모습만 떠올라 미칠 것 같아.",
+            "utterance_id": "BE22009316.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음이 얼마나 애달플까. 슬퍼하는 친구 모습을 떠올리니 내 마음도 무너져 내리는 것 같아.",
+            "utterance_id": "BE22009316.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이젠 의욕도 점점 없어지는 것 같아. 고양이가 없는 텅 빈 집에 들어가고 싶지도 않고. 그냥 서럽고 슬픈 마음뿐이야.",
+            "utterance_id": "BE22009316.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너에게 특별한 존재가 집에 없으니 그런 마음이 드는 것도 당연해. 하지만 친구 집에 입양 보냈으니 가끔 만나러 갈 수 있는 건 행운이지 않을까? 그 사실이 작은 위로가 되었으면 좋겠어.",
+            "utterance_id": "BE22009316.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 이야기 들어 보니까 그러네. 어제는 너무 슬픔에 겨워서 아무런 위로도 받을 수 없었거든.",
+            "utterance_id": "BE22009316.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 얼마나 슬퍼할지 짐작이 가. 그래서 널 정말 위로해 주고 싶어. 나의 따뜻한 마음이 너에게 전해졌으면 좋겠어.",
+            "utterance_id": "BE22009316.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네가 이렇게 위로해 주니 정말 고맙다. 설움으로 북받쳤던 마음도 약간은 가라앉은 것 같아. 힘들 때 위로해 주는 네가 있어서 정말 다행이야. 고마워, 친구.",
+            "utterance_id": "BE22009316.15"
+        }
+    ]
+}

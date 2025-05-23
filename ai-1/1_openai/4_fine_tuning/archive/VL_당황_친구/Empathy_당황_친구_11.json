@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009729",
+        "listener_behavior": [
+            "조언",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009729",
+        "relation": "친구",
+        "situation": "갈등 상황이 되면 손해를 보는 쪽을 선택한다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘도 직장 동기랑 문제 있었어.",
+            "utterance_id": "BE22009729.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘은 무슨 일이었니?",
+            "utterance_id": "BE22009729.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "또 일 때문이야. 자기가 하고 싶은 일만 하려고 하는 동기 때문에 힘들어.",
+            "utterance_id": "BE22009729.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저번에도 쉬운 일만 골라서 한다더니, 또 그랬니?",
+            "utterance_id": "BE22009729.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 괜히 문제 만들고 싶지 않아서 결국 내가 남은 일을 묵묵히 했어. 근데 한두 번도 아니고 계속 그러니 나만 어리석은 것 같아. 내가 어리석다는 생각이 들자 마음이 괴롭기도 해.",
+            "utterance_id": "BE22009729.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 친구가 자주 그랬구나. 한 번 그런 생각이 들기 시작하면 계속 생각나고 마음이 더 아프고 힘들겠다.",
+            "utterance_id": "BE22009729.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나처럼 행동하는 사람이 있을까? 내가 어떻게 행동하는 게 맞는 건지 잘 모르겠어. 머리가 혼란스러워.",
+            "utterance_id": "BE22009729.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 아는 넌 누구보다도 배려심 깊은 사람이야. 남의 힘든 모습을 잘 못 보고 도움을 주잖아. 그 동기가 도움이 필요한 사람이고 네가 도움을 주는 사람인 거야.",
+            "utterance_id": "BE22009729.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래? 내 행동이 맞는지 혼란스럽고 울적했는데 네 말을 들으니 위안이 된다.",
+            "utterance_id": "BE22009729.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론 그 당시에는 속상한 감정이 들 수는 있어. 하지만 손해를 보는 쪽을 선택하는 네가 그릇이 더 큰 사람인 거야.",
+            "utterance_id": "BE22009729.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워, 그렇게 말해줘서. 그 말 들으니 나 자신이 틀리지 않은 것 같아.",
+            "utterance_id": "BE22009729.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 난 진심으로 하는 말이야. 원래 지는 게 이기는 것이라는 말도 있잖아.",
+            "utterance_id": "BE22009729.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "들어본 것도 같아. 그럼 난 늘 이겼던 것이네.",
+            "utterance_id": "BE22009729.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 네가 언제나 승리자였으니 조금만 속상해하고 마음 풀어.",
+            "utterance_id": "BE22009729.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 앞으로도 그런 일 있으면 나는 그릇이 큰 사람이다, 내가 승리자다라고 생각하고 마음을 차분히 유지해야겠어.",
+            "utterance_id": "BE22009729.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 그럴 때마다 아무 일 아니라 생각하는 거야.",
+            "utterance_id": "BE22009729.16"
+        }
+    ]
+}

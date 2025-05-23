@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010080",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010080",
+        "relation": "친구",
+        "situation": "내비게이션이 없이 운전을 할 수가 없다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "운전은 참 어려운 것 같아.",
+            "utterance_id": "BE22010080.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 운전은 아무래도 사고위험이 있어서 늘 조심해야 하니 어려움이 많이 따르는 것 같아.",
+            "utterance_id": "BE22010080.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "면허 딴지 1년이 다 돼가는데 아직 내비게이션이 없이 운전할 수가 없어. 안내방송이 없으면 너무 두렵고 무서워서 운전을 못 하겠어.",
+            "utterance_id": "BE22010080.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "1년도 안 됐으면 아직 운전 초기인걸. 당연히 긴장도 되고 두렵기도 한 감정이 드는 게 자연스러운 거지. 너무 초조해하지 말아, 시간이 해결해줄 거야.",
+            "utterance_id": "BE22010080.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그래도 내비게이션이 있으면 운전이 참 편하더라. 안내방송도 미리 나오고 빠른 길도 잘 찾아주고. 꼭 옆에 앉아있는 것 같아서 안심돼.",
+            "utterance_id": "BE22010080.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 나도 초보 운전일 땐 혼자서 운전하는 게 두렵고 겁났는데. 내비게이션을 동승자라고 생각해 보는 건 어때? 마음이 한결 가벼워질 거야.",
+            "utterance_id": "BE22010080.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 그런 경험이 있구나. 사실 내가 너무 내비게이션에 의지하는 건 아닐까 불안한 생각도 있었거든.",
+            "utterance_id": "BE22010080.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 불안한 마음을 잠시나마 덜 수 있다면, 의지를 하는 게 나쁘지 않아. 평생 의지할 거 아니니 괜찮아. 넌 잘할 수 있을 거야.",
+            "utterance_id": "BE22010080.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠지? 나도 시간이 지나서 운전이 능숙해지면 점점 내비게이션 없이도 운전 잘 할 수 있을까?",
+            "utterance_id": "BE22010080.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 당연하지. 나는 운전을 정말 못해서 초보운전 스티커를 몇 년을 붙이고 다녔는지 몰라. 그런데 지금은 내비게이션 없이도 잘 다녀. 너도 할 수 있어.",
+            "utterance_id": "BE22010080.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하하. 너도 그런 시절이 있었구나. 정말 몰랐네.",
+            "utterance_id": "BE22010080.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 시간이 지나니 운전도 잘하게 되더라고. 너도 시간이 해결해줄 거야. 너무 긴장하지 말고 잘 할 수 있을 거야, 파이팅!",
+            "utterance_id": "BE22010080.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 네 말대로 나도 그런 날이 빨리 왔으면 좋겠다. 지금은 운전할 때마다 두려움과 온갖 신경이 다 운전대로 쏠려서 내릴 때쯤엔 기진맥진하게 되더라고.",
+            "utterance_id": "BE22010080.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어이쿠 운전할 때마다 긴장을 많이 하나 봐. 근데 그만큼 신중하고 사고위험도 줄어들 테니 잘하고 있는 거지. 조금씩 마음을 내려놓는 연습을 해봐.",
+            "utterance_id": "BE22010080.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그래야겠어. 오늘 좋은 얘기를 해줘서 고마워.",
+            "utterance_id": "BE22010080.15"
+        }
+    ]
+}

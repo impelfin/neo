@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009602",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009602",
+        "relation": "친구",
+        "situation": "내가 전공한 교육과정은 취업하는 데 도움이 안 된다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 요즘 너무 슬퍼.",
+            "utterance_id": "BE22009602.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 무슨 일인데 그래, 자세히 말해봐.",
+            "utterance_id": "BE22009602.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "취업 준비를 하고 있는데 내가 전공한 교육과정은 취업하는 데 도움이 안 되는 거 같아. 내가 뭘 위해 배운 건지 모르겠기에 너무 슬퍼.",
+            "utterance_id": "BE22009602.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 충분히 그렇게 생각할 수 있지 네 마음 이해해 기분 많이 상했겠다. 아무래도 취업을 위해서 택한 전공일 수 있는데 도움이 안 된다면 착잡할 수 있지. 나라도 슬펐을 거야.",
+            "utterance_id": "BE22009602.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 여태까지 배운 게 그거밖에 없는데 할 수가 없으니까 너무 막막해. 미래가 캄캄하고 아무것도 안 보이는 거 같아서 자꾸 눈물이 나올 것 같아.",
+            "utterance_id": "BE22009602.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 마음 잘 알아 공들여서 쌓아 올린 탑이 무너진 것만 같은 기분도 들고. 마음 한편이 꽉 막힌 것처럼 답답한 마음도 들지. 공허하기도 하고 말이야.",
+            "utterance_id": "BE22009602.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 아무것도 할 수 없다는 생각이 들면서 한없이 우울감에 빠지게 돼. 안 좋은 생각이 꼬리에 꼬리를 물면서 감당할 수 없는 슬픔이 날 덮치는 거 같아.",
+            "utterance_id": "BE22009602.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 슬퍼하는 모습을 보니까 내 가슴이 정말 아리고 찢어지는 거 같아. 네가 얼마나 좌절감을 느끼고 주눅이 들어있는지 잘 알겠어.",
+            "utterance_id": "BE22009602.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 마치 패배자가 된 것만 같고 스스로가 너무 처량하기도 하고 비참해. 계속 울기만 하고 있어. 나 정말 왜 이렇게 한심한지 모르겠어.",
+            "utterance_id": "BE22009602.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 너와 비슷한 경험을 한 적이 있는데 스스로가 불쌍하다고 느껴지기도 했어. 내가 열심히 노력했던 모든 게 후회스럽기도 했었어. 그땐 정말 하루하루가 숨 막히는 기분이었던 거 같아.",
+            "utterance_id": "BE22009602.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 기쁜 일이 있어도 금방 울적해지고 자꾸 서러운 기분이 들어. 모든 게 절망스럽기도 한 거 같아. 이 슬픔을 이겨낼 수 있을지 확신이 안 서.",
+            "utterance_id": "BE22009602.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 그건 네 탓이 아닌 걸 슬픔에 빠져있을 필요 없어. 전공이 취업에 도움이 안 되더라도 배움은 있었잖아 분명 넌 잘될 거라고 믿어. 널 필요로 하는 곳은 어디든지 있을 테니까 기운 내.",
+            "utterance_id": "BE22009602.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그런가. 나에게 분명 언젠가 도움이 되긴 했던 거 같긴 하다. 그렇게 생각하니 마음이 한결 나아지는 거 같아.",
+            "utterance_id": "BE22009602.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "풀이 죽은 네 모습은 정말 마음이 아파. 넌 한번 세운 목표는 끝까지 이뤄내는 끈기도 있고 끝내주는 실행력도 가지고 있잖아. 그건 분명 너에게 도움이 될 거야 난 그런 네 모습을 보면서 존경스럽기까지 하고 대단했는걸.",
+            "utterance_id": "BE22009602.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네 말을 들으니 다시 힘이 생기는 거 같아. 열심히 해볼게. 얘기 들어줘서 고마워.",
+            "utterance_id": "BE22009602.15"
+        }
+    ]
+}

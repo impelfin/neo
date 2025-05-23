@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009396",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009396",
+        "relation": "친구",
+        "situation": "주차금지구역에 주차했다가 단속 당했다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 이번에 단속당해서 벌금 내야 할 것 같아. 가뜩이나 돈이 없는데, 벌금을 내야 한다니 너무 속상하고 슬프다.",
+            "utterance_id": "BE22009396.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너처럼 평소에 법을 잘 지키는 사람이 어쩌다가? 무슨 급한 일이 있었던 거야?",
+            "utterance_id": "BE22009396.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 어제 딸이 아주 아팠거든. 열이 너무 심하게 나서 급하게 병원에 갔는데, 주차 공간이 없는 거야. 그래서 주차금지 구역에 주차했어.",
+            "utterance_id": "BE22009396.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 긴급한 상황에서는 누구여도 아무 데나 주차했을 거야. 갑작스러운 상황에 많이 놀랐을 것 같은데, 지금은 괜찮아?",
+            "utterance_id": "BE22009396.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 무척 놀랐지. 딸이 아픈 것도 너무 당황스럽고 정신없었거든. 근데, 요즘 형편이 좋지 않은데 벌금까지 내야 해서 너무 슬프고 괴로워.",
+            "utterance_id": "BE22009396.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 좋은 일이 두 개나 겹쳐서 네가 많이 힘들었을 것 같아. 여윳돈이 없는데, 벌금까지 내야 한다니. 밝은 네가 슬퍼하는 모습을 보니 나도 마음이 속상하네.",
+            "utterance_id": "BE22009396.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 이번 달 생활이 정말 빠듯했거든. 이사까지 겹쳐서 나갈 돈이 많았는데, 벌금까지 내게 됐어. 이런 상황을 나 스스로 만든 것 같아서 울컥한다.",
+            "utterance_id": "BE22009396.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 엄마로서 해야 할 도리를 한 거뿐이야. 딸을 위해서는 그렇게 할 수밖에 없었잖아. 너 자신을 너무 책망하지 마.",
+            "utterance_id": "BE22009396.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만, 카드 빚 갚기에도 역부족인데, 잔고가 더 마이너스가 되어버렸어. 그 벌금 비면 우리 딸 생활용품을 더 살 수 있었을 텐데. 절약하지 못한 것 같아서 나 자신에게 실망스러워.",
+            "utterance_id": "BE22009396.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "딸을 위하는 너의 마음이 정말 크구나. 어제의 상황도 딸을 위한 거였잖아. 너의 이런 모습에 너의 딸도 감동하고 고마워하고 있을 거야.",
+            "utterance_id": "BE22009396.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그럴까? 그렇게 생각하니까 마음이 조금 누그러지네. 나 정말 후회하고 있었거든.",
+            "utterance_id": "BE22009396.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "돈과 상관없이, 넌 정말 멋진 엄마야. 네가 딸을 얼마나 소중하게 생각하는지 알아. 그 모습을 보면 네가 참 멋있을 때가 많아.",
+            "utterance_id": "BE22009396.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 정말 고마워. 생활에 여유가 없다 보니까 벌금 낼 생각에 너무 슬펐거든. 너의 위로를 받으니까 지금은 슬픔이 가신다.",
+            "utterance_id": "BE22009396.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 위로를 받아서 정말 다행이야. 늘 밝았던 너에게 걱정거리가 생겨서 나도 무척 걱정이 됐었어. 언제든 고민거리가 있으면 나한테 말해.",
+            "utterance_id": "BE22009396.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "힘들 때 기댈 수 있는 네가 있어서 얼마나 감사한지 몰라. 오늘도 정말 고마워.",
+            "utterance_id": "BE22009396.15"
+        }
+    ]
+}

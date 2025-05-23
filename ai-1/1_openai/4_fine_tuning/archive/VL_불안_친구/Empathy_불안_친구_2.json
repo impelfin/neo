@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009201",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009201",
+        "relation": "친구",
+        "situation": "사회탐구 강사님은 스토킹을 당했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 오늘 사회탐구 수업 들었어?",
+            "utterance_id": "BE22009201.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니. 시간이 없어서 못 들었는데 중요한 내용 있었어?",
+            "utterance_id": "BE22009201.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "강사님이 대학교 때 스토킹 당한 이야기를 해주셨는데 너무 충격이었어.",
+            "utterance_id": "BE22009201.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "스토킹? 전해 들은 나도 이렇게 놀라는데 너는 얼마나 놀랐을까. 많이 놀랐지?",
+            "utterance_id": "BE22009201.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그 스토커가 배달원이 집 주소를 알아내서 계속 집 가는 골목에 서 있었대. 너무 무섭고 이제는 집 가는 길이 두려워.",
+            "utterance_id": "BE22009201.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 이야기를 들으면 누구나 두려운 마음이 생기고 집에 가는 일이 꺼려질 거야. 네가 당연히 그렇게 느낄 수 있었을 것 같아.",
+            "utterance_id": "BE22009201.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 걱정이 많이 돼서 자꾸 생각나. 앞으로 어떻게 해야 할지 잘 모르겠어.",
+            "utterance_id": "BE22009201.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "듣기만 하는 나도 이렇게 불안한 마음이 드는데 직접 전해 들은 너는 어떻겠어. 평소에 네가 조심성 있게 행동하는 친구여서 더 그럴 수 있을 것 같아. 머릿속에 맴돌면 많이 힘들겠다.",
+            "utterance_id": "BE22009201.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 평소에도 밤길이 무서웠는데 더 무서워졌어. 앞으로 깜깜한 길은 못 다닐 것 같아.",
+            "utterance_id": "BE22009201.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 혼자 살아서 더 그럴 수 있을 것 같아. 근데 너는 항상 준비성이 철저하니까 그런 일에 잘 대비할 수 있을 거야. 너무 어두운 길로만 안 다니면 괜찮아질 거야. 걱정하지 마.",
+            "utterance_id": "BE22009201.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 이야기해 줘서 고마워. 네 말을 들어보니 미리 준비를 해놓으면 마음이 괜찮아질 것 같아.",
+            "utterance_id": "BE22009201.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 네가 무슨 일 생기면 언제든 달려갈게. 내일은 야간 자율 학습 끝나고 집에 갈 때 같이 가자. 내가 네 옆에 항상 있을게. 안심해.",
+            "utterance_id": "BE22009201.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "친구야 고마워. 덕분에 마음이 한결 편해졌어.",
+            "utterance_id": "BE22009201.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "소중한 내 친구가 괜찮아졌다니 다행이다. 내일은 학교 끝나고 정문 앞에서 보자.",
+            "utterance_id": "BE22009201.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 너랑 같이 가면 덜 무섭고 불안할 것 같아. 앞에서 기다리고 있을게.",
+            "utterance_id": "BE22009201.15"
+        }
+    ]
+}

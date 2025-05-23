@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22010603",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010603",
+        "relation": "친구",
+        "situation": "동영상 공유 서비스를 보고 베이킹 요리를 따라 해보았다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동영상 공유 서비스를 보면서 베이킹 요리에 도전했는데, 완전히 망해버렸어.",
+            "utterance_id": "BE22010603.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "만족스럽게 완성되지 않았나 보네. 무슨 문제라도 있었던 거야?",
+            "utterance_id": "BE22010603.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐가 문제인지 도통 모르겠어. 분명 동영상 공유 서비스를 보면서 똑같이 따라 했다고 생각했거든. 그런데 모양도 맛도 동영상 공유 서비스 영상과 너무 달라서 당황스러운걸.",
+            "utterance_id": "BE22010603.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 결과물을 보고 네가 무척 당혹스러웠겠는걸. 열심히 준비하고 따라 했는데 예상과 다른 요리가 나오면 나 같아도 의아했을 것 같아.",
+            "utterance_id": "BE22010603.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 아무래도 내가 과정을 한두 개 빠뜨렸거나, 재료 계량을 잘못한 게 아닐까 싶어. 그렇지 않고서야 같은 베이킹 요리라고 믿기 어려울 정도거든. 정말 베이킹은 도전할 때마다 까다로워서 힘들다니깐.",
+            "utterance_id": "BE22010603.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "베이킹이 생각보다 쉽지 않은 작업이니, 네가 무척 어려움을 겪었겠는걸. 나도 예전에 머핀을 만들다가 한 번 제대로 망친 적이 있어서 그 기분 알아. 재료를 낭비한 것 같아 속상한 마음이 들지.",
+            "utterance_id": "BE22010603.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 아무래도 나는 베이킹에는 영 소질이 없는 것 같아. 동영상 공유 서비스를 보면서 따라 하는 데도 이렇게 실패했으니, 당황스러운 마음에 자신감이 확 떨어지는걸.",
+            "utterance_id": "BE22010603.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에이, 한 번 실수한 걸로 그렇게 의기소침해 있을 필요 없어. 이번 경험을 바탕으로 다음에 더 나은 결과물을 만들어내면 그만이지. 앞으로 더 잘할 수 있을 테니 기운을 내.",
+            "utterance_id": "BE22010603.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 나름대로 요리에 자신감이 있었는데, 오늘 처음 베이킹을 시도했다가 적잖이 충격을 받았거든. 이렇게 당혹스러운 순간이 없었어.",
+            "utterance_id": "BE22010603.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음이라 그런 거지. 너는 일반 요리에는 굉장히 능숙하잖니. 그것도 네가 오랜 시간 연습하고 쌓아온 경험을 바탕으로 실력이 향상한 것이니, 조급해할 필요 없어.",
+            "utterance_id": "BE22010603.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그것도 맞아. 내가 요리에 대한 자신감이 컸던 탓에, 베이킹도 단숨에 잘할 거라는 막연한 기대를 하고 있었나 봐.",
+            "utterance_id": "BE22010603.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론 네 요리 솜씨가 최고인 것은 나도 잘 알지. 내가 부러울 정도인걸. 느긋한 마음가짐으로 찬찬히 경험을 쌓는다면 분명 베이킹도 일취월장할 수 있을 거야.",
+            "utterance_id": "BE22010603.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워. 네 말을 듣고 나니 베이킹에 실패해 당황스럽던 마음이 한결 진정되는 기분이야. 앞으로 더 노력해봐야겠다는 의욕이 생기는걸.",
+            "utterance_id": "BE22010603.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "계속 도전하겠다는 자세가 정말 보기 좋은걸. 일반 요리도 잘하는 네가 베이킹까지 섭렵한다고 생각하니 정말 대단해. 나도 너의 노력을 더 응원해주고 싶어.",
+            "utterance_id": "BE22010603.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇게 말해줘서 고마워. 덕분에 힘이 난다. 앞으로도 열심히 베이킹을 연습해볼게.",
+            "utterance_id": "BE22010603.15"
+        }
+    ]
+}

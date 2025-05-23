@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009368",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009368",
+        "relation": "친구",
+        "situation": "내 말실수로 친구들끼리 사이가 나빠졌다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 내 실수 때문에 친구 두 명이 절교를 했어. 모든 게 내 책임인 것 같아서 너무 슬퍼.",
+            "utterance_id": "BE22009368.1"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일인지 모르겠지만 너무 너를 탓하지 말길 바래. 네가 그런 실수를 할 사람이 아닌데, 무슨 일이 있었던 거니?",
+            "utterance_id": "BE22009368.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고등학생 때 친구 두 명이 사이가 별로 안 좋았거든. 내가 풀어주고 싶어서 예전 얘기를 꺼냈어. 근데 비밀이었던 얘기를 잘못 꺼내는 바람에 둘이 싸웠어.",
+            "utterance_id": "BE22009368.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 좋은 마음이었는데, 마음처럼 되지 않았구나. 친구들을 도와주려 한 거였을 텐데 정말 속상했을 것 같아.",
+            "utterance_id": "BE22009368.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 속상하고 슬퍼. 내가 나서지 말았어야 했나 봐. 괜히 끼어들었다는 생각에 너무 후회가 돼.",
+            "utterance_id": "BE22009368.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "비록 결과가 안 좋을지라도, 너는 친구들을 화해하게 하려고 노력을 한 거잖아. 그게 너의 최선이었을 테니 너무 후회하지 않았으면 좋겠어.",
+            "utterance_id": "BE22009368.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "노력하면 뭐 해. 내가 다 망쳐버렸어. 학교 다닐 때 우리 셋은 둘도 없는 친구였는데, 사이가 더 나빠지게 되고 말았어.",
+            "utterance_id": "BE22009368.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 네가 최선을 다한 것만으로 의미가 있다고 생각해. 그 친구들이 현재는 원래도 사이가 별로 좋지 않았다면서. 내가 그 친구들이라면, 오히려 노력이라도 한 너에게 고마울 것 같아.",
+            "utterance_id": "BE22009368.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "결과가 안 좋게 됐는데도, 친구들이 나를 그렇게 생각할까? 나 지금 너무 절망스러워.",
+            "utterance_id": "BE22009368.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 마음이 따뜻하고 넓은 사람이잖아. 친구들도 너의 성격을 알기 때문에, 너를 오해하지는 않을 거라고 생각해.",
+            "utterance_id": "BE22009368.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 다행인데, 내 잘못이라는 죄책감이 너무 크게 들어. 우리 셋이 다신 친해질 수 없을까 봐 슬프고 불안해.",
+            "utterance_id": "BE22009368.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 노력하고 친구들을 생각해 주는 네 마음이 참 착하다. 이런 네가 있기 때문에, 언젠가는 화해할 수 있지 않을까? 친구들도 너의 진심을 알아줄 거야.",
+            "utterance_id": "BE22009368.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그럼 좋겠다. 난 정말 실수였거든. 너랑 얘기하니까 마음이 편해져.",
+            "utterance_id": "BE22009368.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 편할 수 있다면, 난 언제든 얘기 들어줄 준비가 돼 있어. 넌 나한테 정말로 소중한 친구인걸. 네가 슬퍼하지 않기를 바라.",
+            "utterance_id": "BE22009368.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너의 든든한 위로로 인해 슬픔이 좀 해소된 것 같아. 너처럼 내 마음을 편하게 해주는 친구와 이야기하니 참 좋다. 정말 고마워.",
+            "utterance_id": "BE22009368.15"
+        }
+    ]
+}

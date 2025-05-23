@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009842",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009842",
+        "relation": "친구",
+        "situation": "드로잉 연습을 시작했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 고민이 있어.",
+            "utterance_id": "BE22009842.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이길래 그래? 내가 들어줄게.",
+            "utterance_id": "BE22009842.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 예전부터 그림 그리는 취미를 갖고 싶어 했잖아. 그래서 이번에 미술학원에 등록해서 드로잉 연습을 시작했거든.",
+            "utterance_id": "BE22009842.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와, 드디어 미술학원에 등록했구나! 네가 하고 싶어 하던 일이라서 좋아할 줄 알았는데, 생각보다 기분이 좋아 보이지는 않네. 무슨 일 있었어?",
+            "utterance_id": "BE22009842.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 학원에서 제일 못 그리는 것 같아서 당황스러워. 분명 취미반이라고 해서 신청했는데, 다들 최소 3년 이상은 그림을 그려본 사람들이래. 진짜 초보는 나뿐이더라고.",
+            "utterance_id": "BE22009842.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상에, 이야기를 듣는 나도 이렇게 당황스러운데, 당사자인 너는 어떨지 상상이 안 돼. 취미반이라고 했는데, 다들 실력이 좋으니까 나만 못하는 것 같다는 생각에 당황스러울 만도 하지. 그리고 네가 그림 실력이 꽤 괜찮다고 생각해서, 더 마음이 복잡하겠다.",
+            "utterance_id": "BE22009842.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 맞아. 그리고 내 착각인지 모르겠지만, 선생님이 내 그림을 보고 한숨을 쉬신 것 같아서 더 부끄러워. 내 그림이 그렇게 한숨이 나올 정도로 형편없다는 걸까? 알려주시려다가 한숨을 쉬시니까 내가 뭘 잘못했나 싶어서 어쩔 줄을 모르겠더라.",
+            "utterance_id": "BE22009842.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "만약 선생님께서 진짜로 네 그림을 보고 한숨을 쉬신 거라면 선생님께서 실수하셨네. 그렇지만 미술 학원에서 너보다 더 초보자인 사람들도 보셨을 테니 네 그림을 보고 형편없다고 생각하시지는 않았을 거야. 아마 네가 이미 다른 사람들의 실력에 위축된 상태라서, 조금 오해가 있었던 건 아닐까?",
+            "utterance_id": "BE22009842.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 네 이야기를 들으니까 그 외에는 나한테 친절하게 알려주신 걸 생각하면 내가 선생님을 오해한 것 같아. 그런데 다른 사람들 실력을 보니 나처럼 형편없는 실력으로 그림을 취미로 해도 될지 모르겠어. 창피한 실력이야. 취미반이 내가 생각했던 게 아니라서 조금 당황스럽네.",
+            "utterance_id": "BE22009842.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "수업을 듣고 많이 당황스러운 마음은 이해하지만, 3년 이상 그린 사람들이면 잘 그리는 게 당연하지. 너는 제대로 배워본 적 없이 취미로만 하다가, 이제 배워보려는 거잖아. 너도 제대로 배워서 그 사람들만큼 오래 그리면, 분명 잘 그릴 거야.",
+            "utterance_id": "BE22009842.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까? 나도 그 사람들만큼 오랜 시간을 투자하면 잘 그릴 수 있을까? 화가까지는 바라지 않아도, 부끄럽지 않은 실력이 되고 싶어.",
+            "utterance_id": "BE22009842.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지! 너는 습득력이 좋고 감각이 좋아서 분명 그림도 금방 실력이 늘 거야. 그리고 원래도 네 그림 실력은 좋았다고 생각하는걸? 지금처럼만 열심히 노력하면 정말 남부럽지 않은 실력이 될 수 있을 거라고 믿어. 내가 응원할게.",
+            "utterance_id": "BE22009842.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네가 그렇게 말해주니까 마음이 편해지고, 자신감이 생겨. 나만 열심히 노력하면, 다 잘할 수 있을 것 같아! 정말 고마워.",
+            "utterance_id": "BE22009842.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너의 그런 긍정적인 생각이 항상 보기 좋아. 네 기분이 좋아졌다니 정말 다행이야. 앞으로도 고민이 있을 때 언제든 이야기해. 내가 들어줄게.",
+            "utterance_id": "BE22009842.14"
+        }
+    ]
+}

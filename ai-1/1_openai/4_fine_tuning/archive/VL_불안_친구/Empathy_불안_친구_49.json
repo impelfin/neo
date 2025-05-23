@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009790",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009790",
+        "relation": "친구",
+        "situation": "아침 알람이 세 번 울리고 나서야 일어났다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 아무래도 저혈압인가 봐. 아침에 일어나는 것이 너무나 힘들고 어려워.",
+            "utterance_id": "BE22009790.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 말을 할 정도로 일어나기가 어렵다니. 듣는 나도 네가 걱정된다.",
+            "utterance_id": "BE22009790.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원에서 진단받은 것은 아니야. 저혈압인 사람은 아침에 일어나기 힘들다고 하니까 나도 저혈압인가? 그런 생각이 든 거야.",
+            "utterance_id": "BE22009790.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "출근해야 하는데 아침에 일어나는 것이 힘들면 정말 힘들겠구나. 더군다나 저혈압이 걱정될 정도라니 말이야. 아침에 출근을 준비할 때마다 여러 가지로 어려움이 많겠네.",
+            "utterance_id": "BE22009790.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 알람이 한 번 울리면 감각도 안 깨어나. 결국 알람이 세 번 정도 울려야 간신히 눈이 떠져.",
+            "utterance_id": "BE22009790.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제시간에 일어나지 못할까 봐 알람이 계속 울리도록 해 놓은 것이구나. 그런데도 일어나기가 쉽지 않으니 아침마다 지각할까 봐 정말 불안하겠다.",
+            "utterance_id": "BE22009790.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 아침마다 지각 걱정으로 스트레스야. 알람이 한 번 울면 바로 일어날 수 있었으면 좋겠어.",
+            "utterance_id": "BE22009790.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 회사에서 네가 많이 무리했잖아. 몸이 너무 피곤하니까 아침에 알람을 쉽게 못 듣거나 못 일어나는 거지.",
+            "utterance_id": "BE22009790.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 야근한 다음 날은 아침에 일어나는 것이 정말 힘들어. 알람 소리를 계속 들으면서도 안 일어나니까 피곤이 쌓이는 것 같아.",
+            "utterance_id": "BE22009790.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 너는 야근을 자주 하는데 다 출근도 다른 사람보다 빨리하는 편이잖아. 그러니 얼마나 피곤할지 이해가 간다. 피로가 누적되다 보니 일어나기가 너무나 힘든 거야.",
+            "utterance_id": "BE22009790.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 어떻게 하면 알람이 한 번 울리면 일어날 수 있을까?",
+            "utterance_id": "BE22009790.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우선은 푹 자야지. 그러기 위해서는 네가 너무 무리하지 말아야 해. 여러 번의 알람에 일어나는 것보다 한 번의 알람에 일어나는 것이 피로가 덜 하다고 하더라고.",
+            "utterance_id": "BE22009790.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "푹 자는 게 중요하네. 비몽사몽간에 알람을 계속 의식하면 선잠을 자니까 피로가 더 쌓일 거고.",
+            "utterance_id": "BE22009790.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 그동안 쉼 없이 달려왔던 일들을 잠시만 내려놓고, 쉴 수 있는 시간을 네가 만들어 봤으면 좋겠어. 너무 빨리 달려가면 넘어지기 마련이니까.",
+            "utterance_id": "BE22009790.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고맙다. 나도 조금 주변을 바라볼 때가 된 거 같네. 휴가 한 번 내고 쉬면서, 내 망가진 기상 습관도 체크를 해봐야겠어.",
+            "utterance_id": "BE22009790.15"
+        }
+    ]
+}

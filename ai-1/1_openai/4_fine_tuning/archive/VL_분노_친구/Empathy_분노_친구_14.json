@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009384",
+        "listener_behavior": [
+            "조언",
+            "동조"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009384",
+        "relation": "친구",
+        "situation": "교통사고를 목격했던 지인이 침묵을 한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 내 지인에게 너무 화가 나. 이 화를 어떻게 해야 할지 모르겠어.",
+            "utterance_id": "BE22009384.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머나, 무슨 일 있었니?",
+            "utterance_id": "BE22009384.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 지인이 교통사고를 목격했는데 침묵해. 근데 내 입장에서는 왜 침묵하는지 이해할 수가 없어서 화가 나. 목격했으면 당연히 진술해야 하잖아!",
+            "utterance_id": "BE22009384.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 내 주변 사람이 사고를 목격하고 말을 안 하면 실망이 클 것 같아. 네가 어떤 이유로 화가 났는지 알 것만 같아.",
+            "utterance_id": "BE22009384.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 더구나 그 사고는 지금 목격자도 찾고 있거든. 근데 나서지 않더라고. 난 정말 그렇게 비겁한 사람들을 보면 화를 주체할 수 없어.",
+            "utterance_id": "BE22009384.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 상황에서 말을 안 하면 주변인이 너로서 당연히 화가 날 수밖에 없을 것 같아. 나 같아도 너처럼 그 사람이 비겁하다고 느꼈을 거야. 네가 화를 낼 수밖에 없는 상황인 것 같아.",
+            "utterance_id": "BE22009384.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 지인은 내가 왜 화를 내는지 모르더라고. 내 일도 아닌데 왜 그렇게까지 화를 내는지 모르겠대. 도리어 나보고 이상하다고 해서 더 열 받더라고!",
+            "utterance_id": "BE22009384.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 너를 더 화나게 했구나. 나 같으면 그 지인이 정말 보기 싫어질 것 같아. 비겁한 사람을 보면 화가 나는 건 당연하잖아!",
+            "utterance_id": "BE22009384.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 화가 날 것 같지? 난 지인 말 듣고 내가 너무 남의 일에 이입하나 싶었어. 도리어 내가 이상한 사람이 된 기분이었다니까?",
+            "utterance_id": "BE22009384.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "야, 나도 너라면 지인한테 화를 냈을 거야. 그 사람 자기 잘못을 아니까 도리어 너한테 뭐라고 하나 보다. 네가 비정상이 아니라 그 사람이 뻔뻔한 거니 귀담아듣지 마.",
+            "utterance_id": "BE22009384.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말 들으니까 진짜 내가 이상한 게 아니란 걸 새삼 느껴. 진짜 나는 내가 느끼는 감정이 옳지 않나 다시 되돌아봤잖아.",
+            "utterance_id": "BE22009384.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남의 말로 널 검열하지 마. 내가 거기 있었음 그 사람한테 뭐라고 했을 텐데 참 아쉽다. 말로만 도움을 줄 수밖에 없구나.",
+            "utterance_id": "BE22009384.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "아니야, 충분히 도움이 됐어. 덕분에 이제 화도 안 나는걸.",
+            "utterance_id": "BE22009384.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 괜히 이상한 사람 때문에 감정 낭비하지 말자. 괜한 사람한테 아까운 시간 쓰지 말자고!",
+            "utterance_id": "BE22009384.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 네 말처럼 신경을 꺼야겠어. 내 얘기 들어줘서 고마워!",
+            "utterance_id": "BE22009384.15"
+        }
+    ]
+}

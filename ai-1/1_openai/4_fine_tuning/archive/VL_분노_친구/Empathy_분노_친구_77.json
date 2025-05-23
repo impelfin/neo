@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22009965",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009965",
+        "relation": "친구",
+        "situation": "여자 친구가 말다툼 후 혼자 집으로 가버렸다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 지금 정말 어이없어서 화밖에 안 나.",
+            "utterance_id": "BE22009965.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 안 좋은 일이라도 생겼니?",
+            "utterance_id": "BE22009965.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "놀러 가서 여자 친구랑 말다툼이 있었는데 기분이 상했는지 갑자기 혼자 집으로 가버리는 거 있지. 기분이 나쁘면 그 자리에 풀면 될 텐데 말이야. 어른스럽지 못하게 그렇게 가버린 태도에서 내가 너무 화가 났어.",
+            "utterance_id": "BE22009965.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "심하게 싸우고 나서 그 자리에 혼자 덩그러니 남겨진다면 참 쓸쓸하고 기분이 안 좋을 만해. 기분 좋게 놀러 갔을 텐데 서로 감정 상해서 제대로 놀지도 못하고 돌아왔겠다. 많이 심각한 주제로 다툰 거야?",
+            "utterance_id": "BE22009965.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전혀 심각하지 않은 주제라서 더 화가 나. 사소한 일로 하루 일정을 다 망쳐버렸다는 게 너무 짜증 나. 우리가 정말 안 맞는 건지 항상 사소한 걸로 이러는 게 진절머리가 난다.",
+            "utterance_id": "BE22009965.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "계획이 틀어지면 나라도 정말 답답하고 짜증 날 거야. 원래 연인들은 사소한 걸로 많이 다투고 싸우게 되잖아. 너희가 유별나서 그런 게 아니니 너무 그렇게 생각하지 마.",
+            "utterance_id": "BE22009965.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사소한 걸로 다투는 건 다 똑같겠지만 대화로 잘 푸는 커플과 다르게 우리는 그냥 파국이야. 말이 안 통한다고 삐져서 훅 가버리는 그런 애랑 뭘 얘기할 수 있겠어. 진짜 너무 열받아서 잠도 안 와.",
+            "utterance_id": "BE22009965.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 지금 많이 화난 건 그만큼 많이 상처받아서일 거야. 재밌는 추억을 쌓으려고 놀러 간 곳에서 그렇게 혼자 있었으니 얼마나 속이 상했겠어. 게다가 아직 사랑하니까 더 어떻게 할지를 모르고 밉기만 한 것 같네.",
+            "utterance_id": "BE22009965.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 화가 나는데 여자 친구의 충동적인 행동에 많이 충격을 받기도 했어. 내가 말하는 의도는 그런 게 아닌데 안 좋은 쪽으로만 받아들이고 토라지는 여자 친구가 너무 답답해. 내가 몇 번이고 사과했는데, 진심이라는 걸 안 믿더라고.",
+            "utterance_id": "BE22009965.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "서로 대화하는 방식이 잘 맞지 않은가 봐. 너도 자존심을 여러 번 깎아가며 노력했는데 받아들여지지 않았다고 생각하니 얼마나 억울했겠어.",
+            "utterance_id": "BE22009965.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 말이 그 말이야. 내 여자 친구니까 여러 번 굽히는데 여자 친구는 그러지 않는 것 같아서 정말 한계가 오더라고. 얘가 날 좋아하긴 하는 걸까.",
+            "utterance_id": "BE22009965.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "서로 좋아하는데 소통 방식에서 문제가 되는 것 같네. 여자 친구도 너도 서로 말투를 바꿔보자고 조심스럽게 물어보는 건 어떨까. 이게 아무리 미안한 마음이 있어도 말투가 나긋하지 않으면 다르게 전달될 우려가 있더라.",
+            "utterance_id": "BE22009965.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 둘 다 흥분한 상태여서 큰 소리로 얘기를 하기는 했어. 여자 친구는 내 큰 목소리에 더 상처받아서 그랬을 수도 있겠네.",
+            "utterance_id": "BE22009965.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 여자 친구의 속마음을 넌 아직 모르니까 한번 대화로 풀어봐. 그리고 여자 친구도 많이 미안해하고 있을 거야. 그러니까 마음 풀었으면 좋겠어.",
+            "utterance_id": "BE22009965.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "너한테 말하니까 덕분에 기분이 좀 풀리는 것 같아. 서로 오해도 있었던 것 같고. 네 말대로 여자 친구랑 다시 한 번 대화를 해볼게. 고마워.",
+            "utterance_id": "BE22009965.15"
+        }
+    ]
+}

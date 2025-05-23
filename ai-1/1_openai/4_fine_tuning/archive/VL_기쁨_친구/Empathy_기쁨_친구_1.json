@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008919",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008919",
+        "relation": "친구",
+        "situation": "엄마는 기업체 급식소에서 일하신다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지난 달부터 엄마가 다시 일하시기 시작했어. 활력을 찾은 엄마 모습에 기분이 너무 좋은 거 있지!",
+            "utterance_id": "BE22008919.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와, 정말 잘 됐다! 너 뿌듯하겠다. 나도 이렇게 기쁜걸!",
+            "utterance_id": "BE22008919.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 이렇게 자신감을 가지고 사회생활을 다시 하신다는 게 믿기지가 않아. 그만큼 감사하고, 감동이지.",
+            "utterance_id": "BE22008919.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 너 스트레스 때문에 고생 엄청 했잖아. 기다리던 엄마 모습을 드디어 봤으니, 그 마음은 오죽하겠니. 나도 감동이다!",
+            "utterance_id": "BE22008919.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어 엄마 항암 치료받으시던 지난 2년간 다시 일어나실 수 있을까 걱정 정말 많았어. 기적 같은 일이 생긴 것 같아, 행복해!",
+            "utterance_id": "BE22008919.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 알지. 엄마 생각 항상 먼저 하면서, 보살피던 너의 지극 정성을 어떻게 잊을 수 있겠어. 난 그때 네가 정말 대단하다고 느꼈어. 너가 보여 준 희생정신과 의지력이 나에게 훌륭한 귀감이었거든.",
+            "utterance_id": "BE22008919.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 해야 할 일이었지. 공감화자가 그렇게 말해주니, 그때 했던 고생을 칭찬받는 것 같아 눈물이 난다. 아, 엄마가 심지어 오늘 아침에는 도시락도 직접 싸 가셨어.",
+            "utterance_id": "BE22008919.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와 놀랍다. 네가 어머님 의지력을 닮았구나! 아직도 몸이 힘드실 텐데 말이야. 나라면 너무 기뻐서 엄마를 안아드렸을 것 같아.",
+            "utterance_id": "BE22008919.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 공감화자 넌 다정해! 나는 그런 애교스러운 모습은 없는데, 오늘 처음으로 엄마한테 고맙다는 말씀은 드렸어. 생각보다 훨씬 더 좋아하셔서 놀랐지 뭐야.",
+            "utterance_id": "BE22008919.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감성화자야 너무 잘했다! 맞아, 부모님들은 그런 고마움이나 사랑의 표현을 기다리고 계시는 것 같아. 나도 부모님께 사랑한다고 처음 말로 표현했던 날, 두 분이 보여주신 기쁨의 표정을 못 잊어.",
+            "utterance_id": "BE22008919.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지! 앞으로 더 자주 표현을 해야겠어. 하긴 나도 우리 딸이 나한테 사랑한다고 말하면 심장이 녹는 것처럼 따뜻한 마음이 생기거든.",
+            "utterance_id": "BE22008919.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 받는 사람도 기쁘고, 주는 사람은 더 기쁜 게 사랑과 감사의 표현인 것 같아. 우리도 서로 이런 표현 더 자주 나누자!",
+            "utterance_id": "BE22008919.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하하, 애교스러운 공감화자가 더 많이 하면 되겠네! 엄마가 아팠던 시간 덕분에 보통날들을 더 감사하게 될 줄 알아서 기쁘고 행복하다.",
+            "utterance_id": "BE22008919.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감성화자야, 너 덕분에 나도 마음이 따뜻해진다. 맞아, 감사와 기쁨은 대단한 곳에 있는 것 같지 않아.",
+            "utterance_id": "BE22008919.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "공감화자야, 우리 집안일을 네 일처럼 기쁘게 느껴줘서 정말 고맙다. 너의 따뜻한 마음이 느껴져서 감동했어!",
+            "utterance_id": "BE22008919.15"
+        }
+    ]
+}

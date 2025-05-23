@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009370",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009370",
+        "relation": "친구",
+        "situation": "출근시간 늦었는데 엘리베이터가 안 내려온다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 아파트 엘리베이터는 매일 왜 이렇게 늦게 내려오는 거야? 바빠서 미칠 지경이라고.",
+            "utterance_id": "BE22009370.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘도 또 그렇구나? 얼른 출근해야 하는데, 너 마음이 정말 초조하겠다.",
+            "utterance_id": "BE22009370.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "초조한 정도가 아니라 열받고 너무 화가 나. 어떻게 매일 이럴 수가 있냐고. 나 지각할 것 같단 말이야.",
+            "utterance_id": "BE22009370.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "바쁠 때는 1분 1초가 귀하잖아. 그런데 엘리베이터 때문에 지각이라니. 나였어도 너무 답답하고 화가 날 것 같아.",
+            "utterance_id": "BE22009370.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 벌써 5분째 기다리고 있어. 모든 층수마다 다 멈춰 서는 것 같아. 내 아파트에서 엘리베이터도 제대로 이용할 수 없다니 정말 열받는다.",
+            "utterance_id": "BE22009370.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 답답한 심정 정말 이해가 간다. 우리 집 엘리베이터도 그러거든. 네가 오늘 중요한 발표 있는 날이라 더 초조할 것 같아.",
+            "utterance_id": "BE22009370.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 할 수만 있다면, 계단으로 내려가고 싶어. 오늘도 지각하면 발표를 망치게 될 것 같아.",
+            "utterance_id": "BE22009370.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 정말 열심히 준비한 발표인데, 늦게 되면 나까지 화가 날 것 같아. 그렇지만 너 무릎 수술한 지 얼마 안 됐잖아. 계단으로 내려가다 네가 다칠까 봐 걱정돼.",
+            "utterance_id": "BE22009370.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 무릎 생각해서 참는 거야. 더 열받는 건, 엘리베이터가 내려와도 사람이 꽉 차서 바로 탈 수 없다는 사실이야.",
+            "utterance_id": "BE22009370.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하루빨리 네 무릎이 나아서, 네가 이 스트레스로부터 벗어날 수 있었으면 좋겠어. 계속 지각하게 되는 네가 얼마나 억울하고 분할지 이해해.",
+            "utterance_id": "BE22009370.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 시간을 맞춰서 나오는데, 엘리베이터 앞에서 지체하다가 버스를 놓치게 되거든. 벌써 지각을 여러 차례 해서 더 화가 나는 것 같아.",
+            "utterance_id": "BE22009370.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 잘못이 아닌데 지각을 해서 정말 화났을 것 같아. 그렇지만 조금 진정해 보면 어떨까? 화낸다고 해서 바뀌는 것은 없으니 더 좋은 방법을 찾아보자.",
+            "utterance_id": "BE22009370.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말이 맞아. 화낸다고 해서 바뀌는 건 없지. 너한테 말을 하고 나니 조금 마음이 진정되는 것 같기도 해.",
+            "utterance_id": "BE22009370.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 다행이야. 난 언제든 너를 위해 조언하고, 너를 격려할 거야. 나에게 말해서 네 마음이 풀릴 수 있다면 언제든 들어줄 수 있어.",
+            "utterance_id": "BE22009370.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너에게 말하니까 분노가 식는 것 같아. 화가 좀 가라앉네. 항상 내 편에서 날 위해줘서 정말 고마워 친구야.",
+            "utterance_id": "BE22009370.15"
+        }
+    ]
+}

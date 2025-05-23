@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009185",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009185",
+        "relation": "친구",
+        "situation": "이혼 후 혼자서 키우던 아이가 어느덧 대학생이 되었다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 우리 아들 좋은 소식 들었잖아. 우리 둘이 얼마나 기뻤는지 손을 잡고 깡충깡충 뛰었지 뭐야.",
+            "utterance_id": "BE22009185.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 대학 합격 소식 받은 거야? 정말 기뻤겠네! 듣는 내가 다 미소가 지어진다.",
+            "utterance_id": "BE22009185.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "근데 더 좋은 소식은 수석으로 합격했대! 믿을 수가 없을 정도로 놀랍고 행복해! 우리 아들이 이 정도일 줄은 미처 몰랐어.",
+            "utterance_id": "BE22009185.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 대단하다! 학원도 다니지 않고 혼자 한 거잖아. 네 아들 정말 대견하다!",
+            "utterance_id": "BE22009185.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어, 고3 되고 어느 순간부터 혼자서 무섭게 집중하더니 이렇게 만족스러운 결과를 만들어낸다. 꿈인지 생시인지 아직도 실감이 나질 않아.",
+            "utterance_id": "BE22009185.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 그럼, 그럴 만도 하지! 너 혼자서 얼마나 힘들게 키운 아들인데 말이야. 그 긴 세월 정말 수고 많았어, 난 네가 진심으로 자랑스럽다!",
+            "utterance_id": "BE22009185.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 정말 고마워. 너 아닌 다른 사람들한테는 내가 얼마나 고생했는지 말도 못 했거든. 너에게 듣는 칭찬의 위력이 얼마나 대단한지 너는 모를 거야.",
+            "utterance_id": "BE22009185.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니 내가 더 고맙지. 너 이혼하고, 아이 혼자 키우면서 흘리던 눈물 내가 다 받았잖아. 결국 이렇게 기뻐하는 모습을 보니 뿌듯해.",
+            "utterance_id": "BE22009185.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 아이 키우다 속상한 일 생기면 너한테 쪼르륵 달려가 얘기하면서 풀었지. 그 시간도 지나고 나니 아름다운 추억으로 느껴진다.",
+            "utterance_id": "BE22009185.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘처럼 좋은 결과가 있으니 과거도 아름답게 느껴지는 거야. 아들한테 축하하고 수고 많았다고 꼭 전해줘. 이모가 선물 사줄 테니 뭐가 필요한지도 물어보고.",
+            "utterance_id": "BE22009185.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선물은 무슨! 걔 지금 친구들이랑 놀러 갈 생각에 들떠서 정신이 하나도 없을 거야. 나도 신나는 마음에 너랑 어디 놀러나 갈까 해.",
+            "utterance_id": "BE22009185.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 정말 좋겠다. 우리 둘이 이 신나는 마음을 합쳐 두 배로 늘려보는 거야. 어디 풍경 좋은 데 가서 술 한잔하면서 기쁨의 축배를 들자꾸나!",
+            "utterance_id": "BE22009185.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생각만 해도 웃음이 절로 난다! 네가 있어 정말 다행이야.",
+            "utterance_id": "BE22009185.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 마찬가지야. 이렇게 진심으로 기쁨을 나눌 수 있는 사람이 몇 안 되거든. 너도 내가 좋은 일 있으면 네 일처럼 축하해 주잖아. 그러니 내게 넌 너무 소중한 사람이야.",
+            "utterance_id": "BE22009185.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그런 말을 들으니 감사해서 눈물이 다 나려고 한다. 친구야 우리 앞으로도 이렇게 서로 의지하며 잘 지내자.",
+            "utterance_id": "BE22009185.15"
+        }
+    ]
+}

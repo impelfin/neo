@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010606",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010606",
+        "relation": "친구",
+        "situation": "친구 결혼식장에서 같은 원피스를 입은 사람을 마주쳤다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 완전 민망해! 나 친구 결혼식장 왔는데 나랑 똑같은 원피스 입은 사람이랑 마주쳤어!",
+            "utterance_id": "BE22010606.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "헉, 정말? 듣기만 해도 완전 당황스럽다. 원피스가 특이한 모양이야?",
+            "utterance_id": "BE22010606.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 내가 좋아하는 쇼핑몰에서 독특한 디자인이 마음에 들어서 산 거거든! 아, 색깔까지 똑같은 원피스를 입은 사람이 한 공간에 있다니, 뭔가 부끄럽고 싫어! 친한 친구 결혼식이라 신경 써서 꾸미고 온 건데 속상해, 정말.",
+            "utterance_id": "BE22010606.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나라도 그런 상황이라면 너무 속상할 것 같아. 길거리에서도 같은 옷 입은 사람 마주치면 민망한데 같은 곳에 있다니 완전 당황스러울 것 같아. 거기다가 특이한 디자인이면 더 눈에 띌 텐데 갈아입을 수도 없고 진짜 난감하겠다.",
+            "utterance_id": "BE22010606.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 완전! 결혼식장이 크지도 않아서 계속 마주치는데 그 사람도 나 의식하는 것 같아. 아, 마음 같아선 벗어버리고 싶은데 그럴 수도 없고 그렇다고 집에 갈 수도 없고 말이야.",
+            "utterance_id": "BE22010606.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 서로 민망한 상황이겠다 정말. 에고, 신경 써서 입고 간 옷이 하필 똑같아서 얼마나 속상할까. 상의나 하의 하나만 같았으면 좀 나았을 텐데 하필 또 원피스라서 더 그랬겠다.",
+            "utterance_id": "BE22010606.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까, 상의나 하의 하나만 같으면 차라리 조금 나을 텐데 원피스라서 더 그래. 사람들이 막 웃긴다고 생각하겠지?",
+            "utterance_id": "BE22010606.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야, 그렇지 않아. 우리 길거리에서 같은 옷을 입은 사람 보면 신기하다고 생각하지, 웃긴다고 생각하진 않잖아. 그리고 그 이상으로 별생각 하지 않고 말이야.",
+            "utterance_id": "BE22010606.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "듣고 보니 그렇네. 사실 다른 사람 옷 같은 건 별생각 안 들어. 내 옷이 아니라서 별로 관심 없기도 하고 말이야.",
+            "utterance_id": "BE22010606.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까! 생각보다 사람들은 본인과 연관된 게 아니면 별로 관심이 없어. 그래서 눈치 볼 거 하나도 없는 것 같아. 그리고 입은 사람이 다르니까 옷도 다른 느낌을 내뿜었을 거야.",
+            "utterance_id": "BE22010606.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와, 그렇게 말해주니 뭔가 마음이 확 풀린다. 맞아, 나랑 다른 느낌을 풍기긴 했어. 같은 옷을 입어도 사람이 다르면 느낌이 다르니까!",
+            "utterance_id": "BE22010606.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "바로 그거야. 너는 너만의 스타일로 입은 거고 그 사람은 그 사람의 분위기를 낸 거야. 연예인들도 보면 같은 옷인데 전혀 다른 느낌을 풍기기도 하잖아.",
+            "utterance_id": "BE22010606.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아, 맞아! 같은 옷 다른 느낌! 헤헤, 당당하게 다녀도 되겠다! 고마워, 정말.",
+            "utterance_id": "BE22010606.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고맙긴! 도움이 되었다니 정말 기쁘다!",
+            "utterance_id": "BE22010606.14"
+        }
+    ]
+}

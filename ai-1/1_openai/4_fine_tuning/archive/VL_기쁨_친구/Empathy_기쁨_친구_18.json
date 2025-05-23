@@ -1,0 +1,165 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009076",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009076",
+        "relation": "친구",
+        "situation": "광안대교를 바라보며 혼자 맥주를 마셨다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부산 처음 와보는데 사람들이 그렇게 부산을 추천한 이유가 있었네.",
+            "utterance_id": "BE22009076.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "프로젝트 때문에 바쁘다더니 휴가 간 거야?",
+            "utterance_id": "BE22009076.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 프로젝트 싹 마무리하고 부산으로 여행을 왔어. 광안대교 보이는 숙소에서 광안대교를 바라보며 맥주 마시는 중이야. 밖을 바라보니 세상을 다 가진 것 같은 기분이네.",
+            "utterance_id": "BE22009076.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나라도 풍경을 안주 삼아서 마시는 맥주는 속이 뻥 뚫린 것 같이 후련할 것 같아. 정말 아름다운 야경과 떠나왔다는 해방감이 합쳐진다면 세상 누가 행복하지 않을 수가 있겠어. 네가 이렇게 기분 좋은 것도 너무나 공감되네.",
+            "utterance_id": "BE22009076.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 진짜 일하느라 짊어진 중압감 다 던져버리고, 혼자서 온전히 즐기는 밤이라 정말 행복해. 맥주 한 모금이 이렇게 달았었나 새삼 느끼는 중.",
+            "utterance_id": "BE22009076.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 정말 열심히 일했었잖아. 회사를 위해 그렇게 노력하는 사람 나는 처음 봤어, 마음껏 능력을 펼치는 네 모습이 멋있더라. 네가 있어서 그 프로젝트는 잘 마무리되었을 거야, 오늘은 마음껏 즐겨도 돼!",
+            "utterance_id": "BE22009076.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 정말 좋아서 이 숙소 안에서만 있어도 행복할 것 같아. 모든 걸 훌훌 털어버리고 왔으니 속 시원하고. 혼자 왔으니 내가 하고 싶은 대로 여행을 다닐 수도 있으니 말이야.",
+            "utterance_id": "BE22009076.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 혼자서 떠나는 여행의 매력이기도 하지. 누군가에 맞출 필요 없이 발길 닿는 대로 가볼 수도 있고 말이야. 정말 최고의 휴가가 되겠는데?",
+            "utterance_id": "BE22009076.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 그래서 혼자 떠나온 거야. 처음 와보는 부산이 어찌나 신기하던지 여기저기 마음 내키는 대로 다녔다니까! 그렇게 열심히 돌아다니고 지금 와서 마시는 맥주는 정말 환상이야.",
+            "utterance_id": "BE22009076.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여행을 완벽하게 누릴 수 있는 시간이 주어지니 맥주가 꿀맛처럼 느껴진 데도 과언이 아니겠지. 광안대교에 맥주는 정말이지 금상첨화겠다.",
+            "utterance_id": "BE22009076.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 정말이지 이런 시간이 절실했어. 그래서 정말 행복해서 너무 벅 차오르는 기분이야.",
+            "utterance_id": "BE22009076.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "열심히 일한 자 떠나라 했던 멘트가 절로 떠오르네. 너는 즐길 자격이 있어, 내가 인정 해. 네가 이렇게 기분 좋아하니 나도 절로 행복해진다.",
+            "utterance_id": "BE22009076.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 행복을 진심으로 알아주는 친구가 있어서 더 기분이 좋네. 다음에는 같이 오자, 이 감동을 고스란히 전해주고 싶어.",
+            "utterance_id": "BE22009076.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇게 해준다면 나야 정말 좋지. 상상만 해도 즐거울 것 같아. 여행 잘 마무리하고 서울 와서 보자고!",
+            "utterance_id": "BE22009076.14"
+        }
+    ]
+}

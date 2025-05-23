@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009738",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009738",
+        "relation": "친구",
+        "situation": "친구둘과 계곡에 가서 삼겹살을 구워 먹었다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오래간만에 친한 친구 두 명과 함께했어. 매일 똑같이 반복되던 일상에 기쁨이었어.",
+            "utterance_id": "BE22009738.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나를 잘 아는 사람들과 같이하면 너무 좋지. 너의 기분이 문자에서도 느껴지네. 친구들과 무엇을 했어?",
+            "utterance_id": "BE22009738.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "계곡에 가서 삼겹살을 구워 먹었는데 일에서 벗어나서 너무 좋더라.",
+            "utterance_id": "BE22009738.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 일만 하느라고 갑갑했겠구나. 편히 일 안 하고 모처럼 만에 쉼의 시간이 되었겠네. 부디 너의 지친 몸과 마음이 개운해졌으면 좋겠다.",
+            "utterance_id": "BE22009738.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맛있는 음식을 먹고 친구들과 이런저런 이야기 나누니 세상 부러울 게 없었어.",
+            "utterance_id": "BE22009738.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너에게 이야기 듣기만 해도 좋은 시간이었을 것 같아. 나도 계곡 한번 가야겠다.",
+            "utterance_id": "BE22009738.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가끔 그렇게 자연과 함께하는 것도 참 좋아. 다음에 또 가기로 했어! 벌써 기대돼.",
+            "utterance_id": "BE22009738.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자연과 가까이한다는 거 매우 괜찮은 생각 같아. 역시 섬세한 마음씨를 지닌 감정화자야. 나도 함께하고 싶어진다.",
+            "utterance_id": "BE22009738.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 그럴까? 그 친구들에게 널 소개해주면 좋아할 것 같아. 다음엔 같이 가자.",
+            "utterance_id": "BE22009738.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 소중한 친구들에게 소개하고 싶을 만큼 나를 그렇게 생각해준다니 기분 좋다. 꼭 같이 갈게.",
+            "utterance_id": "BE22009738.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다음 달에 언제 갈지 일정을 생각해봐야겠어. 가기 전까지 일도 즐겁게 할 수 있을 것 같아.",
+            "utterance_id": "BE22009738.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 달이 얼마 안 남았는데, 갈 때까지 설레며 보내겠네. 덕분에 고마워.",
+            "utterance_id": "BE22009738.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "삼겹살과 어울릴만한 다른 음식도 생각해보자. 뭐가 맛있을까?",
+            "utterance_id": "BE22009738.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "상추랑 여러 채소도 같이 먹으면 좋을 것 같고 과일도 시원하게 먹으면 좋을 것 같아. 다른 음식도 더 생각해볼게.",
+            "utterance_id": "BE22009738.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "좋아! 깻잎이랑 미나리 등등 갑자기 건강해지는 기분이 드네. 나머지 이야기는 조만간 또 나누자고.",
+            "utterance_id": "BE22009738.15"
+        }
+    ]
+}

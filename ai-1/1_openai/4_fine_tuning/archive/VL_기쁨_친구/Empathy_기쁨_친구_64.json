@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009541",
+        "listener_behavior": [
+            "조언",
+            "동조"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009541",
+        "relation": "친구",
+        "situation": "가족들을 두고 친구들과 2박3일 여행을 간다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "야호, 신난다. 태어나서 처음으로 너희들과 여행을 떠난다니, 너무 신난다.",
+            "utterance_id": "BE22009541.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너, 너무 들떠있는 거 아니니? 우리 여행 떠나려면 아직 일주일이나 남았는데, 그렇게 신나?",
+            "utterance_id": "BE22009541.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 나는 언제나 친구들과 여행을 가는 날을 꿈꾸어 왔어. 너희들은 내 마음 모를 거야.",
+            "utterance_id": "BE22009541.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴, 우리 친구들끼리 여행을 떠날 때도 너는 늘 함께하지 못했잖아. 이번이 그렇게도 꿈꾸어 왔던 친구들과의 첫 번째 여행이니 그렇게 신날 만도 하겠다.",
+            "utterance_id": "BE22009541.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 집에서는 외박이 금지잖아. 아무리 친한 친구네 집이라고 하더라도 말이야. 그런데 이번에 무려 2박 3일이나 외박이라니 실감이 안 난다.",
+            "utterance_id": "BE22009541.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 외박은커녕 통행금지도 10시였잖아. 그러니 평소에 친구들을 만나도 너 혼자 집에 들어가야 했으니 답답할 만도 했을 거야. 그런데 이번에 2박 3일 친구들과의 여행을 허락받았으니 너무나 기쁠 것 같아.",
+            "utterance_id": "BE22009541.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기쁜 정도가 아니야. 길거리에서 춤이라도 추고 싶은 심정이야.",
+            "utterance_id": "BE22009541.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 정도로 기쁘다니, 나도 함께 춤을 추고 싶다. 아무튼 네가 너무 신나 하니까 여행을 준비하는 우리들도 덩달아 무척 신이 난다. 어쩐지 너와 함께하는 이번 여행은 다른 때보다 더 특별한 여행이 될 것 같아.",
+            "utterance_id": "BE22009541.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가족들과는 언제든 함께 할 수 있지만 친구들과의 여행은 자주 갈 수 없잖아. 그래서 더 기뻐.",
+            "utterance_id": "BE22009541.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가족여행도 나름대로 의미가 있지만, 친구들과의 여행도 삶의 의미를 더욱 풍족하게 만들곤 해. 친구들과의 여행을 통해 우정이 더욱 돈독해지는 계기가 되기 때문에 더 기다려지는 것 같기도 해.",
+            "utterance_id": "BE22009541.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그렇기 때문에 가족들이 아닌 친구들과 여행을 즐기고 싶은 마음도 있어.",
+            "utterance_id": "BE22009541.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리도 너와의 여행에 대한 기대가 많아. 여행을 통해 친구의 몰랐던 점도 서로 알게 되고 성장을 하기도 하잖아. 더군다나 너와의 외박은 처음이니 얼마나 재미있을까 기대도 돼.",
+            "utterance_id": "BE22009541.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 정말 이번 여행을 재미있게 보내고 싶어. 어쩌면 처음이자 마지막 기회일 수 있으니까 말이야.",
+            "utterance_id": "BE22009541.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 여행 이후로 친구들과 여행하지 못할지도 모른다는 생각에 불안하구나. 하지만 친구들과의 여행을 통해 네가 얼마나 큰 기쁨을 누렸는지 알면 다음에도 여행을 허락할 거야. 그러니 그런 걱정은 하지 않아도 돼.",
+            "utterance_id": "BE22009541.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가족 여행도 좋고, 친구들과의 여행도 좋아. 다음 여행 때도 가족들과 잘 상의하면 친구들과 또 함께 갈 수 있을 것 같아. 여행 떠날 때까지 행복한 마음으로 보내자.",
+            "utterance_id": "BE22009541.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 우리 행복하게 여행을 기다리자.",
+            "utterance_id": "BE22009541.16"
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009381",
+        "listener_behavior": [
+            "조언",
+            "동조"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009381",
+        "relation": "친구",
+        "situation": "다 식어버린 커피를 마셨다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 따뜻한 커피가 좋은데 다 식은 커피를 마셨어. 커피는 무조건 따뜻해야 하는데 짜증 나네.",
+            "utterance_id": "BE22009381.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 항상 따뜻한 것만 마시는데, 원하는 온도가 아니어서 무척 화가 난 거구나? 나도 향이나 맛은 따뜻한 커피가 딱 좋은데 속상하네. 왜 이렇게 빨리 식은 거지?",
+            "utterance_id": "BE22009381.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까. 여름에도 따뜻한 커피만 마시는데. 카페에서 잘 못 준 건가? 주문해서 나온 지 얼마 되지도 않았는데 벌써 다 식었어.",
+            "utterance_id": "BE22009381.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 저번에 커피가 다 식어있어서 기분이 많이 상했던 적이 있어. 그때만 생각하면 진짜 아찔하다. 너도 지금 그럴 거 아니야.",
+            "utterance_id": "BE22009381.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 네 말대로 아찔하다. 다시 생각해도 화나네. 다른 사람들은 나처럼 짜증 내는 사람이 없는 건가?",
+            "utterance_id": "BE22009381.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 그런 생각이 들 것 같아. 나였으면 바로 이야기했을 것 같은데. 거기 카페 지금 엄청 바쁜가?",
+            "utterance_id": "BE22009381.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄청 바빠 보이지는 않은데 정신이 없어 보이기는 해. 지금 많이 화가 나는데 이야기해 볼까?",
+            "utterance_id": "BE22009381.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음이 편해질 수 있으면 그것도 좋은 방법인 것 같아. 직원분이 실수한 것일 수도 있으니까. 그래야 네 화가 풀릴 수 있을 것 같아.",
+            "utterance_id": "BE22009381.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우선 정신없어 보이니까 조금 있다가 가봐야겠어. 생각할수록 화가 나지만 저분들도 사정은 있을 테니까.",
+            "utterance_id": "BE22009381.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그리고 날씨도 엄청나게 추운 것도 아니니까 기왕 나온 거 그냥 마시는 것도 좋을 것 같아. 너무 뜨거우면 데일 수도 있으니까. 좋게 생각하면 마음이 편해질 수 있을 것 같아.",
+            "utterance_id": "BE22009381.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말을 들어보니까 화났던 마음이 편해졌어. 여러 가지 경우로 생각해 볼 수 있었던 것 같아.",
+            "utterance_id": "BE22009381.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 너와 같은 경험을 한 적이 있어서 네 마음을 잘 알아. 그런데도 내 말을 이해해 줘서 고마워.",
+            "utterance_id": "BE22009381.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 내 마음을 이해해 줘서 고마워. 덕분에 짜증 나는 마음도 잘 풀렸어. 그냥 식은 커피 마시려고.",
+            "utterance_id": "BE22009381.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "모든 일을 좋은 마음으로 대할 수 있으면 좋을 것 같아. 화가 나는 마음도 이해하지만, 각자의 마음을 생각해 보면 더 좋아질 것 같아.",
+            "utterance_id": "BE22009381.14"
+        }
+    ]
+}

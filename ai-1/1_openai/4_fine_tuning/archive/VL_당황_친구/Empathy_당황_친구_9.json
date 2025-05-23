@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22009710",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009710",
+        "relation": "친구",
+        "situation": "라면을 매일 먹어도 질려 하지 않는 나를 보고 다들 걱정을 한다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "라면은 정말 질리지 않는 음식이야! 매운라면, 크림라면, 맑은국물라면, 구수한라면까지, 질릴 수가 없다니까? 내가 매일 라면 먹는 걸 보고 다들 걱정하던데, 그게 그렇게 걱정할만한 일인가?",
+            "utterance_id": "BE22009710.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상에는 다양한 맛과 영양성분의 라면이 있는데 주변 사람들이 너도나도 걱정하니까 과하다 싶어? 그래도 나한테 이렇게 묻는 거 보니, 너도 한편으로는 걱정되고 혼란스러운 마음이 드나 보구나?",
+            "utterance_id": "BE22009710.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 물론 종류마다 다르겠지만, 사람들 생각보다 라면에는 영양성분이 골고루 들어가 있거든. 그런데 한편으로는 라면이 나트륨이 높은 식품이기도 해서 사람들이 걱정하는 게 이해가 가기도 해. 그런데 라면이 너무 맛있는걸 어떡해!",
+            "utterance_id": "BE22009710.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어렵다. 사실 나라도 좋아하는 음식을 쉽게 줄이지는 못할 것 같아. 좋아하는 음식을 먹는 건 너무나도 큰 즐거움인걸? 맛있는 음식을 한 입 먹으면 그 순간 하루의 피로가 싹 날아가는 것 같잖아.",
+            "utterance_id": "BE22009710.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 말이야. 특히 어머니께서 엄청 걱정하셔. 저번에는 진짜 힘든 일이 있어서, 그럴 때마다 먹는 매운 라면을 끓였더니 어머니께서 화를 내시더라고. 그래서 라면은 먹지도 못하고 솔직히 당황스러웠어.",
+            "utterance_id": "BE22009710.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 다 큰 성인인데, 식습관으로 야단을 맞았으니 당황스러울 만도 하지. 라면 하나 끓였을 뿐인데 화를 내시니까, 어떻게 해야 하나 싶기도 했을 거고. 먹고 싶어서 끓여둔 건 맛보지도 못하고, 이러지도 저러지도 못했겠구나.",
+            "utterance_id": "BE22009710.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그때 생각하면 한숨만 나와. 진짜 내가 문제인 건가? 주변 사람들 때문에 스트레스받아.",
+            "utterance_id": "BE22009710.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에이, 너무 스트레스받지 마. 주변 사람들이 너를 그만큼 사랑하고 아껴서 그런다는 거 너도 알잖아. 주변 사람들의 관심과 애정이 그런 식으로 표현된다고 생각하면 잔소리가 좀더 편하게 느껴지지 않을까?",
+            "utterance_id": "BE22009710.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "다들 나를 걱정해서 싫은 소리 해주는 거라는 걸 잊고 있었나 봐. 이번 기회에 주변 사람들을 생각해서 라면 먹는 횟수를 줄여봐야겠어. 원래 일주일에 10번 정도 먹었었는데, 일주일에 5번 정도로 줄이면 다들 걱정이 줄겠지?",
+            "utterance_id": "BE22009710.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 이미 습관처럼 형성된 식습관을 바꾸는 일은 정말 쉽지 않잖아. 그 쉽지 않은 일을 결심하는 네가 정말 대단하고 멋있어. 너 학교 다닐 때도 다이어트한다고 그 좋아하던 아이스크림을 뚝 끊었었잖아.",
+            "utterance_id": "BE22009710.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그때 아이스크림을 끊고 살이 참 많이 빠졌었지. 나도 한다면 한다고. 마음처럼 쉽지는 않지만 말이야.",
+            "utterance_id": "BE22009710.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하여튼 그때처럼 꼭 해낼 수 있을 거야. 내가 옆에서 도와줄게!",
+            "utterance_id": "BE22009710.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 옆에서 하도 잔소리를 듣다 보니까, 나한테 왜 이러는지 당황스럽기만 했었어. 주변 사람들이 나한테 애정이 있어서 그랬다는 걸 간과했었는데, 그걸 깨달으니 마음이 편해졌어. 이번 기회에 더 건강한 식습관을 만들어 봐야지.",
+            "utterance_id": "BE22009710.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "익숙함에 속아 소중함을 잃지 말라잖아. 네가 듣는 잔소리가 익숙하게만 들려 그 속에 숨은 소중함을 이제야 깨달은 거지. 나도 오늘 너랑 대화하면서 이 사실을 다시금 마음속에 새길 수 있었어! 고마워!",
+            "utterance_id": "BE22009710.14"
+        }
+    ]
+}

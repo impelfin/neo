@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010364",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010364",
+        "relation": "친구",
+        "situation": "고데기를 하다가 머리가 탔다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 지금 너무 당황스러운데 어쩌지. 데이트도 못 나가게 생겼어.",
+            "utterance_id": "BE22010364.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 무슨 소리야. 무슨 일이길래 그래?",
+            "utterance_id": "BE22010364.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 홈쇼핑에서 자동 롤 고데기를 팔길래 구입해서 오늘 처음 써봤거든. 근데 머리카락이 홀랑 타버린 거야. 진짜 너무 당황스러워서 어안이 벙벙하네.",
+            "utterance_id": "BE22010364.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "헉. 나도 저번에 앞머리 고데하다가 미리 좀 태워 먹어서 그 기분 너무 잘 알지. 진짜 너무 황망해서 순간 아무것도 못 하게 되잖아. 네가 정말 얼마나 당황스러웠겠니!",
+            "utterance_id": "BE22010364.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 진짜 순간 머릿속이 뒤죽박죽되면서 멍해지더라고. 어쩔 줄 모르겠어.",
+            "utterance_id": "BE22010364.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 진짜 이게 꿈인가 생시인가 싶잖아. 지금 네 얘기 듣는 나도 그때 그 기분 생각나서 덩달아 당황스럽다. 머리 많이 탄 거야?",
+            "utterance_id": "BE22010364.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 다행히 자동 롤 고데기 자체가 머리카락을 조금 넣어야 되는 거라서 조금 밖에 안타긴 했어. 그래도 티가 확 나서 거울 보는데 머릿속에 물음표가 막 뜨더라. 지금 당황스러움과 나 자신이 한심하다는 생각이 가득해.",
+            "utterance_id": "BE22010364.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야. 나도 그런 적 있는데 뭐 그런 걸로 한심하다고 생각해. 그런 생각하지 말아. 다들 말을 안 해서 그렇지 그런 경험 한 번쯤은 있을 거야. 너무 마음에 담아두지 말았으면 해. 한심하지 않아.",
+            "utterance_id": "BE22010364.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니까 고맙다. 근데 이 머리는 어쩌면 좋지. 머리가 타서 그런지 엄청 꼬불거려.",
+            "utterance_id": "BE22010364.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "데이트 시간이 많이 촉박한 거 아니면 가는 길에 미용실에 들러서 머리 좀 다듬는 건 어때? 나는 앞머리 태웠을 때 확실히 미용실 가서 다듬으니까 좀 낫더라고.",
+            "utterance_id": "BE22010364.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 그런 방법이 있구나. 그래야겠다. 에휴. 이게 진짜 무슨 일인지.",
+            "utterance_id": "BE22010364.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당황스러운 상황에 놓이느라 고생 많이 했네. 너무 신경 쓰지 말고 얼른 미용실 가서 머리 다듬고 데이트 가자. 오히려 이 기회에 머리 스타일 바꾸고 기분 전환했다고 긍정적으로 생각해볼까?",
+            "utterance_id": "BE22010364.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응. 좋은 조언이야. 그렇게 긍정적으로 생각하니까 확실히 좀 낫다. 역시 너랑 문자 하니, 그래도 머릿속이 좀 정리되는 기분이야. 역시 내 친구 든든하다니까.",
+            "utterance_id": "BE22010364.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기분이 좀 나아졌다니 너무 다행이네. 오늘 데이트 성공적으로 끝내길 바랄게.",
+            "utterance_id": "BE22010364.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 미용실 들렀다가 데이트하고 다시 문자 보낼게.",
+            "utterance_id": "BE22010364.15"
+        }
+    ]
+}

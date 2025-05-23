@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22009631",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009631",
+        "relation": "친구",
+        "situation": "사려고 하는 책이 절판되었다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 지금 서점에 왔는데 너무 슬프다.",
+            "utterance_id": "BE22009631.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아까 까지만 해도 서점에 간다고 신나 했잖아. 왜 그래?",
+            "utterance_id": "BE22009631.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아까는 기분 좋았지. 근데 서점에 도착해서 사려고 했던 책을 사려고 했는데 절판됐다는 거 있지. 그래서 너무 우울해.",
+            "utterance_id": "BE22009631.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원하던 책을 구입하려고 했는데 사지 못하게 된다면 정말 마음이 아프잖아. 나도 얼마 전에 그렇게 못 산 책이 있었거든. 그래서 네 마음을 이해한다.",
+            "utterance_id": "BE22009631.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너라도 이해할 줄 알았어. 이곳에 남은 한 권이 있다고 해서 퇴근하고 바로 달려왔는데 이미 다 팔렸더라고.",
+            "utterance_id": "BE22009631.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬어? 퇴근하고 서점 가는 길에 기대 많이 했을 텐데 정말 무척 속상했겠다.",
+            "utterance_id": "BE22009631.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "책 살 생각에 설레어서 퇴근하는 시간만 손을 꼽아 기다렸거든. 절판돼서 아주 아쉬웠는데 한 권 풀렸다는 소식 듣고 바로 달려갔는데 너무 아쉽다.",
+            "utterance_id": "BE22009631.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 좋아하는 책이 정말 인기가 많은가 보네. 어떻게 보면 다른 사람들도 그 책의 진가를 알아줬다고 생각하면 괜히 뿌듯하지 않아? 책을 못 사서 아쉽기도 하지만, 한편으로 뿌듯할 것 같아.",
+            "utterance_id": "BE22009631.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "내가 좋아하는 책이 다른 사람들도 좋아한다고 생각하면 기분이 좋기도 해. 그만큼 다른 사람들도 그 책을 인정해준 거니까.",
+            "utterance_id": "BE22009631.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 정말 가치가 있는 것은 많은 사람이 알아본다고 하더라. 사려고 했던 책이 절판된 것은 아쉽지만 책의 가치를 많은 사람이 알아준 것으로 만족하자.",
+            "utterance_id": "BE22009631.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 그래야겠다. 절판은 됐지만, 이 분야 사람들한테 정말 인기가 많은 책이거든.",
+            "utterance_id": "BE22009631.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 저번에 언뜻 들었던 것 같아. 나처럼 네 분야를 모르는 일반인도 한 번씩 들어봤던 책이고. 그 분야 사람들한테 인기 있는 책이면 나중에라도 책이 다시 나오지 않을까?",
+            "utterance_id": "BE22009631.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그랬으면 좋겠다. 그러면 정말 행복할 것 같아.",
+            "utterance_id": "BE22009631.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나라도 출판사에 재출간 예정이 있는지 문의 메일 넣어봐야겠다. 답장 오면 너한테 꼭 말해줄게. 그러니까 너무 우울해하지 말고 힘내!",
+            "utterance_id": "BE22009631.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "내 일처럼 생각해주고 이야기 해줘서 고마워. 슬펐는데 너랑 이야기하다 보니 힘이 난다.",
+            "utterance_id": "BE22009631.15"
+        }
+    ]
+}

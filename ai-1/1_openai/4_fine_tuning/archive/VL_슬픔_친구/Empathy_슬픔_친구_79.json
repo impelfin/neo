@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010223",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010223",
+        "relation": "친구",
+        "situation": "부모님은 형님에 대한 기대가 컸다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형이 최근에 부모님의 기대 때문에 너무 힘들었다고 말하고 집을 나갔어. 그 뒤로 부모님이 충격을 많이 받으셨어.",
+            "utterance_id": "BE22010223.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있었구나. 갑자기 형이 그런 반응을 보여서 놀랐겠다.",
+            "utterance_id": "BE22010223.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그리고 형이 그렇게 힘들었는데 내가 알아주지 못했다는 게 너무 슬펐어. 조용하던 형이 집을 나갈 정도면 많이 힘들었을 텐데.",
+            "utterance_id": "BE22010223.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너라면 당연히 그런 마음이 들 것 같아. 누구보다 형을 아끼고 있는데 도와주지 못해서 마음이 아픈 네가 이해돼.",
+            "utterance_id": "BE22010223.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이해해 줘서 고마워. 사실 형은 늘 나를 챙겨줬거든. 그런데 형이 힘들 때 내가 챙겨주지 못한 게 너무 슬퍼.",
+            "utterance_id": "BE22010223.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "소중한 사람에게 잘해주지 못했던 건 늘 후회로 남는 것 같아. 네 마음이 너무 이해돼.",
+            "utterance_id": "BE22010223.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형이 나를 원망하진 않겠지? 그럼 정말 마음이 힘들 것 같아.",
+            "utterance_id": "BE22010223.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형은 분명 자기를 제일 걱정하고 있는 게 동생이라는 아실 거야. 내가 너처럼 힘든 상황에도 내 편에 서 주는 동생이 있다면, 난 동생에게 정말 고마울 거야. 그러니까 너무 슬퍼하지 않아도 돼.",
+            "utterance_id": "BE22010223.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까? 그렇다면 내 마음이 한결 가벼워지네. 형이 어디 있든 내가 마음만큼은 함께 있다는 걸 알아줬으면 좋겠어.",
+            "utterance_id": "BE22010223.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 알아주실 거야. 네 형이잖아. 네가 이만큼이나 신경 쓰고 있다는 사실을 안다면 금방이라도 돌아오실 것 같은데? 내가 아는 네 형은 누구보다 널 아끼고 사랑하는 분이었으니까.",
+            "utterance_id": "BE22010223.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 형이 얼른 돌아왔으면 좋겠다.",
+            "utterance_id": "BE22010223.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼른 마음을 추스르고 돌아오셔서 네가 마음이 편해졌으면 좋겠다. 형도 힘들지만, 분명 그걸 보고 있는 너도 많이 힘들 거야.",
+            "utterance_id": "BE22010223.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "내 마음을 알아줘서 정말 고마워. 형이 돌아오면 내가 너한테도 알려줄게.",
+            "utterance_id": "BE22010223.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워. 우리 또 연락하자. 힘든 일 있으면 언제든 알려줘.",
+            "utterance_id": "BE22010223.14"
+        }
+    ]
+}

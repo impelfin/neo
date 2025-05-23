@@ -1,0 +1,186 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009779",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009779",
+        "relation": "친구",
+        "situation": "봄나물을 맛있게 무치고 싶은데 마음처럼 되지 않는다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 음식 만드는데 정말 소질이 없나 봐. 나물을 무쳤는데 생각과 달리 너무 맛이 없어.",
+            "utterance_id": "BE22009779.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "봄이 되니까 나물 생각이 많이 나지? 봄에는 역시 나물 반찬이 최고야. 나물을 먹고 싶어서 무쳤는데 맛이 나질 않아서 실망했나 보네.",
+            "utterance_id": "BE22009779.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 봄나물을 향긋하고 맛도 좋아서 자주 해 먹으려고 하는데 그 맛이 안 나서 고민이야. 남편도 맛이 없다고 하는데 당황스럽더라고.",
+            "utterance_id": "BE22009779.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남편이 밥상 앞에서 맛이 없다고 했으니 무척 속상했겠다. 나라도 그랬을 것 같아. 열심히 음식을 만들었는데 투정을 하니 말이야.",
+            "utterance_id": "BE22009779.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇더라. 마음이 상하긴 했어. 내가 나물을 너무 푹 삶나 봐. 나물도 제대로 못 무치는 내가 가끔은 한심한 것 같아.",
+            "utterance_id": "BE22009779.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구나 자신이 잘하는 것 한 가지는 있기 마련이야. 너는 나물은 맛있게 무치지는 못할지 몰라도 그림은 누구보다 잘 그리는 화가잖니. 내 생각에는 나물을 무르게 삶아서 향취도 덜하고 맛이 조금 덜 나기 때문에 그런 거 같아.",
+            "utterance_id": "BE22009779.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가? 누구나 한 가지 재주는 있다는 말을 들으니 기분이 조금 괜찮아졌어.",
+            "utterance_id": "BE22009779.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기분이 나아졌다니 다행이야. 네가 나물을 무친 것은 너의 가족들만 먹는 거지만, 너의 그림은 수많은 사람이 관람하잖아. 그러니 자신감을 가져.",
+            "utterance_id": "BE22009779.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그러게. 봄나물 때문에 떨어진 자존감이 네가 내 그림을 칭찬해주니까 살아났어.",
+            "utterance_id": "BE22009779.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 그림을 잘 그리는 네가 얼마나 멋있는 줄 아니? 나물 맛있게 무치는 것과 그림 잘 그리는 것 중에 택하라면 나는 그림을 택할 거야. 그러니 나물 무치는 것 때문에 자책할 필요는 없어.",
+            "utterance_id": "BE22009779.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그림을 잘 그리는 내가 나물도 맛있게 무치면 너무 완벽한 거 아닐까? 호호. 그래도 궁금하니까 나물 맛있게 무치는 비법 알려줘.",
+            "utterance_id": "BE22009779.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "비법이라면, 나물은 오래 삶으면 흐물거려서 본래의 맛이 나질 않는단다. 그러니까 나물을 삶을 때는 뜨거운 물에 살짝 데치는 정도에서 얼른 꺼내야 해. 그래야 나물 특유의 향과 식감이 살아나거든.",
+            "utterance_id": "BE22009779.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아하, 그렇구나. 그래서 네가 만드는 나물 반찬은 식감이 좋고 맛있는 거였구나. 그러면 양념은 어떻게 해야 하지?",
+            "utterance_id": "BE22009779.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나물 무칠 때 양념은 거의 비슷하니까 여태껏 네가 하던 대로 하면 될 것 같아. 나물 삶는 시간만 잘 조절하면 너도 최고의 나물무침 요리사가 될 수 있어. 멋쟁이 화가가 무친 나물을 언제 맛볼 수 있을지 궁금하다.",
+            "utterance_id": "BE22009779.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇구나. 조만간 그림 작업실로 놀러 와. 내가 제대로 된 나물무침 맛이 어떤가 보여줄게.",
+            "utterance_id": "BE22009779.15"
+        }
+    ]
+}

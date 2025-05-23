@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010041",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010041",
+        "relation": "친구",
+        "situation": "큰 아버지는 하시는 사업마다 실패한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아. 나 진짜 화가 나서 이 감정을 주체할 수가 없어.",
+            "utterance_id": "BE22010041.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래. 무슨 일 이길래 이렇게 화가 나서 문자야?",
+            "utterance_id": "BE22010041.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "큰아버지는 하시는 사업마다 전부 실패하면서 왜 이렇게 손을 벌리시는 걸까? 이번에는 정말 크게 성공할 거라고 호언장담하면서 아버지한테 돈 빌려 가시더니 결국 실패하셨어. 진짜 열 받아서 속이 뜨거워진다.",
+            "utterance_id": "BE22010041.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고. 사업하신다고 아버지한테 돈 빌린 게 한두 번이 아니라면서. 네가 자식 된 입장으로 너무 화가 나고 열받을 만한 상황이네.",
+            "utterance_id": "BE22010041.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 진짜 너무 화가 나서 지금 다 때려 부수고 싶은 심정이야. 빌려 간 돈 갚으시지도 않으셨으면서 어떻게 그렇게 염치 불구하고 또 빌려 달라하지? 빌려줬으면 사업이라도 제대로 성공시키든가, 또 실패라니. 기가 찬다 진짜.",
+            "utterance_id": "BE22010041.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아버지는 믿고 빌려주셨을 텐데 결국 실패하셨으면 이번에도 못 갚으시는 거 아니야. 너희 아버지 걱정에 네가 더 화가 나겠네. 얘기 듣는 내 속도 다 답답해질 지경이다.",
+            "utterance_id": "BE22010041.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아버지는 어차피 없어도 크게 생활에 지장이 없을 돈이라고 괜찮다고 하시는데. 그게 진짜 괜찮은 거겠어? 속이 많이 상하셨는지 어제 술 많이 드시더라고, 그 모습 보고 어찌나 더 화가 나든지.",
+            "utterance_id": "BE22010041.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "빌려 간 돈 합치기만 해도 집 한 채 값은 될 텐데, 아버지 속이 얼마나 상하셨겠니. 그 모습 지켜보는 너 속도 진짜 말이 아니겠다.",
+            "utterance_id": "BE22010041.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 진짜 지금 큰아버지 찾아가서 당장이라도 따지고 싶은데 아버지가 말리셔서 참고 있어. 진짜 이 분노가 주체가 안 돼.",
+            "utterance_id": "BE22010041.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 화가 나겠지만, 그래도 이제 그만 화를 가라앉히고 마음을 좀 풀어보자. 아버지가 많이 속상해하시는데 너까지 이렇게 불같이 화를 내면 더 속이 상하시지 않겠어? 빌려드린 돈은 나중에 더 크게 돌려받을 거라고 긍정적으로 생각해보는 건 어때?",
+            "utterance_id": "BE22010041.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 조언을 들으니 머릿속이 좀 차가워진다. 맞는 말이야. 아버지도 많이 화나고 속상하실 텐데 내가 옆에서 이러면 더 슬프실 거야. 네 말대로 좀 진정하고 아버지의 마음을 보살펴 드려야겠어.",
+            "utterance_id": "BE22010041.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 잘 생각했어. 화가 좀 풀린 거 같아서 너무 다행이다. 너무 화내면 네 속도 상하니까 이제 그만 화 풀자.",
+            "utterance_id": "BE22010041.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야지. 큰아버지도 언젠가 사업이 성공하셔서 은혜를 크게 갚으실 거라고 생각해야겠어. 매번 실패하는 게 어쩌면 크게 성공하기 위한 액땜이라고 생각해봐야지.",
+            "utterance_id": "BE22010041.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 그런 긍정적인 생각 아주 좋아. 언제든 화나고 속이 상하는 일 있으면 연락해. 다 들어줄게.",
+            "utterance_id": "BE22010041.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 덕분에 화가 많이 풀렸다. 또 연락할게.",
+            "utterance_id": "BE22010041.15"
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009517",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009517",
+        "relation": "친구",
+        "situation": "술을 먹다가 소주잔을 깨서 베였다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 요즘 되는 일이 하나도 없는 것 같아. 기분이 안 좋아서 집에서 혼자 술을 먹다가, 소주잔을 깨서 베였어.",
+            "utterance_id": "BE22009517.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "손을 베인 거야? 깨진 소주잔은 많이 날카로울 텐데 많이 다치지는 않았어?",
+            "utterance_id": "BE22009517.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그냥 피가 좀 나서 반창고를 붙여놨어. 손이 아픈 것보다 기분이 너무 안 좋아. 요즘은 뭘 해도 잘 안 풀리는 느낌이 들어.",
+            "utterance_id": "BE22009517.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기분이 울적해서 혼자 소주를 먹다가 그렇게 다치기까지 했으니, 네가 화가 날 만도 해. 살다 보면 일이 동시다발적으로 안 풀리고 부정적인 방향으로 흘러갈 때가 있지. 뒤로 넘어져도 코가 깨진다고도 하잖아.",
+            "utterance_id": "BE22009517.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 딱 그런 상황인 것 같아. 그래도 꾹 참고 누르고 있었는데, 소주잔이 깨지는 순간 내 기분도 폭발해버렸어. 정말 짜증 나고 화가 나.",
+            "utterance_id": "BE22009517.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 누구한테 화풀이라도 하고 싶은 심정이었을 것 같아. 네가 혼자 얼마나 속상했을지 상상하니까 마음이 아프다.",
+            "utterance_id": "BE22009517.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 시기가 언제까지 계속될지 모르니 너무 스트레스야. 악재가 겹치는 느낌이 들어. 어떻게 혼자 소주를 먹다가 소주잔을 깰 수가 있냐고.",
+            "utterance_id": "BE22009517.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "작은 불행이 반복되니까 네가 불안하고 화나는 건 당연해. 그래도 그런 일들이 큰 불행을 막아주고 있다고 생각하면 조금 괜찮아지지 않을까? 오늘도 크게 다칠 수도 있었는데, 그 정도로 다친 게 천만다행이라고 생각하면서 기운 내자.",
+            "utterance_id": "BE22009517.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "생각해 보니 네 말이 맞네. 소주잔이 핏줄을 스쳤다면 정말 크게 다칠 수도 있었으니까 말이야. 뭐든 생각하기 나름인 것 같아.",
+            "utterance_id": "BE22009517.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 요즘 안 좋은 일이 연이어 벌어지니까 긍정적으로 생각하는 게 힘들 순 있어. 그래도 의식적으로 노력해서 사고의 흐름을 바꾸려고 하면 좋은 운이 들어오지 않을까?",
+            "utterance_id": "BE22009517.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 뭐든 좋은 방향으로 생각하려는 훈련이 필요할 것 같아. 정말 고마워. 네 덕분에 머릿속이 좀 가벼워지는 것 같다.",
+            "utterance_id": "BE22009517.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 도움이 되었다니 다행이네. 네가 얼른 이렇게 힘든 시기가 끝나서 다시 밝고 긍정적인 친구로 돌아오길 바라. 네가 힘들어하는 걸 보니까 나도 마음이 아프거든.",
+            "utterance_id": "BE22009517.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "날 이렇게 진심으로 걱정해 주는 네가 있어서 그래도 덜 힘든 것 같다. 진심으로 고마워.",
+            "utterance_id": "BE22009517.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야. 앞으로 힘든 일 있을 때 언제든 얘기해 줘. 그리고 혼자 술 먹지 말고 조만간 얼굴 보자.",
+            "utterance_id": "BE22009517.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "좋지. 만나서 소주 한잔 기울이자. 오늘 내 이야기 들어줘서 정말 고맙다.",
+            "utterance_id": "BE22009517.15"
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009328",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009328",
+        "relation": "친구",
+        "situation": "황사 때문에 기침과 트러블로 고생중이다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 아무래도 저번에 다녀온 병원에 가서 항의해야겠어.",
+            "utterance_id": "BE22009328.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기? 무슨 일이라도 있었던 거야?",
+            "utterance_id": "BE22009328.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 지난주부터 황사 때문에 기침이랑 트러블로 고생 중이잖아. 그래서 병원에 가서 진료도 받고 타온 약도 다 먹었는데도 나아질 기미가 안 보여!",
+            "utterance_id": "BE22009328.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 병원에서 하라는 대로 했는데도 회복이 안 되어서 네가 많이 화가 났겠다.",
+            "utterance_id": "BE22009328.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "분명 병원에서 진료받았을 땐 일시적인 현상이라면서 금방 나을 거라고 했거든? 근데 일주일 넘게 지났는데도 차도가 없어.",
+            "utterance_id": "BE22009328.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런. 아픈 것도 서러운데 나아질 기미가 안 보이니까 더 서럽고 억울하겠다.",
+            "utterance_id": "BE22009328.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회복이 안 되니까 일상생활이 거의 불가할 정도야. 기침이 잦아서 말하기가 쉽지 않고, 트러블이 심해서 밖에 나가기가 꺼려져. 그러니까 더 화가 나.",
+            "utterance_id": "BE22009328.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 네 상황이었어도 정상적인 생활까지 못 하게 되니까 너무 답답하고 짜증 났을 것 같아. 하지만 병원에서 일부러 널 아프게 하려고 그런 건 아닐 거야.",
+            "utterance_id": "BE22009328.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇긴 하지만 분명 처방한 약들만 꼬박꼬박 잘 먹으면 금방 나을 거라고 했단 말이야. 난 그 말 하나 믿고 열심히 챙겨 먹었는데 계속 아프니까 너무 억울해.",
+            "utterance_id": "BE22009328.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "억울하고 속상할 네 마음 충분히 이해 가. 하지만 의사 선생님도 널 낫게 하기 위해 최선을 다하셨을 거야. 혹시 아픈 와중에도 충분한 휴식을 취하지 못해서 그런 거 아닐까?",
+            "utterance_id": "BE22009328.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "하긴, 그럴지도 모르겠다. 갑자기 중요한 프로젝트를 맡게 되어서 야근하는 날이 잦았거든.",
+            "utterance_id": "BE22009328.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "보통은 아프면 안정을 취하면서 휴식을 충분히 해주어야 하지. 하지만 워낙 네가 열정적이고 맡은 일에 최선을 다하려고 노력하는 멋진 사람이잖아. 그러니까 이건 누구의 탓이 아니라고 생각해.",
+            "utterance_id": "BE22009328.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말을 들어보니까 그렇긴 하겠다. 아무래도 몸이 피곤하면 아픈 게 잘 안 낫게 되니까.",
+            "utterance_id": "BE22009328.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 너무 노여워하지 마. 이제부터 안정을 취하면서 건강 챙기다 보면 금방 회복될 거야. 내가 아는 너는 어려운 일에도 금방 극복하는 멋진 친구니까!",
+            "utterance_id": "BE22009328.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워. 네 말 들으니까 괜히 병원한테 화풀이한 것 같네. 이제 프로젝트도 마무리했으니까 충분히 휴식하면서 극복해볼게!",
+            "utterance_id": "BE22009328.15"
+        }
+    ]
+}

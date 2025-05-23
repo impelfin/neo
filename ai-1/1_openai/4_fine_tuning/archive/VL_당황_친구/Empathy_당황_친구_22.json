@@ -1,0 +1,194 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009849",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009849",
+        "relation": "친구",
+        "situation": "일주일 내내 야근을 해서인지 코피가 났다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 방금 코피가 났어.",
+            "utterance_id": "BE22009849.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜? 왜 갑자기 코피를 흘렸어?",
+            "utterance_id": "BE22009849.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 요새 일주일 내내 야근을 해서 그런지, 피곤했나봐.",
+            "utterance_id": "BE22009849.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "연속으로 야근을 하면 누구라도 코피를 쏟을걸? 정말 많이 피곤했나보다. 지금은 멎었어?",
+            "utterance_id": "BE22009849.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 휴지로 막아 놨는데, 너무 신경 쓰이네.",
+            "utterance_id": "BE22009849.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 불편하기도 하고, 계속 피가 흐르는지 살펴야 하니까 아주 번거롭고 신경 쓰이겠다.",
+            "utterance_id": "BE22009849.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아침 회의 도중에 이래서 얼마나 놀랐는지 몰라.",
+            "utterance_id": "BE22009849.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "설마 네가 발표하던 와중이었던 건 아니지?",
+            "utterance_id": "BE22009849.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "바로 맞췄어. 양해를 구하고 화장실로 달려갔는데 거울 앞에서 어찌나 얼굴이 화끈거리던지.",
+            "utterance_id": "BE22009849.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맙소사. 어쩔 수 없는 일이었다고 해도 그런 상황이면 정말 당혹스럽지. 발표는 무사히 마쳤고?",
+            "utterance_id": "BE22009849.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다시 돌아가서 했는데 놀라서 그런지 좀 얼버무렸어. 생각하니까 또 얼굴이 달아오르네.",
+            "utterance_id": "BE22009849.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지나간 일은 너무 신경 쓰지 마. 상황이 그랬으니 다들 이해했을 거야. 안 좋은 생각은 잊고 긍정적으로 생각해보자.",
+            "utterance_id": "BE22009849.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠지. 더 생각하지 말고 일에 집중해야겠어.",
+            "utterance_id": "BE22009849.13"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 생각했어. 그래도 걱정이 되긴 하네. 너무 무리하게 일을 하는 거 아니야?",
+            "utterance_id": "BE22009849.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 내가 아직은 일을 배우고 있다 보니까 민폐 되지 않으려고 야근을 하게 되더라고. 요새 너무 힘들긴 해.",
+            "utterance_id": "BE22009849.15"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 워낙 꼼꼼하고 배우는 속도도 빠르잖아. 지금은 배우는 과정이라 힘들겠지만 적응하고 나면 괜찮아질 거야. 너무 힘들 때는 네가 멋진 커리어 우먼이 되어서 일을 완벽하게 해내는 미래를 상상해 봐!",
+            "utterance_id": "BE22009849.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "상상하니 벌써부터 가슴이 뛰는데? 응원해줘서 고마워. 열심히 해봐야지.",
+            "utterance_id": "BE22009849.17"
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009522",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009522",
+        "relation": "친구",
+        "situation": "손과 발에 한포진이 번졌다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "손발에 한포진이 번졌어. 이러다 온몸으로 번질까 불안해.",
+            "utterance_id": "BE22009522.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런, 우리 동생도 한포진으로 고생하던데. 너도 많이 놀랐을 것 같아.",
+            "utterance_id": "BE22009522.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몸을 잘 들여다보지 않아서 몰랐는데 정신을 차리니까 이렇게 번져 있네. 몸에 이상이 있는 건 아닌지 별별 생각에 마음이 너무 불안하다.",
+            "utterance_id": "BE22009522.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나라도 정신없이 살다가 몸에 이상이 생긴 걸 확인하면 너무 불안할 것 같아. 이런저런 생각에 잠까지 설치겠어. 네가 많이 스트레스받을 것 같아 걱정이야.",
+            "utterance_id": "BE22009522.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 스트레스야. 요즘 땀이 많아졌다 싶었는데 이것과도 연관이 있다나 봐. 더 큰 합병증이 오진 않을까 조마조마해.",
+            "utterance_id": "BE22009522.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "질병 하나를 얻으면 꼭 합병증 걱정이 따라오게 되더라. 동생이 심적으로 고생하는 걸 옆에서 지켜봐서 그런가, 지금 네 심정이 너무 와닿는다. 내가 다 마음이 아파 친구야.",
+            "utterance_id": "BE22009522.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 동생도 식겁했을 거야. 손발만 보면 입안이 바짝바짝 마르는 게 너무 스트레스다. 영영 이러고 살까 봐 불안해.",
+            "utterance_id": "BE22009522.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 마음이 불편한 것도 당연해. 별별 부정적인 생각이 잇따라서 네 마음을 힘들게 하겠어.",
+            "utterance_id": "BE22009522.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그래. 한포진뿐만 아니라 불안한 생각도 내 안에서 번지는 기분이야.",
+            "utterance_id": "BE22009522.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말을 들으니까 내 가슴이 다 절절해진다. 이런 때일수록 마음을 다잡고 긍정적인 생각에만 집중해 봐. 큰일은 없을 테니까 희망을 가지고 네 마음을 잘 보살폈으면 좋겠어.",
+            "utterance_id": "BE22009522.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말이 맞아. 이런 때일수록 좋게만 생각해야 나아지는 데도 도움이 될 거야.",
+            "utterance_id": "BE22009522.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "건강은 마음의 빛을 따라간다고 하잖아. 너는 워낙 씩씩한 친구니까 이번 시련도 무탈하게 극복할 수 있을 거야. 스스로 믿고 마음을 편히 가지도록 노력해 봐.",
+            "utterance_id": "BE22009522.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 갑자기 힘이 나는 것 같아. 그래, 마음을 편히 먹으면 다 괜찮아질 거야.",
+            "utterance_id": "BE22009522.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 이런 때 밥 거르지 않고 잘 챙겨 먹어야 해. 알지?",
+            "utterance_id": "BE22009522.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응원해준 너를 생각해서라도 잘 챙겨 먹을게. 덕분에 뒤죽박죽이던 머릿속이 많이 정리됐어. 고마워 친구야.",
+            "utterance_id": "BE22009522.15"
+        }
+    ]
+}

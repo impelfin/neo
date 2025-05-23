@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22010250",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010250",
+        "relation": "친구",
+        "situation": "원하는 것을 주지 않으면 화를 내는 아이를 달래 방법을 모르겠다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "후, 나는 정말 못난 엄마인 것 같아. 엄마 자격이 없어.",
+            "utterance_id": "BE22010250.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너만큼 네 아이를 사랑해주고 위해주는 엄마가 어딨다고 그래, 왜 그런 말을 하는 거야. 듣는 내 마음까지 아프게.",
+            "utterance_id": "BE22010250.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "귀하게 얻은 아이이고, 한 명밖에 없다 보니까 아이가 원하는 건 웬만하면 해주려고 했거든. 근데 그게 아이한테 독이 될 줄 몰랐어. 원하는 대로 해주지 않으면 너무 화를 내서 정말 스트레스야.",
+            "utterance_id": "BE22010250.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 임신을 위해 여러 가지로 노력하면서 고생했던 거 옆에서 지켜봐서 잘 알아. 그래서 아이에 대한 네 애정이 남다른 것도 이해하고. 근데 아이가 그것에 너무 익숙해져버려서 해주지 않으면 화를 내서 네가 힘들구나.",
+            "utterance_id": "BE22010250.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 집에서야 화를 내도 내가 달래면 되고, 혼도 내고 하면 되니까 괜찮아. 근데 이런 모습이 밖에서 보이고, 친구들에게까지 그럴까봐 불안하고 스트레스받아 정말. 내가 아이를 위해 애쓴 게 아이에게 악영향을 끼칠 줄 몰랐어.",
+            "utterance_id": "BE22010250.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집의 모습이 밖까지 이어질까봐 염려스럽구나. 원하는 대로 되지 않았을 때 화를 내서 친구들과 갈등이 생길까봐 걱정되는 마음이 들겠다. 아이를 위해서 한 행동인데 결과가 좋지 않아서 스트레스도 받고 말이야.",
+            "utterance_id": "BE22010250.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원하는 것을 받는 것에만 너무 익숙해서 그렇지 않을 때를 받아들이지를 못해. 어쩜 좋지? 이제 곧 학교에 들어가면 이 문제가 더 드러날 텐데, 정말 힘들어.",
+            "utterance_id": "BE22010250.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제 곧 입학이니까 걱정이 되고, 혹시라도 친구들과 어울리지 못할까 불안한 마음이겠어. 이런 모습 때문에 아이가 학교생활에 어려움을 겪어서 불행해질까봐 말이야. 에휴, 네가 얼마나 속상할까.",
+            "utterance_id": "BE22010250.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 불안하고 걱정돼. 입학하는 게 스트레스야 정말.",
+            "utterance_id": "BE22010250.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "학교는 새로운 환경이다 보니까 대다수의 엄마들이 아이가 잘 해낼까 스트레스받고 힘들어하더라. 아이가 잘되었으면 하는 마음은 모든 부모님의 마음이니까 어쩔 수 없는 것 같아. 입학하기까지 아직 시간이 남았으니까 집에서 계속 아이 스스로 화를 가라앉히는 연습을 해보는 건 어떨까?",
+            "utterance_id": "BE22010250.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 점점 괜찮아질까?",
+            "utterance_id": "BE22010250.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼! 아이는 부모님의 그림자라고 하잖아. 지금은 떼도 쓰고 화도 내지만 엄마의 모습을 보면서 아이도 어떻게 행동해야 하는지를 스스로 배울 거야. 불안한 마음은 잠시 내려놓고, 아이에게 집중하면서 천천히 변화해갈 수 있도록 도와줘.",
+            "utterance_id": "BE22010250.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "아직 입학 전인데 나 혼자 너무 불안해서 사서 걱정했는데, 이렇게 말해주니까 마음이 놓이네. 우리 아이의 가능성을 믿고 계속해서 연습해봐야겠어. 고마워.",
+            "utterance_id": "BE22010250.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "아이를 사랑하고, 누구보다 아이가 잘됐으면 하는 마음은 모든 부모가 같을 거야. 그러기 위해서는 조금 힘들어도 엄마가 따끔하게 이끌어줘야 할 때도 있는 거니까. 너라면 잘할 거라고 믿어, 힘들면 언제든 연락해!",
+            "utterance_id": "BE22010250.14"
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22010816",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010816",
+        "relation": "친구",
+        "situation": "후배가 거짓말을 한 것을 알게 되었다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 정말 상처받은 일이 있었어.",
+            "utterance_id": "BE22010816.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 무슨 일인데 그래? 자세히 말해봐.",
+            "utterance_id": "BE22010816.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "후배가 나한테 거짓말을 한 걸 알게 됐거든. 도대체 왜 나한테까지 거짓말을 한 건지 모르겠어. 정말 충격적이야.",
+            "utterance_id": "BE22010816.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있었구나. 기분 정말 많이 상했을 거 같아. 믿었던 사람이 그런 행동을 하게 되면 더 충격적이고 큰 상처가 되지.",
+            "utterance_id": "BE22010816.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 내가 아끼고 챙겨주던 후배라 더 믿기지 않아. 난 후배를 끝까지 믿어줬거든. 거짓말이라는 말이 후배 입에서 나왔을 땐 머리가 핑 도는 거 같았어.",
+            "utterance_id": "BE22010816.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음 충분히 이해해, 네가 얼마나 상처받았을지 감히 상상도 못 하겠어. 곱씹을수록 속상한 마음이 커지기만 할 거 같아. 머리를 망치로 맞은 듯이 충격적이기도 하고 말이야.",
+            "utterance_id": "BE22010816.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 가만히 있으려 했는데 오히려 나에게 독이 되는 거 같아. 안 좋은 생각이 꼬리에 꼬리를 물듯이 자꾸 떠오르면서 마음에 상처만 나는 거 같아.",
+            "utterance_id": "BE22010816.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수 있겠다, 네가 상처받은 모습을 보니까 나까지 가슴이 찢어지는 기분이 들어. 혼자 감당하기엔 너무 큰 일이잖아, 많이 힘들었지.",
+            "utterance_id": "BE22010816.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 내가 이런 사람이었나 하고 스스로 자책도 하고 한심하게 느껴지기도 하는 거 같아. 후배에게 배신감도 느껴지고 너무 서운한 마음이 들어.",
+            "utterance_id": "BE22010816.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "듣는 나도 이렇게 상처인데 너는 오죽하겠어. 네가 아파하는 모습을 보니까 너무 안쓰럽게 느껴진다. 답답한 마음이 쉽게 사라지지 않을 거 같아 울적한 마음도 들고 말이야.",
+            "utterance_id": "BE22010816.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 혼란스러운 마음도 들고 충격적인 마음이 가시질 않아. 가슴에 누가 난도질을 해놓은 것처럼 쓰라린 기분이야. 의욕도 없고 온종일 멍하게 있는 거 같아.",
+            "utterance_id": "BE22010816.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇구나. 상처 입은 네 모습을 보니 마음이 정말 안 좋아. 나였어도 온종일 멍해져서 아무것도 손에 잡히지 않았을 거 같아. 그래서 넌 후배랑 사이를 끝내고 싶어?",
+            "utterance_id": "BE22010816.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "바보 같게도 이 인연을 쉽게 못 끊어내겠어. 머리로는 알겠는데 너무 소중했던 사람이라 얘기를 들어보고 싶어. 나 너무 한심하지.",
+            "utterance_id": "BE22010816.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "절대 그렇지 않아 오히려 네 마음이 정말 넓은 거 같아서 박수를 보내주고 싶어 대단해. 후배도 너를 기다리고 있을 수 있어. 대화를 해본다면 상처 입은 네 마음도 나아질 거야 그러니까 기운 내.",
+            "utterance_id": "BE22010816.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "응. 그런가. 네 얘기를 들으니 내 마음이 한결 나아진다. 얘기 들어줘서 고마워.",
+            "utterance_id": "BE22010816.15"
+        }
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010073",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010073",
+        "relation": "친구",
+        "situation": "거래처에서 일방적으로 계약을 해지했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 너무 어이없는 일을 당해서 지금 너무 스트레스받아.",
+            "utterance_id": "BE22010073.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 무슨 일 있었어? 자세히 말해 봐.",
+            "utterance_id": "BE22010073.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "거래처에서 일방적으로 계약을 해지한 거 있지. 너무 황당해서 말도 안 나오더라.",
+            "utterance_id": "BE22010073.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 지인 소개로 최근에 받은 그 농산물 거래처 말하는 거야? 지인 소개라고 네가 흥정도 안 하고 거래했다고 했잖아.",
+            "utterance_id": "BE22010073.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 내 말이. 요새 농사 힘드니까 가격도 부르는 대로 주기로 했는데. 어떻게 이렇게 일방적으로 통보할 수가 있어?",
+            "utterance_id": "BE22010073.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 거래처 입장도 배려하면서 거래했는데 너무 허무하겠다. 아무 이유도 없이 믿음을 깨버리다니 너무하네.",
+            "utterance_id": "BE22010073.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "심지어 그것도 전화로 통보하고, 소개해 준 내 지인까지 난처해지고. 오픈도 얼마 안 남았고 이래저래 너무 불안해.",
+            "utterance_id": "BE22010073.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오픈을 앞두고 이런 일이 생겨서 맥 빠지는 마음 충분히 이해해. 하지만 회사 그만두고 창업해서 여기까지 온전히 네 힘으로 이뤄냈잖아. 그런 너라면 이 정도는 문제없이 해결할 수 있을 거야.",
+            "utterance_id": "BE22010073.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 너는 나에게 힘이 되는 말을 해준다니까. 생각해 보니 중간에 이런 일이 생기지 않고 미리 대처할 수 있어서 차라리 잘됐어.",
+            "utterance_id": "BE22010073.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "긍정의 힘이 기운을 차린 것 같아 다행이다. 너한테 정말 배워야 할 점인 것 같아. 힘들거나 화가 나는 일이 있어도 금세 이겨내잖아.",
+            "utterance_id": "BE22010073.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 옆에서 이렇게 북돋아 주니까 가능한 일이지. 사업한다고 이런저런 고민 많이 얘기했는데. 그때마다 진심으로 들어줘서 감동이야.",
+            "utterance_id": "BE22010073.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사업을 하려면 온전히 네가 다 선택해야 하니까 불안하기도 하고 책임감도 무거웠을 것 같아. 그런 마음을 나한테라도 나누면서 풀길 바랬어. 지금까지도 아주 잘했으니까 마음을 편안히 가져도 괜찮아.",
+            "utterance_id": "BE22010073.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "덕분에 긴장되던 마음이 안정된다. 정신 차려서 이번 위기도 잘 헤쳐나가야지. 진짜 고맙다.",
+            "utterance_id": "BE22010073.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "힘이 된다니 그것만으로도 난 기뻐. 거래처 잘 구해서 무사히 오픈할 수 있을 거야. 파이팅!",
+            "utterance_id": "BE22010073.14"
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009482",
+        "listener_behavior": [
+            "조언",
+            "동조"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009482",
+        "relation": "친구",
+        "situation": "폭설주의보가 내려 한라산 입산이 금지되었다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 이번 제주도 여행 정말 망친 것 같아.",
+            "utterance_id": "BE22009482.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아! 너 제주도 간다고 했지. 그런데 여행을 망치다니 무슨 일이야?",
+            "utterance_id": "BE22009482.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 여행에서 한라산 등반 엄청 기대했던 일정이거든. 그런데 갑작스럽게 폭설주의보 나서 입산이 아예 금지됐어. 진짜 우울하다.",
+            "utterance_id": "BE22009482.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고. 너 진짜 기대했는데 엄청 실망했겠네. 여행 준비할 즈음 만났을 때부터 진짜 등반 코스도 설레면서 고민했잖아. 너 엄청 좋아했던 기억이 있어서 나까지 다 안타깝다.",
+            "utterance_id": "BE22009482.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 처음 가는 한라산이라 출발 비행기부터 한라산 생각만 하고 있었는데 너무 허무해. 너무 속상해서 눈물 날 것 같아.",
+            "utterance_id": "BE22009482.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음... 한라산이 마지막 일정이야? 여행 언제까지라고 했지?",
+            "utterance_id": "BE22009482.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 한라산은 초반 일정이라 아직도 한참 남았어. 그런데 한라산 못 가게 되니까 너무 슬퍼서 의욕이 없어.",
+            "utterance_id": "BE22009482.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아쉬운 만큼 다음 일정을 조금 더 보완하고 기대해 보는 게 어때? 그리고 제주도라 다음에 다시 가는 것도 비교적 쉬우니까 더 다행이지! 계획 틀어지는 게 아쉽긴 해도 그게 또 여행 묘미잖아!",
+            "utterance_id": "BE22009482.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "생각해 보니까 해외가 아닌 게 다행이긴 하다! 제주도는 언제든지 시간만 있으면 바로 올 수 있으니까! 기운 내고 아쉬운 만큼 다음 일정에 더 영혼 불태워서 즐겨야겠어!",
+            "utterance_id": "BE22009482.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래! 의기소침해 있기만 하기에는 제주도는 너무 아름답잖아! 한라산 말고도 볼거리 즐길 거리 많으니까 다 하고 와. 눈까지 와서 어디든 더 멋있고 운치 있겠다.",
+            "utterance_id": "BE22009482.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응! 네 말대로 눈 와서 근처 산책만 해도 엄청 대단한 일정인 기분일 것 같아. 이따 저녁에는 숙소 앞에 엄청 큰 눈사람도 만들어야지!",
+            "utterance_id": "BE22009482.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제주도에서 눈사람이라니 감성 터진다. 다 만들고 나 꼭 사진 보내줘! 그리고 한라산은 다음에 나랑 같이 가자.",
+            "utterance_id": "BE22009482.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋아! 다음에는 꼭 올라갈 수 있었으면 좋겠다.",
+            "utterance_id": "BE22009482.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "날씨 좋은 봄이나 가을쯤에 가면 되니까 걱정 마! 그럼 남은 여행 재밌게 보내고 조심히 올라와!",
+            "utterance_id": "BE22009482.14"
+        }
+    ]
+}

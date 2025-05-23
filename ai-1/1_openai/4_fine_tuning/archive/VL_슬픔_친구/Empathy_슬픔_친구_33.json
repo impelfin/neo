@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009616",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009616",
+        "relation": "친구",
+        "situation": "요즘 젊은 사람들은 힘들고 어려운 일은 하지 않으려 한다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 우리 회사 새로 들어온 인턴 얘기를 했었니?",
+            "utterance_id": "BE22009616.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뽑는다는 얘긴 해줬었어. 어떤데?",
+            "utterance_id": "BE22009616.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 때만 해도 열정 페이라 부를 정도로 몸을 불태우면서 일 했었잖아. 할 줄 아는 것만 하려고 하니 모든 게 내 일이 됐지 뭐야. 내 처지가 너무 슬퍼서 눈물이 다 나더라.",
+            "utterance_id": "BE22009616.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "모든 걸 배우려고 해도 모자랄 판에 골라서 하려고 하다니. 나라도 너무 답답하고 숨이 막혀 울고 말았을 거야.",
+            "utterance_id": "BE22009616.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 게다가 일을 하나부터 열까지 설명해 줘야 해. 분명 알려 준 건데도 무조건 모르겠다는 말만 하고 매 순간이 실망의 연속이야.",
+            "utterance_id": "BE22009616.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐? 그렇게 할 거면 입사는 왜 했대. 듣기만 해도 답답한데 네 맘은 오죽할까. 뭣 모르는 인턴을 모시고 일한다고 너 정말 고생 중이구나.",
+            "utterance_id": "BE22009616.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 상전을 모신다는 느낌이야. 팀장님은 무조건 인턴을 나보고 맡으라 그러시고 내가 주는 일은 거절하고. 진퇴양난에 매일 눈물바다로 하루를 보내.",
+            "utterance_id": "BE22009616.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀장님이 그렇게 말씀하신 거 보면 네게 그런 역량이 있기 때문일 거야. 처음 배울 때는 선임이 중요하다고 하잖아. 넌 능력 있고 성실하기까지 하니까 나였어도 너에게 신입을 맡겼을 거야.",
+            "utterance_id": "BE22009616.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가? 팀장님은 아니지만 네가 그렇게 말해주니 마음이 좀 괜찮아지네. 이제 앞으로 어떡해야 할까?",
+            "utterance_id": "BE22009616.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 맘이 터져버리기 전에 신입과 얘기해 보는 게 좋을 것 같아. 남은 기간을 네가 스트레스를 받지 않으려면 말이야. 듣는 나조차도 이렇게 슬픈걸.",
+            "utterance_id": "BE22009616.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아. 이렇게 하다가는 네 말처럼 내가 못 버틸지 몰라. 일하기 싫은 의욕이 자라나기 전에 네 말처럼 한 번 말해보는 게 좋을 것 같네.",
+            "utterance_id": "BE22009616.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 때를 생각하면 너처럼 훌륭한 선임을 두게 된 것이 얼마나 행운인지 잘 모르는 것 같네. 너무 걱정하지 마. 금방 알게 될 거야.",
+            "utterance_id": "BE22009616.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니 정말 고마워. 슬펐던 마음이 좀 가라앉는 것 같네.",
+            "utterance_id": "BE22009616.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 네가 좋은 선임이니까 곧 널 보고 배우면서 좋은 후임이 될 거야. 힘내.",
+            "utterance_id": "BE22009616.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 나 지금 말해 볼게.",
+            "utterance_id": "BE22009616.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "할 수 있어, 힘내!",
+            "utterance_id": "BE22009616.16"
+        }
+    ]
+}

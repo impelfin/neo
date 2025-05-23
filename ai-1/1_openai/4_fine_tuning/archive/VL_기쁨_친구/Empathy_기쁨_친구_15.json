@@ -1,0 +1,165 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009057",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009057",
+        "relation": "친구",
+        "situation": "만화카페에서 좋아하는 만화를 읽었다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘은 정말 뿌듯하고 행복한 하루였다. 남자 친구랑 간만에 즐거운 데이트였어.",
+            "utterance_id": "BE22009057.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오, 요즘 남자 친구랑 자꾸 싸우게 된다고 마음이 안 좋다고 하더니. 오늘 데이트 뭐 했길래 그런 생각이 든 거야?",
+            "utterance_id": "BE22009057.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남자 친구랑 만화 카페에 가서 오랜만에 좋아하는 만화책을 잔뜩 읽었거든. 남자 친구도 처음에는 뭐 그런 데를 가냐고 뭐라 하더니. 막상 가서 보니까 재밌고 좋은지 다음에도 또 가자고 하더라고.",
+            "utterance_id": "BE22009057.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 만화책 좋아하는 거 남자 친구가 잘 이해하지 못한다고 우울해했잖아. 근데 막상 이렇게 같이 가보니 남자 친구에게도 색다른 경험이 되었나 봐. 그래서 너도 남자 친구에 대한 애정이 샘솟고 즐거운 듯 보이네.",
+            "utterance_id": "BE22009057.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 만화를 좋아하는 거, 만화 카페 가서 종종 시간을 보내는 거, 이상하다고 했거든. 근데 오늘 가서 남자 친구 취향에 맞는 만화도 추천해주면서 같이 읽었어. 그랬더니 남자 친구도 재밌었다고 하더라.",
+            "utterance_id": "BE22009057.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 네가 이렇게 만족스러운 거구나. 네 취미를 남자 친구가 이해해주고, 같이 공유할 수 있게 되어서 말이야. 내가 좋아하는 걸 같이 나눈다는 건 진짜 기쁜 일이잖아.",
+            "utterance_id": "BE22009057.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음에 가기 싫다고 했지만 내가 조금 우겨서 데려가길 잘한 것 같아. 너무 뿌듯해.",
+            "utterance_id": "BE22009057.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 예전에 록 음악 좋아하는 거 이해 못하던 친구랑 같이 페스티벌에 간 적이 있었거든. 거기 다녀오고 난 뒤에 친구가 록 음악에 대해서 다르게 말해주니까 진짜 뿌듯하고 기분 좋았어. 너도 아마 나 같은 기분이겠지?",
+            "utterance_id": "BE22009057.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 네가 나랑 비슷한 경험이 있다고 하니 너무 좋다. 남자 친구랑 나랑 잘 지낼 수 있을까 여러모로 걱정됐었는데. 오늘 데이트를 통해서 충분히 바뀌어나갈 수 있다는 확신도 들었어.",
+            "utterance_id": "BE22009057.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남자 친구와 함께한 오늘 하루가 정말 만족스러웠나 보다. 사실 옆에서 지켜보면서 네가 힘들어하면 마음이 안 좋았는데. 오늘 하루 마음에 기쁨이 충만한 너를 보니까 나도 참 좋다.",
+            "utterance_id": "BE22009057.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "간만에 좋아하는 만화책도 읽고 정말 행복했어.",
+            "utterance_id": "BE22009057.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋아하는 일을 좋아하는 사람과 함께 한다면 그 기쁨이 2배인 법이잖아. 네가 좋아하는 일을 이해해주고 알아주는 남자 친구에 대한 마음이 더 커졌을 것 같아.",
+            "utterance_id": "BE22009057.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 남자 친구가 좋아하는 일을 같이하려고 노력해보려고. 오늘은 남자 친구와의 관계에 대해서 생각해볼 수 있는 정말 최고의 날이었어.",
+            "utterance_id": "BE22009057.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "지금 마음 그대로 변하지 않고 서로 노력한다면, 매일매일이 최고의 날이 될 거라고 믿어.",
+            "utterance_id": "BE22009057.14"
+        }
+    ]
+}

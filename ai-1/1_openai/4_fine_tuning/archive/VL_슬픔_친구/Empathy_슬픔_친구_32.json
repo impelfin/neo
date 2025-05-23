@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009603",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009603",
+        "relation": "친구",
+        "situation": "우리 강아지는 차만 타면 멀미를 한다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 바람도 쐴 겸 근처에 드라이브 다녀왔어. 그런데 우리 강아지는 차만 타면 멀미를 하네. 힘들어하는 모습 보니 정말 속상하더라.",
+            "utterance_id": "BE22009603.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 어제 오랜만에 운전했구나. 몸도 자그마한 동물이 아픈 걸 보면 정말 마음 아프겠다.",
+            "utterance_id": "BE22009603.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소에는 늘 활기차게 놀잖아. 그런데 기운 없이 가만히 있는 걸 보니 속상했어.",
+            "utterance_id": "BE22009603.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얘기만 들어도 안타깝네. 아픈 모습 보면서 네가 많이 우울했겠다.",
+            "utterance_id": "BE22009603.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제는 울적해서 잠도 잘 오지 않더라. 너도 알겠지만 내가 여행을 워낙 좋아하잖아. 그런데 우리 강아지와는 함께 할 수가 없어서 애석해.",
+            "utterance_id": "BE22009603.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사랑하는 애완견과 함께 할 수 없다고 생각하면 낙담하겠다. 나라도 속상할 것 같아.",
+            "utterance_id": "BE22009603.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제는 잠깐 차를 탔을 뿐이거든. 그런데 집에 와서 구토를 하더라고. 그 모습을 보니 눈물이 났어.",
+            "utterance_id": "BE22009603.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말만 들어도 나도 눈물이 고이네. 말도 못하는 강아지라서 더 측은해.",
+            "utterance_id": "BE22009603.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어릴 때는 괜찮았는데, 나이가 들수록 더 심해지는 것 같아. 아픈 모습 보면 마음이 짠해.",
+            "utterance_id": "BE22009603.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "넌 가족도 없이 혼자 살잖아. 함께 사는 애완견이 아프면 얼마나 억장이 무너질까.",
+            "utterance_id": "BE22009603.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 토한 걸 치우는데 정말 눈물이 눈앞을 가리더라. 자꾸 우울한 생각만 들고.",
+            "utterance_id": "BE22009603.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "힘들어하는 강아지 모습 보면 당연히 그런 마음이 들지. 하지만 너무 슬퍼하지만 말고 다른 방법을 찾아보는 건 어떨까? 네 강아지는 차를 타면 멀미하지만 산책하는 건 정말 좋아하잖아.",
+            "utterance_id": "BE22009603.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 얘기 듣고 보니 그러네. 내가 여행을 워낙 좋아하니까 함께 차를 타고 가고 싶은 마음뿐이었거든. 정작 우리 강아지는 걷는 걸 좋아하는데.",
+            "utterance_id": "BE22009603.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 함께 걷고 산책하다 보면 네 기분도 좋아질 거야. 강아지도 즐거워할 거고.",
+            "utterance_id": "BE22009603.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 멀미 때문에 너무 속상해하지는 말아야겠어. 대신 함께 걸으면 될 테니까. 늘 내게 힘을 줘서 고마워, 친구.",
+            "utterance_id": "BE22009603.15"
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009281",
+        "listener_behavior": [
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009281",
+        "relation": "친구",
+        "situation": "아들이 군대에 적응하지 못한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요새 잠에 못 들겠어. 어쩌지.",
+            "utterance_id": "BE22009281.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 안 좋은 일 있는 거야?",
+            "utterance_id": "BE22009281.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 아들이랑 통화했는데, 아들이 군대에 적응을 못 하고 있대. 그래서 매일 안절부절못하겠어.",
+            "utterance_id": "BE22009281.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐? 아들이랑 1년 반 정도를 떨어져 지내야 하는데 그런 소식을 듣다니! 나 같아도 불안해서 표정이 어두워질 것 같아.",
+            "utterance_id": "BE22009281.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아들이 선임한테 지적을 많이 받아서 잠잘 때 눈물이 쏟아진다고 하더라고. 그 말 듣자마자 앞이 핑핑 돌았어.",
+            "utterance_id": "BE22009281.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아들이 얼마나 힘들까 생각하니 걱정스럽지 왜 안 그렇겠어. 나 같아도 시야가 어질어질해지는 듯했겠어.",
+            "utterance_id": "BE22009281.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까. 이제 사회로 나오려면 한참 걸리는데 아들이 벌써 힘겨워하니까 나는 입술만 잘근거리게 돼.",
+            "utterance_id": "BE22009281.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론 그렇지. 하지만 네가 지금은 그 소식을 들은 지 얼마 안 돼서 가슴이 일렁이는 것 같아. 아들도 처음 겪는 사회에 열심히 적응하려고 노력 중일 테니 격려를 보내면 어떨까? 그러면 무엇보다 네 얼굴이 조금은 얼굴이 펴질 수 있을 거야.",
+            "utterance_id": "BE22009281.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그러고 싶은데 강가에 아이를 내놓은 것 같이 애가 타서 진정이 안 돼.",
+            "utterance_id": "BE22009281.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음 충분히 이해돼. 아들이 혹여 다치진 않을까, 인간관계는 괜찮을까 걱정이 태산 같잖아. 하지만 아이가 힘들다고 말했을 때 부모는 오히려 차분한 감정을 내비쳐야 한다고 생각해.",
+            "utterance_id": "BE22009281.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 그럼 어제... 아들이 군대 적응이 안 된다는 거 듣고는 요동치는 마음을 붙잡고 힘을 실어줘야 했을까?",
+            "utterance_id": "BE22009281.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "늦지 않았어. 조만간 아들이 또 연락해 오면 힘들어하는 목소리에 동요하지 마. 네 마음을 잔잔한 파도처럼 가라앉혀 보려고 하는 거지. 그러면 너도 편안해지고 아들에게 엄마로서 강인해 보여야겠다는 마음가짐이 설 거야.",
+            "utterance_id": "BE22009281.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 우리 아들이 나에게 조금 의지할 힘을 얻을 수 있는 거지? 나도 더 이상 손발 달달 떨지 않고?",
+            "utterance_id": "BE22009281.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "바로 그거야! 그럼 하루가 다르게 아들도 적응할 수 있고, 무엇보다도 네 얼굴에 다시금 환해질 거야.",
+            "utterance_id": "BE22009281.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그렇게 말해줘서 정말 고마워. 네 덕에 위안이 많이 돼.",
+            "utterance_id": "BE22009281.15"
+        }
+    ]
+}

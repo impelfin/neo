@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009585",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009585",
+        "relation": "친구",
+        "situation": "찹쌀떡을 먹다 이가 빠졌는데 같이 삼켰다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 낮에 엄청 황당한 일 있었어.",
+            "utterance_id": "BE22009585.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이길래 그래?",
+            "utterance_id": "BE22009585.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 내 동생 수능 보는 날이라 끝나고 맛있는 거 사줄 겸 해서 반차 쓰고 집에 있었거든. 근데 집에 동생이 시험 잘 보라고 여기저기에서 선물 받아온 찹쌀떡이 있더라고. 찹쌀떡 먹다가 이가 빠져버렸지 뭐야?",
+            "utterance_id": "BE22009585.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "치아가 아예 빠졌다는 말이야? 그럼 정말 큰 일인데?",
+            "utterance_id": "BE22009585.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "찹쌀떡이 좀 뻑뻑하다고는 느꼈는데 안 그래도 약했던 치아가 빠져버렸어. 근데 빠진 것뿐만 아니라 내가 모르고 같이 삼켜버렸지 뭐야? 내가 말하면서도 안 믿길 정도로 너무 황당해서 얼이 빠진 사람처럼 가만히 있었어.",
+            "utterance_id": "BE22009585.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "치아를 먹었다니 나라도 너무 어이없어서 순간적으로 멍해졌을 것 같은걸? 어떻게 이런 일이 발생했는지 듣기만 해도 황당하고 어이없다. 너무 놀라면 사람이 오히려 잠깐 얼음이 되잖아, 너처럼 그렇게 반응하게 되는 게 당연하지!",
+            "utterance_id": "BE22009585.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 잘 아는구나? 너 말대로 이게 실제로 벌어진 상황이 맞느냐는 생각이 들면서 멍해지는 거야. 잠깐 그러고 있다가 정신 차린 다음에 어디 병원으로 가야 하나 고민하다가 일단 치과에 다녀왔어.",
+            "utterance_id": "BE22009585.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 치아 상태부터 확인하길 잘한 거 같은데? 병원에서는 뭐래?",
+            "utterance_id": "BE22009585.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "치과에 갔는데 찹쌀떡 먹다 이가 빠졌는데 삼켜버렸다는 말이 너무 한심해서 죽어도 안 나오더라고. 의사 선생님이 뭐라고 생각할까 싶어서 말이야. 한참 망설이다가 말했는데 의사 선생님도 무척 당황하시더라.",
+            "utterance_id": "BE22009585.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 입에서 쉽게 말이 안 떨어졌겠다. 순식간에 이도 빠지고, 삼켜버리고 가뜩이나 너도 정신없고 당황스러웠을 텐데 설명까지 해야 하면 더 당황스럽겠어. 이유를 말하기가 망설여지고 힘들었을 거 같아.",
+            "utterance_id": "BE22009585.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 한 번에 설명도 제대로 못 하고 버벅거렸어. 갑자기 이런 나 자신이 바보 같고, 자괴감이 들더라. 빠진 치아는 원래 썩어있던 치아라서 임플란트의치를 하기로 하고, 삼킨 건 그래도 이상 없을 거라고 했어.",
+            "utterance_id": "BE22009585.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 종일 정말 황당한 일들의 연속이라서 많이 당황하고 정신없었겠다. 그래도 네가 일부로 그런 것도 아니고 일종의 사고 같은 일이 벌어진 거잖아. 사고는 누구나 예상치 못하게 일어나는 거라 네가 아니라 누구라도 똑같았을 거니 너무 속상해하지 마.",
+            "utterance_id": "BE22009585.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말 듣기 전까지 나는 내가 스스로 먹다가 삼켜버린 거라 내 잘못인 것만 같았거든. 그래서 더 당황스럽고 한심하고 그랬었는데 이렇게 말해주니까 좀 감동이다. 너 아니었으면 이렇게 절대로 생각 못했을 거야, 정말 고마워.",
+            "utterance_id": "BE22009585.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 사이에 뭘 이런 거로 그래! 진짜로 어쩌다 우연히 황당한 일들이 너에게 벌어진 것일 뿐이니까 더 이상 자책하지 않았으면 좋겠다.",
+            "utterance_id": "BE22009585.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "하루 내내 기분이 우울했는데 덕분에 좀 나아진 것 같네. 역시 내 마음 알아주는 건 너밖에 없어, 고마워!",
+            "utterance_id": "BE22009585.15"
+        }
+    ]
+}

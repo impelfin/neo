@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009454",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009454",
+        "relation": "친구",
+        "situation": "아침에 머리를 말라려고 하는데 드라이기가 고장 났다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와 오늘 출근하는데 드라이기가 고장 났지 뭐야. 세상에 장마철에 이게 무슨 일이야.",
+            "utterance_id": "BE22009454.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 당황했겠다. 안 그래도 곱슬머리여서 머리카락 말리는데 고생이라며. 그런데 습한 날 머리도 못 말렸으니 얼마나 짜증 났을까.",
+            "utterance_id": "BE22009454.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 수건으로 아무리 해도 말려지지도 않더라고. 해결 방법이 없어서 짜증 내면서 그냥 왔어.",
+            "utterance_id": "BE22009454.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에고 나 같아도 짜증 났을 거 같아. 특히 바쁜 출근 시간에 이것저것 뜻하는 대로 안 되면 화나지. 그래도 무사히 출근했으니 화 풀어.",
+            "utterance_id": "BE22009454.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "휴 오만 가지 짜증은 다 달고 왔어. 그런데 네 말대로 막상 또 출근하고 나니까 좀 진정되는 거 같아. 어쨌거나 출근은 했으니까.",
+            "utterance_id": "BE22009454.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이해해 더운 날 에어컨이 돌아가는 사무실에 들어가면 백 년 묵은 짜증도 내려갈 때가 있지. 다행이다 그렇게 심각한 일이 아니어서.",
+            "utterance_id": "BE22009454.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아 예전에 고장 났을 때는 불꽃이 튀어서 당황했지. 듣고 보니 이 정도로 끝난 게 다행이네.",
+            "utterance_id": "BE22009454.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 그때 너 다쳤을까 봐 걱정했었어. 드라이기가 이런 날 고장 난 건 짜증 나지만 그래도 큰 사고로 안 이어져서 다행이야.",
+            "utterance_id": "BE22009454.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말 들으니 새삼 감사하게 되네. 오늘은 그냥 전원만 안 들어왔거든.",
+            "utterance_id": "BE22009454.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 다행이야. 누구나 작은 일로 화가 날 때가 있지. 그럴 때는 이 일이 더 큰 일로 번졌을 가능성을 생각하면 마음 다스리는 데 도움이 되더라고.",
+            "utterance_id": "BE22009454.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그렇네. 그렇게 생각하니 그냥 이만하길 감사한 것 같아.",
+            "utterance_id": "BE22009454.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론 최선은 이런 일이 안 일어나는 게 좋겠지만 말이야. 그래도 마음 좀 가라앉히고 나니 기분이 더 괜찮지?",
+            "utterance_id": "BE22009454.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 진짜. 무사히 안 늦고 출근한 것도 감사해. 그리고 이 상황에 대충이라도 머리가 깔끔하게 정리된 것도 감사한 일이구나.",
+            "utterance_id": "BE22009454.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 나도 무슨 일 생길 때 그렇게 생각해. 그럼 나름 나쁘지 않은 일상을 보내고 있구나 하는 생각이 들어서 기분이 나아져. 도움이 되어서 다행이다.",
+            "utterance_id": "BE22009454.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워, 친구야. 기분을 컨트롤할 수 있는 방법을 배운 것 같아. 덕분에 좋은 하루를 시작할 수 있을 것 같네. 열심히 일하고 다시 연락할게, 고마워!",
+            "utterance_id": "BE22009454.15"
+        }
+    ]
+}

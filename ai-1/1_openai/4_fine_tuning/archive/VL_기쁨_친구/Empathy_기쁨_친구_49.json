@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009391",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009391",
+        "relation": "친구",
+        "situation": "온라인 쇼핑으로 원두를 구매하고 사은품으로 드립백을 받았다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "온라인 쇼핑으로 원두를 구매하고 사은품으로 드립백을 받았어. 매번 품절이더니 드디어 살 수 있게 됐지 뭐야. 오늘 택배가 도착했어.",
+            "utterance_id": "BE22009391.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 그 원두 사려고 매일 게시판에 문의 남기고 그랬었잖아. 정말 잘됐다. 내가 다 기뻐.",
+            "utterance_id": "BE22009391.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래는 사은품도 안 줬는데, 내가 구입할 때만 사은품을 주더라고. 드립백도 너무 실용적인 것 있지. 진짜 세상을 가진 것 같아.",
+            "utterance_id": "BE22009391.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 안 그렇겠어? 나라도 기뻐서 방방 뛰어다닐 것 같은데. 네 마음에 든다니 너무 좋은 소식이야!",
+            "utterance_id": "BE22009391.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 원두가 진짜 맛있는 원두거든. 괜히 인기가 많은 게 아니라니까. 나 아직도 실감이 안 날 정도로 행복해.",
+            "utterance_id": "BE22009391.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그토록 기다린 만큼 기쁨도 배가 될 것 같아! 오랜 기간 노력한 보람이 있겠는걸. 네가 그 어려운 경쟁률을 뚫고 구매하다니 너 참 대단하다.",
+            "utterance_id": "BE22009391.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게나 말이야. 나는 내가 진짜 구입에 성공할지 몰랐어. 이번 주에 가장 인기 있었던 온라인 쇼핑 품목이었다니까. 정말 다행이야.",
+            "utterance_id": "BE22009391.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 다 행복한걸. 나도 내가 원하던 물건을 손에 넣을 때 정말 짜릿하더라고. 오늘 그 어떤 날보다 네 기분이 좋겠다 친구야!",
+            "utterance_id": "BE22009391.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 기분 좋지. 상자를 딱 열었을 때 웃음이 주체가 안 되더라니까.",
+            "utterance_id": "BE22009391.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 봐도 네 얼굴에 함박웃음이 가득하네. 정말 잘했어, 친구야. 오늘 하루 에너지가 아주 솟아나겠는데.",
+            "utterance_id": "BE22009391.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "드립백까지 받으니까 더 좋더라고. 이 원두로 커피를 내려서 먹을 생각을 하니까 벌써 행복해져. 일하면서 한잔 딱 마셔주는 거지.",
+            "utterance_id": "BE22009391.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 완벽해. 상상만 해도 정말 설레는 일인걸. 네가 좋아하는 책을 읽으면서 커피를 마셔도 좋겠다. 그러면 더 맛도 풍부해지고 기분도 좋아질 거야.",
+            "utterance_id": "BE22009391.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그것참 좋은 생각이네. 책과 커피라니 상상만 해도 행복해. 오늘보다 더 행복한 날이 있을까 싶었는데 그게 바로 커피 마시는 날이네.",
+            "utterance_id": "BE22009391.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음이 두근거리는 게 멀리 있는 나에게까지 느껴져. 얼른 원두로 커피 내려서 마셔봐. 나라도 그 행복을 주체하기 힘들 것 같으니까 말이야.",
+            "utterance_id": "BE22009391.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래야겠어. 얼른 먹어보고 너에게도 후기 알려줄게. 고마워 친구야!",
+            "utterance_id": "BE22009391.15"
+        }
+    ]
+}

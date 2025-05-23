@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009755",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009755",
+        "relation": "친구",
+        "situation": "대형마트에서 아이를 잃어버렸다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 진짜 오늘 큰일 날 뻔했어.",
+            "utterance_id": "BE22009755.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일인데 그래?",
+            "utterance_id": "BE22009755.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 대형마트에 장 보러 갔다가 물건 고르는 사이에 우리 아이가 없어진 거 있지? 한참을 찾은 후에 과자 코너에 있던 걸 발견해서 찾았는데. 다른 것에 정신 팔려서 아이를 잃어버린 내가 용서가 안 되면서 화가 미친 듯이 나더라고.",
+            "utterance_id": "BE22009755.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 듣는 나도 정말 식겁했는데 너 정말 놀랐겠다. 아이를 찾는 내내 얼마나 마음고생했겠어. 찾게 된 후에도 내가 왜 그랬을까 하는 후회로 힘들었겠구나.",
+            "utterance_id": "BE22009755.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 아이를 잃어버린 내가 무슨 엄마 자격이 있을까 생각이 들 정도였다니까. 집에 돌아오는 내내 나 자신에게 화가 나서 분노가 머리끝까지 차오르더라고.",
+            "utterance_id": "BE22009755.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 자신을 질책하느라 너무나 고통스러웠겠다. 나라도 그런 죄책감에 휩싸여서 마음이 아팠을 것 같아.",
+            "utterance_id": "BE22009755.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이는 정작 아무렇지도 않은데 내 마음이 이렇게 진정이 안 되네. 손이 부들부들 떨릴 정도야.",
+            "utterance_id": "BE22009755.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 잘못이 아닌 걸, 너무 자책하지 마. 해프닝으로 넘길 수 있는 일에 이렇게 가슴 아파하는 엄마가 어디 있다고 그래. 아이를 무사히 되찾았으니 다음에는 더 조심하면 돼.",
+            "utterance_id": "BE22009755.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 자신이 싫어져서 그렇지, 물론 마트 안에서 찾았으니 다행인 일이지만. 내가 더 관심을 기울였으면 이런 일도 없었을 테니까.",
+            "utterance_id": "BE22009755.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다음에 너도 더 주의를 기울이고, 아이에게도 다음에는 그런 일이 생기지 않게 타이르면 괜찮을 거야. 아이를 키우는 입장에서 네가 얼마나 속상할지 내가 더 잘 알아. 다음에는 이런 일 없을 거야.",
+            "utterance_id": "BE22009755.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "내 마음 누구보다도 이해해주는 네가 있어서 마음이 조금은 가라앉는다. 방금까지는 정말 화로 가득 차 있었는데.",
+            "utterance_id": "BE22009755.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 말이 도움이 되었다니 정말 다행이다. 옆에 있었다면 꼭 끌어안아 주고 싶어.",
+            "utterance_id": "BE22009755.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음만이라도 정말 고마워. 많이 진정되어서 이제야 아이를 챙길 정신이 드네.",
+            "utterance_id": "BE22009755.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 우리에게는 챙겨야 할 아이가 있으니 마음 단단히 먹자고!",
+            "utterance_id": "BE22009755.14"
+        }
+    ]
+}

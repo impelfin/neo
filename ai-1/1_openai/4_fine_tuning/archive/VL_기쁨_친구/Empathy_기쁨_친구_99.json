@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009921",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009921",
+        "relation": "친구",
+        "situation": "손녀가 태어났다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 정말 기쁜 일이 있어.",
+            "utterance_id": "BE22009921.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 소식일 지 궁금한걸.",
+            "utterance_id": "BE22009921.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 드디어 그토록 기다리던 손녀가 태어났거든. 정말이지 너무 기뻐서 눈물이 다 나오더라고. 지금은 너무 행복해서 하늘을 날아갈 것만 같아.",
+            "utterance_id": "BE22009921.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오. 그래? 정말 좋겠다 축하해! 여태까지 느껴왔던 기쁨과 차원이 다르게 정말 좋았을 거 같아. 네가 어떤 감정을 느끼고 있을지 상상도 안 간다.",
+            "utterance_id": "BE22009921.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 정말이지 가슴이 뭉클했다니까. 이런 감정은 처음이었어. 꿈인지 생시인지도 모르겠더라고. 하루 종일 멍하게 볼만 꼬집어본 거 같아.",
+            "utterance_id": "BE22009921.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 네 말을 들으니 네가 얼마나 벅찼을지 잘 알겠어. 말로는 표현할 수 없는 감정이 느껴지고 울컥하는 기분이 계속 올라왔을 거 같아.",
+            "utterance_id": "BE22009921.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 손녀가 태어났다는 게 아직도 믿기지가 않아. 보고만 있어도 웃음이 나오고 눈에 넣어도 안 아프다는 말이 뭔지 알 거 같더라고.",
+            "utterance_id": "BE22009921.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 나였어도 그랬을 거 같아. 들뜨고 흥분되는 마음이 쉽게 가라앉지도 않고 짜릿한 기분까지 들었을 거야. 태어나는 순간엔 정말 온몸에 전율이 느껴졌을 거 같은데?",
+            "utterance_id": "BE22009921.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 정말 심장이 두근거리다 못해 터져버릴 것만 같았어. 긴장도 되고 설레는 마음도 있더라니까. 지금은 마치 구름 위를 걷는 것 같이 기뻐.",
+            "utterance_id": "BE22009921.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 좋아하는 모습을 보니 나까지 기분이 좋아진다. 네가 얼마나 손녀를 아끼고 사랑하는지 느껴져서 보는 내가 다 흡족스러운데? 마음도 한결 가벼워 보여.",
+            "utterance_id": "BE22009921.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 지금은 마음에 안정도 느껴지는 거 같아. 아까는 모든 게 평화롭고 세상이 다 아름다워 보이더라니까. 이렇게 크고 넘치는 기쁨을 내가 다 가져도 되는지 모르겠어.",
+            "utterance_id": "BE22009921.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론이지, 넌 그럴 자격이 있는 사람이야. 너도 옆에서 지극정성으로 고생 많이 했잖아 난 절대 그렇게까지 못했을 거야. 난 네가 정말 대단하고 존경스러웠어. 박수를 쳐주고 싶을 정도로 말이야.",
+            "utterance_id": "BE22009921.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 네가 내 일처럼 기뻐해 주니까 행복이 두 배가 되는 거 같아. 손녀가 태어난 덕분에 이제 정말 더는 바랄 게 없이 행복하고 황홀한 기분까지 들어.",
+            "utterance_id": "BE22009921.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "손녀가 태어났다니 다시 들어도 정말 흐뭇하다. 넌 좋은 사람이니까 네 밑에서 분명 바르게 클 거야. 이젠 아무 걱정 말고 네가 가진 행복을 마음껏 누려 넌 그럴 자격이 충분해!",
+            "utterance_id": "BE22009921.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네가 그렇게 말해주니 내 기분이 더 좋아진다. 얘기 들어줘서 고마워.",
+            "utterance_id": "BE22009921.15"
+        }
+    ]
+}

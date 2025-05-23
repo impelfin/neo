@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009844",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009844",
+        "relation": "친구",
+        "situation": "중요한 약속인데 깜빡 잊고 있었다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 나한테 삐져서 나랑 말도 안 해.",
+            "utterance_id": "BE22009844.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일인데 그래?",
+            "utterance_id": "BE22009844.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 놀이공원에 가자고 한 달 전부터 약속을 해놨는데... 그걸 내가 깜빡 잊고 있었던 걸 알고 너무 당황스러워서 안절부절못했어. 딸한테 미안해서 어떡하지.",
+            "utterance_id": "BE22009844.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고 딸이 손꼽아 기다리고 있었을 텐데 많이 실망했겠다. 그날 정신없는 일이 있었니? 너 약속은 잘 안 잊는 편이잖아.",
+            "utterance_id": "BE22009844.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 근데 갑자기 회사에서 연락이 와서 아무것도 모르고 남은 일을 하러 갔었거든. 그런데 방금 애가 펑펑 울고 있다는 엄마 전화를 받고 알았어. 너무 미안해서 죄책감이 드는 거 있지.",
+            "utterance_id": "BE22009844.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고 너도 많이 속상했겠다. 소중한 딸과의 약속인데 얼마나 당황스러웠겠어. 네가 일부러 그런 것도 아닌데 너무 자책하지 마.",
+            "utterance_id": "BE22009844.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 들어 일이 바빠지면서 가정과 아이한테 점점 소홀해진다는 걸 이번 일 때문에 깨닫게 되었어. 딸을 위해 돈을 버는 건데 목적과 수단이 서로 바뀌어버린 것 같아.",
+            "utterance_id": "BE22009844.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사와 가정을 오고 가는 워킹맘은 항상 마음 한쪽이 불편한 것을 잘 알아. 나도 마찬가지라 공감해. 마음만큼은 늘 가족과 행복한 시간을 보내고 싶은데 말이야. 그렇지?",
+            "utterance_id": "BE22009844.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 한창 어릴 때 체험학습 같은 걸 많이 나가봐야 인생의 좋은 경험이 된다는데... 난 고작 놀이공원조차 제대로 못 데려가는 나쁜 엄마가 된 것 같아서 마음이 안 좋아. 그렇다고 일을 그만둘 수도 없는 노릇이고.",
+            "utterance_id": "BE22009844.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각하지 마. 네가 매일 아이를 돌보지 못한 것도 아니고 어쩌다 실수로 깜빡한 것뿐이잖아. 이렇게 열심히 일하는 것도 다 아이를 위한 건데 어떻게 그게 나쁜 엄마겠어.",
+            "utterance_id": "BE22009844.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 같은 직장 다니는 엄마라 내 맘을 잘 헤아려주는구나. 너도 지금은 아이가 많이 컸지만 어릴 때는 많이 힘들었겠다. 존경스러워.",
+            "utterance_id": "BE22009844.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 너보다 더 깜빡했었어. 너는 양호한 편이야. 지금이라도 딸한테 가서 정말 미안하다고 깜빡한 실수를 인정하고 다시 약속을 해봐.",
+            "utterance_id": "BE22009844.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래야겠어. 너도 이런 적이 많구나. 역시 이럴 땐 아무리 어려도 솔직하게 말하는 게 도움이 되겠지?",
+            "utterance_id": "BE22009844.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그럼. 나중에는 딸아이도 다 알고 오히려 고마워하는 날이 올 거야. 얼른 가서 삐진 거 풀어주고 맛있는 거 먹으러 가.",
+            "utterance_id": "BE22009844.14"
+        }
+    ]
+}

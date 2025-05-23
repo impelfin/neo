@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010148",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010148",
+        "relation": "친구",
+        "situation": "강아지가 죽었다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 진짜 너무 슬퍼서 더 이상 살아갈 용기가 없어.",
+            "utterance_id": "BE22010148.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 그게 무슨 소리야? 너무 걱정된다. 자세히 말해봐.",
+            "utterance_id": "BE22010148.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "키우던 강아지가 어제 죽었어. 너무 슬퍼서 아무 생각도 안 나고 아무것도 하고 싶지 않아.",
+            "utterance_id": "BE22010148.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 아이 새끼였을 때부터 키웠잖아. 오래도록 가족으로 지냈으니 그 상실감이 감히 가늠이 안 된다. 네가 이렇게 힘들어하니까 나도 너무 마음이 아파져.",
+            "utterance_id": "BE22010148.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 우리 애 평생을 한 가족으로 살았어. 나도 정말 동생처럼 생각하고 지내서 감정이 주체가 안 돼.",
+            "utterance_id": "BE22010148.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지난번부터 병원 다닌다고 하더니 결과가 좋지 못했나 보네. 진짜 네가 무척 괴롭고 힘들겠다. 그 마음을 내가 다 헤아릴 수가 없네. 기운 냈으면 좋겠어.",
+            "utterance_id": "BE22010148.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "애가 아무래도 나이가 있어서 병원에서도 그렇고 가족들이랑도 보내줘야 할 때인 거 알았어. 그래서 울기도 많이 울었고 나름 마음 정리했다고 생각했었거든. 그런데 막상 현실이 되니까 상상도 못 할 고통에 더 살고 싶은 의욕이 없어.",
+            "utterance_id": "BE22010148.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 심정 알 것 같아. 그래도 강아지가 네가 이렇게 슬퍼하고 절망하고 있는 것 알면 마음 편히 못 갈 거야. 힘들어도 꾹 참고 네가 오래 기억해 주기를 바라지 않을까?",
+            "utterance_id": "BE22010148.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 애는 정말 그럴 것 같아. 맨날 나 울면 제일 먼저 와서 날 위로해 준 착한 아이였거든. 나도 얼른 마음 추스르고 잘 보내줘야겠다.",
+            "utterance_id": "BE22010148.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이야. 네가 얼른 기운 내서 다시 기쁘게 지내기를 강아지도 하늘나라에서 응원하고 있을 거야. 많이 사랑했던 그 마음으로 더 씩씩하게 이겨내 보자.",
+            "utterance_id": "BE22010148.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 내가 사랑한 만큼 가장 행복했던 모습 많이 추억하고 다시 만날 날을 기다려야겠어. 내가 잘 견디고 다시 일상으로 돌아가야 우리 애도 하늘나라에서 마음 편히 쉬겠지?",
+            "utterance_id": "BE22010148.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지! 그 친구도 이제는 고통도 없고 즐겁고 좋은 곳으로 갔을 거야. 잘 지내고 즐거웠던 순간만 많이 생각하자. 그래야 다음에 만났을 때도 슬픈 감정이 아닌 즐겁고 반가운 마음으로 만나지!",
+            "utterance_id": "BE22010148.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "너랑 얘기하고 나니까 이제 조금 마음 정리 잘 할 수 있을 것 같아. 너 아니었으면 난 계속 슬픔에 빠져서 허우적거렸을 거야. 정말 고마워.",
+            "utterance_id": "BE22010148.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "언제든 마음이 힘들고 지칠 때 나한테 말해! 내가 백 번이고 천 번이고 다 듣고 위로해 줄게.",
+            "utterance_id": "BE22010148.14"
+        }
+    ]
+}

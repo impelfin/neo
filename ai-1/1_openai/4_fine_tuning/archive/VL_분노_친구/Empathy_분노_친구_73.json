@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009948",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009948",
+        "relation": "친구",
+        "situation": "레스토랑 알바가 수전증이 있다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자야, 내가 이번에 레스토랑 아르바이트를 새로 채용하게 됐다고 얘기했지?",
+            "utterance_id": "BE22009948.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 기억나. 네가 아주 인상이 좋다고 그랬잖아. 갑자기 그 사람 얘기는 왜?",
+            "utterance_id": "BE22009948.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "첫인상이 참 좋고 말도 싹싹하게 해서 내가 참 기대를 했거든. 그래서 일부러 주방이 아닌 홀서빙으로 채용한 거고. 그런데 이 친구가 수전증이 있어.",
+            "utterance_id": "BE22009948.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "수전증이 많이 심한 편이야? 음식을 옮겨야 하는데 수전증이 있다면 조금 걱정이 되겠는걸.",
+            "utterance_id": "BE22009948.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 친구가 손님에게 음식을 들고 나갈 때마다 마음이 너무 조마조마해. 이런 걸 가지고 혼내기에도 뭐하고 진짜 불편하다. 가끔은 이런 생각을 하는 내가 너무 나쁜 사람이 된 거 같아 짜증이 나.",
+            "utterance_id": "BE22009948.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 맘 충분히 이해해. 고칠 수 있는 문제라면 주의를 주었겠지만, 그렇지 않다면 얘기를 꺼내기 어렵잖아. 괜히 상처줄까봐 걱정하는 거지?",
+            "utterance_id": "BE22009948.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그 친구를 불러서 이야기를 하려고 해도 이 일로 콤플렉스가 심해지면 어떨까 싶어서 말을 못 꺼내겠어.",
+            "utterance_id": "BE22009948.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 그렇지만 너도 영업을 하는 사람이니까 아르바이트를 하는 친구에게 이야기를 꺼내보는 건 좋은 거 같아. 홀서빙이 아닌 다른 업무를 할 수도 있잖아.",
+            "utterance_id": "BE22009948.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말을 듣고 보니 정말 그렇게 사람을 채용해도 되겠다. 내가 너무 그 친구가 손 떠는 거에만 집중해서 다르게 생각을 못했어.",
+            "utterance_id": "BE22009948.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수도 있지. 네가 그만큼 가게를 중요하게 생각하잖아. 채용한 사람이랑 이야기를 잘 나누어서 서로 감정 상하지 않게끔 일을 정리해보자.",
+            "utterance_id": "BE22009948.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래. 너랑 이야기를 하니까 그 친구에게도 얘기를 꺼낼 자신이 생겼어. 고마워.",
+            "utterance_id": "BE22009948.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고맙기는! 다 너의 용기로 선택하는 일인걸. 네가 기운이 생긴 것 같아 나도 참 마음이 좋다.",
+            "utterance_id": "BE22009948.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각해주니 더 고맙다. 그 친구를 배려해서 이야기를 나누어 볼게.",
+            "utterance_id": "BE22009948.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 너는 누구보다 다정하게 이야기를 잘하자. 너무 염려 마. 혹 앞으로도 이런 어려움이 있으면 언제든 고민 상담해도 좋아.",
+            "utterance_id": "BE22009948.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알겠어. 그럼 그 친구와 이야기를 잘 나누고 연락할게. 마음이 편하네.",
+            "utterance_id": "BE22009948.15"
+        }
+    ]
+}

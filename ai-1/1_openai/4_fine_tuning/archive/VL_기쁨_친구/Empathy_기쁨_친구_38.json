@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009288",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009288",
+        "relation": "친구",
+        "situation": "라디오 프로그램에 사연을 보내 방송을 탔다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 혹시 어젯밤에 음악 방송 들었니? 내가 라디오 프로그램에 보낸 사연이 드디어 방송을 탔어. 너무 기뻐서 어쩔 줄 모르겠어.",
+            "utterance_id": "BE22009288.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와, 정말 축하해. 네가 쓴 글이 처음으로 세상 사람들에게 알려진 거잖아. 생각만 해도 짜릿한걸.",
+            "utterance_id": "BE22009288.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 정말 행복한 꿈을 꾸는 것 같았어. 사연을 열 번 이상 보내도 한 번도 채택이 안 되어서 실망이 컸거든. 그런데 어제는 하늘을 나는 것 같은 기분이었어.",
+            "utterance_id": "BE22009288.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마침내 흥분의 순간이 찾아왔구나. 네가 기뻤을 생각을 하니 나도 정말 신이 나.",
+            "utterance_id": "BE22009288.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 좋아서 방송 듣자마자 펄쩍펄쩍 뛰었어. 아직도 가슴이 설레는 것 같아.",
+            "utterance_id": "BE22009288.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 이렇게 기뻐하는 모습 처음이야. 내 입가에도 미소가 절로 떠오르네.",
+            "utterance_id": "BE22009288.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 흥분해서 잠도 못 잤어. 내가 쓴 사연이 라디오에서 흘러나오는데, 황홀한 기분마저 들었어.",
+            "utterance_id": "BE22009288.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와, 상상만 해도 정말 멋지다. 세상을 전부 얻은 것처럼 행복했겠는걸.",
+            "utterance_id": "BE22009288.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가슴이 쿵쾅거리는 소리가 내 귀에 들리는 것 같았어. 내가 쓴 글이 처음으로 세상 밖으로 나왔다는 생각을 하면 감동이 밀려와.",
+            "utterance_id": "BE22009288.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 설렘 폭발이었겠다. 나도 이렇게 흥분되는데, 넌 정말 흥분의 도가니에 휩싸였겠구나.",
+            "utterance_id": "BE22009288.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "행복이 파도처럼 밀려왔어. 내게 찾아온 행운이 믿기지 않을 정도로 행복해.",
+            "utterance_id": "BE22009288.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "넌 글을 잘 쓰는 능력이 있잖아. 이야기를 다른 사람들에게 편안하고 쉽게 전달하는 능력도 있고. 앞으로 네가 쓴 사연이 더 많이 소개될 거야.",
+            "utterance_id": "BE22009288.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구인 네가 그렇게 칭찬해 주니 정말 고마워. 별것 아닌 일로 호들갑 떠는 것 같아 쑥스러웠거든. 마치 네 일인 것처럼 기뻐해 줘서 정말 고마워.",
+            "utterance_id": "BE22009288.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기쁨은 나누면 두 배가 된다고 하잖아. 나도 기쁨을 함께할 친구가 있어 행운이라 생각해.",
+            "utterance_id": "BE22009288.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "늘 나를 격려해 주고 아껴 줘서 고마워. 우리의 우정 앞으로도 영원했으면 좋겠어. 정말 고마워, 내 친구.",
+            "utterance_id": "BE22009288.15"
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22009961",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009961",
+        "relation": "친구",
+        "situation": "차가 막히지 않는 밤 시간에 혼자 운전하면 자유로운 기분이 든다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 나 지금 자유로운 기분이 드는 것 같아.",
+            "utterance_id": "BE22009961.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그런 말 한 적은 처음인데 행복한 것 같아서 나도 같이 기쁘다. 무슨 좋은 일 있었어?",
+            "utterance_id": "BE22009961.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 스트레스 받을 때마다 밤에 혼자 운전을 하거든. 그러면 마치 하늘을 나는 것처럼 자유롭게 느껴져.",
+            "utterance_id": "BE22009961.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇구나. 밤에는 차도 안 막히고 분위기도 좋지. 그렇게 네가 느낄 수 있는 건 평소에 어떤 일이든 열심히 해왔기 때문인 것 같아.",
+            "utterance_id": "BE22009961.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 요즘 사무실에서 틀어박혀서 쉬지 않고 계속 일을 해왔거든. 그럴 때마다 답답하고 그만두고 싶은 생각이 자꾸 들어. 근데 밤에 운전하면 그렇게 속이 뻥 뚫린다?",
+            "utterance_id": "BE22009961.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 밤에 운전하는 거 좋아해서 네 마음이 무척 공감돼. 아무도 없는 도로를 쌩 달리면 얼마나 기분이 좋은지 몰라. 그래서 너도 지금 엄청 행복할 것 같아.",
+            "utterance_id": "BE22009961.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 밤공기가 차니까 속도 뻥 뚫리고, 뭐든 잘 될 것 같은 기분이야. 왜 밤이면 이런 기분이 들까?",
+            "utterance_id": "BE22009961.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그런 기분을 느낄 수 있는 건, 그만큼 일에 집중했다는 의미이지 않을까 싶어. 그리고 열심히 일한 자, 떠나라는 말도 있잖아. 아마 일에서 잠시나마 벗어났다는 해방감 때문이 아닐까?",
+            "utterance_id": "BE22009961.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그래서 기쁨이 더 배로 느껴지는 것 같아. 지금은 나를 힘들게 하는 것도 없고, 온전히 내 시간을 보낼 수 있어서 좋아.",
+            "utterance_id": "BE22009961.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 어떤 느낌인지 충분히 알 것 같아. 어떤 사람이라도 너와 같은 상황이었다면 밤에 운전하는 것을 좋아할 거야.",
+            "utterance_id": "BE22009961.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠지? 밤이면 나가고 싶다는 생각이 들어. 드라이브 갈 때가 제일 행복해.",
+            "utterance_id": "BE22009961.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 행복해하는 모습을 보니, 나도 꼭 네 옆 조수석에 앉아 있는 것 같아. 마음이 뻥 뚫린다.",
+            "utterance_id": "BE22009961.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "같이 느껴줘서 고마워. 이런 감정도 같이 나눌 수 있는 친구가 있어서 정말 더 좋다.",
+            "utterance_id": "BE22009961.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 할 일을 열심히 하고, 즐길 줄도 아는 멋진 친구가 옆에 있어서 매우 기뻐. 다음에는 같이 드라이브 가자.",
+            "utterance_id": "BE22009961.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 이 좋은 거 혼자만 누릴 수 없지. 덕분에 기분이 더 좋아졌어. 고마워.",
+            "utterance_id": "BE22009961.15"
+        }
+    ]
+}

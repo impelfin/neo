@@ -1,0 +1,193 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009798",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009798",
+        "relation": "친구",
+        "situation": "아르바이트 중 손님이 성희롱을 했다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 아르바이트에서 손님이 뒤에서 나를 갑자기 껴안았어.",
+            "utterance_id": "BE22009798.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거 성희롱 아니야? 그 손님 엄청 이상하다. 모르는 사람이 아는 척만 해도 당황스러운데 껴안기까지 했으면 많이 놀랐겠다.",
+            "utterance_id": "BE22009798.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 순간적으로 몸이 굳으면서 아무것도 할 수 없었어.",
+            "utterance_id": "BE22009798.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 저번에 모르는 사람이 성희롱해서 기분이 매우 나쁘고 어쩔 줄 몰랐었거든. 그래서 네 마음이 더 이해가. 너도 아주 혼란스러웠을 것 같아.",
+            "utterance_id": "BE22009798.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 갑자기 머릿속이 새하얘지면서 어떻게 해야 할지 모르겠더라고.",
+            "utterance_id": "BE22009798.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소에 네가 무슨 일 있을 때마다 빠르게 일 처리를 하는데 그랬다니 많이 힘들었구나. 근데 너뿐만 아니라 누구나 갑자기 일어난 일이라 당황할 수밖에 없었을 거야. 몸은 괜찮아?",
+            "utterance_id": "BE22009798.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 다친 데는 없는데 내가 잘한 건지 모르겠어. 제대로 대응하지 못한 것 같아서 자꾸 생각나.",
+            "utterance_id": "BE22009798.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구나 그런 상황에 놓이면 당황해서 아무것도 하지 못했을 거야. 항상 실천력 있게 행동하는 너도 그런데 다른 사람도 마찬가지였을 거야. 네가 제대로 대응을 못 한 게 아니라 그 사람이 잘못한 거지.",
+            "utterance_id": "BE22009798.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠지? 그래서 그 당시에 하지 말라고 소리치고 경찰에 신고하고 나와버렸어.",
+            "utterance_id": "BE22009798.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘했어. 나였어도 너처럼 행동했을 거야. 네가 얼마나 똑똑한 친구인데. 네 탓이 아니니까 자책하지 않았으면 좋겠어.",
+            "utterance_id": "BE22009798.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해주니까 마음이 조금 풀린다. 내 행동이 잘못된 건 아닐까 많이 생각했거든.",
+            "utterance_id": "BE22009798.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 잘못한 거 없어. 그 사람이 잘못한 거야. 제삼자인 내가 보아도 잘못한 건 그 사람이야.",
+            "utterance_id": "BE22009798.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 내가 잘못한 건 하나도 없는데 계속 이런 마음 가져서 좋을 건 없지.",
+            "utterance_id": "BE22009798.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 얼마나 소중한 사람인데. 잘못한 거 없으니까 더 좋은 일 생길 거라고 생각하고 기분 풀었으면 좋겠어.",
+            "utterance_id": "BE22009798.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 내가 잘못한 건 하나도 없는데 계속 이런 마음 가져서 좋을 건 없지.",
+            "utterance_id": "BE22009798.15"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "맞아. 충분히 할 만큼 한 거야. 좋은 것만 생각하자.",
+            "utterance_id": "BE22009798.16"
+        }
+    ]
+}

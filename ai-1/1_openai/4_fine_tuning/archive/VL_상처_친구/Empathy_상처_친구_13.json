@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010510",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010510",
+        "relation": "친구",
+        "situation": "왼손잡이인데 오른손 사용을 연습하고 있다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 요즘 오른손 사용하는 거 연습하고 있어. 정말 쉽지 않네.",
+            "utterance_id": "BE22010510.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 왼손잡이에 굉장한 자부심을 가지고 있었잖아. 갑자기 왜 그런 연습을 하게 된 거야?",
+            "utterance_id": "BE22010510.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "할머니가 내가 왼손잡이인 걸 정말 못마땅해하시거든. 이번 추석 때 나를 보더니 온종일 잔소리하시더라. 그래서 억지로 연습하고 있어.",
+            "utterance_id": "BE22010510.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘은 교정하지 않고 그냥 왼손잡이로 사는 사람들도 무척 많잖아. 너 자신이 불편하다고 생각하지 않으면 굳이 바꿀 필요도 없는 일일 텐데. 할머니 때문에 억지로 연습해야 한다니 네 마음이 참 괴롭겠다.",
+            "utterance_id": "BE22010510.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "할머니가 날 당신 입맛대로 키우고 싶어 하시는 게 너무 느껴져. 그래서 솔직히 상처를 크게 받았어. 나를 있는 그대로 받아들이지 못하시는 것 같아.",
+            "utterance_id": "BE22010510.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 너라도 그런 생각에 서글프고 상처받았을 거야. 내가 잘못한 것도 아닌데 가족이 마음에 들어 하지 않는다는 이유로 나라는 사람의 일부를 바꿔야 하잖아. 네가 얼마나 속상할지 이해해.",
+            "utterance_id": "BE22010510.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "연습을 악착같이 해서 오른손잡이가 되어도, 또 다른 일로 트집을 잡으실 게 뻔해. 그냥 나라는 존재 자체가 싫으신 것 같아. 이런 기분이 들 때면 그냥 어디론가 사라지고 싶다니까.",
+            "utterance_id": "BE22010510.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 상처를 크게 받은 것 같아 마음이 아파. 할머니가 널 마음에 들어 하지 않으신다고 해도, 너는 너 자신으로 완전하다는 거 잊지 마. 너는 무언가를 고칠 필요도, 바꿀 필요도 없이 지금 너 자체로도 충분히 빛나는 사람이야.",
+            "utterance_id": "BE22010510.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "듣고 보니 네 말이 맞는 것 같아. 나도 나 자신을 뜯어고쳐서 할머니한테 인정받고 사랑받으려는 욕심을 버릴래. 상처받은 내 마음을 회복하는 데에만 집중할 거야.",
+            "utterance_id": "BE22010510.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 네 마음이 얼른 아물길 기도해. 너무 힘들어하지 마. 왼손을 쓰든 오른손을 쓰든 너는 너일 뿐이야.",
+            "utterance_id": "BE22010510.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "내가 듣고 싶었던 말을 네가 다 해주는 것 같다. 얼어붙은 마음이 따뜻하게 녹는 듯해. 정말 고마워.",
+            "utterance_id": "BE22010510.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고맙긴. 내가 힘들 때 네게 받은 위로도 참 많잖아. 네가 힘들 때는 내가 네 이야길 들어주며 위로하는 건 당연한 일이지.",
+            "utterance_id": "BE22010510.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 내 마음을 잘 알아주는 사람이야. 그래서 너랑 이야기하고 나면 마음의 상처가 아무는 게 느껴져.",
+            "utterance_id": "BE22010510.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각해 준다니 내가 더 감동이다. 네 기분이 아까보다 나아 보여서 정말 다행이야. 상처받은 네 모습을 보는 게 정말 마음 아팠어.",
+            "utterance_id": "BE22010510.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네가 날 얼마나 아끼고 위하는지 여기까지 느껴져. 정말 따뜻하고 행복하다. 고맙다, 친구야.",
+            "utterance_id": "BE22010510.15"
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009410",
+        "listener_behavior": [
+            "조언",
+            "동조"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009410",
+        "relation": "친구",
+        "situation": "피해를 보고 있다는 생각이 들면 참을 수 없다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "낮에 은행 업무를 보러 갔는데 40분을 기다리게 하더라고. 너무 화가 나서 소리 지르며 항의했어. 내 소중한 시간을 빼앗긴 기분이야.",
+            "utterance_id": "BE22009410.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "바쁜 시간 쪼개서 간 건데, 그렇게 늦어지면 나 같아도 화가 많이 났을 것 같아.",
+            "utterance_id": "BE22009410.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "점심시간에 잠깐 다녀오려고 한 건데 늦어서 밥도 못 먹었어. 직원교육을 도대체 어떻게 하는 건지, 화가 나서 참을 수가 없어.",
+            "utterance_id": "BE22009410.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그런 상황에서 화난 적이 있었어. 기다린 시간이 있는데, 그냥 갈 수도 없고, 계속 기다리려니 업무 시간에 늦을 것 같았거든.",
+            "utterance_id": "BE22009410.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 특별대우 받기를 원하는 게 아니야, 다른 사람들에 대한 배려는 사회인의 기본이잖아.",
+            "utterance_id": "BE22009410.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연한 말이야, 그렇지만 나는 화나도 밖으로 표현하지는 않아, 마음속으로만 내는 거지. 화내고 난 뒤의 상황이 더 힘들어질 것 같아서.",
+            "utterance_id": "BE22009410.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "넌 나보다 인내심이 더 많은 것 같다, 사실 나도 욱하는 내 성격이 맘에 들지는 않아.",
+            "utterance_id": "BE22009410.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아냐, 나도 마음속은 그렇지 않아. 하지만 주변의 시선 때문에 화내고 싶어도 참는 거야.",
+            "utterance_id": "BE22009410.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 화내고 나면 기분은 풀리는데, 그 후에 너무 뻘쭘하기도 하고 민망해서 자리를 피하게 돼.",
+            "utterance_id": "BE22009410.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자꾸 화를 내면 너와 가까운 사람들도 멀어지게 될 거야. 내가 피해를 봤어, 라고만 생각하지 말고 상대방 입장도 한번 생각해봐. 그 사람이 일부러 그런 게 아닐 수도 있어.",
+            "utterance_id": "BE22009410.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말을 들어보니 내가 좀 예민하게 받아들인 것 같다. 다들 어쩔 수 없는 상황이 있었을 수 있는데. 너무 이기적이었던 것 같아.",
+            "utterance_id": "BE22009410.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "살면서 너도 남을 불편하게 한 적이 분명히 있을 거야, 그럴 때마다 상대방이 너한테 화를 내지는 않았잖아. 서로 조금씩 이해해주면 편하게 살 수 있어.",
+            "utterance_id": "BE22009410.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제부터는 피해를 보고 있다는 생각이 들어도, 한 번 더 생각해 보고 행동할게. 나도 성격 좋은 사람이 되고 싶거든.",
+            "utterance_id": "BE22009410.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "난 그냥 내 이야기를 한 것뿐인데, 너에게 조금이나마 도움이 된 것 같아서 기분이 좋다. 다음에는 네가 화를 참았던 이야기도 꼭 듣고 싶어.",
+            "utterance_id": "BE22009410.14"
+        }
+    ]
+}

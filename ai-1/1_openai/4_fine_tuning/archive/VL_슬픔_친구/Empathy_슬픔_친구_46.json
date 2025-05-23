@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009757",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009757",
+        "relation": "친구",
+        "situation": "갓 태어난 아기가 청색증으로 산소치료를 받았다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갓 태어난 우리 아기가 청색증이래. 그래서 산소치료를 받았어.",
+            "utterance_id": "BE22009757.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "치료받기엔 너무나 작고 연약한 아이일 텐데. 네가 가슴이 너무 아프겠다. 네 마음은 괜찮은 거야?",
+            "utterance_id": "BE22009757.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 와르르 무너져 내리는 것 같아. 저 작은 몸으로 치료받는다니 너무 슬프고 가슴 아파.",
+            "utterance_id": "BE22009757.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 얼마나 속상하고 가슴 아플지 이해해. 우리 조카도 어렸을 때부터 자주 아팠거든. 네가 많이 힘들겠지만, 마음 단단히 먹는다면 아기에게 힘이 되어줄 수 있을 거야.",
+            "utterance_id": "BE22009757.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠지? 엄마가 이렇게 무너지면 안 되겠지. 할 수만 있다면 정말 내가 대신 아파주고 싶은 정도야.",
+            "utterance_id": "BE22009757.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 안 그러겠어. 눈에 넣어도 아프지 않을 내 자식인데. 네가 마음이 몹시 아플 것 같아서 너무 걱정된다.",
+            "utterance_id": "BE22009757.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나보다는 아기가 걱정이지. 태어나자마자 아프니까 이게 내 잘못인가 싶기도 하고, 너무 슬프고 우울하다.",
+            "utterance_id": "BE22009757.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너같이 아기를 사랑하고 위하는 엄마가 어디 있다고 그게 네 탓이겠어. 너는 배 속에 아이를 품고 있을 때도 언제나 최선을 다했었잖아. 절대 네 탓이 아니니까 자책도, 원망도 하지 않았으면 좋겠다.",
+            "utterance_id": "BE22009757.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워. 오랜 친구인 네가 그렇게 말해 주니까 위안이 되는 것 같아.",
+            "utterance_id": "BE22009757.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 위기를 견디고 나면 네 가족에게는 사랑과 행복만 가득할 거야. 그러니 힘들겠지만, 조금만 버텨 보자. 내가 옆에서 힘이 되어줄게.",
+            "utterance_id": "BE22009757.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 고마워. 네 다정한 한 마디 한 마디가 얼마나 큰 힘이 되는지 모를 거야. 덕분에 상처받은 마음이 따뜻해지는 것 같아.",
+            "utterance_id": "BE22009757.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 뭐라도 도움이 된다면 정말 다행이야. 너와 네 가족 모두 힘들지 않았으면 좋겠어. 앞으로 좋은 일만 있을 거라 생각하자.",
+            "utterance_id": "BE22009757.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알았어. 네게 어떻게 감사 인사를 해야 할지 모르겠어. 힘들 때마다 곁을 지켜줘서 고마워.",
+            "utterance_id": "BE22009757.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 친구로서 내가 할 일이지. 오히려 힘든 상황에 내가 도움이 된다면 그게 내 기쁨이야.",
+            "utterance_id": "BE22009757.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "정말 고마워. 내게 가장 의지가 되는 사람은 다름 아닌 너야. 덕분에 마음이 정말 상쾌해졌어.",
+            "utterance_id": "BE22009757.15"
+        }
+    ]
+}

@@ -1,0 +1,199 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009959",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009959",
+        "relation": "친구",
+        "situation": "치매에 걸린 할머니를 어머니가 돌보신다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 할머니 치매에 걸렸는데 엄마가 혼자 돌보고 계셔.",
+            "utterance_id": "BE22009959.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "옆에서 지켜보는 네가 힘들겠구나. 치매 환자를 돌보는 일이 몸도 고생이지만 마음 상하는 일도 많을 텐데. 나라면 주변 어른들한테 화를 냈을 것 같아.",
+            "utterance_id": "BE22009959.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 맞아. 형제분들이 많으시거든. 그런데 우리 엄마만 고생하는 것 같아서 내 마음이 슬퍼.",
+            "utterance_id": "BE22009959.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 네 말 들어보니 내 가슴이 쓰리다. 어머니만 부담을 떠안으면 안 되지.",
+            "utterance_id": "BE22009959.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마는 어디 하소연할 곳도 없어서 얼굴이 많이 상했어. 그런 엄마를 보면 아버지도 삼촌 고모들도 미운 생각이 들어.",
+            "utterance_id": "BE22009959.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 이야기 들으니 내 가슴까지 답답하구나. 그 생각을 줄이면 슬픈 마음도 사라질 거야.",
+            "utterance_id": "BE22009959.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 어쩔 수 없다는 생각을 많이 했어. 어른들께 말 꺼냈다가 집안에 다툼이 생길까 봐 참았어.",
+            "utterance_id": "BE22009959.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "슬픔은 참는 것이 아니라 해소해야 하는 거야. 엄마를 돕지 못하는 마음이 생각보다 더 괴로운가 봐.",
+            "utterance_id": "BE22009959.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안간힘을 쓰는 엄마가 바보같이 보여서 그래. 이제 할머니도 요양원에 모셨으면 좋겠어.",
+            "utterance_id": "BE22009959.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아버지께 조심스럽지만 이야기를 꺼내보는 게 어때? 백지장도 맞들면 낫다는 속담도 있잖아.",
+            "utterance_id": "BE22009959.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 생각도 바로 그거야. 엄마의 인생을 찾아 드리고 싶어. 조금씩 돌아가면서 책임을 나누면 서로 좋잖아.",
+            "utterance_id": "BE22009959.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지, 슬픈 네 심정도 후련해질 거고. 어머니의 억눌린 감정도 해소될 거고.",
+            "utterance_id": "BE22009959.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 우리에게 필요한 것은 가슴에 얹혀 있는 무거운 짐을 내려놓는 것이지.",
+            "utterance_id": "BE22009959.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어렵지만 항상 시도해 보는 게 좋은 것 같아. 고민만 안고 있는 것보다 말이야.",
+            "utterance_id": "BE22009959.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아, 네게 이야기만 해도 속이 시원해졌어. 이젠 우리 엄마도 후련하게 해드릴 거야.",
+            "utterance_id": "BE22009959.15"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 잘될 거야. 언젠가는 서로 이야기 나누고 마음의 짐을 내려놓아야지.",
+            "utterance_id": "BE22009959.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "내 하소연 들어줘서 고마워. 답답했는데 이젠 뭔가 산뜻해진 거 같다.",
+            "utterance_id": "BE22009959.17"
+        }
+    ]
+}

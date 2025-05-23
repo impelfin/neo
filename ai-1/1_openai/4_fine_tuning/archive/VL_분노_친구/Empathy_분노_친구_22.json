@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.6,
+            "grade": "우수"
+        },
+        "id": "BE22009470",
+        "listener_behavior": [
+            "조언",
+            "동조"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009470",
+        "relation": "친구",
+        "situation": "내 이야기를 하고 다닌다는 얘기를 전해 들었다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "같이 일하는 사람이 내 이야기를 하며 다닌다는 얘기를 전해 들었는데 너무 기분 나쁘고 화나.",
+            "utterance_id": "BE22009470.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 도대체 너에 대해서 뭐라고 했는데? 듣는 내가 다 화가 난다.",
+            "utterance_id": "BE22009470.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "같이 일한 지 얼마 안 됐거든. 네가 일하는 방식이 마음에 안 든다고, 일도 못한다고 그랬대. 정말 그 말을 듣는 순간 가서 따지고 싶더라고.",
+            "utterance_id": "BE22009470.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구든 처음 일하면 서툴고 실수도 하는 거지 처음부터 잘하는 사람이 어디 있어! 방식의 차이가 있다고 해서 일을 못한다고 판단하는 것은 그 사람이 잘못된 거지.",
+            "utterance_id": "BE22009470.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 사람이 자꾸 내 옆에 있는 동료를 험담해서 그러지 말라고 얘기를 했어. 그렇게 남의 험담을 하는 것은 그 사람에 대한 인격모독이라고. 그랬더니 그다음부터 내가 하는 일마다 트집을 잡더라.",
+            "utterance_id": "BE22009470.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 직장생활 할 때 그런 적이 있었어. 직장 상사가 험담하는 걸 난 듣고만 있었는데, 동조를 안 하니까 내 험담을 한다고 하더라고. 그때를 생각하면 지금도 열이 나고 화가 나.",
+            "utterance_id": "BE22009470.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음에는 그러지 않고 나를 따뜻하고 다정하게 대해줬지. 그런데 순식간에 사람들이 차가워졌다는 것을 느꼈어. 그때의 배신감과 분노는 이루 말할 수 없을 만큼 컸어.",
+            "utterance_id": "BE22009470.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 더욱 그럴 수 있지. 처음부터 친절하지 않았다면 괜찮았을 텐데 잘해줬던 사람들이 등 돌리는 것만큼 배신감이 큰 건 없지. 사람들한테 받았을 상처와 분노가 얼마나 클지 나라도 너처럼 화났을 것 같아.",
+            "utterance_id": "BE22009470.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그리고 난 내 험담을 한다는 얘기를 전해준 사람도 이해가 안 돼. 내가 들으면 기분 나쁠 것을 알 텐데. 나에게 그런 얘기를 왜 알려준 건지 정말 그 사람한테도 화가 나.",
+            "utterance_id": "BE22009470.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 중간에서 말을 전하지 않았더라면 모르고 지나갈 수 있었을 테니까. 험담 당사자의 분노는 아무렇지 않게 뱉은 말의 무게와 비교가 되지 않는다고 하잖아. 너의 분노가 얼마나 클지 상상을 할 수가 없어.",
+            "utterance_id": "BE22009470.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음을 추스르려고 해도 자꾸 생각나고 잠이 오지 않아. 어떻게 해야 내가 극복할 수 있을까?",
+            "utterance_id": "BE22009470.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 반대로 한 번 생각해봐. 네가 계속 화나 있고 분노하면, 그 사람들은 더 좋아할 거야. 너는 그냥 네가 얼마나 소중한 존재인지 너 자신만 생각해.",
+            "utterance_id": "BE22009470.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아. 나 자신이 가장 소중하지. 내가 남의 말에 휘둘릴 필요는 없지.",
+            "utterance_id": "BE22009470.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 내가 화가 날 때, 아름다운 산토리니의 풍경을 생각해. 이곳에 꼭 가봐야지 하는 다짐으로 힘을 내면서 심호흡과 명상을 하기도 해. 너도 한 번 해봐.",
+            "utterance_id": "BE22009470.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너의 이런 말을 들으니까 마음이 차분해진다. 내 감정을 전부 얘기하고 나니까 마음의 평화가 오는 것 같아. 고마워.",
+            "utterance_id": "BE22009470.15"
+        }
+    ]
+}

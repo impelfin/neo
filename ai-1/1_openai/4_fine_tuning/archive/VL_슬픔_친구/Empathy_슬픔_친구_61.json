@@ -1,0 +1,186 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009966",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009966",
+        "relation": "친구",
+        "situation": "여자 친구랑 헤어졌다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 사실 며칠 전에 여자 친구와 헤어졌어.",
+            "utterance_id": "BE22009966.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머 난 전혀 몰랐어. 너희가 잘 지내는 줄로만 알았는데 이런 소식을 듣게 되어서 마음이 편하지 않네.",
+            "utterance_id": "BE22009966.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 일도 손에 안 잡히고 아무것도 먹고 싶지 않아. 멍하게 앉아있다가 갑자기 그 애 생각이 나면서 눈물이 나고 웃다가 다시 울다가를 반복해. 아무래도 내가 실성한 것 같아.",
+            "utterance_id": "BE22009966.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 마음 알지. 몇 년을 사귀고 헤어졌는데 어떻게 일상생활이 가능하겠어. 어떤 것을 하든 그 애 생각만 날 텐데 네가 얼마나 힘들지 이해가 돼.",
+            "utterance_id": "BE22009966.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "함께 미래를 그려오던 사람이 하루아침에 사라졌다고 생각하니 가슴이 너무 아프고 우울해. 앞으로 어떻게 살아가야 할지 모르겠어. 사실은 많이 붙잡았는데 안 잡히더라.",
+            "utterance_id": "BE22009966.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 얼마나 슬플지 아니까 내가 감히 어떻게 하라고 말할 수 없을 것 같아. 지금 내가 분명히 말해줄 수 있는 건 이 아픔이 언젠간 사라진다는 거야. 지금은 충분히 아파하고 후에는 네 마음이 편했으면 좋겠어.",
+            "utterance_id": "BE22009966.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 시간이 지나면 무뎌지겠지? 그래도 당장에 슬픔이 더 커서 내가 감당할 수 없을 정도로 가슴이 아프네. 내 세상의 대부분을 차지했던 만큼 내 반쪽이 뜯겨 나간 것 같아.",
+            "utterance_id": "BE22009966.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오랜 시간 함께한 사람이 갑자기 남이 되어버렸으니 당연해. 빠르게 잊으려 노력하지 않아도 돼. 오히려 그게 너에게 더 부작용이 될 수도 있어.",
+            "utterance_id": "BE22009966.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다들 빨리 잊고 새 출발을 하라고 하는데, 너만 내 힘듦을 온전히 이해해주는 것 같네.",
+            "utterance_id": "BE22009966.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떻게 그 긴 세월을 빠르게 잊을 수 있겠어. 좋은 추억도 슬픈 추억도 많겠지. 지금은 너에게 아픈 추억들이겠지만 나중에는 네가 한층 성장할 수 있는 좋은 밑거름이 될 거야.",
+            "utterance_id": "BE22009966.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해준다니 조금 위로가 된다. 나는 애써 이 사람과 함께한 추억들을 다 지우려고 억지로 노력했거든. 근데 지우지 않아도 되는 걸 생각하니 마음이 조금은 편해지는 것 같아.",
+            "utterance_id": "BE22009966.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "꼭 이 사람이 아니었어도 이별은 슬픈 거잖아? 꼭 그 사람이 좋은 사람이라서 네가 힘든 것이 아니라는 걸 알면 좋겠어. 지금은 정말 힘들겠지만, 이 순간을 잘 이겨내고 더 좋은 사람을 만나게 될 거야.",
+            "utterance_id": "BE22009966.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말을 들으니 버텨낼 수 있을 것만 같아. 어떻게든 이 감정을 떨쳐내지 않고 좋게 잘 마무리해볼게. 좋은 말들을 해줘서 정말 고맙다.",
+            "utterance_id": "BE22009966.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 정말 좋은 사람이고 사랑받을 자격이 있는 사람이야. 언젠가 너의 가치를 알아줄 사람을 꼭 만나게 될 거야. 너무 수고 많았어.",
+            "utterance_id": "BE22009966.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너 같은 친구가 있어서 힘든 순간이 올 때마다 버틸 수 있는 것 같아. 덕분에 우울했던 감정들이 조금 나아지는 것 같아. 이 순간들도 결국은 지나간다는 것을 생각하면서 힘내볼게.",
+            "utterance_id": "BE22009966.15"
+        }
+    ]
+}

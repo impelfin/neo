@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009877",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009877",
+        "relation": "친구",
+        "situation": "동생이 좋은 직장에 취직했다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야. 오늘 진짜 너무 기쁜 일이 있어서 너랑 얘기하고 싶어! 늦은 시간에 문자 해서 미안.",
+            "utterance_id": "BE22009877.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야. 나 원래 늦게 자잖아. 근데 무슨 좋은 일이 있었는지 궁금한걸?",
+            "utterance_id": "BE22009877.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 동생 취업 준비하느라 엄청 고생했었잖아. 근데 대기업에 취직했다. 내 동생이 좋은 직장에 취직해서 나 너무 기쁜 거 있지? 정말 행복해.",
+            "utterance_id": "BE22009877.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머. 그렇게 고생했던 동생이 고생 끝에 기쁨이 왔나 보네. 가족이 잘되는 일만큼 기분 좋은 게 없잖니. 네가 지금 너무 신나겠어.",
+            "utterance_id": "BE22009877.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 나 지금 너무 행복하고 기뻐서 춤이라도 추고 싶을 지경이야. 동생한테 소식 듣고 한참이나 웃었지 뭐야. 우리 동생 너무 기특하고 장해서 웃음이 다 나온다.",
+            "utterance_id": "BE22009877.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동생의 일을 네 일처럼 행복해하고 기뻐하는 모습이 너무 반짝거리는 거 같아. 자매끼리 사이 안 좋아서 시기하고 질투하는 경우도 많던데. 너는 정말 진심으로 동생의 일을 기뻐해주는구나. 너무 멋져.",
+            "utterance_id": "BE22009877.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 동생이랑 나이 차이가 많이 나서 그런지 질투는커녕 우리 동생 잘되면 마냥 기뻐. 하는 짓도 얼마나 예쁘고 귀여운지 몰라. 나는 그냥 동생 생각하면 웃음밖에 안 나.",
+            "utterance_id": "BE22009877.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 동생을 생각하는 마음이 정말 크구나. 다시 생각해도 너무 멋지고 대단한 거 같아. 나도 너를 본받아서 동생한테 잘해줘야겠어.",
+            "utterance_id": "BE22009877.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하. 네가 그렇게 칭찬해주니까 내 기분이 더 좋아지는 거 같아. 동생이 대기업 취직했다고 하니까 좋았던 기분이 네 덕분에 더 좋아졌어.",
+            "utterance_id": "BE22009877.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 너의 기쁜 소식을 들어서 마음이 풍족해졌는걸? 우리 동생도 취업 준비하느라 힘들어하던데, 내가 옆에서 기운을 북돋아 줘야겠다.",
+            "utterance_id": "BE22009877.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 네가 옆에서 도와주고 응원해주는 만큼 네 동생도 좋은 직장에 취직할 거야. 그때 그 기쁨 너도 이루어 말할 수 없을 거다.",
+            "utterance_id": "BE22009877.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 동생이랑 그렇게 가까운 사이가 아니라 그럴까 싶은데. 네 모습 보니까 더 친해져야겠다는 생각이 든다. 정말 너무 보기 좋고 훈훈한 자매야.",
+            "utterance_id": "BE22009877.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 얘기해줘서 고마워. 너도 동생이랑 돈독한 사이가 되길 바랄게.",
+            "utterance_id": "BE22009877.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응원 고마워 친구. 아무튼 너의 문자 덕분에 오늘 밤은 행복하게 보낼 거 같아.",
+            "utterance_id": "BE22009877.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나도 그래. 네가 우리 동생의 기쁜 소식을 듣고 좋아해줘서 마음이 따듯해졌어. 좋은 밤 보내 친구.",
+            "utterance_id": "BE22009877.15"
+        }
+    ]
+}

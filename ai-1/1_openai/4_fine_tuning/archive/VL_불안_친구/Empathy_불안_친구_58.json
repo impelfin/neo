@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22009856",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009856",
+        "relation": "친구",
+        "situation": "만삭이 되자 배가 자주 뭉친다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어휴, 만삭이 되니까 걱정이 이만저만 되는 게 아니네.",
+            "utterance_id": "BE22009856.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 그렇지. 혹시 무슨 일 이라도 있어?",
+            "utterance_id": "BE22009856.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 만삭이 되니까 배가 너무 자주 뭉쳐서 걱정스러워. 혹시라도 조산하는 건 아닌지 불안하더라고. 어제는 배가 뭉쳐서 불안한 마음에 잠도 설쳤어.",
+            "utterance_id": "BE22009856.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고. 아무리 만삭이라고 하지만 조산하게 되면 아기 건강에 문제라도 생길까 봐 많이 불안하구나?",
+            "utterance_id": "BE22009856.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 사실 병원에서는 지금 태어나도 큰 문제는 없을 거라는데. 괜히 예정일 전에 낳았는데 아프면 죄책감 들 거 같아. 그래서 요즘 배가 뭉칠 때마다 마음이 불편해.",
+            "utterance_id": "BE22009856.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에고. 나도 첫째 만삭 때 배가 자주 뭉쳤었거든. 그때 내가 느꼈던 기분이랑 똑같은가보다. 나도 그때 엄청 불안하고 걱정스러웠었어.",
+            "utterance_id": "BE22009856.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "휴. 네가 내 마음을 아는구나. 남편은 괜찮을 거라고 얘기해주기는 하는데, 그래도 배가 뭉칠 때마다 나도 모르게 몸이 떨려. 생각보다 많이 걱정되더라.",
+            "utterance_id": "BE22009856.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 아무리 옆에서 괜찮을 거라고 얘기해줘도 막상 배가 뭉치는 걸 느끼는 건 나 뿐이잖아. 지금 얘기 듣는 나도 불안하고 걱정스러운데 너는 오죽하겠니.",
+            "utterance_id": "BE22009856.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 네 말대로 남편이 옆에서 아무리 안심하라고 해도 솔직히 그 불안한 마음이 잘 가라앉지는 않더라고. 하루에도 몇 번씩 뭉치고 하니까 괜히 아기 잘 있는 건가 걱정도 되고. 에휴, 임산부는 정말 걱정할 게 태산이다.",
+            "utterance_id": "BE22009856.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 너무 불안해하거나 스트레스받지 말고 마음 편하게 먹어. 원래 출산 다가오면 아기가 신호 보낸다고 배가 자주 뭉친다더라. 네가 느끼는 불안함을 태아도 고스란히 느낄 테니까 마음을 가라앉히고 불안한 생각을 줄여보는 건 어때?",
+            "utterance_id": "BE22009856.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 훌륭한 조언이네. 내가 너무 부정적으로만 생각해서 불안해했나 보다. 네 말대로 불안한 생각을 줄여볼게.",
+            "utterance_id": "BE22009856.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 잘 생각했어. 네 생각이 태아한테 영향이 가니까 불안하더라도 조금만 긍정적으로 생각해보자. 나도 겪었던 일이라 알지만, 생각보다 태아는 강하더라고. 너무 불안해하면서 스트레스받지는 마. 마음 편히 먹어.",
+            "utterance_id": "BE22009856.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응. 그럴게. 덕분에 너랑 얘기하면서 마음이 많이 차분해졌어. 역시 경험자의 얘기가 더 잘 와닿나 봐.",
+            "utterance_id": "BE22009856.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 출산에 관해서는 더 경험자의 말이 잘 들리지. 불안할 때 언제든 문자 줘.",
+            "utterance_id": "BE22009856.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 그럴게. 고마워.",
+            "utterance_id": "BE22009856.15"
+        }
+    ]
+}

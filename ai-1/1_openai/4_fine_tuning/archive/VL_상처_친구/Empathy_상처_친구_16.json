@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22010561",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010561",
+        "relation": "친구",
+        "situation": "강아지를 키우고 싶어하길래 다시 생각해 보라고 했다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 나 오늘 너무 상처받는 일 있었어. 동생이 강아지를 키우고 싶어 하길래 나는 한 번 더 잘 생각해 보라고 했거든. 그러다가 싸웠어.",
+            "utterance_id": "BE22010561.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이게 무슨 일이야. 너는 누나로서 조언을 해준 것뿐인데 그렇게 상황이 안 좋아졌다니 마음이 많이 힘들었겠다.",
+            "utterance_id": "BE22010561.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마랑 아빠, 두 분 다 강아지 안 좋아하시는데 키우자고 하시면 분명 반대하실 거란 말이야. 동생이 그런데도 계속 키우고 싶다고 생떼를 부리는 거야. 누나는 그러면 안 된다는 식으로 이야기하는데 그 말이 상처였어.",
+            "utterance_id": "BE22010561.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수 있지. 너도 동생이 원하는 대로 해주고 싶지만 그게 뜻대로 되는 건 아니라. 답답했을 텐데. 동생이 말로 상처를 줬구나. 참 힘들었겠다.",
+            "utterance_id": "BE22010561.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 그래도 누나인데 그런 식으로 이야기하면 내 마음은 찢어지지. 동생은 그것도 모르고 하고 싶은 말 막 내뱉는 것 같아서 속상해.",
+            "utterance_id": "BE22010561.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나라도 동생을 생각해서 한 말인데 상처가 되는 말로 돌아왔다면 많이 속상했을 거야. 내 동생도 싸울 때마다 안 좋게 이야기하는 습관이 있어서 듣는 내가 다 속상했거든. 그래서 네 마음이 이해돼.",
+            "utterance_id": "BE22010561.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "강아지는 보기에는 예쁘지 당연히 근데 막상 키우려고 하면 돈도 많이 들고 관리도 해줘야 하잖아. 딱 봐도 결국 부모님이 다할 것 같아 보여서 동생을 말렸던 거거든. 근데 대책 없이 행동하고 말도 서운하게 하니까 감당이 안 된다.",
+            "utterance_id": "BE22010561.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "상황을 들어보니 네가 충분히 그럴 수 있었겠다. 너는 항상 어떤 선택에 있어서 신중하고, 최대한 피해가 안 가도록 좋게 결정을 내리는 편이었거든. 근데 동생이 반대로 행동하고 말도 거침없이 하니까 네가 힘들었겠어.",
+            "utterance_id": "BE22010561.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 우리 둘이 너무 다른 것 같아. 이제 어떻게 해야 할지 잘 모르겠어. 다시 동생이랑 이야기도 하고 싶지 않아.",
+            "utterance_id": "BE22010561.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나라도 그런 마음이 들 거야. 근데 친구야 생각해 보면 네가 그렇게 상처를 받았던 건 그만큼 동생을 사랑하고 아껴서이지 않을까? 그래도 네가 누나 입장에서 현명하게 다시 잘 이야기해 볼 수 있을 것 같아.",
+            "utterance_id": "BE22010561.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말이 맞아. 그런 이야기를 할 사람은 집에서 나밖에 없긴 해. 그래도 속상한 마음이 조금은 남아 있는 것 같아.",
+            "utterance_id": "BE22010561.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 우리도 갑자기 욱해서 싸울 때 있잖아. 사실 본래 마음은 그게 아닌데 동생도 아마 실수로 그렇게 이야기했을 거야. 네가 먼저 다시 다가가면 동생도 너의 마음을 알아줄 거야.",
+            "utterance_id": "BE22010561.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇겠지? 내가 너무 사소한 거에 예민하게 굴었나 싶었는데 네 이야기를 듣다 보니 마음이 많이 풀렸어.",
+            "utterance_id": "BE22010561.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 다행이야. 네가 충분히 염려했을 수 있는 문제이니까 동생 말에 너무 상처받지 않았으면 좋겠어.",
+            "utterance_id": "BE22010561.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 그럴게. 고마워.",
+            "utterance_id": "BE22010561.15"
+        }
+    ]
+}

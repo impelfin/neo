@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010061",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010061",
+        "relation": "친구",
+        "situation": "성인이 된 자식들의 식사를 매번 챙겨주고 있다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어휴, 자식들이 이 나이 먹도록 나한테 밥 줘, 밥 줘 아주 난리들이야. 진절머리가 나.",
+            "utterance_id": "BE22010061.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "성인이 된 자식들 식사를 매번 챙겨주고 있는 거야? 너도 네 일상이 있는데 아직도 그러면 번거로워서 어떡하니. 네 마음이 속상하겠다.",
+            "utterance_id": "BE22010061.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 말이야. 딸애들은 좀 괜찮은데 아들 녀석들이 아주 야단법석이야. 속이 답답해서 미쳐버리겠어. 화도 나고 어이도 없어.",
+            "utterance_id": "BE22010061.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대여섯 살 먹은 아이들도 스스로 먹고 입는 방법을 배우는데. 다 큰 자식들이 그러니 네 심정이 오죽할까. 취미며 운동이며 누려야 할 네가 그런다니 나까지 가슴이 무겁다.",
+            "utterance_id": "BE22010061.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알아주니 고맙다. 어떡하면 좋을지 매일 고민하고 있어. 아예 쌀독을 비워볼까 했는데 그럼 내 손해인 거 같아서 말이야.",
+            "utterance_id": "BE22010061.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 성인인데 대화로 풀어보는 건 어떨까? 지성이 있다면 말을 알아듣겠지. 버릇이 들어서 밥 달란 소리는 계속하는 거더라도.",
+            "utterance_id": "BE22010061.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래볼까? 사실 대화로 하기엔 문득 겁이 나기도 하더라고. 내가 말문이 턱 막히면 어쩌나 싶기도 하고.",
+            "utterance_id": "BE22010061.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 걱정 할 수 있지. 하지만 넌 예전부터 말도 조리 있게 잘했고 평소에도 남들과 토론하는 걸 즐겼잖아. 분명 처음엔 좀더듬거리더라도 이내 잘 말할 수 있을 거야.",
+            "utterance_id": "BE22010061.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 말해주니 또 용기가 좀 생기네. 그래 내 자식인데 설마 내 말도 못 알아듣겠어.",
+            "utterance_id": "BE22010061.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지? 버릇을 잘못 들인 거니까 이제 알아서 찾아 먹도록 해보자고 하자. 각자 서로의 생활을 존중하며 살아야 공존할 수 있는 거잖아? 너같이 긍정적인 사람이라면 분명 잘 해낼 수 있어.",
+            "utterance_id": "BE22010061.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 나도 내 생활이 있는걸. 저녁 해줘야 한다고 놀다 말고 집에 돌아가는 내 모습이 무슨 청소년도 아니고. 망측스럽기도 하더라.",
+            "utterance_id": "BE22010061.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "넌 책임감 있는 사람인 거야. 망측스러운 게 아니니까 그런 생각은 접어두도록 해. 잘 말해보고 이제부터는 네 즐거운 생활을 온전하게 즐겨보는 거야!",
+            "utterance_id": "BE22010061.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "좋았어. 당장 오늘부터 말해야겠어. 이제 알아서 해 먹으라고!",
+            "utterance_id": "BE22010061.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래야 내 친구 감정화자지! 말 나온 김에 저녁은 우리끼리 맛있는 거라도 먹으러 가 보자고.",
+            "utterance_id": "BE22010061.14"
+        }
+    ]
+}

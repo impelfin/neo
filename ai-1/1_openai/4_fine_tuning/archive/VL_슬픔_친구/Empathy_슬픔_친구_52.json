@@ -1,0 +1,186 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009826",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009826",
+        "relation": "친구",
+        "situation": "운동중에 갑자기 무릎이 시큰거린다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 정말 큰일 났어. 요즘 무릎이 자꾸 아파서 너무 걱정되고 슬퍼.",
+            "utterance_id": "BE22009826.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 회원들 운동 가르쳐야 하는데 큰일이네. 무릎이 아프면, 일하는데 지장이 생기는 거 아냐? 나도 네가 걱정이 되네.",
+            "utterance_id": "BE22009826.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 여름이라 운동하러 오는 회원들이 늘고 있거든. 하루에 PT 수업을 열 개씩 하니까, 무릎이 너무 아픈 거 있지. 절망스럽다 진짜.",
+            "utterance_id": "BE22009826.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 아프다고 하니 나까지 너무 속상하다. 쉬지 않고 계속 운동을 하는 네가 안타깝다. 너 정말 고생하고 있구나.",
+            "utterance_id": "BE22009826.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 어제도 수업이 아홉 개였어. 어제는 회원분이랑 운동하다가 중간에 수업을 멈췄어. 무릎이 아파서 병원에 다녀왔거든.",
+            "utterance_id": "BE22009826.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 당황스러웠겠다. 그래도 바로 병원에 가길 참 잘했어. 얼른 치료받아서 네 몸이 회복되기를 간절히 바라.",
+            "utterance_id": "BE22009826.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 정말 두려운 건, 이러다가 직업을 포기해야 할까 봐서야. 뼈와 관절이 아프면, 트레이너로서의 내 업무에도 차질이 생기거든. 정말 괴롭고 슬프다.",
+            "utterance_id": "BE22009826.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "트레이너가 되는 것은 너의 꿈이었잖아. 너의 꿈을 포기해야 할 상황이 오니, 나도 너무 눈물이 나. 당사자인 네가 얼마나 속상할지 감히 상상할 수도 없다.",
+            "utterance_id": "BE22009826.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 고통을 함께 이해해 줘서 정말 고마워. 정말 무릎이 너무 아프니까 수업을 줄일까 생각 중이야.",
+            "utterance_id": "BE22009826.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 생각이 그렇다면, 줄이는 게 좋을 것 같아. 네가 어떤 선택을 하든지 나는 널 믿어. 몸을 회복하는 게 먼저라고 생각한 거지?",
+            "utterance_id": "BE22009826.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 계속 쉬지 않고 운동하다가는 더 크게 아플까 봐 그래. 갑자기 수업을 줄여도 회원분들이 날 이해해 줄까?",
+            "utterance_id": "BE22009826.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "넌 항상 사람들에게 잘해왔잖아. 네가 좋은 트레이너이기 때문에, 분명 이해해 줄 거야. 아픈 너의 몸을 회복하려는 너의 결정을 나도 응원해.",
+            "utterance_id": "BE22009826.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "내 생각을 지지해 주고 응원해 줘서 정말 고마워. 사실 트레이너로서의 생활이 끝일까 봐 정말 슬펐거든. 이제는 슬프지 않고 힘이 난다.",
+            "utterance_id": "BE22009826.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 괜찮아져서 정말 다행이다. 앞으로도 아프거나 고민이 있으면 나에게 말해. 나는 항상 네 편인 거 알지?",
+            "utterance_id": "BE22009826.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응 알고 있어. 네가 있기 때문에 마음이 편안해진다. 나도 힘내볼 게 정말 고마워.",
+            "utterance_id": "BE22009826.15"
+        }
+    ]
+}

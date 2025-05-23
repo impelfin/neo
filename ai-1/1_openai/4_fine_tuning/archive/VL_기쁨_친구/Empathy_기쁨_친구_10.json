@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009018",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009018",
+        "relation": "친구",
+        "situation": "소개를 받은 후 6개월 만에 결혼을 했다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 원래 운명을 믿지 않았는데 이제 운명을 믿게 됐어. 진짜 운명이라는 게 있나 봐.",
+            "utterance_id": "BE22009018.1"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 남편 얘기이지? 결혼 정말 축하해. 운명의 짝을 만나게 된 기분이 어때?",
+            "utterance_id": "BE22009018.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 신랑을 만난 지 6개월 만에 결혼하게 될 줄은 정말 꿈에도 몰랐어. 소개해 준 친구에게 정말 고맙지.",
+            "utterance_id": "BE22009018.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나라도 그런 좋은 신랑감을 소개해 준 친구라면 등에 업고 만세라도 부를 것 같다. 물론 너도 그만큼 좋은 사람이기에 좋은 짝을 만난 거라고 생각해.",
+            "utterance_id": "BE22009018.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니 고마워. 사실 사람은 사계절은 겪어봐야 한다는 말이 있어서 걱정은 됐지. 그런데 보자마자 이 사람이다 싶어서 놓치기 싫더라고.",
+            "utterance_id": "BE22009018.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사랑에 빠진 네 모습을 보니 나도 얼른 결혼하고 싶어지는걸. 좋은 사람을 만나 행복한 네 모습을 보면 연애 기간은 크게 중요하지 않은 것 같아. 걱정할 필요 전혀 없어 보이니 염려 마.",
+            "utterance_id": "BE22009018.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "결혼 준비하면서 많이 싸운다 해서 걱정했는데 한 번도 싸우지도 않았어. 정말 날 너무 배려해 주고 소중하게 생각해 주는 게 느껴져서 잘 선택했다 싶었지.",
+            "utterance_id": "BE22009018.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "결혼식 때도 널 바라보는 눈빛에서 난 느낄 수 있었어. 꿀이 아주 뚝뚝 떨어지는 게 눈이 하트던데? 널 아끼고 사랑해 주는 사람을 만나서 너무 잘 됐어.",
+            "utterance_id": "BE22009018.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하. 우리 딸 절대 어떤 남자에게도 못 준다던 우리 아빠가 나보다 신랑을 더 좋아하게 됐어. 첫 만남에 결혼을 오케이 했을 정도니까 말이야.",
+            "utterance_id": "BE22009018.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너희 아버지는 예전부터 딸 사랑이 지극하셨잖아. 그런 아버지가 허락한 남자라면 보증이 확실히 됐네. 남자는 남자가 알아본다고 하잖아.",
+            "utterance_id": "BE22009018.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 신혼 초라 내가 너무 팔불출처럼 자랑을 너무 많이 했지? 결혼 적령기는 다 되어가는데 결혼을 할 수 있을까 고민이 많았잖아. 그러다가 드디어 짝을 만나서 결혼을 한 거라 행복한 마음에 그런 거니 네가 이해해 줘.",
+            "utterance_id": "BE22009018.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사랑 넘치는 네 결혼 얘기를 듣는 것도 나에게는 기쁨이고 행복이야. 늘 고민이 많았는데 운명처럼 현재 남편을 만났으니 얼마나 좋겠어. 나에겐 언제든지 자랑해도 좋아.",
+            "utterance_id": "BE22009018.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 신혼집에도 널 한 번도 초대하지 못했네. 우리 신랑 요리 실력도 기가 막힌 거 있지? 나보다 더 잘한다니까 널 꼭 초대해서 맛있는 음식으로 대접하고 싶다.",
+            "utterance_id": "BE22009018.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어쩜 하나도 빠지는 게 없는 완벽한 신랑이네. 요리까지 잘하면 너무 다 가진 거 아니니? 얼른 너희 집에 가서 실력 좀 보고 싶다.",
+            "utterance_id": "BE22009018.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "하하 정말? 그러면 말이 나온 김에 날 잡자. 다음 주에 우리 신혼집에 한번 놀러 와.",
+            "utterance_id": "BE22009018.15"
+        }
+    ]
+}

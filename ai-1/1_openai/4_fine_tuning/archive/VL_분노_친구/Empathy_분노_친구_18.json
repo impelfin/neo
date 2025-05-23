@@ -1,0 +1,187 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009405",
+        "listener_behavior": [
+            "조언",
+            "동조"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009405",
+        "relation": "친구",
+        "situation": "집주인이 계약서대로 이행을 안 하려고 한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집주인이 미쳤나 봐. 계약서를 무시하고 보증금을 올리겠대.",
+            "utterance_id": "BE22009405.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 정말? 계약서대로 안 하면 위약금 같은 걸 물어야 하는 거 아니야?",
+            "utterance_id": "BE22009405.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그런데도 그냥 진행하겠대. 나 이사 온 지도 얼마 안 됐는데. 짜증 나 죽겠어.",
+            "utterance_id": "BE22009405.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "있는 사람들이 더한다더니 진짜 짜증 나겠다. 나였으면 당장 뒤집어엎었을 텐데 어떻게 참았데?",
+            "utterance_id": "BE22009405.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 경우는 처음이라 종일 화만 내고 있어. 나 어떻게 해야 해?",
+            "utterance_id": "BE22009405.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음, 일단 내가 인터넷으로 찾아보니까 위약금은 무조건 줘야 한다고 하더라고. 원한다면 네가 계약 파기도 할 수 있지 않을까?",
+            "utterance_id": "BE22009405.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 이사 온 지 2개월밖에 안 됐잖아. 지금 또 이사 가기엔 나한테 손해가 너무 큰 것 같아서 문제야.",
+            "utterance_id": "BE22009405.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 일단 지금 집 근처에 다른 집 나온 게 있는지 알아보는 게 좋겠다. 어떻게 될지 모르잖아.",
+            "utterance_id": "BE22009405.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야겠어. 이 몹쓸 집주인 때문에 내가 이게 무슨 고생이야. 어쩐지 수리 요구를 해도 들은 척도 안 하더라고.",
+            "utterance_id": "BE22009405.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 이렇게 하자. 새로 이사 갈 집을 최대한 빨리 구한 다음에 집주인에게 위약금을 요구하자. 그걸 이사 비용으로 쓰는 거지.",
+            "utterance_id": "BE22009405.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 하면 되겠다. 내가 좀 피곤하긴 하겠지만 나한테 크게 손해는 아니니까. 그럼 집주인도 좋은 거 아닐까?",
+            "utterance_id": "BE22009405.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 보기엔 집주인은 네가 얼른 방을 비워줬으면 하는 것 같아. 그러니까 위약금 받고 얼른 정리하는 게 네 정신건강에도 훨씬 좋을 것 같아.",
+            "utterance_id": "BE22009405.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말이 맞는 것 같아. 이렇게 된 이상 그냥 새집을 찾는 데 시간을 쏟아야겠어.",
+            "utterance_id": "BE22009405.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 새집은 괜찮은 곳으로 구해서 네가 잘하는 집 꾸미기를 한번 본격적으로 해보는 건 어때? 인테리어 대회에서 상도 받았었잖아.",
+            "utterance_id": "BE22009405.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "완전 굿 아이디어야. 내 집은 내가 가장 잘 아니까 아주 이쁘게 꾸며봐야겠어.",
+            "utterance_id": "BE22009405.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이야. 인테리어 다 끝나면 집들이할 때 나도 초대해줘야 해!",
+            "utterance_id": "BE22009405.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "당연하지! 맛있는 음식도 많이 차려놓을게. 꼭 와!",
+            "utterance_id": "BE22009405.17"
+        }
+    ]
+}

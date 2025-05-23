@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009610",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009610",
+        "relation": "친구",
+        "situation": "명품 가방을 사기 위해 카드대출을 받았다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다음 달 카드 고지서 어떻게 나올지 너무 걱정스러워. 사실 명품 가방 사려고 카드로 대출을 받았거든. 내가 구매한 거지만 불안한 마음에 너에게 말해본다.",
+            "utterance_id": "BE22009610.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그래. 쇼핑을 하게 되면 나도 모르게 예상보다 많은 금액을 쓰곤 해. 다음 달 카드 값을 걱정하며 내 재정 상태를 확인해 보곤 해.",
+            "utterance_id": "BE22009610.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나와 비슷한 사람이 많구나. 사실 지금 명품 가방 사는 게 무리였는데 반해버려서 안 살 수가 없더라. 카드값 때문에 불안하면서도 가방만 보면 마음이 풀려.",
+            "utterance_id": "BE22009610.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가방 산 것은 매우 기쁜 일이지만 다음 달에 청구될 것 때문에 걱정된다는 거지? 너의 마음이 이해된다. 불안하지만 기쁜 마음이라는 게.",
+            "utterance_id": "BE22009610.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 정확해. 그래서 이제 나의 충동적 소비 습관으로 받는 스트레스를 줄이고 싶어서 가계부를 써보려 해. 이렇게 한다면 나의 소비가 줄어들겠지.",
+            "utterance_id": "BE22009610.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거 굉장히 좋은 생각이다. 네가 많이 불안한 상황이잖아. 가계부 작성을 통해서 소비 습관이 정리되면 불안감도 사라질 테니 일석이조 방법이 될 거 같아.",
+            "utterance_id": "BE22009610.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그러면 정말 좋지. 가계부를 꼼꼼하게 쓸 자신은 없지만, 시작이 반이라는 말이 있잖아. 이제부터 돈 모으고 계획적으로 살아보려고 생각만 해도 나의 불안했던 마음에 희망이 보이는 것 같아.",
+            "utterance_id": "BE22009610.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가방 사서 불안한 마음이 들었지만, 결과적으로는 가계부도 작성할 마음도 먹고. 계획적인 소비로 나아갈 결심을 했으니 결과적으로는 좋은 방향으로 마무리 지어졌구나. 널 볼 때면 위기에서 현명하게 상황을 해결하는 점이 참 보기 좋고 대단해.",
+            "utterance_id": "BE22009610.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 역시 나는 불안하고 초조해야지 계획적인 생각을 할 수 있는 것 같아. 여유가 있으면 생각도 안 하고 소비를 마구 하는 경향이 있어서 고민이야.",
+            "utterance_id": "BE22009610.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기왕에 산 명품 가방 잘 들고, 다음 달 카드값을 위해서 열심히 일하는 것이 좋잖아. 또 그게 살아가는 원동력이 되면 정말 좋고.",
+            "utterance_id": "BE22009610.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "열심히 일해서 카드값도 내고 저축도 할 생각을 하니 힘이 난다. 불안에 떨면서 가방만 보면 스트레스받아서 한동안 많이 가슴을 졸였어.",
+            "utterance_id": "BE22009610.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 어차피 저질러 버린 일은 후회 말고 즐겁게 해결하는 게 상호 좋아. 지금같이 긍정적으로 임하는 자세는 너를 발전시키는 자양분이 될 것이라 믿어.",
+            "utterance_id": "BE22009610.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 가계부가 택배로 올 것 같은데 사실 너를 위해서 두 개를 주문했어. 내일 만나서 주려고 했는데 설레서 먼저 말할게.",
+            "utterance_id": "BE22009610.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 역시 내 생각 해주는 건 너밖에 없어. 나도 같은 고민으로 힘들었는데 너한테 선물까지 받으니 행복하다.",
+            "utterance_id": "BE22009610.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "작은 선물인걸. 너의 정서적인 조언들이 나에게 얼마나 힘이 되고, 내 인생에 도움이 되는지 몰라. 항상 이렇게 우리 좋은 사이로 지내자.",
+            "utterance_id": "BE22009610.15"
+        }
+    ]
+}

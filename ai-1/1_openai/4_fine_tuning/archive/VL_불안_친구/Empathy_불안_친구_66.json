@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009919",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009919",
+        "relation": "친구",
+        "situation": "보증금이 없어서 아는 언니 집에서 얹혀 살게 되었다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자야, 나 보증금이 없어서 아는 언니 집에서 얹혀살게 됐어.",
+            "utterance_id": "BE22009919.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "결국 보증금을 못 구했구나. 마음이 무겁겠어.",
+            "utterance_id": "BE22009919.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 모아둔 돈이 없고 대출도 안 나와서 집을 구하기 어렵더라고. 너도 알다시피 내가 할머니, 할아버지랑 사니까 그분들께 돈을 달라고 할 수가 없더라고.",
+            "utterance_id": "BE22009919.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그랬겠다. 아무래도 할머니, 할아버지께서 일을 안 하시니까 손 벌리기가 어렵지. 네 마음이 오죽할까 싶네.",
+            "utterance_id": "BE22009919.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 스스로 내 앞길을 만들어가면서 살아야 하는 신세가 착잡하고, 내 미래가 불투명해서 불안하네. 앞으로도 이렇게 계속 힘들게 사는 건 아닌지 모르겠어.",
+            "utterance_id": "BE22009919.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 의지할 곳이 하나도 없으니까 힘들었을 거야. 갑자기 혼자서 살아내야 하니까 얼마나 힘들고 불안할까? 누구라도 너처럼 혼자서 헤쳐 나가려면 너무 막막하고 불안할 거야.",
+            "utterance_id": "BE22009919.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 애들은 자취방 얻어서 공부에만 전념한다는데 나는 등록금도 내가 벌어야 하잖아. 월세도 내가 준비해야 하고 그런 현실이 갑갑하고 불안해. 괜히 욕심을 부려서 멀리까지 대학을 온 건 아닌가 싶고, 앞으로 어떻게 해야 하나 조마조마해.",
+            "utterance_id": "BE22009919.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜한 욕심이라니, 그렇게 말하니까 듣는 내 가슴이 너무 아프고 찢어지는 것 같아. 어려운 환경에서 그렇게 열심히 공부해서 네가 해낸 거니까 그런 생각하지 않았으면 해. 네가 쉽게 결정한 게 아니고 엄청난 노력을 하고 심사숙고해서 결정한 거잖아.",
+            "utterance_id": "BE22009919.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 가난의 굴레가 나를 덮쳐와서 불안하고, 그 불안 때문에 잠까지 설쳐. 할머니, 할아버지께 잘 해드리고 싶은데 그런 날이 올지 모르겠어.",
+            "utterance_id": "BE22009919.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잠까지 설친다니 얼마나 힘들고 괴로웠으면 그랬을까? 지금은 대학생이라서 어쩔 수 없는 부분도 있으니까 너무 속상해하지 마. 네 잘못이 아니야.",
+            "utterance_id": "BE22009919.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 잘못이 아니라는 말이 참 고맙긴 한데, 가난을 벗어날 수 없을 것 같아서 불안해. 나에게도 희망찬 미래가 있기는 할까?",
+            "utterance_id": "BE22009919.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론이지. 너는 마음 먹은 일은 꼭 해내려고 노력하는 성실한 사람이고, 이제 겨우 시작인걸? 나는 네 능력과 착실함을 믿어. 너는 분명히 대학 생활도 잘할 거고, 취직도 보란 듯이 해내서 가난에서 벗어날 거야.",
+            "utterance_id": "BE22009919.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 우선은 틈틈이 아르바이트하면서 보증금부터 마련해 봐야겠어. 네가 응원해주니까 힘이 난다.",
+            "utterance_id": "BE22009919.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 불안해하거나 주눅 들지 말고, 너 자신을 믿어 봐. 넌 할 수 있어. 내 친구 힘내!",
+            "utterance_id": "BE22009919.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "네 덕분에 불안함이 좀 가시고 기분이 훨씬 좋아졌어. 고마워.",
+            "utterance_id": "BE22009919.15"
+        }
+    ]
+}

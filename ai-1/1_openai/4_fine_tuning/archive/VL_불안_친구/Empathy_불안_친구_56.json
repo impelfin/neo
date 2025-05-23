@@ -1,0 +1,188 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009841",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009841",
+        "relation": "친구",
+        "situation": "포장마차에서 우동 한그릇에 소주 한잔을 마셨다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 혼자 포장마차에서 우동 한 그릇에 소주 한잔하고 있어.",
+            "utterance_id": "BE22009841.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 밤에? 무슨 안 좋은 일 있어?",
+            "utterance_id": "BE22009841.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 면접도 떨어질 것 같아 불안해. 나 정말 그 회사 가고 싶어서 준비도 많이 했었는데.",
+            "utterance_id": "BE22009841.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 이번에 너 진짜 마지막인 것처럼 면접 전날까지도 면접 연습했잖아. 너 정말 열심히 한 걸 내가 알아서 내가 다 속상하다.",
+            "utterance_id": "BE22009841.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 그래서 잘 될 줄 알았는데 예상치 못한 면접 질문을 받았어. 뜬금없이 사회 경제에 관해서 물어보는데 내가 모르는 부분이라 답을 못했어. 이대로 떨어질까 봐 불안해.",
+            "utterance_id": "BE22009841.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하필 또 네가 알지 못하는 걸 물었구나. 나 같아도 열심히 준비한 만큼 엄청 속상할 것 같아. 나도 너처럼 혹시 불합격할까 봐 불안할 것 같아.",
+            "utterance_id": "BE22009841.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 다른 부분은 다 연습할 때 예상했던 질문들이라 답할 수 있었는데. 그거 하나에 엄청 점수가 깎일 것 같아서 불안해. 그래서 계속 생각나더라고.",
+            "utterance_id": "BE22009841.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "딱 하나 답을 못해서 그 생각에 더더욱 불안해질 수밖에 없겠구나. 그것까지 답했으면 완벽했을 텐데. 아쉬운 만큼 계속 생각날 수밖에 없을 것 같아.",
+            "utterance_id": "BE22009841.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내일 발표를 하는데 불안한 건 어쩔 수가 없네. 그래서 저녁도 안 먹고, 포장마차에서 소주 마시고 있는 거야.",
+            "utterance_id": "BE22009841.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그만큼 가고 싶은 회사라서 더 불안한 마음이 들 거야. 근데 이번에 준비 열심히 한 만큼 좋은 결실을 볼 거야. 나였으면 실수 많이 했을 텐데 너라서 그나마 한 문제만 답을 하지 못한 걸지도 몰라.",
+            "utterance_id": "BE22009841.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "근데 면접 보러 온 사람들 보니까 다들 똑 부러지게 생겼더라고. 나보다 똑똑해 보였어.",
+            "utterance_id": "BE22009841.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 그런 면에서 전혀 안 꿀려! 나도 너처럼 면접 때문에 불안한 적 있어서 네가 어떤 마음인지 알아. 그럴수록 생각을 덜 하고 마음을 편하게 먹고 본인을 믿어야 좋은 결과가 나오더라고.",
+            "utterance_id": "BE22009841.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 더 준비했어야 했는데 하고 후회했거든. 밤이 늦지만 않았어도 너와 함께 포장마차에 오고 싶었는데.",
+            "utterance_id": "BE22009841.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 회사 널 떨어뜨리면 보는 눈이 없는 거야. 내일 기쁜 소식 찾아오기를 바랄게. 난 네가 충분히 합격하고도 남을 사람이란 걸 알아!",
+            "utterance_id": "BE22009841.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래, 불안함은 이제 접어둘게. 합격하면 포장마차가 아니라 근사한 곳에서 밥 사마.",
+            "utterance_id": "BE22009841.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 밤이 늦었으니 얼른 들어가.",
+            "utterance_id": "BE22009841.16"
+        }
+    ]
+}

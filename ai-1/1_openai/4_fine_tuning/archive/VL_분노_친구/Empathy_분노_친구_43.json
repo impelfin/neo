@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009628",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009628",
+        "relation": "친구",
+        "situation": "금년 마지막 날이라 회사 직원들과 송년 파티를 열기로 했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "올해 마지막 날이라고 회사 직원들이랑 송년 파티를 열기로 했어.",
+            "utterance_id": "BE22009628.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 뜻깊고 의미 있는 시간이겠다. 직원들과 재밌는 추억 쌓고 와.",
+            "utterance_id": "BE22009628.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 너도 알다시피 난 이런 행사 딱 질색하는 성격이잖아. 정말 귀찮고 성가시게 이런 행사를 왜 하는지 모르겠다니까. 생각만 해도 짜증이 솟구쳐.",
+            "utterance_id": "BE22009628.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 너는 사람들이 많은 곳을 싫어하니까. 게다가 기념일 챙기는 것도 귀찮아하니까 싫을 수도 있겠다.",
+            "utterance_id": "BE22009628.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음 같아서는 나는 빼달라고 간곡히 부탁하고 싶어. 오늘만큼 퇴근이 간절한 적이 없다니까. 정말 짜증 나.",
+            "utterance_id": "BE22009628.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그런 행사를 좋아하는 성격이 아니니까 정말 피곤하고 힘들 것 같아. 나도 동창 모임이나 사람들이 많은 생일 파티는 딱 질색이거든. 그래서 송년 파티에 가기 전부터 질려버린 네 마음이 뭔지 알 것 같아.",
+            "utterance_id": "BE22009628.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 너는 나랑 통하는구나. 어떻게 도망갈 궁리가 없을지 계속 생각해 보고 있어. 원래 한 해 마지막은 조용히 나 혼자 보내고 싶었다고.",
+            "utterance_id": "BE22009628.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 너무 피곤해 보여서 나도 걱정된다. 나도 한 해 마무리는 좋아하는 사람과 조용하게 보내는 걸 좋아해서 네 마음 잘 알아. 너도 그럴 수 있으면 좋을 텐데 아쉽다.",
+            "utterance_id": "BE22009628.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 같은 사람들도 분명 많을 텐데, 왜 이런 행사를 해야 하는지 열받아 죽겠어.",
+            "utterance_id": "BE22009628.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 행사를 싫어하는 마음은 이해하지만, 그래도 막상 가 보면 좋은 추억이 될 거라 생각해. 한 해 동안 함께 고생한 사람들끼리 회포를 풀다 보면 스트레스도 풀릴 것 같아. 너무 방어적으로 생각하지 말고 마음을 열면 분명 좋은 시간이 될 거야.",
+            "utterance_id": "BE22009628.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래. 네 말처럼 좋은 시간이 될지도 모르니까 가기 전부터 너무 화내진 말아야겠다. 그게 내 정신 건강에도 더 좋은 일인 것 같아.",
+            "utterance_id": "BE22009628.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "올해 고생 많이 한 네가 파티에서라도 즐겁게 보낼 수 있으면 좋겠다. 마지막 날까지 스트레스를 받으면 안 되잖아. 부디 즐겁게 지내기를 기도할게.",
+            "utterance_id": "BE22009628.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 고마워. 네가 내 이야길 들어 주니까 마음이 좀 풀리는 것 같다. 파티도 아까보다는 조금 기대되는 마음이랄까?",
+            "utterance_id": "BE22009628.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 다행이다. 송년 파티 잘하고, 다녀와서 또 이야기해 줘. 후기가 궁금해.",
+            "utterance_id": "BE22009628.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알았어. 늘 내 이야기를 궁금해하고 성심껏 들어 줘서 진심으로 고마워.",
+            "utterance_id": "BE22009628.15"
+        }
+    ]
+}

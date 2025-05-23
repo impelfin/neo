@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009697",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009697",
+        "relation": "친구",
+        "situation": "고민이 있으면 한숨도 자지 못한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 약속 다음 주로 미룰 수 있을까?",
+            "utterance_id": "BE22009697.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 괜찮아! 근데 무슨 일 있어? 갑자기 왜 미루는 거야?",
+            "utterance_id": "BE22009697.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 요즘 잠을 한숨도 못 잤거든. 컨디션이 너무 안 좋아져서 만나기 힘들 것 같아.",
+            "utterance_id": "BE22009697.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하루도 아니고 며칠씩이나 밤을 새운 거야? 많이 피곤하겠다. 무슨 일 때문에 잠을 못 자는 거야?",
+            "utterance_id": "BE22009697.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사에서 새 프로젝트 들어갔는데 일이 좀 꼬였어. 그것 때문에 며칠 동안 고민이 많았거든.",
+            "utterance_id": "BE22009697.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 바쁜데, 프로젝트 해결하느라 고생 많았겠어. 잠을 못 자면 스트레스도 엄청 심할 텐데. 걱정이다.",
+            "utterance_id": "BE22009697.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 나도 자고 싶은데 고민이 있으면 잠을 못 자겠어. 잠을 못 자니까 스트레스를 너무 받아서인지 별것도 아닌 일에 짜증 나고, 하루 내내 불안해.",
+            "utterance_id": "BE22009697.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 예전에 불면증 겪어봤잖아. 지금 얼마나 스트레스를 받고 힘들지 알아서 더 안쓰럽고 걱정스러워.",
+            "utterance_id": "BE22009697.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 잠 못 자는 게 얼마나 힘들고 스트레스를 받는 일인지 겪어보니까 알겠더라.",
+            "utterance_id": "BE22009697.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 해결해 줄 수 있는 문제도 아니라서 더 속상해하네.",
+            "utterance_id": "BE22009697.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 회사에서는 내가 힘든 거 티도 못 냈거든. 그동안 스트레스를 풀지 못하고 계속 쌓이기만 해서 더 힘들고, 불면증도 심해진 것 같아.",
+            "utterance_id": "BE22009697.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 그동안 정말 힘들었겠다. 내가 너의 고민을 해결해 주지는 못하지만 너의 힘든 마음은 알아줄 수 있어. 힘들면 나한테 기대도 돼.",
+            "utterance_id": "BE22009697.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해줘서 정말 고마워. 네가 나를 이해해주니까 마음이 한결 편안해진다.",
+            "utterance_id": "BE22009697.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 정말 다행이다. 앞으로는 너의 고민과 힘든 상황을 나에게 얘기해 줘. 나는 네가 빨리 괜찮아져서 잠도 편하게 잘 수 있으면 좋겠어.",
+            "utterance_id": "BE22009697.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 덕분에 많이 괜찮아진 것 같아. 사실 이렇게 나를 이해해 줄 수 있는 사람이 필요했나 봐. 나에게 큰 위로와 힘을 줘서 고마워.",
+            "utterance_id": "BE22009697.15"
+        }
+    ]
+}

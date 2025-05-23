@@ -1,0 +1,163 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009691",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009691",
+        "relation": "친구",
+        "situation": "아이들이 엄마가 만든 음식을 먹으려 하지 않는다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "밥을 차려도 아이들이 먹지 않으니 요즘 밥 할 맛이 나지 않아.",
+            "utterance_id": "BE22009691.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 겪어봐서 그 마음 잘 알아. 아이들 생각하면서 정성스럽게 만들었을 건데 먹지 않으니 속이 많이 상했겠다.",
+            "utterance_id": "BE22009691.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맛이 없어서 먹고 싶지 않은 건가 생각했는데 평소에 잘 먹던 음식들 마저 먹지 않아. 음식으로 장난을 치고 뱉어내는 모습을 보면 화가 나.",
+            "utterance_id": "BE22009691.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나라도 화났을 거야. 퇴근하고 와서 피곤한 몸으로 열심히 만들었을 건데 내가 다 속상하다.",
+            "utterance_id": "BE22009691.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남편은 굶기면 알아서 먹게 될 거라고 하는데 내가 그렇게까지 할 자신이 없어. 그래서 아이들 밥 먹는 시간만 되면 스트레스야.",
+            "utterance_id": "BE22009691.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 밥의 질감을 조금 다르게 해보는 건 어때? 우리 아이들은 밥을 질게 해줬더니 그 질감이 죽 같아서 싫었나 봐. 밥의 질감을 다르게 하니 잘 먹었던 기억이 나.",
+            "utterance_id": "BE22009691.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이들이 소화 잘 시키게 찹쌀을 많이 넣어서 밥을 질게 짓긴 했어. 생각해보니 평소보다 유독 찹쌀을 많이 넣은 날은 밥을 거의 안 먹었던 것 같아.",
+            "utterance_id": "BE22009691.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리도 진밥, 된밥 각자 선호하는 밥이 있잖아. 아이들도 그렇더라고.",
+            "utterance_id": "BE22009691.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "밥의 질감은 전혀 생각하지 못했는데 그럴 수도 있겠구나. 밥 짓는 것부터 다시 시도해봐야겠어.",
+            "utterance_id": "BE22009691.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 시행착오 끝에 알게 됐어. 이 방법이 조금이라도 도움이 됐으면 좋겠다.",
+            "utterance_id": "BE22009691.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다 포기하고 싶었는데 그래도 네 덕에 희망이 생긴 것 같아. 역시 육아 선배는 다르구나.",
+            "utterance_id": "BE22009691.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이를 키우다 보면 누구나 겪게 되는 일인 것 같아. 매 시기마다 각각의 힘든 일이 있더라고. 하지만 엄마라는 이름으로 우리 이렇게 최선을 다하는 거잖아.",
+            "utterance_id": "BE22009691.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그런 것 같아. 앞으로 아이들을 키우면서 새로운 고민거리가 생기면 너에게 달려가야겠어. 정말 고마워.",
+            "utterance_id": "BE22009691.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "내가 그 문제들을 해결해주지는 못하겠지만 조금의 도움이라도 된다면 언제든 환영이야. 힘내자.",
+            "utterance_id": "BE22009691.14"
+        }
+    ]
+}

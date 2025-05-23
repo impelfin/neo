@@ -1,0 +1,217 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010462",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010462",
+        "relation": "친구",
+        "situation": "때로 두려운 생각에 휩싸인다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제 더 이상 뭐라 해야 할지도 모르겠어. 두려운 생각에 잠식되어 버릴 것만 같아.",
+            "utterance_id": "BE22010462.1"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이야? 두렵고 힘든 생각이 있으면 같이 나누어 생각하자. 네 고민이 내 고민이 되면 금방 해결할 수 있을 거야.",
+            "utterance_id": "BE22010462.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제 정말 사람을 믿는 게 어려워진 것 같아. 나는 때로 모르는 사람이 나를 죽이면 어떡하나 하는 두려운 생각에 휩싸이곤 해.",
+            "utterance_id": "BE22010462.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그런 생각을 갖는 게 무리도 아니야. 요즘 일어나는 사건들을 보면 나도 네가 갖는 그런 불안이나 걱정을 똑같이 느끼고 있는걸. 네가 얼마나 걱정이 많이 될지 피부로도 느껴지는 것 같아.",
+            "utterance_id": "BE22010462.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래도 사람을 잘 믿지 못했었는데. 이제는 출퇴근길에 지나가는 사람이 나를 해치면 어쩌나 하는 생각에 일상생활도 어려울 지경이야.",
+            "utterance_id": "BE22010462.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 갖는 불안이 잘못된 게 아니야. 당연히 그렇게 느낄 수 있고 나조차도 사회나 사람에 대한 믿음이 없어서 많이 불안해. 하지만 이상한 사람들 때문에 네 일상이 망가지지 않았으면 좋겠어.",
+            "utterance_id": "BE22010462.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "때로 정말 아무것도 못 할 정도로 막연한 불안감이 나를 덮치곤 해. 이게 내 망상일 수도 있지만... 그 피해자들도 자기가 죽을 거라고는 생각조차 못 했을 거라고 생각하니 더 회의적으로 되는 것 있지.",
+            "utterance_id": "BE22010462.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 안은 불안이나 무거운 감정을 내가 어떻게 다 헤아릴 수 있겠어. 하지만 네가 그런 생각을 하고 있었다고 하니 내 마음도 무겁다. 우리 서로 같은 생각을 갖고 있으니 서로에게만큼은 믿을 수 있는 사람이 되었으면 해.",
+            "utterance_id": "BE22010462.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 너는 믿을 수 있지. 하지만 요즘 드는 생각들은 내가 바꿀 수 없다는 강한 느낌이 들어서 스스로가 무력해져.",
+            "utterance_id": "BE22010462.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 네 말이 어떤 의미인지 알아. 잘못된 것들이 너무 많지만 나 하나로는 바꿀 수 없을 것 같은 느낌. 하지만 그런 생각을 하는 동료가 너와 나뿐만 아니라 점점 늘어갈 거야.",
+            "utterance_id": "BE22010462.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그랬으면 좋겠다. 언제까지 이런 불안에 잠식되어 살아야 할지 알 수가 없어서 너무 두려웠는데. 너한테 털어놓고 나니까 같은 생각을 하는 사람이 더 있다는 것만으로도 위안이 되는 것 같아.",
+            "utterance_id": "BE22010462.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 너와 똑같은 감정을 느끼고 있어서 네 불안과 걱정을 너무 잘 알 것 같아. 네가 얼마나 마음속으로 힘든지도 알아서 마음이 아파. 내가 혼자 분노하고 의심한다 해도 그대로일까 봐 너무나 두려운 느낌이 들잖아.",
+            "utterance_id": "BE22010462.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 정말 그런 생각이 매일 들어. 누구를 만나는 것도, 일하는 것도 다 멈추고 도망가고 싶은 생각이 들 때가 있어. 저 사람이 그 이상한 사람이면 어쩌지 하면서 말이야.",
+            "utterance_id": "BE22010462.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 너와 같아. 우리처럼 생각하는 사람들이 많아지면 점점 그런 이상한 사람들을 대처하는 방법들도 생길 거야. 그러니까 그때까지는 서로에게 불안 우산이 되어주자.",
+            "utterance_id": "BE22010462.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "불안 우산이라! 정말 좋은 표현이다. 네가 그렇게 말해주니 정말 비 오는 날 우산이 생긴 것처럼 안심이 돼. 물론 당장은 바뀌지 않아서 가끔 불안하지만 그럴 때마다 너와 이야기하면 나아질 것 같아.",
+            "utterance_id": "BE22010462.15"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 생각했어. 나도 이런 이야기를 너와 할 수 있어서 기뻐. 정말 불안하지만 어디에 말하지 않으면 터져버릴 것 같은 마음이 들 때가 있잖아. 그러니 너도 항상 그런 생각이 들면 나에게 말해줬으면 해.",
+            "utterance_id": "BE22010462.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "당연하지! 너와 이야기하다 보니 불안이 조금은 가신다. 너도 그런 생각이 들면 나에게 공유해줘. 네가 나에게 도움이 된 것처럼 나도 너에게 도움이 되고 싶어.",
+            "utterance_id": "BE22010462.17"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나도 너와 이야기하면서 위안받는걸. 사회가 흉흉하지만 서로 믿을 수 있는 동료를 더 만들도록 해보자.",
+            "utterance_id": "BE22010462.18"
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009713",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009713",
+        "relation": "친구",
+        "situation": "저축을 거의 하지 못한다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 돈 얼마나 모았어?",
+            "utterance_id": "BE22009713.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나? 2천만 원 정도. 그건 왜?",
+            "utterance_id": "BE22009713.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 돈 언제 모으나 해서. 예전에 대학교 다닐 때 등록금으로 쓴 빚을 아직도 갚고 있거든.",
+            "utterance_id": "BE22009713.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "돈 모으는 게 원래 쉽지 않지. 기간이 많이 긴 것 같은데 지치지는 않니?",
+            "utterance_id": "BE22009713.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지치지. 월급 탄 걸로 생활비하고 월세 내고 나면 나머지는 빚으로 다 빠져나가.",
+            "utterance_id": "BE22009713.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "힘들게 일해서 받은 월급을 금방 쓰게 돼서 속상하겠다. 다른 거 사고 싶은 것도 많을 텐데 참아야 할 게 많겠네.",
+            "utterance_id": "BE22009713.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 나 요즘 먹고 싶은 것도 잘 못 먹어. 나는 모아둔 돈도 없는 실패자 같아. 막막해서 눈물이 나더라고.",
+            "utterance_id": "BE22009713.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음식도 마음대로 못 먹는 거야? 그런데도 돈을 모으지 못하는 상태라면 정말 막막하고 슬플 것 같아.",
+            "utterance_id": "BE22009713.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 나는 주말에 알바까지 하는데도 생활이 빠듯해. 구렁에 빠진 것 같이 슬퍼.",
+            "utterance_id": "BE22009713.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게까지 노력하는데도 상황이 나아지지 않는다면 고통스럽고 마음이 아주 힘들겠다.",
+            "utterance_id": "BE22009713.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘은 매일 저녁 자기 전에 괴로워서 울면서 자. 나도 언젠가 돈을 많이 모을 수 있을까?",
+            "utterance_id": "BE22009713.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "매일 우는 너의 모습을 생각하니 나도 눈물이 난다. 내 생각엔 넌 금방 돈을 모을 수 있을 거야. 넌 근검절약하잖아.",
+            "utterance_id": "BE22009713.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아. 내가 알뜰하긴 해. 빚을 제외하고는 돈을 허투루 쓰지 않긴 하지. 내가 금방 빚을 갚을 수 있을까?",
+            "utterance_id": "BE22009713.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 어릴 때부터 가계부도 쓰던 널 생각하면 난 네가 금방 빚을 갚을 수 있다고 믿어.",
+            "utterance_id": "BE22009713.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "날 믿어주는 네가 있어 힘이 난다. 어렸을 적 근검절약하던 내 모습을 떠올리니 자신감이 생겨. 위로해 줘서 정말 고마워.",
+            "utterance_id": "BE22009713.15"
+        }
+    ]
+}

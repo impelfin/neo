@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009801",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009801",
+        "relation": "친구",
+        "situation": "경주로 가족 여행을 다녀왔다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 가족여행 잘 다녀왔어.",
+            "utterance_id": "BE22009801.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어때, 재미는 있었던 거야?",
+            "utterance_id": "BE22009801.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 너무 신이 나서 시간이 어떻게 갔는지 모르겠어.",
+            "utterance_id": "BE22009801.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 좋았구나. 문자에서도 행복함이 느껴지는걸.",
+            "utterance_id": "BE22009801.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "경주에 여행을 갔었거든. 아버지 사업이 어려워져서 몇 년을 못 갔는데, 좋은 추억도 만들 수 있고 너무 좋더라.",
+            "utterance_id": "BE22009801.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오랜만에 가는 가족여행이면 정말 신났겠다.",
+            "utterance_id": "BE22009801.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 너무 신나. 다른 것도 좋지만 아빠가 여행에 들뜬 모습을 보니 너무 좋았어.",
+            "utterance_id": "BE22009801.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그간 고생을 많이 하신 아버지께서 여행으로 기분이 좋아지셨다니 내가 다 마음이 좋아진다. 가족이 행복한 모습을 보는 게 제일 행복하다고 하잖아.",
+            "utterance_id": "BE22009801.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 내가 원래 계획 짜는 걸 좋아하는 스타일이 아닌데, 열심히 검색해서 맛있는 것도 많이 먹었어.",
+            "utterance_id": "BE22009801.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내키지 않던 것도 즐겁게 할 수 있다는 게 설레는 네 마음을 잘 설명해주는 것 같아. 난 보기만 해도 흐뭇해.",
+            "utterance_id": "BE22009801.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 부모님이 고생하셨던 게 다 눈 녹듯 사라졌다고 하시는데 자주 이렇게 다녀야겠다 싶더라.",
+            "utterance_id": "BE22009801.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 너도 고생이 많았잖아. 이제 가족들끼리 여유롭게 즐기며, 좋은 추억을 만들면 좋을 것 같아.",
+            "utterance_id": "BE22009801.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 속 마음을 이해해주는 친구는 너밖에 없는 것 같아.",
+            "utterance_id": "BE22009801.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 기념품은 사 온 거지? 말만으로 좋은 친구라고 하는 건 안 된다.",
+            "utterance_id": "BE22009801.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연한 말씀. 내일 만나자, 멋진 선물 전해줄게.",
+            "utterance_id": "BE22009801.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "정말? 고마워. 오늘 밤 잠이 안 오겠다. 내일 봐.",
+            "utterance_id": "BE22009801.16"
+        }
+    ]
+}

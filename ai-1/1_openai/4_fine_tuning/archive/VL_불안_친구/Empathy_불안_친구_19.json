@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009455",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009455",
+        "relation": "친구",
+        "situation": "오빠가 요즘 퇴근이 늦더니 저녁을 먹으면 쓰러져 잠든다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 오빠 때문에 걱정이야. 건강이 안 좋아진 건 아닌가 해서 불안감 때문에 일이 손에 안 잡혀.",
+            "utterance_id": "BE22009455.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정 때문에 잠을 못 잘 정도야? 남편이 왜 무슨 일인데? 네가 그렇게 말하니 나도 염려된다.",
+            "utterance_id": "BE22009455.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 퇴근이 너무 늦어지더니, 저녁을 먹으면 바로 쓰러져 잠드는 거야. 가족들끼리 대화 나눌 시간도 없어서 불만인데, 그것보다 오빠 건강이 더 걱정돼.",
+            "utterance_id": "BE22009455.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 신경 정말 많이 쓰이겠다. 평소 에너지도 많고, 활기찬 사람이라고 했는데, 바로 쓰러져 잘 정도면 네가 좀 불안하겠는걸!",
+            "utterance_id": "BE22009455.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어, 평소에 그러지 않던 사람이라 더 위태로워 보여. 요즘 퇴근도 늦고, 저녁에 다른 활동도 못 하고, 저렇게 쓰러져 잠만 자니 불안하지 않겠니? 정말 뭘 어떻게 해야 할지 모르겠다.",
+            "utterance_id": "BE22009455.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 나도 내 남편이 평소랑 다른 행동이 보이면 얼마나 불안한지 몰라. 네 마음 내가 너무 잘 안다! 무슨 일이 있는 건 아닌지, 건강에 문제가 있는 건 아닌지 걱정이 이만저만이 아니라고.",
+            "utterance_id": "BE22009455.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 건강도 걱정되지만, 말 못 할 무슨 일이 있는 건 아닌지, 그게 더 불안해. 요즘 좀 우울해 보이거든. 회사에서 무슨 안 좋은 일이 생긴 건가 싶어서 초조한 마음이 든다.",
+            "utterance_id": "BE22009455.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 그렇게 될 수밖에 없지. 무슨 일인지 모르니 더 그런 감정이 들 거야. 네 마음이 얼마나 불안하고, 초조할까 생각하면, 난 네가 더 걱정된다.",
+            "utterance_id": "BE22009455.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 집에서는 잠만 자니까 오빠랑 대화할 시간도 없어. 그러니 이러다 무슨 큰일이 생기지나 않을까 얼마나 불안한지 집안일이 손에 안 잡혀.",
+            "utterance_id": "BE22009455.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 불안해하는 감정은 너무 이해해. 당연히 그럴 수 있는 상황이고 말이야. 하지만 아직 일어나지 않은 일에 불필요한 상상을 더 해서 더 큰 불안감을 느낄 필요는 없어.",
+            "utterance_id": "BE22009455.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래 내가 이런저런 쓸데없는 상상을 많이 하긴 했어. 무슨 일인지 모르니 불안한 마음이 있는데, 거기에 상상하면서 불필요한 불안감을 더했던 것 같다. 그렇게 생각하니 그래도 안정이 되는 것 같아.",
+            "utterance_id": "BE22009455.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이다. 좀 마음을 가라앉으면, 남편이랑 대화 나눌 수 있는 시간을 마련해봐. 지금은 조금은 느긋하게 네 불안한 마음을 덜어내려 집중하고 말이야.",
+            "utterance_id": "BE22009455.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 나에게 제일 필요한 건 느긋한 마음이구나. 불안감을 덜고, 오빠 건강을 챙기려는 현실적인 노력을 먼저 해 봐야겠다.",
+            "utterance_id": "BE22009455.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 그럼! 역시 내 친구, 현명하다. 그렇게 불안감을 내려놓다 보면, 모든 게 다 잘 풀릴 거야. 너무 쓸데없는 걱정은 하지 말아.",
+            "utterance_id": "BE22009455.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네 덕분에 불안감이 많이 가라앉았어. 이런 대화를 나눌 수 있는 사람은 너밖에 없다. 항상 도움이 되어 줘서 정말 고맙다.",
+            "utterance_id": "BE22009455.15"
+        }
+    ]
+}

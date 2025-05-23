@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009643",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009643",
+        "relation": "친구",
+        "situation": "학습지 선생님에게 숙제를 하지 않아 혼이 났다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 학습지 선생님께 크게 혼이 났어. 숙제하지 않았거든.",
+            "utterance_id": "BE22009643.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기분이 안 좋겠구나. 왜 숙제하지 않았는지 물어봐도 될까?",
+            "utterance_id": "BE22009643.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "숙제를 미루다가 선생님이 오시기 전에 얼른 끝내려 했는데, 깜빡 잠들어버렸어. 선생님께 혼난 건 처음이라 슬프고 우울해.",
+            "utterance_id": "BE22009643.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 꾸지람을 들었으니 기분이 저기압이겠는걸. 이유를 불문하고 혼이 나면 마음이 속상해지잖아.",
+            "utterance_id": "BE22009643.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 물론 잘못한 게 나인 건 잘 알고 있어서 할 말이 없어. 그런데도 속으로는 내심 서운한 마음을 감출 수가 없어.",
+            "utterance_id": "BE22009643.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 슬퍼하고 있으니 내가 다 안타까운걸. 마음이 여린 네가 신경이 많이 쓰이겠구나.",
+            "utterance_id": "BE22009643.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 항상 살갑게 웃으며 학습지 선생님과 즐겁게 공부하곤 했거든. 그런데 오늘은 눈물을 꾹 참느라 전혀 그러지 못했어.",
+            "utterance_id": "BE22009643.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 많이 힘들었던 모양이로구나. 너는 항상 밝고 예의 바른 태도로 공부하곤 했잖니.",
+            "utterance_id": "BE22009643.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 서운한 마음도 있고 한편으로는 내가 잘못했으니 죄송한 마음도 들더라고. 그래서 제대로 집중하기가 어려웠어.",
+            "utterance_id": "BE22009643.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 마음에 두지 마. 누구나 실수 한 번쯤은 하는 법이고, 지나치게 기운 빠져 있을 거 없어. 앞으로 잘해가면 되니까 힘을 내.",
+            "utterance_id": "BE22009643.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말이 맞아. 계속 마음에 담아 두고 있으니 내가 괜히 더 위축되는 기분이 들더라고. 이런 상황이 계속된다면 나도 마음이 불편할 거야.",
+            "utterance_id": "BE22009643.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 학습지 선생님께서도 네가 이렇게 계속 슬퍼하고만 있는 걸 바라지는 않으셨을 거야. 네가 앞으로 더 잘하기를 바라는 마음으로 따끔하게 말씀하신 것이니, 기죽지 말고 마음을 굳게 잡아봐.",
+            "utterance_id": "BE22009643.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말을 들으니 큰 위안이 된다. 내가 선생님께 느끼고 있던 서운한 감정이 사라지는 것 같아.",
+            "utterance_id": "BE22009643.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 다행이야. 오늘의 실수를 경험 삼아 앞으로는 기운 차려서 성실하게 숙제를 해오는 모습을 보여드리렴. 무척 뿌듯하고 보람을 느낄 수 있을 거란다.",
+            "utterance_id": "BE22009643.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 꼭 그렇게 하도록 할게. 조언해줘서 고마워.",
+            "utterance_id": "BE22009643.15"
+        }
+    ]
+}

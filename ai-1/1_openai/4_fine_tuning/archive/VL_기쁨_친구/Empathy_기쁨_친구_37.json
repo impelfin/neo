@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009257",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009257",
+        "relation": "친구",
+        "situation": "도자기 공방에서 접시와 컵을 만들었다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 올린 사진 두 장 봤어?",
+            "utterance_id": "BE22009257.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와, 뭐야? 접시랑 컵 사진이네? 색이랑 디자인 둘 다 너무 예쁘다. 어디서 샀어?",
+            "utterance_id": "BE22009257.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지? 저 접시랑 컵 말이야, 내가 도자기 공방에서 직접 만든 거다?",
+            "utterance_id": "BE22009257.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 난 어디서 파는 건 줄 알았어. 그래서 어디서 샀냐고 물어봤잖아. 진짜 잘 만들었다.",
+            "utterance_id": "BE22009257.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부끄럽게 뭘 그래. 그냥 공방에서 잘 알려준 덕분에 이렇게 예쁜 결과가 나왔다고 생각해.",
+            "utterance_id": "BE22009257.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 네 손재주가 받쳐줬기 때문에 정말 파는 것처럼 만들어진 걸 거야. 내가 했다면 식탁에는 올리지도 못할 수준으로 나왔을 거야.",
+            "utterance_id": "BE22009257.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "칭찬 정말 고마워. 네가 그렇게 얘기해 주니까 정말 신이 나고 기쁘다. 공방 다니길 정말 잘했다는 생각이 들어.",
+            "utterance_id": "BE22009257.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 기뻐 보여서 다행이야. 공방 다니면서 만족하는 결과물도 얻고 스트레스도 푸는 거 진짜 재밌어 보인다.",
+            "utterance_id": "BE22009257.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "재밌는 정도가 아니라 정말 과정 하나하나가 신이 나더라고. 너도 같이 해볼래? 이런 이색적이면서도 재밌는 취미 가져보는 것도 좋더라.",
+            "utterance_id": "BE22009257.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 예전에 취미 삼아 수영했었을 땐 너처럼 마냥 즐거워했는데 아쉽게도 수영장이 문을 닫아버렸지 뭐야. 마침 새로운 취미를 찾고 있었는데 공방에서 그릇을 만들면 나도 마찬가지로 신이 날 것 같아.",
+            "utterance_id": "BE22009257.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너랑 같이 도자기 공방을 다닐 생각 하니까 더 재밌고 기쁘겠다.",
+            "utterance_id": "BE22009257.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오히려 내가 해야 할 말 같은데? 게다가 넌 정말 수준급으로 잘 만드니까 나 많이 도와줄 수도 있겠다. 잘 부탁할게.",
+            "utterance_id": "BE22009257.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 또 그렇게 말하니까 부끄럽지만 진짜 뿌듯하고 기분이 좋다. 고마워.",
+            "utterance_id": "BE22009257.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야. 우리 같이 세상에 하나뿐인 그릇 만들어보자.",
+            "utterance_id": "BE22009257.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋아. 먼저 도자기 구워본 사람으로서 많이 도와줄게.",
+            "utterance_id": "BE22009257.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "벌써 선생님 하려는 거야? 그럼 선생님 실력 한번 기대해볼게.",
+            "utterance_id": "BE22009257.16"
+        }
+    ]
+}

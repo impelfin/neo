@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009213",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009213",
+        "relation": "친구",
+        "situation": "수능시험이 끝나자마자 쌍꺼풀수술을 했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 수능시험 끝나자마자 쌍꺼풀수술 했어.",
+            "utterance_id": "BE22009213.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴 너 수능시험 끝나면 바로 성형한다고 했지. 어때?",
+            "utterance_id": "BE22009213.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "근데 쌍꺼풀이 생각보다 두껍게 된 것 같아. 일주일 됐는데 아직 눈이 꼭 소시지처럼 보여.",
+            "utterance_id": "BE22009213.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아하, 수술한 지 얼마 안 돼서 그런가봐. 원래 초반에는 붓기가 심하잖아!",
+            "utterance_id": "BE22009213.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "근데 나는 수술한 당일이랑 지금이랑 눈 붓기가 같아. 어떡하지? 이대로 더는 부기가 붓기가 안 빠질까 봐 불안해.",
+            "utterance_id": "BE22009213.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮아, 감정화자야. 쌍꺼풀수술은 진짜 시간이 더 지나봐야 알아. 나도 방학 때 쌍꺼풀 수술할 때 망했다고 했는데 붓기 다 빠지고 자연스러워졌잖아! 시간이 지나면 해결되는 일이야.",
+            "utterance_id": "BE22009213.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 이대로 붓기 안 빠지면 성형한 거 다 티 나는 대로 대학생활 시작할까봐 걱정돼. 그럼 친구도 못 사귈 것 같아서 걱정도 돼.",
+            "utterance_id": "BE22009213.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 그 걱정스러운 마음 나도 알지. 하지만 차차 시간이 지나면 붓기가 확 빠져. 상처도 한 번 생기면 나을 때 시간이 걸리는 법이잖아.",
+            "utterance_id": "BE22009213.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "쌍꺼풀 수술한 게 티 난다고 눈치가 보이지는 않을까 걱정돼.",
+            "utterance_id": "BE22009213.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람들의 눈치는 신경 쓰지 마. 신경 쓰이고 소극적이다 보면 더 안 좋은 생각이 많이 들게 되더라고. 아직 시간이 덜 지났으니 조금 더 기다려보면 좋은 결과가 올 거라고 생각해보자.",
+            "utterance_id": "BE22009213.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워. 너 같은 친구가 있어서 다행이야. 거울 볼 때마다 불안해서 괜히 한탄해봤어.",
+            "utterance_id": "BE22009213.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구 사이에 뭘 이런 거 가지고. 또 고민 있으면 말해줘! 내가 더 도움이 되고 싶은데 이렇게 말이라도 네게 도움이 되어서 다행이야.",
+            "utterance_id": "BE22009213.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 쌍꺼풀수술 처음이라 걱정이 이만저만이 아니었어.",
+            "utterance_id": "BE22009213.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "아냐, 누구나 처음은 그렇잖아. 쌍꺼풀이 자연스럽게 잘 자리 잡기를 바랄게!",
+            "utterance_id": "BE22009213.14"
+        }
+    ]
+}

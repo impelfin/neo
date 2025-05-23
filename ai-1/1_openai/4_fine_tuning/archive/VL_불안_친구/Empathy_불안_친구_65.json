@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22009918",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009918",
+        "relation": "친구",
+        "situation": "어제는 절에 가서 108배를 하고 왔다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 어제 절에 가서 108배 하고 왔어. 하는 일도 잘 안되는 것 같고, 내 마음이 정리가 잘 안되더라고. 내 삶이 불안하고 내 미래가 너무 걱정되더라고.",
+            "utterance_id": "BE22009918.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 108배까지 생각할 정도로 무척 힘들었구나. 일이 잘 풀리지 않을 때는 불안한 마음이 커지지. 잘될 수 있을까 싶기도 하면서 나 자신을 낮춰 보게 되는 것 같아.",
+            "utterance_id": "BE22009918.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 지금 나 자신이 믿음직스럽지 못하고, 사회의 암 덩어리 같은 느낌이야. 모든 것들이 잘 못 될 것 같은 마음이야.",
+            "utterance_id": "BE22009918.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음이 불안한 건 열심히 준비하고 있기 때문일 거야. 그러다 보니 걱정스러운 마음이 드는 것이고. 내가 이렇게까지 해야 하나 싶기도 하지?",
+            "utterance_id": "BE22009918.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 해야 할 것들이 무엇인지 모르겠어. 이것저것 해봐도 뚜렷한 결과가 안 나오니까 답답한 마음만 커지는 것 같아.",
+            "utterance_id": "BE22009918.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구나 그런 마음을 갖고 있을 거야. 나만 봐도 매일 불안감에 스트레스를 받고 있거든. 취업해야 한다는 압박감과 이러다가 잘 안 풀릴 것 같은 걱정들이 나를 감싸고 있어.",
+            "utterance_id": "BE22009918.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 그런 감정을 느끼는 줄은 몰랐네. 열심히 하면 된다고 생각했는데 현실이 다르니까 지치고 있는 것 같아.",
+            "utterance_id": "BE22009918.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구도 처음 사는 인생 불안하지 않다면 이상할 거야. 괜찮으니까 너무 걱정하지 마. 마음 편히 먹으면 걱정스러운 마음도 줄어들 수 있을 거야.",
+            "utterance_id": "BE22009918.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 말해주니까 조금은 위로가 된다. 지금까지 나를 이해해 주는 사람은 없었거든. 그저 내가 잘못하고 있다고만 했었지.",
+            "utterance_id": "BE22009918.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 사람들은 네가 얼마나 노력하는지 모르고 그럴 거야. 불안하고 걱정스러운 마음에 108배까지 하면서 마음을 정리하려는 노력을 했잖아.",
+            "utterance_id": "BE22009918.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 나름대로 해보려고 노력해 봤어. 지금은 눈에 띄는 성과는 없지만 시도하다 보면 답이 보이겠지?",
+            "utterance_id": "BE22009918.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 당연하지. 네가 마음을 조금만 편하게 먹으면 불안감도 해소될 거야. 그리고 생각이 정리되면 걱정스러웠던 마음도 언제 그랬냐는 듯 당당함으로 바뀌어있을 거고.",
+            "utterance_id": "BE22009918.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "정말 고마워. 네 덕분에 불안했던 마음들이 싹 사라졌어. 절에 가서 108배를 하는 것보다 훨씬 생각의 정리가 빨리 됐어.",
+            "utterance_id": "BE22009918.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "다행이다. 누구나 한 번쯤은 겪는 일이니까 너무 걱정하지 말고, 너 자신을 믿고 끝까지 해보자. 나도 옆에서 네 불안이나 걱정들 해소할 수 있게 같이 노력할게.",
+            "utterance_id": "BE22009918.14"
+        }
+    ]
+}

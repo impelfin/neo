@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22010323",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010323",
+        "relation": "친구",
+        "situation": "안경이 불편해서 렌즈 삽입술을 알아보고 있다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야 잘 있지? 나 요즘 고민이 생겼어.",
+            "utterance_id": "BE22010323.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나야 잘 지내지. 무슨 일 있어?",
+            "utterance_id": "BE22010323.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 알겠지만, 내가 시력이 많이 안 좋잖아. 그래서 이번에 렌즈 삽입술을 알아보고 있는데 부작용 때문에 걱정이 돼.",
+            "utterance_id": "BE22010323.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 그랬구나. 수술하고 싶은데 혹시 모를 부작용이 있을까 마음이 불안하구나.",
+            "utterance_id": "BE22010323.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실은 뭐 큰 부작용이 있겠어, 하고 차분히 알아보는 중이었어. 근데 회사 사람이 그러는데 자기 지인이 부작용 때문에 고생하고 있대. 그 얘기를 듣고 엄청나게 불안해지는 거 있지.",
+            "utterance_id": "BE22010323.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 마음이 걱정이 많이 됐겠다. 그런 얘기를 들으면 누구라도 식은땀을 흘리고 불안해할 만한 상황이라고 생각해.",
+            "utterance_id": "BE22010323.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 또 생각해보면 부작용 얘기는 처음 듣는 것도 아니고 이미 하기로 결심했었지. 그런데 내가 정신력이 좋지 않아서 이런저런 얘기가 흔들리나 싶기도 해.",
+            "utterance_id": "BE22010323.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래 결심하고도 여러 번 흔들리는 게 사람 마음이잖아. 난 네가 걱정하고 두려워하는 게 충분히 이해돼.",
+            "utterance_id": "BE22010323.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이해해줘서 고마워. 우선 내일 병원에 상담받기로 예약했는데, 그냥 가지 말아버릴까 고민이야.",
+            "utterance_id": "BE22010323.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고민되는 네 마음이 너무 공감돼. 나였어도 너랑 같은 고민을 했을 것 같아. 너는 수술에 대해선 더 알아보고 싶진 않은 거야?",
+            "utterance_id": "BE22010323.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주저가 많이 되기는 해. 그래도 내가 가장 정확한 정보를 얻으려면 병원에 가서 알아보는 게 맞을 것 같다는 생각이 들어. 그래도 한 번 가보는 게 낫겠지?",
+            "utterance_id": "BE22010323.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "불안한 마음이 클 텐데 용기 있게 결정헸구나. 역시 넌 대단해.",
+            "utterance_id": "BE22010323.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네가 내 얘기를 잘 들어주니까 나도 불안한 마음이 잘 정리가 된 것 같아. 내일 예정대로 병원에 가서 알아보고 올게.",
+            "utterance_id": "BE22010323.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 결정을 응원해. 가서 잘 들어보고 결정하면 되겠다. 나중에 어떻게 됐는지 알려줘.",
+            "utterance_id": "BE22010323.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 정말 고마워, 친구야.",
+            "utterance_id": "BE22010323.15"
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010032",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010032",
+        "relation": "친구",
+        "situation": "후배 직원이 나보다 더 인정받고 있다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 이번에도 승진에서 떨어졌어. 정말 난 잘하는 게 아무것도 없는 쓸모없는 사람인 가봐. 져.",
+            "utterance_id": "BE22010032.1"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그토록 오랫동안 노력하고 기다려온 승진인데 떨어져서 마음 아프겠다. 노력하는 널 옆에서 계속 봐 왔는데 너는 정말 열심이었어. 너 같은 친구가 도통 왜 승진이 안 되는 건지 이해가 안 되네.",
+            "utterance_id": "BE22010032.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나보다 늦게 입사한 후배들은 다 이제 비슷해지고 인정도 많이 받고 있는데... 나만 제자리인 것 같아. 점점 스트레스받아.",
+            "utterance_id": "BE22010032.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그렇겠다. 스스로가 뒤처진 것처럼 느껴질 거 같아서 내가 더 속상하네. 그래도 친구야, 네가 한 노력은 결코 쓸모없지 않다고 생각해.",
+            "utterance_id": "BE22010032.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까? 아무리 열심히 해도 성과가 나지 않으면 다 소용없는 게 아닐까. 이러다가 영영 나만 제자리인 것은 아닐까 하고 불안해져.",
+            "utterance_id": "BE22010032.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "성과라는 건 어쩌면 철저히 회사 측에서만 생각하는 기준일 수 있어. 너는 그동안 꾸준히 무언가를 위해 노력했고, 남들을 도왔잖아. 누구보다도 내가 옆에서 자세히 지켜봤어.",
+            "utterance_id": "BE22010032.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 쑥스러움이 많아서 그런가. 그냥 남들 뒤에서 조용히 무언가를 하는 게 더 편하더라고. 도움이 필요하면 슬쩍 가서 돕거나 하는 일.",
+            "utterance_id": "BE22010032.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 맞아. 그게 너의 강점이야. 지금 당장은 화려하게 앞에 나서고 활기차게 움직이는 사람들이 인정받는 것처럼 보이겠지. 하지만 진짜 단단하게 준비된 인재는 훗날 어느 때라도 인정받는다고 생각해.",
+            "utterance_id": "BE22010032.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말을 들으니 안정이 된다. 내가 정말 뭐 하고 있는 건지 스스로 탓하면서 엄청 불안하고 초조했거든.",
+            "utterance_id": "BE22010032.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러지 마. 조금 느릴 순 있어도 도달하지 못하는 건 아니야. 분명 너의 꾸준함과 성실함을 알아줄 사람들이 있을 거야. 너는 지금 그대로의 너를 존중하면서 일하면 돼.",
+            "utterance_id": "BE22010032.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "분명 나도 인정받는 날이 오겠지? 그래서 지금 내가 하는 노력을 모두가 다 알아주는 날이 오겠지?",
+            "utterance_id": "BE22010032.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 분명히 그럴 거야, 너는 누구보다 남을 배려하잖아. 그래서 네가 한 일을 잘 드러내지 않아 아직 주목을 못 받았을 뿐이야. 원래 그런 인재가 더 진국인 법이고.",
+            "utterance_id": "BE22010032.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 말해주니 괜히 위로가 되네. 어쩐지 후배들 보기가 좀 부끄러웠거든. 승진 못하는 선배가 진짜 선배인가 싶었어.",
+            "utterance_id": "BE22010032.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사회에서 존경받는 사람들은 승진의 여부로 그 존재가 평가되지 않아. 그냥 꾸준하고 단단하게 일상을 이겨내는 사람들이 결국 진정한 선배로 인정되더라. 나는 네가 그런 사람이라고 생각해.",
+            "utterance_id": "BE22010032.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "정말 고마워. 다시 기운이 나. 다시 꾸준히 노력하는 평소의 나로 돌아가 힘내 볼게. 우리 같이 힘내자.",
+            "utterance_id": "BE22010032.15"
+        }
+    ]
+}

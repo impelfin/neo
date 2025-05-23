@@ -1,0 +1,207 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009319",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009319",
+        "relation": "친구",
+        "situation": "종업원이 우리보다 늦게 온 사람들 먼저 음식을 내어주었다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 집 앞에 새로 생긴 고깃집 알지? 거기 다신 가지 말아야겠어.",
+            "utterance_id": "BE22009319.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어딘지 알아. 왜? 거기서 안 좋은 일이라도 겪었어?",
+            "utterance_id": "BE22009319.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 새로 개업한 곳이라 사람들이 꽤 많더라고. 웨이팅만 30분 동안 하고 들어갔는데, 우리보다 늦게 온 사람들한테 먼저 음식을 내어 주더라고.",
+            "utterance_id": "BE22009319.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 경우가 다 있어? 네가 겪었을 불공평함을 생각하니 나까지 화가 나네. 네가 먼저 왔으니, 너에게 먼저 음식을 내어주는 게 상식적으로 맞는 일이야.",
+            "utterance_id": "BE22009319.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 정말 기분 나빴어. 30분 기다린 것도 모자라서, 식당에 앉아서 한참을 더 기다렸다고. 정말 어이없지?",
+            "utterance_id": "BE22009319.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기분 나쁠 만하네. 먼저 들어온 손님을 챙기는 게 맞는데, 그곳에서는 그렇게 하지 않았네. 나였어도 화났을 것 같아.",
+            "utterance_id": "BE22009319.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 내가 우리가 먼저 왔다고 말했거든? 그랬더니 대충 알겠다고 대답하고 사과도 안 하고 가버리더라고. 고객에 대한 서비스 정신도 없는 곳인가 봐.",
+            "utterance_id": "BE22009319.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 가끔 식당 가면 그런 무례한 일들 겪는 경우 있어. 종업원분들도 바쁘고 정신없어서 그랬겠지만, 겪는 입장에서는 상당히 화가 나지.",
+            "utterance_id": "BE22009319.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그래서 밥 먹고 한 시간 뒤에 다른 약속이 있었는데 결국은 못 갔어.",
+            "utterance_id": "BE22009319.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 일정도 꼬여버린 거구나. 나도 예전에 미용실에 갔는데, 나중에 온 손님 머리를 먼저 해줘서 약속을 늦은 적 있거든. 그때 정말 화가 났는데 마치 너의 마음도 그럴 것 같아서 이해된다.",
+            "utterance_id": "BE22009319.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 벌써 하루가 지났는데도, 어제의 그 기분이 잊히질 않아.",
+            "utterance_id": "BE22009319.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "듣는 나도 화나는데 당사자인 네가 얼마나 화가 났을지 이해해. 하루 동안 계속 화가 났으면 너도 정말 힘들었겠는걸? 다신 그런 일을 겪지 않았으면 좋겠어.",
+            "utterance_id": "BE22009319.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 어제 화가 나서 잠도 못 잤어. 나도 화를 풀고 싶은데 쉽게 풀리지 않네.",
+            "utterance_id": "BE22009319.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만, 그 종업원도 분명 너무 바쁘니까 헷갈려서 그랬던 걸 거야. 일부러 그런 게 아닐 테니 너그러운 마음으로 이해해 주는 것도 좋을 것 같아.",
+            "utterance_id": "BE22009319.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래. 생각해 보니 일부러 그런 것 같지는 않았어. 나중에는 서비스도 챙겨주긴 했어.",
+            "utterance_id": "BE22009319.15"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬다면, 아마 미안한 마음이 들어서 더 챙겨준 걸 거야. 그 바빴을 상황을 이해해 보자. 그럼 너의 화도 조금 더 누그러지고 마음이 편해질 수 있을 거야.",
+            "utterance_id": "BE22009319.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 사람이 바쁘면 뭐든 헷갈릴 수 있는 거니까. 일부러 그런 게 아니면 이해가 간다. 너의 말을 듣고 이해해 보니 화가 좀 풀리네.",
+            "utterance_id": "BE22009319.17"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "내 말을 듣고, 네 마음이 풀려서 정말 다행이야. 난 항상 너의 편인 거 알지? 만약 네가 또 화나는 일이 있으면 언제든 내게 말해.",
+            "utterance_id": "BE22009319.18"
+        }
+    ]
+}

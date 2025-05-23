@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009669",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009669",
+        "relation": "친구",
+        "situation": "엘리베이터를 탔는데 버튼 누르는 것을 잊고 있었다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 오늘 정말 바보 같은 짓을 했어.",
+            "utterance_id": "BE22009669.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일이 있었던 거야?",
+            "utterance_id": "BE22009669.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엘리베이터를 탔는데 내가 버튼 누르는 걸 잊었더라고. 엘리베이터가 안 움직여서 봤더니 버튼이 안 눌러져 있었어.",
+            "utterance_id": "BE22009669.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있었구나. 나도 종종 그렇게 까먹을 때가 있더라고.",
+            "utterance_id": "BE22009669.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "근데 엘리베이터를 탄다는 게 어디에 올라가거나 내려가기 위해서잖아. 당연히 버튼을 눌러야 하는데 왜 안 눌렀을까. 이런 내가 바보 같아서 화가 나!",
+            "utterance_id": "BE22009669.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가끔 스스로가 바보처럼 느껴져서 화가 머리끝까지 날 때가 있지. 나도 가끔 나 자신이 한심스러울 때마다 너무 열 받더라고. 네가 지금 어떤 감정인지 나도 이해할 수 있을 것 같아.",
+            "utterance_id": "BE22009669.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 더구나 출근길에 자칫 더 늦으면 지각할 수 있는 문제였어. 더 늦게 알아챘으면 아마 지각했을 거야. 난 왜 이렇게 멍청하게 사소한 것도 다 잊을까.",
+            "utterance_id": "BE22009669.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 긴급한 상황에 잊어버린 거면 충분히 화가 날 수밖에 없겠다. 나도 중요한 순간에 뭘 까먹으면 나 자신에게 화가 날것 같아. 자칫 잘못했으면 지각했을 수도 있는 상황이라 스스로에게 더더욱 화가 났겠구나.",
+            "utterance_id": "BE22009669.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 그나마 다행스럽게 지각을 안 해서 망정이지. 진짜 내 뺨을 한 대 치고 싶었을 거야. 아직도 열 받네.",
+            "utterance_id": "BE22009669.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 자신에게 화가 날 때 때리고 싶다는 심정, 나도 이해해. 나도 내 잘못으로 누구의 탓도 할 수 없을 때 주체할 수 없이 화가 나더라고. 하지만 이럴 땐 달짝지근한 걸 먹어서 기분을 달래야 본인 정신 건강에도 좋더라고.",
+            "utterance_id": "BE22009669.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그런가? 쉽게 화가 꺼지지 않아서 말이야. 그럼 사탕이라도 먹으면서 기분 좀 달래야겠어.",
+            "utterance_id": "BE22009669.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 나도 그럴 땐 쉽게 진정이 되지 않아서 지금 네 마음 알 수 있어. 하지만 너무 열 받으면 계속 나만 계속 스트레스받고 결국엔 나만 손해더라고. 차분히 마음을 가라앉히고 사탕이라도 먹으면서 가볍게 넘기는 게 어떨까?",
+            "utterance_id": "BE22009669.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 네 말처럼 결국은 계속 화를 내봤자 내 손해인 것 같아. 내가 너무 열 받아 했던 것 같기도 해. 네 말 들으니까 조금 진정이 돼.",
+            "utterance_id": "BE22009669.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 자기 스스로에게 좀더 관대해져도 좋을 것 같아. 자신을 아끼는 건강한 마음으로 말이야!",
+            "utterance_id": "BE22009669.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 네 말처럼 내 실수에 내가 좀 관대해져야 할 것 같아. 고마워.",
+            "utterance_id": "BE22009669.15"
+        }
+    ]
+}

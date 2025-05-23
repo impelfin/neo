@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22009907",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009907",
+        "relation": "친구",
+        "situation": "남편이 술에 취해 친구집에서 잠들었다고 거짓말을 한다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어젯밤에 한숨도 자지 못했어.",
+            "utterance_id": "BE22009907.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이 있던 거야? 잠을 전혀 자지 못했다니 걱정된다.",
+            "utterance_id": "BE22009907.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지난밤 남편이 전화도 없이 늦게까지 집에 들어오지 않는 거야. 밤새 걱정돼서 잠이 오지 않더라고.",
+            "utterance_id": "BE22009907.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "연락도 없었다고? 어젯밤 얼마나 네가 불안감에 마음 졸였을지 생각만 해도 끔찍해. 가족이 말없이 집에 들어오지 않는다는 거 얼마나 걱정되는 일인지 나도 겪어봐서 잘 알아.",
+            "utterance_id": "BE22009907.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아침에 연락이 되었는데 하는 소리가 술 먹고 친구 집에서 잠이 들어서 연락을 받지 못했다고 하더라. 그런데 나는 아무리 생각해도 그 말이 거짓말 같다는 생각을 떨칠 수 없어서 혼란스러웠어.",
+            "utterance_id": "BE22009907.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "취해서 그랬다고? 너무 무책임한 이유 같아서 듣는 나도 화난다. 그런데 남편의 말이 거짓말이라고 생각한 이유가 있을까? 전에도 이런 일이 있었니?",
+            "utterance_id": "BE22009907.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남편이 술을 먹고 늦게 들어온 적은 많았어도 취해서 연락을 못 받은 적은 없었어. 그리고 같이 술을 마신 친구에 관해 물으니 내가 모르는 사람이라고 얼버무리더라. 이것 말고도 의심할 정황들이 너무 많아서 대화하면서 나만 초라해지는 것 같았어.",
+            "utterance_id": "BE22009907.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 충분히 의심할 수 있는 상황이었구나. 남편이라면 네가 의지할 수 있는 사람이 여야잖아. 믿음이 깨어지는 것 같아 많이 실망스러웠을 것 같아.",
+            "utterance_id": "BE22009907.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 부부가 결혼 전 거짓말만큼은 하지 말자고 서로에게 약속했었거든. 그 약속이 깨어진 것 같아 남편과의 연락을 끊자마자 배신감과 실망감에 눈물이 떨어지더라. 내가 몰랐던 사실을 알게 될까 봐 다시 대화할 용기도 나지 않는 것 같아.",
+            "utterance_id": "BE22009907.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 얼마나 홀로 고통스러운 하루를 보냈을지 상상조차 되지 않아. 이후에 남편과 대화를 가져본 적은 있어?",
+            "utterance_id": "BE22009907.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 나도 아예 대화를 차단하려는 건 아니야. 하지만 대화 중에 감정이 북받쳐 제대로 대화를 나누지 못할까 봐 걱정돼. 그리고 돌이킬 수 없는 이야기를 듣게 될까 봐 불안함이 커.",
+            "utterance_id": "BE22009907.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가까운 사람에게 배신당하는 두려움을 나는 이해할 수 있을 것 같아. 하지만 진실을 모른 채 혼자 아파하는 것보다 한 번 부딪혀 보는 건 어떨까? 너는 누구보다 굳세고 현명한 사람이니까 어떤 상황이든지 똑똑하게 해결할 수 있을 거라 나는 믿거든.",
+            "utterance_id": "BE22009907.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "나를 믿어주는 친구가 있다는 게 오늘처럼 힘이 되는 날이 없던 것 같아. 너의 말처럼 지금 내게 가장 필요한 건 남편과의 대화인 것 같아. 너의 말을 듣고 남편의 말을 들어줄 용기가 조금은 생겼어.",
+            "utterance_id": "BE22009907.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 용기기 되었다니 조금은 다행이야. 너의 곁에는 항상 내가 있을 테니 어떤 일이 있더라도 나에게 이야기해 줘.",
+            "utterance_id": "BE22009907.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "이런 이야기를 나눌 수 있는 사람은 너밖에 없는 것 같아. 매번 고마워.",
+            "utterance_id": "BE22009907.15"
+        }
+    ]
+}

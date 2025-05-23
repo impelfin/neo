@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009318",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009318",
+        "relation": "친구",
+        "situation": "황소개구리들을 목격했다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야. 나 시골에 놀러 왔는데 여기 황소개구리가 진짜 많아. 오랜만에 개구리 보니까 어릴 때도 생각나서 신나고 기쁘다.",
+            "utterance_id": "BE22009318.1"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 메신저를 읽기만 해도 신나는 마음이 느껴진다. 우리 어릴 때 개구리 많이 잡고 놀았잖아. 오랜만에 집에 내려갔구나, 기뻐 보인다.",
+            "utterance_id": "BE22009318.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 오랜만에 집에 내려와서 집 뒤 개울가에 아버지와 왔어. 여기 변한 게 하나도 없어서 왠지 어릴 때 생각이 더 많이 나는 것 같아. 그때가 그리워진다.",
+            "utterance_id": "BE22009318.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집에 내려간 거 정말 잘했다. 아버지도 너 와서 좋아하시겠다. 날씨도 좋아서 개울가에서 놀면 시원하고 재밌겠어.",
+            "utterance_id": "BE22009318.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 오랜만에 온 거라 부모님이 많이 좋아하신다. 이렇게 좋아하실 줄 몰랐는데 자주 와야겠어.",
+            "utterance_id": "BE22009318.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 잘 생각했어. 네가 우리 동네에서 소문난 효자잖아. 역시 너의 부모님을 생각하는 마음은 나도 본받아 할 정도야.",
+            "utterance_id": "BE22009318.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각해 주고 날 칭찬해 주니 내가 부끄럽다. 황소개구리 본 반가워서 기뻐진 마음을 너한테 문자로 보냈더니 칭찬까지 받았네, 보내길 잘했다.",
+            "utterance_id": "BE22009318.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 나도 너의 문자 받고 어린 시절도 떠오르고 해서 나까지 행복해졌어. 연락도 자주 하고 항상 나는 너의 연락을 받으면 반갑고 행복해.",
+            "utterance_id": "BE22009318.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어린 시절을 떠올려 보면 너와 내가 항상 같이 놀러 다녔어. 여러 사건이 많았지만 그래도 내 옆에 네가 있어서 나 행복했지.",
+            "utterance_id": "BE22009318.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각해 주면 내가 더 고맙지. 난 타지에서 이사 온 거라서 네가 나를 많이 챙겨줬지. 그래서 난 학교에서도 적응 잘할 수 있었고 우리 부모님도 너에게 항상 고마워하셔.",
+            "utterance_id": "BE22009318.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구 사이에 당연한 거잖아. 그걸 감사해하는 너라서 나도 같이 행복하게 지낼 수 있었어. 우리 황소개구리 이야기하다가 삼천포로 빠졌다.",
+            "utterance_id": "BE22009318.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "황소개구리 목격해서 기쁘고 신이 난 마음이 우리를 추억 여행 보내줬나 봐. 역시 넌 나에게 소중한 친구이고 그건 언제나 변함없는 사실이란 걸 잊지 마.",
+            "utterance_id": "BE22009318.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그래, 친구야. 우리 이렇게 말로만 하기는 아쉬우니 언제 시간 맞춰서 고향에서 만나자. 우리 부모님도 너 많이 보고 싶어 하시고 나도 너 많이 보고 싶어.",
+            "utterance_id": "BE22009318.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "같은 대한민국 안에 살아도 만나기가 쉽지 않아서 아쉬운 마음뿐이야. 이번에 시간 맞춰서 고향에서 같이 만나면 황소개구리 잡으러 가자.",
+            "utterance_id": "BE22009318.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 너랑 문자만 나눴는데도 기쁜 마음이 배가 되었어. 황소개구리로 이렇게 추억도 생각나고 신이 날 수 있다니 친구는 참 좋은 것 같아. 고마워.",
+            "utterance_id": "BE22009318.15"
+        }
+    ]
+}

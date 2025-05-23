@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009835",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009835",
+        "relation": "친구",
+        "situation": "어머님은 손자 하나만 더 낳자고 밥먹듯 전화가 온다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 시어머님, 손자 하나만 더 낳자고 밥 먹듯이 전화하셔.",
+            "utterance_id": "BE22009835.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 네가 아이 한 명으로 힘에 부쳐 하시는 거, 아시면서 그래?",
+            "utterance_id": "BE22009835.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까, 내가 화가 나는 거야. 우리 아이 워낙 예민한 거 너도 알잖아. 밥 잘 안 먹고, 잠 잘 못 자고, 떼도 심한 거.",
+            "utterance_id": "BE22009835.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 네가 아이 문제로 하소연할 때마다 나도 늘 마음 아팠어. 그런데 너희 어머님은 그런 마음을 몰라주시니, 정말 속상하겠다.",
+            "utterance_id": "BE22009835.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 분노가 느껴질 정도야. 내가 시댁 갈 때마다 아이 때문에 쩔쩔매는 걸 보시면서도 그런 생각을 하시다니. 내 생각을 조금이라도 하신다면, 그러실 순 없을 텐데.",
+            "utterance_id": "BE22009835.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 육아를 도와주시기라도 했으면, 너도 이렇게 화나지는 않았을 텐데. 조금의 도움도 주지 않으시면서, 그런 말씀을 하시니 네가 화날 수밖에.",
+            "utterance_id": "BE22009835.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 그리고 또 화나는 건, 꼭 손자를 낳으라고 하신다는 거야. 우리 아이가 손녀라고, 아들은 하나 있어야 한다고 말씀하실 때마다 내 속이 부글부글 끓어.",
+            "utterance_id": "BE22009835.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 화가 날 만해. 하지만 속 끓여 봤자 네 속만 상할 거야. 그러니 그런 전화를 받으면 너는 그럴 생각 없다고 분명히 말씀드리는 게 어떨까?",
+            "utterance_id": "BE22009835.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말씀드렸는데, 받아들이지를 못하셔. 내 말을 잊으신 것처럼, 다음날 전화해 또 그 이야기를 꺼내시는걸. 내 말을 무시하시는 것 같아, 가슴속에 천불이 나는 느낌이야.",
+            "utterance_id": "BE22009835.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 참 힘들겠다. 하지만 너희 어머님이 너를 무시하려는 의도는 아닐 거야. 우리 엄마도 그렇고, 시어머니도 했던 말씀을 하고 또 하시더라고.",
+            "utterance_id": "BE22009835.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 어머님도 그렇긴 해. 아기 문제 말고도, 했던 잔소리를 늘 반복하셔. 아무리 이해하려고 해도, 내가 스트레스받는 걸 어떡해.",
+            "utterance_id": "BE22009835.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "듣는 입장에서야 힘들 수밖에 없지. 하지만 스트레스가 너무 쌓이다 보면 너에게 마음의 병이 생길 수도 있어. 그러니 어머님이 또 잔소리하시는구나 생각하고 화제를 돌려 버리면, 스트레스가 좀 덜할 거야.",
+            "utterance_id": "BE22009835.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇잖아도 요즘 분노가 자주 치밀어, 아이에게도 화내는 일이 잦아졌어. 그래, 네 말대로 내가 듣는 태도를 바꾸는 것이 정신 건강에 이롭겠다. 어머님은 절대로 바뀌지 않을 테니까 말이야.",
+            "utterance_id": "BE22009835.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 잘 생각했어. 어쨌든 선택권은 너에게 있으니까. 어머님 말씀에 휘둘리지 말고, 당당히 네 행복을 찾기를 바라.",
+            "utterance_id": "BE22009835.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "내 행복은 내가 지킨다는 생각으로, 어머님의 말씀을 흘려들어야겠다. 고마워, 친구야. 너의 조언이 내 화를 가라앉히는 데 큰 도움이 됐어.",
+            "utterance_id": "BE22009835.15"
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010478",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010478",
+        "relation": "친구",
+        "situation": "발표 날짜를 착각했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 지금 너무 불안해서 미칠 것 같아.",
+            "utterance_id": "BE22010478.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일 있어? 네가 그렇다니 나도 갑자기 마음이 안 좋네.",
+            "utterance_id": "BE22010478.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 발표 날짜를 착각하는 바람에 이틀 안에 발표를 준비해야 하거든. 근데 잘되지 않을 것 같다는 생각에 지금 너무 불안해.",
+            "utterance_id": "BE22010478.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 나의 착각으로 갑작스럽게 준비 기간이 짧아졌던 적이 있어서 그 마음 잘 알아. 나였어도 너무 부족한 시간에 잘 될까 불안했을 것 같아. 네가 불안해하는 거 보니까 나도 좀 속상하다.",
+            "utterance_id": "BE22010478.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좀더 일찍 알았으면 그래도 어느 정도 준비할 수 있었을 것 같거든. 근데 이틀 전인 지금에야 알아버려서 너무 걱정되고 불안한 것 같아.",
+            "utterance_id": "BE22010478.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 지금이라도 날짜를 제대로 알게 되어서 다행이라고 생각해보면 어떨까? 좀더 늦게 알았다면 더 해결하기 어려웠을 거라고 생각하면 불안한 마음이 조금 나아지지 않을까? 원래 늦었다고 생각한 때가 가장 빠른 때라는 말도 있잖아.",
+            "utterance_id": "BE22010478.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 얘기를 들으니까 그렇긴 하네. 그래도 지금 발표 자료도 하나도 안 만든 상황이어서 앞이 막막해. 미리 좀 만들어 놓을 걸 자료 준비에만 시간을 써서 걱정이야.",
+            "utterance_id": "BE22010478.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 자료 준비를 철저히 했으니까 발표 자료를 만드는 건 금방 할 수 있을 거야. 너 원래 작업 능력도 뛰어나고 속도도 빠르잖아. 시간 안에 잘 마무리 할 수 있을 거니까 너무 걱정하지 마.",
+            "utterance_id": "BE22010478.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 발표 암기도 갑자기 좀 걱정이 되네.",
+            "utterance_id": "BE22010478.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 암기 능력 뛰어나다고 칭찬 많이 받았잖아. 그리고 네가 자료 준비를 열심히 하는 동안 너의 머리에서 그 내용을 이해했을 거야. 원래 암기의 가장 중요한 기본은 이해하는 것이니까 너무 걱정하지 마.",
+            "utterance_id": "BE22010478.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 덕분에 좀 용기가 생기는 것 같아.",
+            "utterance_id": "BE22010478.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다니 다행이야. 혹시 발표 준비하면서 도움 필요한 일 있으면 말해. 내가 도와줄게.",
+            "utterance_id": "BE22010478.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "말만으로도 정말 고마워. 혼자 끙끙 앓았으면 계속 불안했을 것 같은데 너한테 털어놓고 나니까 좀 안심이 된다. 든든한 내 친구.",
+            "utterance_id": "BE22010478.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너에게 안정된 마음을 가져다줄 수 있어서 너무 기쁘다. 응원할게.",
+            "utterance_id": "BE22010478.14"
+        }
+    ]
+}

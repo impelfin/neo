@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22009746",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009746",
+        "relation": "친구",
+        "situation": "전공 첫 강의를 들었는데 무슨 말인지 하나도 못 알아들었다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 전공 수업 어땠어?",
+            "utterance_id": "BE22009746.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 아직 못 들었어. 내일 첫 수업이야. 넌 어땠어?",
+            "utterance_id": "BE22009746.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나, 첫 강의 듣고 놀란 마음을 추스를 수가 없어. 정말 무슨 말인지 하나도 못 알아들었어.",
+            "utterance_id": "BE22009746.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜? 수업 듣는 내내 혼란스러웠겠다. 안 힘들었어?",
+            "utterance_id": "BE22009746.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 당황스러워서 눈만 동그랗게 뜨고 들었어. 이해하기 힘들었지. 내 전공 지식이 이렇게 모자랐나.",
+            "utterance_id": "BE22009746.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수 있어. 나도 저번 학기 첫 강의 때 그런 적 있어. 너뿐만 아니라 다 똑같을 거야.",
+            "utterance_id": "BE22009746.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까? 어떻게 해야 할지 어찌할 바를 모르겠어.",
+            "utterance_id": "BE22009746.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 너무 당황해하지 말고 첫 수업이니 그럴 거라 마인드 컨트롤을 해봐.",
+            "utterance_id": "BE22009746.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 말인지 이해는 가는데 쉽지 않네.",
+            "utterance_id": "BE22009746.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 네 마음 이해해. 네 마음이 당황스러운 건 혹시 너만 모르는 건 아닐까 걱정스러워서 그럴 거야.",
+            "utterance_id": "BE22009746.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "아, 그런 거 같아. 혹시 나만 모르는 걸 까봐 걱정되고 놀란 마음인 듯해.",
+            "utterance_id": "BE22009746.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 하지만 너만 모르는 게 아닐 거니 크게 걱정하지 않았으면 해. 다들 처음엔 하나도 모를 수도 있어. 나도 물론 그런 적 있었어.",
+            "utterance_id": "BE22009746.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠지? 네 말을 들으니 조금 안심이 된다. 당황스럽던 마음이 정리되었어.",
+            "utterance_id": "BE22009746.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 다행이야. 너만 모르는 거 아닐 거라 생각하고 열심히 해보자고 마음먹고 수업 들어봐.",
+            "utterance_id": "BE22009746.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응 고마워. 네 말대로 다 같이 모를 거야. 나만 어려운 전공 아니니 좀더 가볍게 생각해볼게.",
+            "utterance_id": "BE22009746.15"
+        }
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22009225",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009225",
+        "relation": "친구",
+        "situation": "최소 하루 2번 반려견과 산책을 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 난 강아지와 하루에 두 번은 산책하러 나가는 것 같은데, 무리가 되는 건 아닌지 걱정스러워. 산책에도 방법이 있다는데, 잘하고 있는지도 불안하고.",
+            "utterance_id": "BE22009225.1"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 정말 대단하다. 산책을 싫어하는 강아지가 없잖아. 하루에 두 번 나간다는 사람은 내 주변에서 처음 봤어.",
+            "utterance_id": "BE22009225.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 나가는 게 좋은 걸까. 요즘 방송에서 보면 잘못된 방법으로 강아지 산책을 시켜서 혼나는 강아지 주인들이 많더라고. 나도 해당될 거 같기도 하고.",
+            "utterance_id": "BE22009225.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇구나. 산책 방법으로 고민하고 걱정하는 너의 마음이 불안한 건 강아지를 많이 사랑하고 아끼는 마음 때문이겠지.",
+            "utterance_id": "BE22009225.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 강아지가 나에게는 이제 가족이라고 생각해. 종일 집에 있는 게 불쌍해서 강아지에게 해 줄 수 있는 건 모두 해주고 싶어.",
+            "utterance_id": "BE22009225.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "강아지를 생각하는 너의 마음이 참으로 이쁘고 다정하다. 강아지도 필히 너의 마음을 알고 있을 거야. 너무 걱정하지 마.",
+            "utterance_id": "BE22009225.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 더 불안한 생각이 드나 봐. 강아지는 말을 할 수가 없잖아. 나와의 산책이 즐거운지 불편한 건 없는지 알 수가 없어서 답답해.",
+            "utterance_id": "BE22009225.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 모든 강아지 주인들의 바람 중의 하나가 강아지와 대화를 나눠보는 거라고 하잖아. 너도 그런 마음이구나.",
+            "utterance_id": "BE22009225.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 우리 강아지는 항상 나만 보고 있고, 내 뒤만 졸졸 따라다녀. 산책할 때 즐거워 보이긴 해서 하루에 적어도 두 번은 나가려고 노력해.",
+            "utterance_id": "BE22009225.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "강아지가 너를 따르고 너만 바라본다는 건 네가 좋아서 그런 것 같은데. 너의 말을 들어보면 너는 크게 걱정하지 않아도 될 것 같아. 네가 너무 걱정한다면 되레 강아지도 너의 마음을 알아차려서 걱정하고 우울해할 거야.",
+            "utterance_id": "BE22009225.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까. 내가 강아지에게 해주는 게 항상 부족하고 서툴러서 미안한 마음뿐이야. 너의 격려를 받으니 내가 정말 잘하고 있는 건지 생각해 보게 된다.",
+            "utterance_id": "BE22009225.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너처럼 나도 강아지에게 잘해주고 싶은 마음은 완전히 공감해. 그래서 넌 강아지에게 최고의 노력을 기울이잖아. 아침과 저녁 산책이 얼마나 힘든 건지 강아지를 키우는 사람이면 다 알고 있는 건데.",
+            "utterance_id": "BE22009225.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 강아지를 생각하면 어려울 게 없지. 아침과 저녁에 두 번만 산책하는 게 미안해서 쉴 때는 세 번 나간 적도 있어. 과유불급이라는 말도 있어서 이게 정말 좋은 건지 궁금하고, 틀렸을까 봐 불안해.",
+            "utterance_id": "BE22009225.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "불안해하지 않고 걱정을 덜 하는 것이 너에게도 강아지에게도 좋을 것 같아. 그래도 불안하다면 네가 자주 본다는 방송에서 해답을 찾을 수도 있지 않을까?",
+            "utterance_id": "BE22009225.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야 할 것 같아. 우선 내가 자주 보는 방송에서 해답을 찾아보려 해. 해결이 안 되면 애견 학교에 가서 산책하는 방법을 배우는 것도 좋은 방법이 되겠지.",
+            "utterance_id": "BE22009225.15"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거 정말 좋은 생각이다. 역시 너의 실행력과 강아지를 생각하는 마음은 최고야. 정말 대단해.",
+            "utterance_id": "BE22009225.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "나 오늘 너와 문자 주고받으면서 응원받고 해결책을 찾는 데도 많은 도움을 받았어. 네가 아니었다면 이런 방법은 생각하지도 못했을 거야, 고마워.",
+            "utterance_id": "BE22009225.17"
+        }
+    ]
+}

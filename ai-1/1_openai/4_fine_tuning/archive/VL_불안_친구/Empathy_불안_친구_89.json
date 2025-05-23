@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010180",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010180",
+        "relation": "친구",
+        "situation": "소개팅 상대가 사진으로 본 것과 너무 다르다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 소개팅하고 왔는데 망한 것 같아.",
+            "utterance_id": "BE22010180.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "소개팅할 때 무슨 일 있었어?",
+            "utterance_id": "BE22010180.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "소개팅 상대가 사진으로 본 것과 너무 다르더라고. 내가 초반에 못 알아본 걸 그 사람도 알아챈 것 같아서 걱정돼.",
+            "utterance_id": "BE22010180.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 실물 보고 상대방인지 못 알아챘구나. 상대방이 그거 때문에 마음 상했을까 봐 걱정하는 네 마음 이해해. 아무래도 상대방이 그걸로 널 안 좋게 생각할까 봐 불안할 수밖에 없을 것 같아.",
+            "utterance_id": "BE22010180.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 소개팅 상대가 사진으로 헤어 스타일이 달라져서 내가 순간 못 알아봤어. 그래서 초반에 분위기도 살짝 어색했거든. 난 그 사람이랑 잘 되고 싶은데 그걸로 날 비호감이라 생각할 것 같아서 불안해.",
+            "utterance_id": "BE22010180.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 나 같아도 마음에 드는 사람한테 실수하면 엄청 초조할 것 같아. 더구나 네가 고의로 한 것도 아닌데 본의 아니게 마음을 상하게 했으니 말이야. 너도 참 시간을 되돌리고 싶을 만큼 불안하겠구나.",
+            "utterance_id": "BE22010180.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 진짜 머리 하나로 사람을 못 알아본 게 너무 후회돼. 내가 좀더 신경 써야 했는데 말이야.",
+            "utterance_id": "BE22010180.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 소개팅 사진이란 건 당연히 최근의 모습을 반영했다고 생각할 수밖에 없잖아. 아마 그 사람도 그 부분을 고려하고 널 이해할 거야. 단순히 그 순간만 살짝 기분 나빴을 뿐 지금은 괜찮을 거야!",
+            "utterance_id": "BE22010180.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 난 여전히 불안해. 내가 다른 사람인 줄 알고 그냥 지나쳤다가 그 사람이 날 불러서 알았거든. 내가 너무 큰 실수를 한 것 같아.",
+            "utterance_id": "BE22010180.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 단순한 해프닝이라고 볼 수 있는걸? 그 사람도 그런 걸로 널 안 좋게 생각하지는 않을 거야. 내가 그런 일 당해도 별생각 없을 것 같거든.",
+            "utterance_id": "BE22010180.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말처럼 정말 그랬으면 좋겠어. 난 정말 그 사람이 마음에 든 만큼 걱정이 되더라고.",
+            "utterance_id": "BE22010180.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 그런 자리에서는 모든 행동이 신경 쓰일 수밖에 없지. 그 사람은 네가 왜 그랬는지 이해해줄 거야. 더구나 헤어 스타일이 달라졌는데 그 정도면 못 알아볼 만한걸!",
+            "utterance_id": "BE22010180.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래, 나만 실수했나 싶었어. 근데 네 말 들으니 안심이 돼.",
+            "utterance_id": "BE22010180.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 내 말이 네게 조금이나마 도움이 돼서 다행이야. 네 근심을 내려놓고 좀더 여유를 가져보자고.",
+            "utterance_id": "BE22010180.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 이렇게 따뜻한 말 해줘서 고마워!",
+            "utterance_id": "BE22010180.15"
+        }
+    ]
+}

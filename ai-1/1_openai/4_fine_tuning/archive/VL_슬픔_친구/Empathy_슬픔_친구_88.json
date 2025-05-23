@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010333",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010333",
+        "relation": "친구",
+        "situation": "구름 한 점 없는 하늘을 바라보다 돌아가신 할아버지 생각이 났다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 우연히 하늘을 봤는데 구름 한 점 없이 너무 예쁘더라. 그러다가 갑자기 작년에 돌아가신 할아버지 생각이 났어.",
+            "utterance_id": "BE22010333.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "넓은 하늘과도 같은 마음을 가지셨던 할아버지 생각이 났구나. 네가 자주 말을 해줘서 얼마나 좋으셨던 분인지 나도 잘 알고 있어.",
+            "utterance_id": "BE22010333.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 1년이나 흘렀지만 이렇게 한 번씩 생각날 때가 있어. 괜히 보고 싶고 그립고 그러네. 날씨는 이렇게 좋은데 왜 이렇게 난 슬플까.",
+            "utterance_id": "BE22010333.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 이렇게 슬픈데 너는 얼마나 더 그리워하겠어. 네가 어떤 기분일지 정말 감히 상상도 할 수 없을 것 같아.",
+            "utterance_id": "BE22010333.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 좋으셨던 분이었어. 이렇게 맑은 날에는 항상 날 업어 동네를 산책하셨는데. 이젠 그럴 수 없다는 게 너무 슬픈 것 있지?",
+            "utterance_id": "BE22010333.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많은 좋은 추억을 가지고 있구나. 할아버지와의 좋은 기억이 많다니 너무 부럽다. 할아버지가 남겨주신 소중한 선물이네!",
+            "utterance_id": "BE22010333.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼! 얼마나 자상하신 분이었는데. 할아버지 생각을 하니 나도 모르게 눈물이 나네.",
+            "utterance_id": "BE22010333.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "할아버지도 하늘에서 널 지켜보고 계실 거야! 잘 자라주고 있구나 생각하시면서 흐뭇해하고 계실지도 몰라.",
+            "utterance_id": "BE22010333.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각하니까 기분은 좋다. 할아버지에게 언제나 좋은 모습만 보여드리고 싶었거든.",
+            "utterance_id": "BE22010333.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 당연하지! 지금 네가 얼마나 잘 지내고 있는지 할아버지가 아시면 엄청 뿌듯해 하실 거야. 항상 웃는 모습으로 잘 지내고 있잖아! 항상 내가 응원할게, 힘내!",
+            "utterance_id": "BE22010333.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 네 말이 맞아. 할아버지가 보고 계실지도 모르는데 이렇게 울고만 있을 수는 없지!",
+            "utterance_id": "BE22010333.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언제나 네 앞길에 꽃길만 가득하길 할아버지도 기도하고 계실 거야. 우리 그 기도에 보답할 수 있도록 열심히 살아서 꼭 성공한 모습 보여드리자!",
+            "utterance_id": "BE22010333.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 항상 나는 머리가 똑똑해서 잘될 거라고 말씀하시곤 했어. 정말 그 말처럼 돼가고 있는 것 같아!",
+            "utterance_id": "BE22010333.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "할아버지께서 널 제대로 알아봐 주셨구나! 마침 이번에 좋은 대학도 들어갔잖아. 할아버지가 하늘에서 춤이라도 추고 계실 것만 같은데?",
+            "utterance_id": "BE22010333.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "네 말이 맞아. 지금처럼 할아버지께 자랑스러운 손주로 살아가야겠어! 오늘 내 말 들어줘서 정말 고마워, 네 덕에 힘이 난다!",
+            "utterance_id": "BE22010333.15"
+        }
+    ]
+}

@@ -1,0 +1,192 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009749",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009749",
+        "relation": "친구",
+        "situation": "법의 보호를 받는다는 느낌이 들지 않는다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에 우리 아파트에서 일어난 흉기 투척 사건이 범인을 못 잡은 채로 종결된 거 있지.",
+            "utterance_id": "BE22009749.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐라고? 아무나 맞으라고 위에서 흉기를 투척했는데 그대로 종결되었단 말이야? 무슨 그런 경우가 다 있니!",
+            "utterance_id": "BE22009749.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까. DNA를 식별하지 못했고 피해자가 없다고 종결한다는 거야. 정말 화나는 일이 아니니?",
+            "utterance_id": "BE22009749.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 범인을 잡지 못했으면 그런 일이 또 일어날 수도 있다는 거잖아. 불안해서 어떻게 살라고. 너 괜찮니?",
+            "utterance_id": "BE22009749.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주민 모두 불안에 떨고 있어. 그래도 경찰은 피해자가 없다고 가볍게 생각해. 정말 이 나라에서 법의 보호를 받는다는 느낌을 받을 수가 없다고!",
+            "utterance_id": "BE22009749.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 생각할 수밖에 없지. 피해자가 있어야만 사건을 심각하게 받아들인다는 게 말이 안 돼. 너와 너희 가족들 불안해서 어떻게 살아, 내가 다 걱정돼.",
+            "utterance_id": "BE22009749.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 우리도 매번 집을 나설 때 위를 살펴보는 게 일상이야. 법이 보호를 못 해주니 우리가 자신을 스스로 보호해야지 않겠니? 너무 화가 나.",
+            "utterance_id": "BE22009749.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음 이해해. 언제부턴가 나도 누가 나를 보호해주지 못하니 나 자신을 방어해야 한다고 생각하고 다녀. 이번 너희 아파트 일도 그렇고 누굴 믿을 수 있겠니.",
+            "utterance_id": "BE22009749.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "믿을 수가 없지. 나라에 세금을 내면서 흉기가 떨어질 수 있는 아파트에 살아야 한다니. 정말 절망스러운 일이야.",
+            "utterance_id": "BE22009749.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언제든지 피해자가 될 수 있을 거란 생각으로 사는 게 사람을 얼마나 피폐하게 하겠니. 네가 지금 그런 상황에 놓인 거 아니겠어? 친구로서 정말 안타깝고 속상하다.",
+            "utterance_id": "BE22009749.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 안전하다는 느낌을 받을 수가 없어. 매일 그런 느낌을 받으면서 살아야 한다는 게 분통이 터져.",
+            "utterance_id": "BE22009749.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 이렇게 일이 진행되는 이상 항상 살피고 다녀야 하지 않겠니. 이럴 때일수록 침착함을 유지하는 게 중요하다고 생각해. 그래야 위험에 조금 더 안전하게 대응할 수 있지 않겠니?",
+            "utterance_id": "BE22009749.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래, 그건 네 말도 맞아. 화만 내서 해결되는 일은 없으니까.",
+            "utterance_id": "BE22009749.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 화가 나는 건 사람이라면 당연할 일이야. 다만 앞으로 있을지 모르는 잠재적인 위험에 대비해서 조금만 진정하자는 거야. 주변에 CCTV도 잘 확보되어 있으니 너무 무서워하지 말고 다녀.",
+            "utterance_id": "BE22009749.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 일을 계기로 앞으로 CCTV를 더 확충한다고 하긴 하더라. 그래, 무서움을 가라앉혀 볼게.",
+            "utterance_id": "BE22009749.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "호랑이에게 물려가도 정신만 차리면 산다잖아. 법의 보호를 받지 못한다는 느낌은 분명 힘든 일이지. 하지만 더 깨어있으며 살피고 다니면 스스로 보호할 수 있을 거라 생각해, 그러니 힘을 내.",
+            "utterance_id": "BE22009749.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 알았어. 좋은 말 고맙다.",
+            "utterance_id": "BE22009749.17"
+        }
+    ]
+}

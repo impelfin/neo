@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009892",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009892",
+        "relation": "친구",
+        "situation": "졸업 시험을 망쳐서 재시험을 준비 중이다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 요즘 걱정되는 일이 있어.",
+            "utterance_id": "BE22009892.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 무슨 일인데 그래?",
+            "utterance_id": "BE22009892.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "졸업 시험을 망쳐서 재시험을 준비 중이거든. 준비하는 과정도 힘들고 내가 잘할 수 있을지도 모르겠어. 혹시나 재시험도 망칠까 봐 너무 불안해.",
+            "utterance_id": "BE22009892.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있었구나. 기분이 많이 상했을 거 같아. 오랫동안 준비한 시험을 다시 시작하게 되면 당연히 걱정스럽고 불안한 마음이 들 수밖에 없지.",
+            "utterance_id": "BE22009892.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 다시 해서 잘한다는 보장도 없고 한 번 망쳐버리니까 스스로를 의심하게 돼. 여태까지 노력했던 모든 게 물거품이 되는 기분이야.",
+            "utterance_id": "BE22009892.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 네 마음 충분히 이해 가. 그 상황에선 나였어도 분명히 초조하고 불안한 마음이 들었을 거야. 한 번 망쳐버렸다는 생각 때문에 더 막막하기도 하고 착잡한 마음도 들겠지.",
+            "utterance_id": "BE22009892.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 모든 걸 포기하고 싶은 마음도 들고 다시 하고자 하는 의지도 안 생기는 거 같아. 눈앞이 캄캄하고 아무것도 보이지 않는 기분이야.",
+            "utterance_id": "BE22009892.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그런 마음을 가지고 있었다니 내 가슴이 찢어지는 거 같아 너무 안쓰럽다. 너무 절망스러운 기분일 거 같아. 계속 압박감도 들고 염려스러운 마음이 들지.",
+            "utterance_id": "BE22009892.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 삶의 의욕도 사라지고 불안한 마음 때문에 뭘 해도 확신이 안 서는 거 같아. 재시험을 생각하기만 해도 너무 긴장되고 아찔한 기분이 들어.",
+            "utterance_id": "BE22009892.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 전에 비슷한 경험을 한 적이 있는데. 자꾸 안 좋은 생각이 꼬리에 꼬리를 물면서 불안이 점점 커지기만 하더라고. 어쩔 땐 내 모습이 비참하게 느껴지기도 하고 말이야.",
+            "utterance_id": "BE22009892.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 가만히 있어도 괜히 주눅이 들고 안절부절못하고 있는 거 같아. 하루 종일 좌절감만 느껴지는 기분이야.",
+            "utterance_id": "BE22009892.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 하지만 시험을 망쳤으면 어때 괜찮아 다시 일어나면 되지. 네가 힘낼 수 있도록 나도 옆에서 많이 도와줄게 그러니까 기운 내 분명히 잘될 거야. 재시험에 대해 부담 갖지 말고 편한 마음으로 도전해 봐.",
+            "utterance_id": "BE22009892.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그런가. 그 말을 들으니 안 좋은 모습을 보인 거 같아서 부끄러워진다. 별일 아닌데 말이야. 난 분명 해낼 수 있을 거라고 생각해 볼게.",
+            "utterance_id": "BE22009892.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 넌 네가 세운 목표는 꼭 끝까지 이뤄내는 끈기를 가지고 있잖아. 난 늘 너의 노력하는 모습을 보면서 정말 대단하다고 생각했는걸. 존경스럽기도 하고 말이야.",
+            "utterance_id": "BE22009892.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "네가 그렇게 말해주니 내 마음이 한결 나아진다. 다시 열심히 노력해 볼게. 얘기 들어줘서 고마워.",
+            "utterance_id": "BE22009892.15"
+        }
+    ]
+}

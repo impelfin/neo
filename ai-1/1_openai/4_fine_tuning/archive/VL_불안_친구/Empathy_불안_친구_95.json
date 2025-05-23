@@ -1,0 +1,197 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010261",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010261",
+        "relation": "친구",
+        "situation": "술자리에서 옆 테이블 사람들과 시비가 붙었다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "휴. 나 내일 경찰서 가게 생겼어.",
+            "utterance_id": "BE22010261.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응? 경찰서라니 그게 무슨 소리야?",
+            "utterance_id": "BE22010261.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주말에 술자리 갔었는데 우리 일행이 옆 테이블 사람들과 시비가 붙었거든. 나는 싸움에 안 끼어들긴 했는데 참고인으로 조사받으러 오래.",
+            "utterance_id": "BE22010261.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "헉. 싸움에 안 끼어들었다고 해도 경찰서 가는 거 자체가 너무 불안하고 걱정되는 마음이 드는구나?",
+            "utterance_id": "BE22010261.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 내 직업이 교사라서 그런지 경찰서 들락날락하는 것만큼 불안하고 가슴 떨리는 일이 없어. 내일 경찰서 갈 생각하니까 진짜 입술이 바짝 마른다.",
+            "utterance_id": "BE22010261.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어휴. 왜 아니겠어. 직업이 교사가 아닌 나도 경찰서 간다고 생각하면 불안해서 마음이 떨릴 거야. 네가 지금 엄청 불안하고 걱정될 만한 상황이네.",
+            "utterance_id": "BE22010261.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 괜히 그 술자리에 끼어서, 진짜 내일만 생각하면 걱정돼서 오늘 잠도 안 올 거 같아. 불안한 마음에 지금 손이 계속 떨리는 거 있지?",
+            "utterance_id": "BE22010261.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 나 같아도 그럴 거 같아. 나도 저번에 폭력 사건 목격하고 신고했다가 참고인으로 조사 간 적 있었거든. 내가 잘못한 것도 아닌데 괜히 위축되고 불안하더라.",
+            "utterance_id": "BE22010261.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "싸움에 안 휘말렸다고 해도 나랑 같은 일행이 싸운 거라 괜히 불안해서 심장 떨려. 나한테 뭔가 불합리한 일이 생기지는 않겠지?",
+            "utterance_id": "BE22010261.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 얼마나 불안하고 걱정될지 잘 알지만, 너무 불안해하지는 마. 가도 그냥 상황에 관해 묻기만 하지 너를 추궁하거나 그러지는 않을 거야. 마음 편히 먹고 다녀와. 별일 없을 거야.",
+            "utterance_id": "BE22010261.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까? 네 말 들으니 마음이 좀 편안해지는 거 같아. 좀 전까지만 해도 밥도 잘 안 넘어갔거든.",
+            "utterance_id": "BE22010261.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그러니까 너무 부정적으로 생각하지 말고 걱정과 불안은 좀 털어내 버려. 자꾸 그렇게 부정적인 생각 곱씹으면 일도 잘 안되고 네 말대로 밥도 잘 안 넘어가잖아. 그냥 살면서 겪을 수 있는 작은 사건이라 생각하고 긍정적으로 생각해보자.",
+            "utterance_id": "BE22010261.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 조언이다. 그래. 내가 살면서 경찰서 가볼 일이 뭐가 있겠어. 앞으로는 술자리에서 옆 테이블 사람들이랑 시비 붙어도 도망가야 한다는 교훈을 얻었다고 생각해야지.",
+            "utterance_id": "BE22010261.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 생각했어. 그렇게 긍정적인 마음을 먹으면 밥도 잘 넘어가고 마음이 편안해질 거야.",
+            "utterance_id": "BE22010261.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "덕분에 정말 마음이 많이 편안해졌어. 너랑 문자 하길 잘했다. 고마워. 잘 다녀와서 다시 문자 보낼게.",
+            "utterance_id": "BE22010261.15"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 잘 다녀와서 후기 문자 꼭 남겨줘. 별일 없을 거니까 너무 걱정하지 말고. 알았지?",
+            "utterance_id": "BE22010261.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 이제 걱정하거나 불안해하지 않을게! 그럼 다시 문자 하자.",
+            "utterance_id": "BE22010261.17"
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009748",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009748",
+        "relation": "친구",
+        "situation": "시간을 되돌리고 싶다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 우리 고등학교 때가 좋았지 않았니?",
+            "utterance_id": "BE22009748.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고등학교 때 참 좋았지, 너와 추억도 많고 말이야. 그런데 갑자기 왜 그래, 무슨 일 있어?",
+            "utterance_id": "BE22009748.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그냥, 어제 회사에서 야근하고 집에 돌아가는 길에 그런 생각이 문득 들더라고. 될 수 있다면 시간을 되돌리고 싶어. 나에게 좋은 세월은 다 간 것 같아서 슬프더라.",
+            "utterance_id": "BE22009748.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 회사에서 힘든 일이 있었어? 평소보다 우울한 감정이 느껴지네. 예전이 걱정 없이 참 행복하기는 했지.",
+            "utterance_id": "BE22009748.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어릴 때는 내가 이렇게 맨날 일만 하는 슬픈 어른이 될 줄은 몰랐어. 어제도 부장님한테 많이 혼나고 야근하고 집에 가는 길이 서럽더라고. 행복했던 옛날이 생각해서 문득 눈물이 나더라.",
+            "utterance_id": "BE22009748.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있었구나, 안 그래도 야근하고 피곤한데 무척 슬펐겠다. 나도 사회생활을 하면서 부당한 대우를 받을 때면 그런 서글픈 감정이 들 때가 있어. 예전의 걱정 없이 행복했던 내가 그리워.",
+            "utterance_id": "BE22009748.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 이렇게 시시한 어른이 될 줄 알았으면, 열심히 살지 않았을 거야. 친구들과 놀고 싶은 마음을 다 접고 공부만 했었는데. 왜 이렇게 되어버렸을까 후회만 남아.",
+            "utterance_id": "BE22009748.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 너는 연구원이 되고 싶다는 너의 꿈을 이루었잖아. 슬픈 마음은 이해하지만, 예전의 너도 지금의 너를 보면 자랑스러워할 거야. 예전의 네가 많이 희생해서 지금의 빛나는 네가 완성된 거잖아.",
+            "utterance_id": "BE22009748.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그건 그렇지, 내가 노력하지 않았으면 연구원이 되기는 어려웠을 거야. 다만 요즘 부쩍 행복하지 않다는 생각이 들어서 우울해서 그랬나 봐. 조금 쉬기라도 하면서 즐거웠던 나 자신을 되찾아야겠어.",
+            "utterance_id": "BE22009748.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 일을 많이 하고 스트레스도 많이 받았잖아. 조금 쉬면서 너 자신에 대해 생각해 보면 울적했던 마음이 나아질 거야. 하루라도 멀리 나가서 너 자신에 대해 생각하고 마음을 가라앉혀 봐.",
+            "utterance_id": "BE22009748.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야겠다, 요즘 내가 너무 힘들어서 과거로 돌아가고 싶다고 생각했나 봐. 내가 힘들다는 사실을 나보다 더 잘 알아채다니, 넌 참 좋은 친구야.",
+            "utterance_id": "BE22009748.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리가 몇 년 친구인데, 당연히 나는 바로 알아차리지. 난 네가 행복하기만 했으면 좋겠어.",
+            "utterance_id": "BE22009748.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 위로해준 덕분에 마음이 많이 나아졌어. 오늘은 기분 좋게 하루 보낼 수 있을 것 같아 고마워.",
+            "utterance_id": "BE22009748.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "어제보다 나아졌다니 다행이다, 회사에서 일 열심히 하고 또 연락해.",
+            "utterance_id": "BE22009748.14"
+        }
+    ]
+}

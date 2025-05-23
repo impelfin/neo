@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009956",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009956",
+        "relation": "친구",
+        "situation": "예전같지 않게 숙취가 오래간다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야. 어제 나 회식하고 상태가 몸이 아니야. 진짜 너무 힘드네?",
+            "utterance_id": "BE22009956.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고. 회식하면서 술을 많이 마신 거야? 몸 상태가 안 좋다고 말하니 마음이 안 좋네!",
+            "utterance_id": "BE22009956.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 예전 같지 않게 숙취가 오래가네. 새삼 나이 들었다는 생각이 들면서 슬픈 마음이 들어. 예전에는 항상 다음날 멀쩡했었는데 말이야.",
+            "utterance_id": "BE22009956.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몸 상태가 전과 다름을 느끼고 많이 슬펐구나? 지금의 상황이 전과 달라짐을 느끼는 순간 슬픔이 확 몰려오는 그 기분 무엇인지 알 것 같아. 많이 슬펐을까 걱정되는걸?",
+            "utterance_id": "BE22009956.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이는 아닌데, 그래도 조금 슬프네. 예전과는 다르게 다음 날 아침에 일어나는 것부터 몸 상태가 다름이 직접 느껴지니까 말이야.",
+            "utterance_id": "BE22009956.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수 있지. 너는 또 몸의 반응에 예민하게 반응하는 편이니까 더욱 잘 느껴져서 더욱 슬플 수 있을 것 같아. 네가 어제 회식 이후 오늘 슬픔 가득하게 연락을 하니 내 마음이 다 안 좋네.",
+            "utterance_id": "BE22009956.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정해줘서 고마워. 이제 전에는 몰랐었던 진짜 내 주량을 점점 확인해가는 것 같아. 자신만만했던 모습은 어느새 사라지고 힘들어하고 슬퍼하고 있는 내 모습만 남았네?",
+            "utterance_id": "BE22009956.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고. 갑자기 벌어진 일에 오늘 많이 힘들고 슬펐구나? 그런데 이제 힘들고 슬픈 일 일어나지 않을 수 있게 주량이 어느 정도인지 알게 되었으니 다행이지 않을까? 앞으로는 슬퍼할 일이 줄어들 수 있게 된 거잖아!",
+            "utterance_id": "BE22009956.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 그렇게 생각할 수도 있겠네! 어차피 일어난 일이니까 이제 잘 신경 쓰고 조절해서 먹어서 힘든 일을 벌이지 않아야겠다. 그렇게 된다면 오늘 일이 더 좋은 계기가 될 수도 있겠다는 생각에 조금 슬픔이 덜해지는 것 같아.",
+            "utterance_id": "BE22009956.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 다행이다. 숙취 때문에 고생하는 일이 생겨서 오늘 너무 마음 아프고 슬프겠지만. 앞으로 이런 일 생기지 않으면 좋을 것 같았거든! 그런데 이렇게 연락하면서 조금 덜 슬퍼지고 앞으로 어떻게 해야 할지 생각났다니 다행이다!",
+            "utterance_id": "BE22009956.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 이건 모두 네 일처럼 이야기 들어주고 공감해준 덕분에 이렇게 바꾸어서 생각할 수 있게 된것 같아! 덕분에 슬픈 마음에서 벗어나 활기차게 자기관리도 하고 신경 써서 회식해야겠다는 생각이 들었어!",
+            "utterance_id": "BE22009956.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대화하면서 많은 생각하게 되고 네가 가야 할 길을 정한 것 같아 마음이 조금 놓인다. 오늘 상태가 좋지 않아 힘들겠지만. 너무 슬퍼하지 말고 오늘 밥 잘 챙겨 먹고 어서 기운 차리기를 바라!",
+            "utterance_id": "BE22009956.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워! 이렇게 나 신경 써주고 걱정해주는 덕분에 한결 우울하고 슬픔 기분에서 벗어날 수 있게 되었어. 아프더라도 조금 더 씩씩하게 오늘 하루 보내고, 앞으로는 회식 때 더욱 신경 쓰도록 노력해야겠다는 생각이야.",
+            "utterance_id": "BE22009956.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이다. 씩씩하게 하루를 보낼 예정이라는 네 말에 아픈 네 모습 걱정했던 마음이 한결 놓인다. 그리고 누구나 사람들은 시간이 흐를수록 피곤함도 잘 느끼고 숙취도 느끼는 거니. 너무 슬퍼하지 말기를 다시 한번 기도할게.",
+            "utterance_id": "BE22009956.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고마워. 이렇게 진심을 다해 여러 번 네가 공감해주고 위로해주니 슬픔이 어느새 사라진것 같아. 그리고 앞으로 조심해서 이런 슬픔을 느끼는 일은 다시 만들지 말아야겠다는 다짐도 함께하게 되었어. 고마워 친구야!",
+            "utterance_id": "BE22009956.15"
+        }
+    ]
+}

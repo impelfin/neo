@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009554",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009554",
+        "relation": "친구",
+        "situation": "기차 출발시간이 남아 역 안을 구경하게 되었다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여행을 마치고 돌아가는 길에 기차 출발시간이 남아 역 안을 구경하게 됐어. 그런데 생각보다 썩 괜찮은 경험이었던 거 있지.",
+            "utterance_id": "BE22009554.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 그것도 나름 재미있었겠는걸. 역을 구경하는 건 어땠니?",
+            "utterance_id": "BE22009554.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한적한 기차역 풍경을 바라보며 느긋하게 걷는 것만으로도 마음이 편안해지더라고. 역 안에 아담한 기념품 가게가 있어서 둘러보다 보니 시간이 어느새 훌쩍 지나버렸지 뭐야.",
+            "utterance_id": "BE22009554.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말을 듣기만 했는데도 평화로운 기차역 풍경이 머릿속에 그려지는 것 같아. 여유롭고 또 기분 좋은 경험이었겠는걸.",
+            "utterance_id": "BE22009554.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 보통 기차역은 출발 시간에 맞춰 급하게 오고 가느라 이렇게 구경할 기회가 없었거든. 그런데 이렇게 역 안을 둘러보다 보니 내가 몰랐던 색다른 묘미를 찾은 것 같아 기뻐.",
+            "utterance_id": "BE22009554.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여행의 또 다른 재미를 찾아 무척 만족스럽겠는걸. 네가 그렇게 즐거워하는 모습이 부러울 정도야.",
+            "utterance_id": "BE22009554.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 네게도 추천하고 싶어. 예상 외로 구경거리가 많아 즐겁거든. 게다가 마음에 드는 기념품을 얻게 되어서 지금 무척 행복해.",
+            "utterance_id": "BE22009554.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기념품을 샀다니 그거 잘됐다. 여행 도중에 산 기념품은 나중에 볼 때마다 그 여행의 추억이 떠올라 즐거워지잖아. 특히 오늘의 추억이 떠올라 큰 보람을 느낄 것 같아.",
+            "utterance_id": "BE22009554.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 앞으로 이 기념품을 보면 오늘 구경한 기차역이 떠오를 것 같아. 그 한가로운 정취가 내 마음을 설레게 하는걸.",
+            "utterance_id": "BE22009554.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 멋진 경험이었네. 기차 출발시간이 남았던 것이 네게는 큰 행운이 되었구나. 그래서 더더욱 뜻깊고 소중한 추억이 되겠는걸.",
+            "utterance_id": "BE22009554.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 다음에도 또 이렇게 여유롭게 다른 기차역도 구경해보고 싶어. 앞으로 여행하면서 해볼 것이 늘어났다고 생각하니 더 기대되고 기분이 좋은걸.",
+            "utterance_id": "BE22009554.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거 정말 재미있겠다. 여행의 새로운 재미를 찾았으니, 앞으로 너의 여행이 더 풍부하고 즐거워지겠구나.",
+            "utterance_id": "BE22009554.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말을 듣고 나니 왠지 더 뿌듯하고 기쁜걸? 네가 깊이 공감해준 덕분에 내 경험이 더 특별한 것으로 기억될 것 같아.",
+            "utterance_id": "BE22009554.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 나야말로 더 기쁜 일인걸. 무엇보다 네가 행복해하는 것 같아 나도 덩달아 즐거워지는 기분이 들어. 앞으로도 네가 내게 이야기를 털어놓으면서 지금처럼 즐거워했으면 좋겠어.",
+            "utterance_id": "BE22009554.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네가 항상 내 이야기를 관심 있게 들어줘서 매번 얼마나 고마운지 몰라. 기꺼이 네게 재미있는 이야기를 들려주고 싶은걸.",
+            "utterance_id": "BE22009554.15"
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22010025",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010025",
+        "relation": "친구",
+        "situation": "운동을 하다 갑자기 발목이 아팠는데 인대가 늘어났다고 한다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야. 나 원래 이렇게 답답하고 둔한 사람이었냐?",
+            "utterance_id": "BE22010025.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 무슨 소리야? 너답지 않게 약한 소리를 하니 이상하다.",
+            "utterance_id": "BE22010025.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 운동하다가 발목이 안 좋았는데, 집에 오니 너무 아파 병원 갔거든. 근데 인대가 심하게 늘어났다고 하는 거야. 의사가 이 상태에서 운동했냐고 혼내는데, 나도 당황스럽더라고.",
+            "utterance_id": "BE22010025.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머. 너무 예상치 상황이 발생해서 많이 당황스러웠겠다. 의사 선생님께안 좋은 소리까지 들었으니, 아픈 것보다 마음이 더 속상했겠어.",
+            "utterance_id": "BE22010025.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "발목이 아프다 싶었을 때 그냥 쉬고 중단했으면 인대까지 다치지 않았을 거 같아.",
+            "utterance_id": "BE22010025.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 둔하고 무딘 사람이 아니야. 네가 심하다고 인지 못 할 정도면, 다른 사람이라도 마찬가지였을 거야. 너는 원래 건강하니, 더 느리게 증상이 왔을 수도 있을 거고.",
+            "utterance_id": "BE22010025.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "건강을 위해 운동을 한 건데, 내가 너무 과도해서 오히려 치료받게 됐으니. 좀 답답하네.",
+            "utterance_id": "BE22010025.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 좋아하는 스포츠를 하다 보니, 집중력이 높아져서 아픈 것이 약하게 느껴질 수 있다고 봐. 너무 기운 빠지지 말고, 힘내서 기운 차려.",
+            "utterance_id": "BE22010025.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아. 내가 한 가지에 몰두하면 주변을 못 보는 거 같아. 내 몸을 과신 한 것도 있는 거 같고.",
+            "utterance_id": "BE22010025.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 시간이 네 몸 상태도 체크하고 좀 쉬어가는 기회가 주어진 거라 생각하면 어떨까. 한 템포 안정의 시간을 갖는 게 더 큰 약이 될 거 같아.",
+            "utterance_id": "BE22010025.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 달려오기만 해서 작은 것에 무뎌진 거 같아 한심했는데, 나한테 필요한 시간인 거 같아.",
+            "utterance_id": "BE22010025.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 가장 컨디션이 절정에 달했으니 한번 쉼이 필요한 때가 온 거라고 봐. 너는 항상 페이스 조절 잘하고 힘들 때 더 빛을 내는 사람이잖아. 금방 예전처럼 활기를 되찾을 수 있을 거야.",
+            "utterance_id": "BE22010025.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "치료받으면서 다른 곳은 어떤지 체크해보고 나한테 맞는 운동인지도 돌아봐야겠어.",
+            "utterance_id": "BE22010025.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 우선 치료에 집중하고 많이 아팠을 거 같은데 관리 잘해. 몸이 아프면 마음도 약해지니까, 치료 끝나면 활력 있는 네 모습 찾을 수 있을 거야.",
+            "utterance_id": "BE22010025.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고맙다. 내 자신이 좀 답답하게 느껴져 기분이 묘했는데, 덕분에 정돈이 됐어.",
+            "utterance_id": "BE22010025.15"
+        }
+    ]
+}

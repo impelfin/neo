@@ -1,0 +1,195 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010278",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010278",
+        "relation": "친구",
+        "situation": "반지하에서 탈출하기 위해 아이들 돌 반지를 팔았다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 정말 부모 자격도 없는 것 같아. 애들 돌 반지까지 팔아넘기다니 이런 나를 부모라고 할 수 있겠어?",
+            "utterance_id": "BE22010278.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마 전에 전당포에 갔다더니 애들 반지 팔러 갔구나. 나였어도 그런 상황이면 너무 답답하고 속상했을 것 같아. 지금은 좀 괜찮아?",
+            "utterance_id": "BE22010278.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 속상한 게 아니라 화가 나. 나 자신이 너무 한심해서 분노가 치밀어. 애들 반지 팔고서 아무렇지 않게 생활하는 나 자신이 구역질 나기까지 해.",
+            "utterance_id": "BE22010278.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 요즘 답답한 현실에 화가 나서 네 마음이 이해가 돼. 물가는 끝도 없이 치솟는데 수입은 늘지 않으니 부담이 점점 가중되는 것 같아.",
+            "utterance_id": "BE22010278.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다 핑계가 아닐까. 무슨 일을 해서라도 애들 반지만은 지켰어야 하는데 스스로가 너무 한심해서 화가 나.",
+            "utterance_id": "BE22010278.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 네가 답답한 건 아이들을 끔찍이도 사랑하기 때문 아니야? 너무 스스로를 몰아세우지 않았으면 좋겠어. 결국 아이들과 행복하기 위해서 반지도 팔았던 거잖아.",
+            "utterance_id": "BE22010278.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다고 해도 전당포에 아이들 반지를 팔던 내 모습을 떠올리면 견딜 수 없이 화가 올라와.",
+            "utterance_id": "BE22010278.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 내가 아는 사람 중에 가장 아이들을 위해 헌신하는 사람이야. 누구보다 다정한 부모였던 네가 그렇게 생각한다니 내 마음이 더 아파. 너희 가족이 얼마나 사랑스러운데.",
+            "utterance_id": "BE22010278.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 가족이 사랑스럽다고? 너는 내가 나쁘다고 생각 안 해? 애들 돌 반지를 팔아치운 거잖아.",
+            "utterance_id": "BE22010278.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 네가 그 반지보다 더 크고 단단한 사랑을 줄 수 있는 사람이라 확신해. 지금은 분노에 휩싸인 네 마음이 걱정되지만 말이야. 넌 반드시 아이들과 행복을 찾을 사람이야.",
+            "utterance_id": "BE22010278.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "행복, 나는 지금껏 돈에 눈이 먼 나머지 행복이란 단어도 아예 잊고 살았어. 왜 지금에서야 그걸 생각했을까.",
+            "utterance_id": "BE22010278.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 분노는 너를 위한 게 아니었잖아. 너는 아이들에게 늘 좋은 것, 값진 것, 귀중한 것만 주기 위해 노력하잖아. 나는 그 마음이 가장 중요하다고 생각해.",
+            "utterance_id": "BE22010278.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 아이들도 나를 이해하게 될까? 나를 미워하진 않을까?",
+            "utterance_id": "BE22010278.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "절대. 너는 누구보다 근사한 부모이고, 아이들은 나보다 그 사실을 더 잘 알고 있을 거야. 그러니 걱정 마.",
+            "utterance_id": "BE22010278.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "너와 말을 하고 나니 마음이 조금 편안해졌어. 나와 아이들에게 귀한 얘기를 해줘서 고마워.",
+            "utterance_id": "BE22010278.15"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "내가 너를 보면서 배우는 게 훨씬 더 많은걸. 나와 고민을 나누어줘서 고마워. 오늘도 좋은 하루 보내!",
+            "utterance_id": "BE22010278.16"
+        }
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009084",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009084",
+        "relation": "친구",
+        "situation": "길게 소리를 내며 기차가 달린다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 보낸 영상 확인해 봤어?",
+            "utterance_id": "BE22009084.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 방금 확인했는데 진짜 잘 찍었다. 현장의 생동감이 생생하게 느껴지는걸?",
+            "utterance_id": "BE22009084.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마침 기차가 경적을 울리며 지나가 준 덕분이지. 나도 결과물 보고 너무 잘 나와서 놀랐어. 이런 완벽한 영상을 첫 시도에 남기다니 꿈만 같은 기분이야.",
+            "utterance_id": "BE22009084.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "영상 찍는 사람들 보면 타이밍 맞추기가 쉽지 않아서 여러 번 시도하더라. 그런데 넌 바로 성공했으니 정말 기쁘겠다. 영상 돌려볼 때마다 뿌듯해서 미소가 절로 지어지겠는걸.",
+            "utterance_id": "BE22009084.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 말이야. 오늘은 구도 연습 겸 나온 건데 바로 이런 보물을 건지다니 너무 흐뭇해. 바로 이렇게 만족스러운 결과가 나올 줄은 몰랐거든.",
+            "utterance_id": "BE22009084.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생각지도 못하게 좋은 결과물이 나와서 선물을 받은 것처럼 마음이 풍족해졌겠다. 나였으면 결과 보고 기뻐서 폴짝폴짝 뛰었을 거야.",
+            "utterance_id": "BE22009084.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 비슷해. 야호 소리가 저절로 터져 나오더라니까. 하하. 이렇게 흡족한 기차 영상이 내 첫 작품이라니 보고만 있어도 배부른 기분이다.",
+            "utterance_id": "BE22009084.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "보면 볼수록 무슨 영화 도입 부분 같은걸? 네가 이렇게 만족해하고 기분 좋아할 만하네. 진짜 멋있다.",
+            "utterance_id": "BE22009084.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 눈에만 멋져 보이는 게 아니라 너도 인정을 해주니 정말 유쾌한 기분이네. 내게 숨겨진 재능이 있었나 싶어서 잠깐 콧대가 높아지더라.",
+            "utterance_id": "BE22009084.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "영상 촬영에 관심을 가지고 나서 네가 공부도 많이 하고 연습도 노력도 소홀히 하지 않았잖아. 그 모든 준비가 오늘의 결과로 열매를 맺은 거니까 충분히 자랑스러워해도 되지.",
+            "utterance_id": "BE22009084.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그냥 내가 재밌어서 관심 가지고 시작한 일인데 이렇게 칭찬을 해주니 부끄럽네. 그래도 의욕이 가득 차서 앞으로도 꾸준히 해봐야겠다는 생각이 들어.",
+            "utterance_id": "BE22009084.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이러다 언젠가 업계에서 이름 날리는 전문가가 되는 거 아니야? 그때가 되기 전에 미리 사인이라도 받아 두어야겠는걸.",
+            "utterance_id": "BE22009084.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하 너무 띄워주니까 몸 둘 바를 모르겠다. 사인이 벌써 필요할지는 다음 영상 결과 보고 네가 판단해 줘.",
+            "utterance_id": "BE22009084.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알겠어. 그렇다면 다음 작품을 기대하고 있을 테니까 빨리 보여줘.",
+            "utterance_id": "BE22009084.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 얼른 집에 가서 편집 좀 하고 다음 촬영 일정을 잡아봐야겠다.",
+            "utterance_id": "BE22009084.15"
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009704",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009704",
+        "relation": "친구",
+        "situation": "지방 흡입은 내 인생을 바꾸어 놓았지만 알리고 싶지 않다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자야, 내가 잘못하고 있는 걸까?",
+            "utterance_id": "BE22009704.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 무슨 일이야? 네가 잘못할 게 뭐가 있어?",
+            "utterance_id": "BE22009704.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 회사 동료가 내 다리를 칭찬했거든. 근데 모른 척 그 칭찬을 받아버렸어. 사실 지방 흡입한 거라는 말이 안 나오더라.",
+            "utterance_id": "BE22009704.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 무슨 잘못이야! 당연히 그런 얘기 할 필요 없지. 네가 잘못한 거 아니니까 죄책감 갖지 마.",
+            "utterance_id": "BE22009704.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 누가 칭찬하면 괜히 뜨끔하더라고. 지방 흡입 덕분에 내 인생이 달라지긴 했지만, 괜히 알리고 싶진 않거든.",
+            "utterance_id": "BE22009704.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지방 흡입했다고 하면 다른 사람들이 너를 제멋대로 판단할까 봐 걱정되는구나? 보통 지방 흡입했다고 하면 살은 빼고 싶은데 귀찮아서 그렇게 선택한 걸로 생각하기가 십상이잖아. 그런 시선들이 두려워서 지방 흡입을 숨기면서 죄책감이 들더라도 알리지 않는 거야?",
+            "utterance_id": "BE22009704.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말대로 비난을 받는 것보다 나 혼자 죄책감을 가지는 게 낫다고 생각한 것 같아. 나도 평범한 다이어트 방법으로 열심히 노력했었잖아. 그러고서 허벅지는 도저히 안 빠지길래 허벅지만 지방 흡입을 한 건데 그걸로 손가락질받기에는 억울해.",
+            "utterance_id": "BE22009704.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 네가 얼마나 노력했었는지 내가 잘 알지. 하지만 그걸 지켜보지 않은 사람들은 잘 모르는 부분이니까. 지방 흡입했다는 이유로 남들이 그 노력을 섣불리 판단하면 나 같아도 억울할 것 같긴 해.",
+            "utterance_id": "BE22009704.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 걱정되는 게 바로 그거야. 아무 노력 없이 이렇게 된 건 아닌데 섣불리 평가당할 것 같아서 두려워.",
+            "utterance_id": "BE22009704.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 뭘 불안해하는지 잘 알겠어. 그러니까 더더욱 다른 사람들한테 굳이 알릴 필요 없다고 생각해.",
+            "utterance_id": "BE22009704.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠지? 나도 그렇게 믿어서 비밀을 지켜왔거든. 근데 아직도 이럴 때마다 남을 속이는 것 같아서 마음이 불편하더라고.",
+            "utterance_id": "BE22009704.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다이어트도, 그 방식도, 그에 대해 말하는 것도 다 네 자유잖아? 속인다고 생각하지 말고 네 자유라고 생각하면 마음이 좀더 편하지 않을까?",
+            "utterance_id": "BE22009704.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 네 말대로 내 자유인 것 같기도 해.",
+            "utterance_id": "BE22009704.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "소문은 또 쉽게 과장되기 마련이니까 괜히 상처받을 가능성을 만들지 않는 게 좋을 것 같아. 그렇기 때문에 각자 안고 사는 비밀이 있을 거라고 생각해. 그러니까 너무 걱정하지 마.",
+            "utterance_id": "BE22009704.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "네 말을 들으니까 조금 안심이 된다. 내가 너무 양심의 가책을 느꼈던 것 같아. 위로해 줘서 고마워.",
+            "utterance_id": "BE22009704.15"
+        }
+    ]
+}

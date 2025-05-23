@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010637",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010637",
+        "relation": "친구",
+        "situation": "낡은 운동화를 신고 나갔다가 얼음판에서 미끌어졌다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 지금 집인데, 아까 정말 상처받고 말았어.",
+            "utterance_id": "BE22010637.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일이라도 있는 거야?",
+            "utterance_id": "BE22010637.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아까 얼음판에서 미끄러졌어. 낡은 운동화를 신고 나갔거든. 그래서 잘 넘어질 수 있다는 점이 나를 상처받게 해.",
+            "utterance_id": "BE22010637.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "크게 넘어진 거야? 그 순간 좋은 신발이었다면 잘 넘어지지 않았을 테니 마음이 상처로 얼룩지지 않았을 거라고 생각했구나. 네가 가슴이 너무 아팠겠다.",
+            "utterance_id": "BE22010637.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 멋있는 신발까지는 바라지 않아. 그저 아무 운동화라도 살 돈 없는 내가 너무도 불우하게 느껴져. 상처 그 자체야.",
+            "utterance_id": "BE22010637.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "재정적으로 열악할 때 몸까지 아프면 가슴까지 상처로 너덜거리는 것 같지. 왜 안 그렇겠어. 하지만 그런데도 어떻게든 몸을 일으켰을 네가 자랑스러워.",
+            "utterance_id": "BE22010637.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에이. 사람들 다 지나가는 인도에서 철퍼덕 넘어졌는걸. 낡은 운동화 탓이라 비참하기까지 했어.",
+            "utterance_id": "BE22010637.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "바라보는 사람들까지 있었으니 그 순간, 네 가슴이 마구 찢기는 것 같았을 거라 생각해. 하지만 너는 상처를 딛고는 꿋꿋하게 집으로 왔잖아.",
+            "utterance_id": "BE22010637.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "낡은 신발로 인해 얼음판에서 넘어졌으니 참담해서 할 수 있는 게 일어나는 것밖에 없었는걸.",
+            "utterance_id": "BE22010637.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야. 순간마다 나도 모르게 발휘하는 작은 용기가 세상을 살아는 힘이 되어주는 거잖아. 헌 운동화 때문에 넘어져서 상처받았는데도 일어섰으니 거기에는 용기가 있었다고 스스로 알아주는 게 어때? 그러면 상처받은 마음이 무던해지는 것 같을 거야.",
+            "utterance_id": "BE22010637.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 나 정말 내가 받은 상처에 갇혀서 괴로워하지 않을 수 있을까?",
+            "utterance_id": "BE22010637.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론이지! 너는 평소에 누구보다도 열심히 살면서 빈약한 재정에 상처받고 너 자신을 비관적으로 두지 않잖아. 하지만 당연히 오늘처럼 육체적으로 아플 때면 마음이 약해질 수 있는 거야. 이럴 때마다 내가 곁에 있어 줄게.",
+            "utterance_id": "BE22010637.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해줘서 정말 고마워. 덕분에 상처였던 마음이 조금씩 회복되는 것만 같아.",
+            "utterance_id": "BE22010637.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "상처로 구겨졌던 네 마음이 펴지는 것 같다니 정말 다행이다! 또 힘든 일 있으면 꼭 연락해야 해. 알겠지?",
+            "utterance_id": "BE22010637.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응! 마음이 힘겨울 때면 또 너를 찾을게. 정말 고마워.",
+            "utterance_id": "BE22010637.15"
+        }
+    ]
+}

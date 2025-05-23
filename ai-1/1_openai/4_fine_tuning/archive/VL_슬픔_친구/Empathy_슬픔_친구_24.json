@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22009533",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009533",
+        "relation": "친구",
+        "situation": "힘들다고 연락해 온 사람에게 힘내라는 말을 할 수가 없었다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이혼하고 처음으로 전남편이 전화를 했어. 사업이 어려워져서 정말 힘든데 내 생각이 나더라며 연락을 했더라. 그런데 차마 힘내라는 소리를 하지 못했어.",
+            "utterance_id": "BE22009533.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "재혼해서 다른 사람이랑 살면서 너한테 연락한 거라 네가 많이 당황했겠지? 너무 놀라서 말을 못 한 거 아냐?",
+            "utterance_id": "BE22009533.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 것도 있겠지만, 사실은 야속한 생각이 들어 그런 말이 안 나오더라. 우리 이혼이, 우리보다는 시집 문제가 더 컸었는데 금방 재혼하더니 무슨 염치로 연락을 했나 싶더라. 그런데 막상 전화를 끊고 나니 힘내라는 소리도 못한 게 너무 후회가 되는 거야.",
+            "utterance_id": "BE22009533.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 너희가 싫어져서 이혼한 게 아니라 그런 생각이 들 수 있어. 또, 오죽하면 나한테 연락을 했을까 싶어 짠한 마음도 있었겠지. 네 마음은 충분히 이해하고도 남음이 있어.",
+            "utterance_id": "BE22009533.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 생각에도 그렇지? 정말 힘내라는 말이라도 해줄 걸 그랬나 봐. 그랬으면 지금 이렇게 서글프지는 않았을 거 같아.",
+            "utterance_id": "BE22009533.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 내 생각에는 힘내라는 소리 안 하길 백번 잘한 거 같아. 그냥 어떤 감정이 끼어들 여지를 주지 않는 게 현명한 대처 같아.",
+            "utterance_id": "BE22009533.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까? 그래도 한때 정붙이고 살던 사람을 너무 매정하게 대한 게 나는 너무 슬픈데? 격려 한마디라도 했으면 이렇게 마음이 불편하지는 않을 거 같아. 속상해서 술도 마신 것 같던데.",
+            "utterance_id": "BE22009533.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "술을 마신 거라면 술김에 전화한 것일 수도 있어. 그렇게 한 번 받아주면, 술 마실 때마다 전화할지도 몰라. 그때는 어떻게 할래?",
+            "utterance_id": "BE22009533.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그런가? 하긴, 맨정신에는 절대 전화 안 하던 사람이니 술김에 그런 것일 수도 있겠다. 아닌 게 아니라 술 취했을 때마다 전화하면 그것도 곤란하지.",
+            "utterance_id": "BE22009533.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 말이 그 말이야. 너희가 정말 싫어서 헤어진 게 아니라 너한테도 미련이 조금은 남아 있잖아? 그래서 잘못하다가는 그 사람한테 질질 끌려다닐 수 있어.",
+            "utterance_id": "BE22009533.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 절대 안 되지. 그 사람이 재혼한 순간 나는 내 마음에서 그 사람을 내보냈어. 그런데 이제 와서 그런 꼴을 당할 수는 없어.",
+            "utterance_id": "BE22009533.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 네가 힘내라는 말을 안 한 건 백번 잘했다는 거야. 순간적이지만 아주 현명한 선택을 했어. 난 너의 그 냉정함을 칭찬하고 싶다.",
+            "utterance_id": "BE22009533.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그 말도 일리는 있다. 순간적으로 마음이 약해져서 입이 달싹거렸는데 참기를 잘했네. 계속 우울했었는데 네 덕분에 마음이 훨씬 편해졌어.",
+            "utterance_id": "BE22009533.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상을 살아갈 때, 때로는 사람이 냉정해질 필요가 있어. 지나고 생각해 보면 오늘 행동이 정말 옳았다는 걸 느낄 거야.",
+            "utterance_id": "BE22009533.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너는 정말 나보다 훨씬 이성적이고 현명한 사람 같아. 네 말 덕분에 큰 깨달음을 얻었어. 좋은 충고 고맙다.",
+            "utterance_id": "BE22009533.15"
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22010403",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010403",
+        "relation": "친구",
+        "situation": "소개팅한 남자가 갑자기 연락을 끊었다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자야, 원래 소개팅으로 만난 사이에서는 갑자기 연락 끊기는 게 대수롭지 않은 일이니?",
+            "utterance_id": "BE22010403.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응? 오래 연락을 유지한 사이라면 보통 그러는 게 예의는 아니지. 무슨 일이야?",
+            "utterance_id": "BE22010403.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 바로 나한테 일어날 줄이야. 나 소개팅으로 연락하던 남자가 갑자기 연락을 끊었어. 분명 잘 되어가는 분위기였는데 갑자기 이래서 상처받았어.",
+            "utterance_id": "BE22010403.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "설마 했는데 네게 일어난 일이라니, 네가 얼마나 상심이 크겠니. 네가 괜찮아하던 걸 아니까 나도 마음이 안 좋다. 갑자기 아무 말도 없이 잠수를 탄 거니?",
+            "utterance_id": "BE22010403.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 아예 말없이 연락을 끊은 건 아니야. 원래 만나기로 한 날에 갑자기 일이 생겨서 못 갈 것 같다고 나중에 연락하겠다고 했어. 근데 그 후로 문자를 보내도 읽지 않더라고.",
+            "utterance_id": "BE22010403.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 너무 당황스러웠겠다. 그것도 당일 그렇게 말해서 사람을 걱정시켜놓고. 혹시 진짜 무슨 일이 생긴 건 아니었을까?",
+            "utterance_id": "BE22010403.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그럴 수도 있겠다 싶어서 주선자에게 물어보니까 잘 지낸다고 하더라고. 그냥 내가 완전히 까인 거였더라고. 느낌이 좋은 소개팅이었는데 마무리가 이렇게 되니까 내가 그렇게 못난 사람인가 싶고 너무 마음이 아프더라.",
+            "utterance_id": "BE22010403.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 사람은 관계를 끝내는 것에 대해 미성숙한 사람이었던 같아. 너무 마음에 담아두지 않았으면 좋겠어. 네가 못나서 이렇게 된 게 절대 아니니까, 단지 운명이 아니었을 뿐이야.",
+            "utterance_id": "BE22010403.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "금방 나아질 줄 알았는데 뭔가 마음을 거절당한 것 같아서 쉽사리 나아지지 않더라고. 그냥 두세 번 만난 사이에서 연락을 끊긴 건데 왜 이렇게 마음이 아플까? 잘 되어간다던 생각들도 나 혼자만의 착각이었다고 생각하니 참 암울하다.",
+            "utterance_id": "BE22010403.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 정이 많아서 당연히 힘들겠지만, 너라는 사람이 못나서가 아니라고 말해주고 싶어. 너의 진가를 알아주는 사람과 만나면 그만이야. 넌 그럴 만한 가치가 있는 사람이거든.",
+            "utterance_id": "BE22010403.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니 위안이 된다. 나와 마음이 맞는 사람이 어딘가에는 존재하겠지?",
+            "utterance_id": "BE22010403.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 너같이 생각이 깊고 착한 아이를 거절한 그 사람은 참 안타깝다고 생각해. 소개팅은 단시간에 빨리 상대를 알아가야 하는 거라서 널 제대로 알아보지 못한 것 같아. 조금 느린 속도라도 널 향한 마음이 진심인 좋은 사람과 만나면 돼.",
+            "utterance_id": "BE22010403.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말을 들으니 상처받은 내 마음이 치유되는 기분이야. 다음에 만나는 사람은 너같이 다정한 사람이었으면 좋겠다. 네가 내 친구라서 정말 다행이야.",
+            "utterance_id": "BE22010403.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너한테 어울리는 짝은 나보다 훨씬 다정하고 좋은 사람이어야 해. 울적해하지 말고 우리 만나서 치맥이나 하러 가자.",
+            "utterance_id": "BE22010403.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너무 좋아. 역시 이럴 때 친구밖에 없다.",
+            "utterance_id": "BE22010403.15"
+        }
+    ]
+}

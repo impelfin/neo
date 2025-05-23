@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22010318",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010318",
+        "relation": "친구",
+        "situation": "장래 시어머니가 예단을 더 요구한다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "결혼 날짜가 얼마 안 남았는데 장래 시어머니가 예단을 더 요구하고 있어. 예단 문제는 다 끝난 건 줄 알았는데 너무 당황스러워.",
+            "utterance_id": "BE22010318.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "먼저 예단도 너희 형편상 좀 무리한 거였잖아? 그것 때문에 엄마한테 너무 미안하다고 했는데 또 그래서 진짜 당황했겠다. 남 일 같지 않아서 나도 심란하다.",
+            "utterance_id": "BE22010318.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 어쨌으면 좋을지 모르겠어. 예비 신랑이, 자기가 알아서 한다고 했는데 시어머니가 워낙 완강하신가 봐.",
+            "utterance_id": "BE22010318.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "예비 신랑도 어쩌지 못하면 해결할 사람이 없는 거 아니니? 너희 엄마는 엄마대로 힘드실 테고. 너 정말 중간에서 너무 고민되겠다.",
+            "utterance_id": "BE22010318.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거 때문에 요즘 잠도 안 오고 입맛도 없어. 나 그냥 다 포기하고 어디로 도망가 버리고 싶어.",
+            "utterance_id": "BE22010318.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 안 그렇겠어? 나라도 그런 마음 들겠다. 그런데 또 일을 그렇게 만들면 안 되지 않겠니?",
+            "utterance_id": "BE22010318.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 내가 이러지도 저러지도 못하고 있는 거잖아. 다른 신부들은 결혼식 자체만으로 스트레스 쌓인다는데 난 그거 걱정할 겨를도 없다.",
+            "utterance_id": "BE22010318.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가장 행복해야 할 결혼식을 앞두고 이게 무슨 마음고생이니? 근데 도망가고 싶을 정도로 힘들면 차라리 양쪽 부모님께 말씀드리는 게 어떠니? 예단은 어차피 네가 어떻게 할 수 있는 게 아니잖아?",
+            "utterance_id": "BE22010318.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 말 들으니까 차라리 그게 낫겠다는 생각이 든다. 그러다 양쪽 의견이 안 맞아 결혼이 파투 나면 할 수 없는 거지 뭐.",
+            "utterance_id": "BE22010318.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 지금 힘드니까 결혼 파투 얘기도 쉽게 입에 올리는데, 난 그 마음 이해해. 오죽하면 네가 그러겠니? 그래도 부모님을 믿고 너는 결혼식 준비를 착실히 하는 게 좋겠어.",
+            "utterance_id": "BE22010318.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마지막의 마지막까지 노력해 보다 안 되면 할 수 없다는 소리야. 난 우리 부모님 등골 빼면서까지 결혼식을 강행하고 싶은 마음은 없어.",
+            "utterance_id": "BE22010318.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음 내가 너무 잘 알지. 내가 너라도 그랬을 거야. 근데 너희 엄마도 강단이 있으신 분이니까 믿고 기다려 보자.",
+            "utterance_id": "BE22010318.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴 우리 엄마도 그렇게 만만한 성격은 아니지. 네 말대로 엄마를 믿고 나는 결혼식 준비나 착실히 해야겠다. 내가 할 일은 최선을 다하고 하늘의 처분을 기다리는 거지 뭐.",
+            "utterance_id": "BE22010318.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 자기 본분을 다하려는 네가 대견하다. 지금 보니까 너 정말 철이 들은 거 같아. 결혼해서도 부부 간의 갈등을 해결해 가며 잘 살 거 같아.",
+            "utterance_id": "BE22010318.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "네가 옆에서 많이 도와준 덕분이야. 투정도 들어주고, 좋은 충고도 해줬잖아? 늘 내 옆에 있어줘서 고맙다.",
+            "utterance_id": "BE22010318.15"
+        }
+    ]
+}

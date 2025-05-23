@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22010461",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010461",
+        "relation": "친구",
+        "situation": "스페인어 읽고 쓰기는 잘 못한다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 회사에서 팀장님이 갑자기 나보고 스페인 살다 왔으니 스페인어 잘하지 않냐고 하는 거야. 그래서 무척 당황했어.",
+            "utterance_id": "BE22010461.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑작스러운 질문이라 네가 많이 당황했겠는걸. 그런데 왜 물어보신 거래?",
+            "utterance_id": "BE22010461.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "검토해야 할 문서 중에 스페인어로 된 게 있는데 나보고 번역해달라고 하시는 거야. 나 스페인어로 대화는 조금 할 수 있어도 읽고 쓰는 건 못해서 정말 당황스러웠어.",
+            "utterance_id": "BE22010461.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 네가 당연히 잘할 줄 알고 물어보셨나 보네. 너한테 기대하신 것 같은데 들어드리지 못해서 네가 많이 난처했겠다.",
+            "utterance_id": "BE22010461.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 1년이나 살았는데 그때 읽고 쓰기 좀 열심히 공부할걸. 내가 너무 한심하더라.",
+            "utterance_id": "BE22010461.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한심하다고 느낄 필요는 전혀 없어. 대화만 할 줄 알아도 생활하는 데는 큰 지장이 없었으니 당시에는 미처 생각 못했을 거야. 말하기 듣기를 할 줄 안다는 것만으로도 대단한 거야.",
+            "utterance_id": "BE22010461.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 말해주니 조금 위안이 된다. 사실 아까는 너무 당황스러워서 잘하지 못한다고 했는데 한 번 봐봐야겠어.",
+            "utterance_id": "BE22010461.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 좋은 생각이야. 어느 정도 스페인어 경험이 있으니 번역기 도움을 받으면 남들보다는 더 잘할 수 있을 거야. 자신감을 갖고 한 번 시도해봐.",
+            "utterance_id": "BE22010461.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 응원해주니까 용기가 생기네. 나 자신을 한심하게 생각한 걸 반성해야겠어.",
+            "utterance_id": "BE22010461.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구나 그런 생각이 들 때가 있어. 나도 예전에 더 열심히 공부할 걸 하는 후회를 매일 하는걸. 그런데 과거에 대한 반성이 발전의 원동력이 된다고 생각하면 네게 긍정적인 자극이 될 거야.",
+            "utterance_id": "BE22010461.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아. 오늘은 네 덕분에 다시 스페인어 공부를 해 봐야겠다는 동기가 생겼어. 정말 고마워.",
+            "utterance_id": "BE22010461.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 결심하는 모습을 보니 나도 마음이 뿌듯하고 기쁘다. 나도 뭔가를 새롭게 도전하고 싶다는 생각이 들어.",
+            "utterance_id": "BE22010461.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "서로에게 긍정적인 영향을 주고받는 것 너무 좋은 일이다. 오늘 네 조언 덕분에 도움이 많이 됐어.",
+            "utterance_id": "BE22010461.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나도 너랑 대화하면서 동기부여가 됐어. 다음에 또 연락하자!",
+            "utterance_id": "BE22010461.14"
+        }
+    ]
+}

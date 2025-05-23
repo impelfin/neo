@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009496",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009496",
+        "relation": "친구",
+        "situation": "로또를 매주 구입한다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 주에도 로또를 구입했어. 요즘 로또를 매주 구입하고 있거든.",
+            "utterance_id": "BE22009496.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 당첨되면 뭘 하고 싶은데?",
+            "utterance_id": "BE22009496.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "학자금 대출을 다 갚고 싶어. 월급이 너무 푼돈이라 이걸로는 절대 대출을 갚을 수 없을 것 같거든. 그래서 로또를 구매하고는 있는데, 솔직히 확률이 낮으니까 우울하기만 해.",
+            "utterance_id": "BE22009496.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 어떤 마음으로 로또를 사는지 알 것 같아. 나도 대출금을 조금씩 갚는데, 앞날이 아득하다고 느낄 때가 많거든. 네가 왜 로또를 사면서도 우울한지 이해가 된다.",
+            "utterance_id": "BE22009496.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지? 취직하자마자 빚이 이렇게 쌓여 있다고 생각하니까 초조해지는 듯해. 앞으로도 내 미래가 크게 달라질 것 같지 않다는 생각에 로또를 사면서도 슬프기만 해.",
+            "utterance_id": "BE22009496.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 부담감에 짓눌린 것 같아 마음이 아프다. 아직 나이도 어리고, 취직에도 성공했으니까 희망을 가져봐도 좋지 않을까?",
+            "utterance_id": "BE22009496.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그렇게 여유롭게 생각하고 싶은데 잘 안돼. 일확천금을 노리는 것만이 유일한 희망처럼 느껴져서 로또를 구매하고 있어. 스스로가 한심하고 바보 같아.",
+            "utterance_id": "BE22009496.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구라도 너 같은 상황에선 그런 희망을 가질 수 있지. 네가 바보 같다고 생각하지 않았으면 좋겠어. 넌 지금도 네 미래를 위해 최선을 다하고 있고 잘하고 있다는 걸 잊지 마.",
+            "utterance_id": "BE22009496.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워. 네가 그렇게 용기를 북돋아 주니까 그래도 미래를 좀더 건설적으로 살 힘이 생긴다. 지금 너무 초조하거나 우울해할 필요는 없는 것 같아.",
+            "utterance_id": "BE22009496.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 아직 네게는 무한한 가능성이 있잖아. 그리고 로또를 매주 구입하다 보면 혹시나 당첨될지도 모르고, 그런 기대만으로도 조금은 즐거워지지 않을까? 뭐든 생각하기 나름이잖아.",
+            "utterance_id": "BE22009496.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말이 맞아. 긍정적으로 생각하면 로또를 사는 것만으로도 즐거울 수 있겠다. 네가 정말 도움 되는 조언을 많이 해 주는 것 같아.",
+            "utterance_id": "BE22009496.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 조금이나마 도움이 된다면 다행이야. 너는 언제나 성실하고 바르게 살아온 친구니까, 지금처럼만 하면 반드시 성공할 거야. 그러니까 너무 힘들어하지 마.",
+            "utterance_id": "BE22009496.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 고마워. 덕분에 슬프고 우울했던 마음에 햇살이 내리쬐는 것 같아. 마음이 무척 산뜻하고 가벼워졌어!",
+            "utterance_id": "BE22009496.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 너랑 이야기하면서 나 자신을 조금 더 다잡게 되었어. 우리 함께 힘내 보자. 내가 언제나 널 응원하고 있다는 거 잊지 마.",
+            "utterance_id": "BE22009496.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나도 마찬가지야. 멀리서도 언제나 응원하고 있어. 오늘 정말 고맙다, 친구야.",
+            "utterance_id": "BE22009496.15"
+        }
+    ]
+}

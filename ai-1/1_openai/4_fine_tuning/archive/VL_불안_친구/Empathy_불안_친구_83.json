@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010085",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010085",
+        "relation": "친구",
+        "situation": "여자 친구에게 프로포즈를 받았다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 여자 친구에게 프로포즈를 받았는데 선뜻 대답을 못했어. 한숨이 자꾸 나오네.",
+            "utterance_id": "BE22010085.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐? 네가 프로포즈를 한 게 아니라? 놀라운 일이네. 그런데 한숨은 왜 나는지 좀 이해가 안 되는걸?",
+            "utterance_id": "BE22010085.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 요즘 불안해하는 걸 여자 친구가 알고 있거든. 그래서 자기가 먼저 한 것 같아.",
+            "utterance_id": "BE22010085.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 무슨 일 있는 거야? 당찬 네가 불안하다고 하니 더 걱정스럽네. 스트레스를 받는 일이라도 있어?",
+            "utterance_id": "BE22010085.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "딱히 근래 새로운 고민이 생긴 건 아니고 원래 하던 고민인데 해결이 안 되어서 그래. 경제적인 부분 말이야. 이 나이쯤 되면 안정될 거라고 생각했는데 여전히 모든 게 다 벅차다는 생각이 들고 우울해지네.",
+            "utterance_id": "BE22010085.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 그 부분은 나도 공감이 된다. 집값이 장난이 아니잖아. 다른 지역으로 갈 수도 없고 쉽게 해결할 수 없으니 답답한 심정 나도 충분히 알겠어.",
+            "utterance_id": "BE22010085.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그리고 이렇게 여자 친구에게 끌려가는 게 맞는 건가 하는 회의감도 들어.",
+            "utterance_id": "BE22010085.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 너는 뭐든 주도적으로 해야 하는 편인데 그렇지 못하니 스트레스를 받을 것 같아.",
+            "utterance_id": "BE22010085.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제는 의무감으로 만나는 것도 같고. 여자 친구랑 결혼하는 게 맞을까, 자꾸 의문이 들고 걱정스러워. 내가 원하는 삶이 아닐 것 같은 기분인데 막상 헤어지자고도 못 하겠어.",
+            "utterance_id": "BE22010085.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말을 들으니 경제적인 부분이 큰 문제는 아닌 것 같아. 너에게 두 사람이 만들 미래에 대한 확신이 없는 것 같아. 오랜 시간 만났으니 헤어지자는 말도 당연히 쉽진 않을 거야.",
+            "utterance_id": "BE22010085.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 생각을 하는 내가 여자 친구를 배신하는 것 같은 기분이 들어. 여자 친구는 상상도 못 할 텐데 자꾸 대답을 재촉하니 너무 초조해져.",
+            "utterance_id": "BE22010085.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 초조해지지. 그런데 네 마음이 그렇다면 배신이라기보다는 신중해서 그럴 거야. 여자 친구는 그런 너를 잘 아니까 지금의 감정을 서로 터놓는 게 좋을 것 같아.",
+            "utterance_id": "BE22010085.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너랑 말하다 보니 헤어지는 건 원치 않는다는 확신이 들어. 그렇다면 네 말처럼 얘기하고 감정을 털어 버려야겠다는 생각도 드네.",
+            "utterance_id": "BE22010085.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 역시 네 말이 옳다고 생각해. 인생에 있어 큰 선택을 하려다 보니 생각이 복잡해서 불안했을 것 같아. 너는 진실하게 대화를 잘하니까 분명 현명하게 해결할 수 있을 거야.",
+            "utterance_id": "BE22010085.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "너랑 대화하다 보니 정리가 되는 기분이 들어. 내가 지나치게 복잡하게 생각한 것도 같다. 솔직하게 이야기하고 불안한 감정들을 털어 버릴게!",
+            "utterance_id": "BE22010085.15"
+        }
+    ]
+}

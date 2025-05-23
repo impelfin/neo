@@ -1,0 +1,209 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22010029",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010029",
+        "relation": "친구",
+        "situation": "남편의 장기출장으로 혼자서 육아를 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다음 주부터 집에 아가들이랑 나랑 혼자네.",
+            "utterance_id": "BE22010029.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응? 남편은 어디 가길래?",
+            "utterance_id": "BE22010029.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 해외로 장기 출장 발령 났어. 그래서 나 혼자 육아해야 하는데 정말 머리가 아프다.",
+            "utterance_id": "BE22010029.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고. 같이 하던 육아를 혼자 할 생각하니까 많이 불안하겠구나.",
+            "utterance_id": "BE22010029.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 쌍둥이를 혼자 보는 일이 어디 쉽니. 남편 없이 나 혼자 육아를 잘해 낼 수 있을지 정말 너무 걱정되고 불안해. 그 생각만 하면 입술이 빠짝 마른다니까.",
+            "utterance_id": "BE22010029.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 지금 애 하나 보는 것도 힘들어서 체력이 축나는 거 같은데. 쌍둥이면 오죽 힘들겠어? 네가 진짜 너무 불안할 만한 거 같아.",
+            "utterance_id": "BE22010029.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 쌍둥이들이 더군다나 얼마나 말썽꾸러기니. 나 혼자 그걸 감당 할 수 있을지 진짜 너무 걱정이다. 요즘 그 불안함에 밤에 잠도 안 오더라고.",
+            "utterance_id": "BE22010029.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "애들이 얌전해도 힘든 게 육아라고 하잖아. 너는 거기다가 쌍둥이 둘 이니 얼마나 걱정되겠어. 얘기 듣는 나까지 다 머릿속이 어지러워진다.",
+            "utterance_id": "BE22010029.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "승진을 앞두고 있어서 장기 출장을 안 갈 수도 없고, 남편도 나도 서로 불안하고 걱정이야. 우리 집 분위기 완전 초상집이다, 진짜.",
+            "utterance_id": "BE22010029.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어휴. 얼마나 불안하고 힘들지, 상상만 해도 정말 아득해진다. 남편은 언제 온다는 데?",
+            "utterance_id": "BE22010029.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아마 최소 6개월은 잡아야 한다고 하더라고. 그 시간 동안 쌍둥이들은 쑥쑥 크겠지만 나는 얼마나 핼쑥해질까.",
+            "utterance_id": "BE22010029.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너에게 너무 불안하고 고된 일이라고 생각 들겠지만 그래도 너무 불안해하지 말고 힘을 내자. 네가 불안해하면 쌍둥이들도 느낄 거 아니야. 이럴수록 네가 더 굳건하게 힘을 내고 버텨야 한다고 강하게 생각해보는 건 어때?",
+            "utterance_id": "BE22010029.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 조언이다. 정말 구구절절 맞는 말이야. 내가 너무 부정적으로만 생각해서 불안해했나 봐. 우리 쌍둥이들 봐서라도 그만 불안해하고 힘을 내야지.",
+            "utterance_id": "BE22010029.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 이제야 긍정적이고 용감한 내 친구답네. 힘들면 내가 종종 찾아가서 육아 도와줄 테니까 너무 걱정하지 말고 기운 내. 마음을 좀 편히 먹었으면 해.",
+            "utterance_id": "BE22010029.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 아직 닥치지 않은 미래니까 마음을 편히 먹을게. 너랑 문자 하니까 그래도 머릿속이 맑아졌어. 덕분이야.",
+            "utterance_id": "BE22010029.15"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "별말씀을. 친구라면 당연히 이 정도는 해야지. 종종 우리 아가 데리고 놀러 갈 테니 같이 육아하자. 공동 육아만큼이나 좋은 게 없다고.",
+            "utterance_id": "BE22010029.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "남편의 장기 출장으로 혼자 육아할 생각에 불안함에 떨었었는데, 네 덕분에 진짜 마음이 편안해졌어. 다음에 연락하고 놀러 와. 기다릴게.",
+            "utterance_id": "BE22010029.17"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래! 그럴게. 남은 시간 동안 남편이랑 좋은 시간 보내!",
+            "utterance_id": "BE22010029.18"
+        }
+    ]
+}

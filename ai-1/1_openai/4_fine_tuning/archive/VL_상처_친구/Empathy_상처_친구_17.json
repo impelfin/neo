@@ -1,0 +1,188 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.6,
+            "grade": "우수"
+        },
+        "id": "BE22010565",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010565",
+        "relation": "친구",
+        "situation": "직장에서 따돌림을 당한다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사에 가기 싫다 갈 때마다 숨 막혀 회사 동료들이 나를 없는 사람 취급해.",
+            "utterance_id": "BE22010565.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "출근해서 외로움으로 힘들어할 널 생각하니 내 마음이 미어진다. 많이 힘들지?",
+            "utterance_id": "BE22010565.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다들 활발하고 말도 많아 난 그러지 못하니 어울리지 못하고 그러다 보니 항상 혼자야.",
+            "utterance_id": "BE22010565.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 너의 성격을 아니 이해된다. 단지 말수가 없다는 이유로 소외감을 느껴야 한다는 게 원망스러워.",
+            "utterance_id": "BE22010565.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "먼저 말을 걸고 싶어도 이미 다들 친해서 그 사이에 낄 틈이 없어 용기도 없고.",
+            "utterance_id": "BE22010565.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사이가 돈독해 보이면 나 같아도 먼저 말 걸기 두려웠을 거야, 어쩌면 그들도 그럴지 몰라.",
+            "utterance_id": "BE22010565.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까? 아무도 나에게 먼저와 밥을 같이 먹자고 하지 않아 어느새 밥시간이 되면 두려워 안 먹게 돼.",
+            "utterance_id": "BE22010565.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 밥은 잘 챙겨 먹어야 해 그래야 힘을 내서 좋은 에너지로 다가갈 용기도 생기지.",
+            "utterance_id": "BE22010565.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 사실 처음부터 너무 의기소침해 있었어. 그래서 어쩌면 내가 먼저 벽을 두고 있었는지도 몰라.",
+            "utterance_id": "BE22010565.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 얼마나 좋은 사람이고 함께하고 싶어지는 사람이라는 걸 알게 될 거야 지금의 나처럼.",
+            "utterance_id": "BE22010565.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 너무 나 스스로 노력하지 않고 남 탓만 했던 거 같아 다가와 주기만을 바라면서.",
+            "utterance_id": "BE22010565.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이미 그런 마음을 먹은 것만으로도 넌 엄청난 발전을 하고 있어 정말 대단해.",
+            "utterance_id": "BE22010565.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 언제까지고 다가와 주길 기다릴 순 없지 밝은 기운으로 먼저 인사부터 먼저 해봐야겠어.",
+            "utterance_id": "BE22010565.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음에는 쑥스럽고 힘들 수 있어 그래도 너에게는 진심으로 응원하는 내가 있다는 걸 잊지 마.",
+            "utterance_id": "BE22010565.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워 네가 있어 든든하고 힘이나 나 노력해 볼게.",
+            "utterance_id": "BE22010565.15"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇게 말해주니 오히려 내가 다 고맙다 언제든 힘들면 연락해 내 친구 사랑해.",
+            "utterance_id": "BE22010565.16"
+        }
+    ]
+}

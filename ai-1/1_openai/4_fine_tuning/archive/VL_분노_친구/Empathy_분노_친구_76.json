@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009964",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009964",
+        "relation": "친구",
+        "situation": "자동차가 깜빡이를 켜지 않고 좌회전을 했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 방금 엄청 어이없는 일 있었어. 자동차가 갑자기 앞에서 좌회전한 거야.",
+            "utterance_id": "BE22009964.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮아? 다친 데는 없어? 그렇게 끼어들면 운전할 때 위험한데 순간 당황했겠다.",
+            "utterance_id": "BE22009964.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그것보다 정말 화가 나더라고. 운전 잘못하면 생명에 위험을 줄 수도 있는데 깜빡이도 안 켜고 끼어들었거든.",
+            "utterance_id": "BE22009964.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 차 주인 정말 안 되겠다. 너무 했네. 네가 충분히 화가 날 만한 상황이었겠어.",
+            "utterance_id": "BE22009964.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 조수석에 엄마 앉아 계셨는데 순간적으로 비속어를 쓸 뻔했어. 아직도 기분 나빠.",
+            "utterance_id": "BE22009964.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 기분 안 좋지! 나도 저번에 운전하다가 앞에 차가 급정거해서 사고 날 뻔했었거든. 그래서 네가 얼마나 화가 났을지 이해돼.",
+            "utterance_id": "BE22009964.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지? 이건 정말 아닌 것 같아. 깜빡이는 운전에 있어서 기본인데, 기본도 안 지키면서 어떻게 운전하려고 하는지, 참.",
+            "utterance_id": "BE22009964.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 근데 생각해 보면 네가 10년 동안 무사고였잖아. 교통사고는 나만 조심한다고 해서 피해 갈 수 있는 일이 아닌데. 평소에도 안전 운전하는 모습이 대단한 것 같아.",
+            "utterance_id": "BE22009964.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 내가 더 도로 위 무법자들을 보면 화가 나나 봐.",
+            "utterance_id": "BE22009964.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 사람들이 잘못한 건 맞지. 네가 그렇게 화가 나는 건 그만큼 많이 겪어 봐서일 거야.",
+            "utterance_id": "BE22009964.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 이번뿐만이 아니라 몇 번 경험이 있었거든. 그래서 이렇게 불법을 행하는 차량을 보면 참지 못하겠어.",
+            "utterance_id": "BE22009964.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여러 번 겪었으면 어떤 사람이라도 화가 많이 났을 거야. 너는 잘 지키는데 다른 사람이 계속해서 잘못된 일을 저지르니까. 그래도 보복하지 않고 지나간 것은 참 잘한 것 같아.",
+            "utterance_id": "BE22009964.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "화는 났지만, 너랑 이야기하다 보니 마음이 많이 풀어졌어. 어쩌면 그 사람도 너무 바빠서 그랬겠다 싶더라고.",
+            "utterance_id": "BE22009964.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 너는 긍정적으로 생각을 바꿀 줄 아는 멋진 친구인 것 같아. 오히려 화를 내면 안 좋은 분위기로 온종일 기분이 나쁘니까. 지금처럼 이야기해서 마음이 괜찮아졌으면 좋겠다.",
+            "utterance_id": "BE22009964.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "응. 화를 내도 달라지는 건 없으니까. 정말 너랑 이야기하면서 괜찮아졌어. 고마워.",
+            "utterance_id": "BE22009964.15"
+        }
+    ]
+}

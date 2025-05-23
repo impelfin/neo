@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010476",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010476",
+        "relation": "친구",
+        "situation": "반려견을 키우다보니 집에서 냄새가 너무 많이 난다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 이제 강아지 키우기 시작한 지 일주일 됐는데, 생각보다 냄새가 많이 나더라. 과외 선생님 오시거나 친구들 놀러 올 때 신경 쓰일 것 같아서 걱정돼. 가끔은 강박적으로 집에서 냄새가 나나 킁킁거리면서 다닐 정도야.",
+            "utterance_id": "BE22010476.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "반려견을 키우기 시작하면서 예상치 못한 문제에 봉착했구나. 깔끔하고 냄새에 민감한 네가 많이 신경 쓸까 봐 걱정되네. 집에 손님이 자주 오는 편이라면 더 걱정할 만하겠어.",
+            "utterance_id": "BE22010476.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 아예 예상을 못 한 건 아니었는데 아무래도 강아지를 키운 경험이 없어서 몰랐어. 깔끔하게 한다고 하는데도 이 냄새는 어쩔 수 없나 봐. 강아지를 사랑하는 마음과는 별개로 스트레스를 받아.",
+            "utterance_id": "BE22010476.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 아무리 예상한다고 하더라도 실제로 맞닥뜨리는 것은 다른 문제이니까. 후각은 어떻게 조절을 할 수 있는 부분이 아니라서 더 괴롭겠어. 반려견에 대한 애정과는 별개로 네가 생활 속에서 스트레스가 늘어났다면 걱정이 된다.",
+            "utterance_id": "BE22010476.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 내가 냄새를 안 맡고 싶다고 해서 안 맡아지는 건 아니니까. 그렇다고 디퓨저 같은 거를 사용하면 후각에 민감한 강아지가 걱정되기도 하고. 어떻게 해야 할지 도저히 모르겠다.",
+            "utterance_id": "BE22010476.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 반려견을 얼마나 사랑하고 아끼는지 느껴진다. 네가 괴로운 상황에서도 강아지를 우선으로 생각하고 있으니까. 너는 훌륭한 주인이니까, 이번 문제에서도 해답을 찾아낼 수 있을 거야.",
+            "utterance_id": "BE22010476.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 냄새에 스트레스를 받는다고 해서 내가 이 강아지를 데려온 것은 절대로 후회하지 않아. 덕분에 내 일상에 행복이 늘어난 건 분명한 사실이거든.",
+            "utterance_id": "BE22010476.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "반려견을 데리고 온 후로 일상에 기분 좋은 변화가 생겼구나. 그렇다면 지금 네가 느끼는 불안도 금방 해소될 것 같은걸? 너는 이미 불안한 마음을 축소하고 행복한 기분을 증폭할 능력이 있잖아.",
+            "utterance_id": "BE22010476.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 내가 강아지를 좀더 깨끗하게 관리해주고 집 안 청소도 더 신경 써야지. 이제 이 생활에 더 익숙해져야 하니까.",
+            "utterance_id": "BE22010476.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 네 말대로 익숙해지는 과정의 하나일 뿐이야. 너는 금방 극복하고 더 행복한 반려견과의 생활을 즐길 수 있을 거야. 그러니 너무 신경 쓰지 말고, 괜찮아질 거라 믿고 있자.",
+            "utterance_id": "BE22010476.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 그럴게. 우리 집에 방문하는 사람들에게도 강아지 이야기를 하고 나면 다 이해해줄 것 같아.",
+            "utterance_id": "BE22010476.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 집에 초대할 정도로 각별한 친구거나, 이미 익숙하게 집에 드나들었던 손님도 변화를 받아들일 거야. 나쁜 일이 아니라 새로운 가족이 들어와서 그런 거니까, 너의 마음을 이해해줄 거라고 생각해.",
+            "utterance_id": "BE22010476.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그렇게 생각해. 다들 좋은 사람들이거든.",
+            "utterance_id": "BE22010476.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 좋은 사람이라서 주변에 좋은 사람들이 있는 거지. 아무쪼록 너의 고민이 잘 해결됐으면 좋겠어.",
+            "utterance_id": "BE22010476.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고마워, 생각을 달리하니까 해결된 것 같아.",
+            "utterance_id": "BE22010476.15"
+        }
+    ]
+}

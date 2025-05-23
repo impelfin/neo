@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010254",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010254",
+        "relation": "친구",
+        "situation": "면접에서 모르는 질문이 나오면 아무 대답도 못한다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 요즘 정말 우울해.",
+            "utterance_id": "BE22010254.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 무슨 일 있어?",
+            "utterance_id": "BE22010254.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "최근에 면접에서 모르는 질문이 나왔는데 아무 대답도 하지 못했거든. 나 왜 이렇게 한심하지?",
+            "utterance_id": "BE22010254.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있었구나. 마음이 정말 많이 상했을 거 같아. 오랫동안 준비했을 텐데 질문 하나로 망쳤다는 생각이 들기도 할 거 같아.",
+            "utterance_id": "BE22010254.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 열심히 대답해서 분위기가 좋았는데 한번 대답을 못 하니까 그 이후로는 뭐라고 대답했는지 기억도 안 나. 자꾸 그 상황이 생각나고 왜 그랬는지 너무 후회돼.",
+            "utterance_id": "BE22010254.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수 있지. 그 상황이라면 누구나 그랬을 거야. 면접은 누구에게나 긴장되는 순간이고 어려운 자리인 걸 너무 상심하지 않아도 돼.",
+            "utterance_id": "BE22010254.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "면접 볼 때마다 항상 이런 식이라서 이젠 면접이 잡히면 두려움부터 다가오는 거 같아. 이런 내 모습을 보면 한없이 우울해지고 슬퍼져.",
+            "utterance_id": "BE22010254.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇구나. 나도 전에 비슷한 경험이 있었는데 심장이 다 벌렁거리고 눈앞이 정말 새까매지더라고. 하지만 그건 너의 잘못이 아니니까 우울감에 빠져있을 필요 없어. 극복하면 되는 일인걸.",
+            "utterance_id": "BE22010254.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나에겐 정말 어려운 일인 거 같아. 요즘엔 면접만 보고 오면 다 포기하고 싶어지고 온종일 눈물이 나. 자책도 하게 되고 말이야.",
+            "utterance_id": "BE22010254.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 얼마나 좌절감을 느끼고 있을지 잘 알겠어. 절망스러운 기분도 들겠지. 풀이 죽은 네 모습을 보니까 내 가슴이 정말 다 찢어지는 거 같아.",
+            "utterance_id": "BE22010254.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 모습이 너무 한심한 거 같아. 이런 일이 있을 때마다 앞으로 어떻게 해야 할지 막막하기도 하고 말이야. 기분이 정말 울적해.",
+            "utterance_id": "BE22010254.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 정말 열심히 준비했잖아 후회할 필요 없어. 이미 지나간 일이니 신경 쓰지 말고 다음에 더 잘하면 되지. 모르는 질문이 나왔으면 어때 분명 너를 알아주는 곳이 있을 거야 너무 걱정하지 마.",
+            "utterance_id": "BE22010254.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가. 그렇게 생각하니 마음이 조금 가벼워지는 거 같기도 해. 오늘까지만 슬퍼하고 내일부터 다시 일어서볼게.",
+            "utterance_id": "BE22010254.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 넌 매사에 긍정적이고 열정적인 아이니까 분명히 극복할 수 있을 거야. 지금까지 해왔던 것처럼만 열심히 준비하면 돼. 난 모든 일에 적극적으로 임하는 네 모습을 보면서 자극받기도 했는 걸, 정말 대단해.",
+            "utterance_id": "BE22010254.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "네가 그렇게 말해주니까 한결 마음이 나아지는 거 같아. 얘기 들어줘서 고마워.",
+            "utterance_id": "BE22010254.15"
+        }
+    ]
+}

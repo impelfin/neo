@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009939",
+        "listener_behavior": [
+            "조언",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009939",
+        "relation": "친구",
+        "situation": "이대로 머물러도 좋은 꿈이다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "야, 나 정말 얘랑 무슨 관계인지를 모르겠네. 조금 답답한데 어쩔지를 모르겠어.",
+            "utterance_id": "BE22009939.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저번에 네가 마음에 든다고 했던 애 말하는 거야? 잘되고 있는 거 아니었어?",
+            "utterance_id": "BE22009939.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론 그랬지. 지금도 비슷한 분위기야. 근데 얘가 나를 친구 이상으로 보나 이게 조심스러워.",
+            "utterance_id": "BE22009939.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "서로 마음이 있으니까 자주 연락하고, 부르면 만나서 밥도 먹고 노는 거지 않을까? 녀석, 아직 확신을 못 가졌구나!",
+            "utterance_id": "BE22009939.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 말이 맞는 것 같네. 난 이 아이가 정말 좋고, 계속 곁에 있고 싶어. 근데 괜히 고백해서 이 관계가 끝나면 어쩌나 생각해.",
+            "utterance_id": "BE22009939.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "야, 사람 사이에 맺는 인연이란 게 사소한 우연이잖아. 그 아이를 알게 된 것도 사소한 우연이겠지. 그렇다 하더라도 먼저 네 마음 정리하고 고백하는 건 어때?",
+            "utterance_id": "BE22009939.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 정리를 말하는 거야? 그냥 친구로 남으라는 얘기야?",
+            "utterance_id": "BE22009939.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야. 네가 그 아이를 좋아하지만 고백해서 이대로도 좋은 관계를 망치고 싶지 않다는 얘기잖아. 하지만 내가 너희를 봤을 때 정말 예쁘고 잘 어울렸어. 근데 만약 친구로 남았는데 남이랑 잘되는 모습을 보면 기분이 안 좋지 않을까?",
+            "utterance_id": "BE22009939.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 그 옆에 있는 사람이 나였으면 좋겠어. 이것도 욕심인가 싶네.",
+            "utterance_id": "BE22009939.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그 사람을 좋아한다는 증거이지. 네 순수한 마음이 그 사람을 사랑해서 상처를 주기 싫다는 마음에서 나온 예쁨이야. 네 마음을 꺾지 않기를 바라.",
+            "utterance_id": "BE22009939.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까? 당분간은 이대로도 좋아. 여전히 꿈만 같은 상황이거든.",
+            "utterance_id": "BE22009939.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 그 상황을 즐기면서 앞날을 생각하자! 네 생각을 들어보니 그리 서두를 일이 아니야. 그리고 서두르면 실수할지도 모르잖아.",
+            "utterance_id": "BE22009939.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그렇게 실수해서 지금 관계가 틀어지는 게 나에겐 악몽이야. 지금이 좋은 꿈이지.",
+            "utterance_id": "BE22009939.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "천천히 그 사람이랑 더 깊은 얘기를 하면서 서로 알아가는 게 어때. 분명 너는 그 사람이랑 마음이 통하게 될 테니까. 너무 걱정하지 말고!",
+            "utterance_id": "BE22009939.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그래, 되게 조심스러운 마음이었는데, 차라리 이렇게 얘기하니까 정리가 되네. 도와줘서 고맙다!",
+            "utterance_id": "BE22009939.15"
+        }
+    ]
+}

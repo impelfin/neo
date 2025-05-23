@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010737",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010737",
+        "relation": "친구",
+        "situation": "임대용 아파트에 사는 사람을 무시한다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 정말 상처받는 일이 있었어. 카페에서 공부하고 있었는데, 옆에 앉은 사람이 임대 아파트 사는 사람들을 욕하고, 무시하는 이야기를 하더라고.",
+            "utterance_id": "BE22010737.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와, 너무 속상했을 것 같아. 공개적인 장소에서 그런 얘기를 할 때 상처받는 사람이 있을 수 있다는 걸 모르나 봐. 내가 다 속상하고 화가 나네.",
+            "utterance_id": "BE22010737.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 임대 아파트에 살지 않았다면 그냥 한 귀로 듣고 흘렸을 텐데. 나한테 해당하는 얘기는 어쩜 그렇게 잘 들리나 몰라, 마음이 정말 안 좋다.",
+            "utterance_id": "BE22010737.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 내가 만약 그런 이야기를 들었어도 정말 속상했을 것 같아. 왜 남이 사는 걸 가지고 그렇게 욕을 하는 건지 전혀 이해가 안 돼. 나는 네가 그런 개념 없는 사람의 말에 너무 오래 괴롭지 않았으면 좋겠어.",
+            "utterance_id": "BE22010737.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그냥 그 사람이 이상한 거라고 무시하고 넘기고 싶은데 그게 잘 안되네. 다른 사람들도 나를 무시하고, 불쌍하다고 보면 어떡하나 이런 생각만 자꾸 들어서 마음이 너무 괴로워.",
+            "utterance_id": "BE22010737.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그런 일을 겪고 나면 그런 생각이 자꾸 들고 괜히 더 위축될 것 같아. 그렇지만, 나는 단 한 번도 너를 그렇게 생각해 본 적 없다는 건 알아줬으면 좋겠어.",
+            "utterance_id": "BE22010737.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 맞아. 네가 그렇지 않다는 건 나도 알지만, 자꾸 움츠러드는 건 어쩔 수가 없네.",
+            "utterance_id": "BE22010737.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 주위에는 카페에 그 사람 같은 사람들보다 너를 대단하다고 보는 사람이 훨씬 많을 거야. 너는 항상 네 삶에 최선을 다하고, 주위 사람들에게도 정말 좋은 친구가 되어주잖아.",
+            "utterance_id": "BE22010737.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그렇게 생각해? 방금 네가 보내준 그 말이 오늘 나에게는 큰 위로가 되네.",
+            "utterance_id": "BE22010737.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 네가 어디에 살든 그건 하나도 중요하지 않아. 너는 너 존재 자체만으로도 소중하고 값진 사람이야. 그리고, 그건 네 가치를 알고 있는 모두가 그럴 거야.",
+            "utterance_id": "BE22010737.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 너처럼 말해주는 친구가 있어서 정말 다행이라고 생각해. 앞으로는 나를 잘 모르는 사람들이 함부로 하는 말에 대해서는 덜 상처받으려고 해 봐야겠어.",
+            "utterance_id": "BE22010737.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이야. 쉽진 않겠지만, 나도 네가 더 단단해질 수 있기를 응원할게.",
+            "utterance_id": "BE22010737.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워. 오늘 너한테 이야기하지 않았더라면 며칠 동안 괴로웠을 거야. 너랑 대화하고 나니까 기분이 정말 많이 괜찮아졌어.",
+            "utterance_id": "BE22010737.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나도 너에게 도움을 줄 수 있었다니 기뻐. 오늘 카페 가서 공부도 하고, 안 좋은 이야기도 견뎌내느라 고생 많았어.",
+            "utterance_id": "BE22010737.14"
+        }
+    ]
+}

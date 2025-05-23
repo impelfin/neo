@@ -1,0 +1,188 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009758",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009758",
+        "relation": "친구",
+        "situation": "첫 회식 때 선보일 개인기를 열심히 준비한다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "방금 내가 녹음한 거 보냈는데 한번 들어봐.",
+            "utterance_id": "BE22009758.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이게 뭐야? 엄청나게 웃기네. 성대모사 하는 거야?",
+            "utterance_id": "BE22009758.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 첫 회식 때 선보일 개인기를 열심히 준비하고 있거든! 어때 나 좀 잘하지 않아? 연습한 노력이 있는 거 같아서 기분이 아주 만족스럽다고.",
+            "utterance_id": "BE22009758.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 듣자마자 누구 따라 한 건지 딱 알아차렸어. 네가 열심히 준비하고 거기에 따른 성과가 오는 거 같아서 신나는 기분이 드는구나?",
+            "utterance_id": "BE22009758.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 정답이야! 처음에는 좀 막막했는데 열심히 준비하고 연습하다 보니까 확실히 실력이 늘더라고. 뭔가 나를 위한 능력이 하나 더 늘어난 거 같아서 기분 진짜 최고야. 회식을 떠나서 어디 술자리에 가서 해도 모자람이 없을 거 같다고!",
+            "utterance_id": "BE22009758.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "카. 술자리에서 분위기 띄울 수 있는 능력이 있다는 게 얼마나 만족스러운 일이야. 지금 네가 이렇게 기분 좋을 만하네!",
+            "utterance_id": "BE22009758.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 첫 회식 때 내 개인기를 보고 다들 놀라고 좋아할 생각 하니까 나도 모르게 미소가 나와. 다들 깜짝 놀라겠지? 상상만 해도 너무 신난다.",
+            "utterance_id": "BE22009758.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "솔직히 첫 회식 때 개인기 선보이라고 하면 짜증 나고 뭘 이런 거를 하나 싶기도 한데. 너는 그걸 이렇게 열심히 준비하는구나. 진짜 대단한 긍정적인 성격인 거 같다. 멋지다.",
+            "utterance_id": "BE22009758.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어차피 신입들은 다 거쳐 가야 하는 관문인데 부정적으로 생각해봤자 좋을 건 없잖아. 피할 수 없으면 즐기라는 게 내 인생의 모토잖니. 이거 준비하는 거 은근히 즐겁고 재밌다고!",
+            "utterance_id": "BE22009758.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 이렇게 즐겁게 준비하는 모습 보니까 나도 웃음이 막 나오네. 긍정의 힘! 해피 바이러스인 내 친구답다. 진짜 대단하고 항상 본받아야겠다고 느껴지는 너의 장점이야.",
+            "utterance_id": "BE22009758.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 네가 그렇게 칭찬해주니까 진짜 내 기분이 하늘로 승천할 거 같아. 그냥 자랑하려고 했다가 칭찬을 이렇게 듣네. 기분 끝내줘!",
+            "utterance_id": "BE22009758.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 긍정적이고 활달한 성격은 항상 남을 웃게 해주거든. 칭찬받아 마땅하지. 오늘 나 회사에서 엄청나게 깨져서 기분 안 좋았는데 네 문자 받고 기분이 좋아졌어. 덕분이야.",
+            "utterance_id": "BE22009758.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 내 덕분에 기분이 좋아졌다고 하니까 내 가슴이 다 벅차오른다. 네 기쁜 소식을 네가 항상 좋아해 주는 거 같아서 정말 좋아.",
+            "utterance_id": "BE22009758.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 항상 네 소식 듣고 행복해져서 네 문자가 오면 항상 기대하게 돼. 역시 우린 최고의 친구라니까!",
+            "utterance_id": "BE22009758.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하. 맞아! 내 얘기 들어줘서 고마워. 오늘 힘들었을 텐데 푹 쉬고 또 문자하자.",
+            "utterance_id": "BE22009758.15"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "힘들었지만 덕분에 기분이 좋아졌어. 너도 푹 쉬어.",
+            "utterance_id": "BE22009758.16"
+        }
+    ]
+}

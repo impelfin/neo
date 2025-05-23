@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009978",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009978",
+        "relation": "친구",
+        "situation": "남편이 퇴근길에 반찬거리를 사왔다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 남편이 웬일로 퇴근길에 반찬거리를 사왔더라.",
+            "utterance_id": "BE22009978.1"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집안일에 신경 잘 안 쓴다고 서운해했었는데 남편 많이 발전했네!",
+            "utterance_id": "BE22009978.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 진지하게 얘기했던 게 통했나봐. 그래도 내 말을 듣는 것 같아서 신혼생활 시작하고 처음으로 만족스러웠어.",
+            "utterance_id": "BE22009978.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 그렇게 같이 살림을 일궈나가야지. 오늘은 기분 좋았겠다!",
+            "utterance_id": "BE22009978.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 웬일로 반찬거리 사왔냐고 이야기했더니 머쓱해 하면서 같이 저녁도 차렸어. 무뚝뚝했던 사람이 변하긴 변하네.",
+            "utterance_id": "BE22009978.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 포기하지 않고 대화하고 같이 해보자고 이야기한 성과지! 좋은 일이다. 니가 맨날 속상해했는데 내가 다 기쁘네.",
+            "utterance_id": "BE22009978.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 하소연 들어줘서 고마워. 변하려고 노력하는 남편 보니까 그동안 흉봤던 내가 좀 부끄러워지더라고. 하하.",
+            "utterance_id": "BE22009978.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "속상하면 이야기할 수도 있지 왜. 그게 네 잘못은 아니잖아! 그런 생각 마. 남편도 이해하지 않을까? 하하.",
+            "utterance_id": "BE22009978.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저녁 먹으면서 이런저런 이야기를 했는데 그동안 많이 무심했던 것 같다고 미안하다고 하더라고. 표현을 잘 안 하던 사람이 그렇게 이야기하니까 감동받았어.",
+            "utterance_id": "BE22009978.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 장족의 발전이다. 그렇게 대화하면서 맞춰나가면 되겠다.",
+            "utterance_id": "BE22009978.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "글쎄. 지금은 빨래도 개고 있다니까! 내일은 내가 맛있는 것 해줘야겠어.",
+            "utterance_id": "BE22009978.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 남편도 스스로 알아서 하면 좋겠다. 은근슬쩍 너희 남편 이야기하면서 나도 대화 좀 해봐야겠어.",
+            "utterance_id": "BE22009978.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 역시 기다리는 자에게 복이 있나니.",
+            "utterance_id": "BE22009978.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "하하. 아무튼 축하해. 이제 남편이랑 별일 없기를!",
+            "utterance_id": "BE22009978.14"
+        }
+    ]
+}

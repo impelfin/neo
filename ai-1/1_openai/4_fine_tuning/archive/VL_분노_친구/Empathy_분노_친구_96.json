@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010240",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010240",
+        "relation": "친구",
+        "situation": "길에서 잠깐 내려놓았던 쇼핑백이 사라졌다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "새삼스럽게 우리나라 시민의식에 감탄하게 되네, 정말.",
+            "utterance_id": "BE22010240.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 여행 중 아니었어? 외국에 있으면서 갑자기 우리나라의 시민의식에 감탄할 일이 뭐가 있대?",
+            "utterance_id": "BE22010240.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 화가 나 죽겠어. 이제 내일이면 한국으로 돌아가니까 오늘 지인들 줄 선물도 살 겸 쇼핑을 좀 했거든. 그러고 버스정류장에서 버스도 확인할 겸 해서 잠깐 쇼핑백을 내려놓은 사이에 감쪽같이 사라진 거 있지?",
+            "utterance_id": "BE22010240.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상에, 한국에서는 그런 일이 잘 일어나지 않으니까 너무 당황스러웠겠다. 물건을 놓고 어디를 갔다 온 것도 아니고 잠깐 내려놓은 사이에 없어지다니. 너무 화가 나다 못해 기가 찼겠는데.",
+            "utterance_id": "BE22010240.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 진짜 짐을 내려놓고 오랫동안 있었다면 또 몰라, 진짜 잠깐 내려놓은 건데. 그사이에 사라져버렸으니까, 이 나라의 시민의식에 너무 화가 나는 거야. 남의 물건을 건드리면 안 된다고 어렸을 때부터 분명히 배웠을 텐데, 너무 화가 나고 분해.",
+            "utterance_id": "BE22010240.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지인들을 위해서 선물도 사고 즐겁게 쇼핑을 즐겼는데 마지막에 그런 일이 있었다니, 얼마나 화났을까. 그날 하루의 결과가 순식간에 사라져버린 거니까 정말 속상하겠다. 쇼핑백은 결국 못 찾은 거야?",
+            "utterance_id": "BE22010240.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 쇼핑백도 못 찾은 데다가 진짜 하루 날린 느낌이라서 진짜 화가 나. 숙소에 들어와서도 너무 화가 나서 눈물이 나는 거 있지.",
+            "utterance_id": "BE22010240.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에고, 속상할 네 마음 생각하니까 나까지 마음이 아픈 것 같아. 주변 사람들이 선물을 받을 모습을 생각하며 즐겁고 설렜을텐데, 그 마음이 차갑게 식어버렸으니까. 하루의 마무리가 그렇게 되어버렸으니까 하루를 망친 느낌까지 들고 말이야.",
+            "utterance_id": "BE22010240.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선물이야 그렇게 비싼 것도 아니었고, 내일까지 여유롭고 두고 보려고 그렇게 많이 사진 않았거든. 그래서 내용물이 아까운 건 아닌데, 너무 허탈하고 허무해서 기분이 너무 안 좋아.",
+            "utterance_id": "BE22010240.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 같아도 그럴 것 같아, 열심히 골라서 산 내 정성이 사라진 느낌이잖아. 똑같은 물건이야 다시 사면 되지만, 그날 하루의 내 만족감이나 행복감은 돌아올 수 없는 거니까. 그리고 그 일로 인해 여행지에서의 행복한 기억도 때가 타버리니까 더 화나고 열받을 것 같아.",
+            "utterance_id": "BE22010240.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 내 기분 알아주니까 좋다. 같이 여행하는 친구는 그깟 거 다시 사면 되지, 뭐 그런 걸로 우냐고 하더라고.",
+            "utterance_id": "BE22010240.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 말을 들으니까 네 마음이 더 안 좋아졌겠다. 물건이 아까운 게 아니라 안 좋은 일로 여행지를 추억하게 될 것이 싫은 건데 말이야. 그렇지만 나중에 되돌아보고 나면 이런 일이 있었지, 와 정말 화났어, 하고 추억할 수도 있을 거야.",
+            "utterance_id": "BE22010240.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "하긴 한국에서는 절대 겪지 못할 일이니까, 다신 하지 못할 색다른 경험이 될 것 같기도 하네. 고마워, 덕분에 기분이 좀 풀렸어.",
+            "utterance_id": "BE22010240.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "이미 지나간 일로 여행지에서의 네 즐거웠던 일들을 없었던 일로 만들지 않았으면 좋겠어. 내일은 분명 오늘보다 더 즐거운 일이 있을 테니까! 화나는 마음은 잠시 내려놓고, 여행 끝까지 즐겁게 마무리하고 와.",
+            "utterance_id": "BE22010240.14"
+        }
+    ]
+}

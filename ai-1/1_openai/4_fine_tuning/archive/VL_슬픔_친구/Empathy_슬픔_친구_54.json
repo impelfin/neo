@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009883",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009883",
+        "relation": "친구",
+        "situation": "음식을 먹으면 자주 체한다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "매일 체하고, 몸이 아프니까 정신도 피폐해져 가는 것 같아. 너무 슬프고 속상하다.",
+            "utterance_id": "BE22009883.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 체하는 일이 잦네. 네 건강이 너무 걱정된다. 또 아파하는 널 보니까 나도 정말 속상해.",
+            "utterance_id": "BE22009883.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일주일에 서너 번씩은 체하고 소화가 안 돼. 사실 과식하는 습관 때문인 것 같은데 고칠 수가 없어. 이런 나 자신이 너무 한심하고 슬퍼.",
+            "utterance_id": "BE22009883.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음식을 조절하는 건 생각보다 어려운 일이야. 너뿐만 아니라, 나도 가끔 과식을 하는걸? 너를 너무 탓하지 않았으면 해.",
+            "utterance_id": "BE22009883.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어릴 적부터 내가 살이 좀 쪗었잖아. 다이어트를 너무 심하게 하다 보니, 강박이 생긴 것 같아. 하루 종일 굶다가 저녁에만 폭식을 해.",
+            "utterance_id": "BE22009883.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어렸을 때, 너한테는 살찐 게 큰 상처였었잖아. 그런 상처가 있었다면, 나였어도 음식 조절이 어려웠을 거야. 난 네 탓이 아니라고 생각해.",
+            "utterance_id": "BE22009883.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만, 이 지경까지 온 게 다 내 탓 같아. 내가 좀더 잘했더라면 이렇게 몸이 망가지진 않았을 것 같아.",
+            "utterance_id": "BE22009883.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 노력하는 네 모습으로도 난 네가 충분히 최선을 다한다고 생각해. 상처를 극복하는 게 쉬운 일이 아니잖아. 네가 극복하기 위해 최선을 다하고 있다는 걸 난 알아.",
+            "utterance_id": "BE22009883.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 말해주니 정말 눈물이 난다. 사실 아무에게도 이런 말을 하지 못했어. 날 비웃고 욕할 것 같아서 슬픔에 빠져있었어.",
+            "utterance_id": "BE22009883.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하나도 우습지 않고 오히려 멋있어. 넌 노력하고 있잖아. 지금도 잘하고 있으니, 너무 자신을 책망하지 마.",
+            "utterance_id": "BE22009883.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 내가 폭식한다는 사실이 너무 비참하고 부끄러웠었어.",
+            "utterance_id": "BE22009883.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 널 항상 응원해. 타인의 시선보다 난 네가 자꾸 체하는 게 더 걱정돼. 너의 건강도 하루빨리 회복되기를 소망해.",
+            "utterance_id": "BE22009883.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "살찐 내 모습을 보고 항상 차가운 시선만 받았었어. 이런 날 진심으로 대해주는 네가 너무 고마워. 네가 있어서 슬픔이 가시는 것 같아.",
+            "utterance_id": "BE22009883.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "외모가 다가 아닌걸? 너 위축될 필요 없이 정말 소중한 사람이야. 네가 식습관 조절도 잘 해내서 아프지 않길 바라고 내가 항상 응원할게.",
+            "utterance_id": "BE22009883.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "정말 고마워. 나 힘내볼게. 너의 응원에 용기와 자신감을 얻게 되었어.",
+            "utterance_id": "BE22009883.15"
+        }
+    ]
+}

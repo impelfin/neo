@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009853",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009853",
+        "relation": "친구",
+        "situation": "남편이 일찍 퇴근해서 저녁준비를 해놓았다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 그이 때문에 너무 기뻐서 눈물이 날 뻔했어.",
+            "utterance_id": "BE22009853.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상에, 무슨 일이기에 이렇게나 기뻐할까?",
+            "utterance_id": "BE22009853.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "글쎄, 퇴근해서 저녁 준비를 해 놓았더라고.",
+            "utterance_id": "BE22009853.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 밥 차려줬어? 오늘 무슨 일이라니?",
+            "utterance_id": "BE22009853.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 요즘 야근 때문에 얼굴 잘 못 본 것 같다고, 오늘은 일찍 퇴근했대. 예상치 못한 일이라 더더욱 기뻐!",
+            "utterance_id": "BE22009853.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 남편 참 자상도 하지. 나 같아도 너처럼 그렇게 기뻤을 거 같아. 손끝 하나 움직이지 않고 남이 차려준 밥 먹으면 기분이 좋아질 수밖에 없더라고.",
+            "utterance_id": "BE22009853.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 역시 얻어먹는 밥이 좋아. 남편 진짜 잘 만난 것 같아. 내가 서운해하지도 않았는데 알아서 챙겨준다니까?",
+            "utterance_id": "BE22009853.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 사람이 참 세심한 것 같다. 너 정말 남편 잘 만났구나. 그런 사람 만나기 힘든데 너도 좋은 사람이라 좋은 사람이 네 곁에 왔나 보다.",
+            "utterance_id": "BE22009853.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 결혼 잘한 것 같아서 행복해. 이번 주말에는 어디 가까운 데라도 드라이브하고 카페도 가자고 하네?",
+            "utterance_id": "BE22009853.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 정말 로맨틱한 구석도 있구나. 남들은 결혼하면 데이트할 시간도 없다고 하던데 넌 정말 결혼 생활 행복하겠다. 이렇게 듣기만 해도 네가 행복한 게 느껴져서 내가 다 부러울 정도야!",
+            "utterance_id": "BE22009853.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무리 생각해도 나 정말 남편을 잘 만난 것 같아. 나 전생에 나라를 구한 게 아닐까? 어떻게 이런 완벽한 남자가 내게 왔지?",
+            "utterance_id": "BE22009853.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 자상하고 다정한 남자와 결혼하면 정말 행복할 수밖에 없겠다. 나도 남편이 가끔 집안일 도와주면 그게 그렇게 기쁠 수밖에 없더라고! 가끔 집안일 자체가 하기 싫을 때가 있어서 그런지 더 기쁜 것 같아!",
+            "utterance_id": "BE22009853.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 정말 이 결혼 후회할 일이 없을 것 같아. 평생 이렇게 살고 싶어.",
+            "utterance_id": "BE22009853.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아마 남편이 계속 잘해주지 않겠니? 이번 주말에 데이트도 잘하기를 바라.",
+            "utterance_id": "BE22009853.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 고마워. 맛있는 거 많이 먹을게!",
+            "utterance_id": "BE22009853.15"
+        }
+    ]
+}

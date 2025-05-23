@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009763",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009763",
+        "relation": "친구",
+        "situation": "남편이 한 달 동안 지방출장을 갔다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "야호! 우리 집에 놀러 올래? 신난다!",
+            "utterance_id": "BE22009763.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머나! 왜 이렇게 신이 났대? 남편이 집에 파티장이라도 열어준 거야?",
+            "utterance_id": "BE22009763.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음, 그렇다고 볼 수 있지! 남편 한 달 동안 지방 출장 간대. 오호호, 한 달 동안 밥 안 해도 된다고!",
+            "utterance_id": "BE22009763.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어이구, 그렇구나. 밥을 안 해도 되는 건 주부한테는 정말 큰 수고가 덜어지는 거긴 하지. 게다가 한 달이라면 꽤 긴 시간이니 말이야.",
+            "utterance_id": "BE22009763.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오, 너도 주부의 마음을 잘 아는구나? 이게 정말 어마어마한 이벤트거든! 남편한테는 미안하지만 빨래도 얼마 없을 거고 당분간 친정에도 눈치 안 보고 갈 수 있다고!",
+            "utterance_id": "BE22009763.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하, 그래그래. 무슨 마음인지 충분히 알지! 네가 남편을 사랑하는 마음도 알고 남편이 없으면 일이 얼마나 줄어드는지도 동시에 잘 알지. 그동안 고생 많이 했을 텐데 이참에 푹 쉬겠구나!",
+            "utterance_id": "BE22009763.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아! 이해해줘서 고마워. 남편 집에 없다고 너무 좋아해서 방금 혹시 오해할까 봐 아차 했는데, 역시 넌 똑똑해. 남편이랑 사이는 너무 좋아, 알지?",
+            "utterance_id": "BE22009763.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 잘 알지! 그런 건 걱정 안 해도 돼. 이참에 떨어져 있으면서 서로의 소중함도 깨닫고 귀한 시간이 되기도 할 거야.",
+            "utterance_id": "BE22009763.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 나도 그렇게 생각해. 사실 가끔 혼자서 정말 아무것도 안 하고 누워만 있고 싶을 때가 종종 있었거든. 그런데 남편이 열심히 일하고 돌아왔는데 집안일도 안 하고 그러고 있으면 안 되는 거잖아.",
+            "utterance_id": "BE22009763.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 맞아, 집안일이 원래 하루 내내 해도 끝이 없고 매일 그것만 하다 보면 괜히 울적해지잖아. 그동안 고생 많았어! 이번에 마음껏 기뻐해도 내가 다 이해하고 같이 좋아해 줄게.",
+            "utterance_id": "BE22009763.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니 정말 고마워 친구야. 남편은 한 달 동안 일하러 가는 거니 나도 고생했다는 전화 매일 잊지 않고 할 거야. 진심으로 고마우니까 남편에게 그 마음 전달하고 싶어!",
+            "utterance_id": "BE22009763.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 남편도 네 마음 충분히 잘 알고 있을 거고, 그런 응원 전화 받으면 정말 좋아할 거야! 아무리 가족이라도 가끔은 떨어져 있는 시간도 필요한 것 같아.",
+            "utterance_id": "BE22009763.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 이번 기회에 나도 재충전하고 남편도 나의 소중함을 깨닫고 할 것 같아! 아 너무 신난다. 너도 시간 내서 넘어와!",
+            "utterance_id": "BE22009763.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "하하, 알겠어. 아주 신이 나셨구먼. 그래, 파자마 파티하자. 밤새 수다도 떨고 신나게 놀자고!",
+            "utterance_id": "BE22009763.14"
+        }
+    ]
+}

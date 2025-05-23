@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009615",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009615",
+        "relation": "친구",
+        "situation": "고3 딸이 남자 친구랑 여행을 갔다는 사실을 알았다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무리 내 딸이지만 어떻게 그런 일을 벌일 수 있는지. 생각할수록 너무 화가 나.",
+            "utterance_id": "BE22009615.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐 때문에 그렇게 화가 난 거야. 딸이랑 무슨 일 있었어? 나한테 속 시원히 얘기해 봐.",
+            "utterance_id": "BE22009615.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무리 남자 친구가 좋아도 그렇지, 고3밖에 안 된 아이가 남자 친구랑 여행을 다녀온 거야. 남부끄러워서 누구한테 말도 못 하겠어.",
+            "utterance_id": "BE22009615.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "미성년자인 딸이 부모님과 상의도 없이 남자 친구와 단둘이 여행이라니 네가 충격이 정말 크겠네. 나라도 그런 사실을 뒤늦게 알았다면 정말 화났을 거야. 나에겐 편하게 얘기해서 네 속이 좀 풀리면 좋겠다.",
+            "utterance_id": "BE22009615.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 성인도 안 된 애가 아무리 남자 친구한테 빠져도 그렇지, 생각이 있는 건지 없는 건지. 딸애 얼굴을 보기만 해도 속이 뒤집어져.",
+            "utterance_id": "BE22009615.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나라도 내 딸이 그런 일을 벌였다고 생각하면 속만 뒤집어지겠어? 속에서 천불이 나고 꼴도 보기 싫었을 거야. 되돌릴 수 없는 상황에 네가 정말 답답하겠다.",
+            "utterance_id": "BE22009615.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 힘들게 얻은 하나밖에 없는 귀한 내 딸 얼마나 애지중지 키웠는데. 날 속이고 어떻게 그렇게 여행을 갈 수 있니?",
+            "utterance_id": "BE22009615.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 아이에게 애정을 주고 얼마나 애쓰며 사랑으로 키웠는지 옆에서 봐 온 내가 잘 알지. 내가 들어도 속상한데 네 마음은 오죽하겠니. 속상하고 화나는 네 마음 충분히 이해해.",
+            "utterance_id": "BE22009615.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "분명히 친한 여자 친구랑 여행을 간다고 해서 보내줬는데 우연히 문자를 보고 알았어. 딸애 남자 친구에게서 사진이 왔는데 둘이 여행 가서 찍은 사진이더라고.",
+            "utterance_id": "BE22009615.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남자 친구랑 간다고 하면 허락하지 않을 것 같아서 거짓말을 했나 보네. 우연히 사진으로 사실을 알게 되어서 얼마나 당황스러웠니? 사실대로 남자 친구와 여행을 간다고 말하기가 쉽지는 않았을 거야.",
+            "utterance_id": "BE22009615.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실대로 말했으면 절대 보내주지 않았을 거야. 공부를 열심히 하기에도 벅찬 고3 시기에 남자 친구와 여행을 가다니. 기가 차서 정말.",
+            "utterance_id": "BE22009615.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공부가 중요한 시기이긴 하지만 머리 식히고 환기해야 하는 시간도 분명 필요했을 거야. 연애한다고 해도 공부도 잘하는 우등생 딸이잖아. 거짓말하고 여행을 간 건 잘못했지만 휴식도 필요한 때이니 네가 이해를 좀 해줘.",
+            "utterance_id": "BE22009615.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 얘가 남자 친구가 있는지도 몰랐다니까? 공부만 하는 줄 알았더니 부모님 모르게 연애도 하고 말이야.",
+            "utterance_id": "BE22009615.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "건전한 연애를 통해 학업에 스트레스도 덜 받는다면 오히려 좋을지도 몰라. 부모에게 말 못 하는 스트레스도 같이 풀 수 있잖아. 널 닮아 연애, 학업 뭐든 야무지게 잘할 거야, 네 딸이니 네가 믿어줘야지.",
+            "utterance_id": "BE22009615.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "자식 이기는 부모 없다고 성적에 문제가 생긴 건 아니니 이번에만 딱 눈감아 줘야지. 네 말대로 내가 안 믿어주면 누가 믿어줄까 싶네. 너한테 푸념했더니 그래도 속이 좀 시원해졌어, 고마워.",
+            "utterance_id": "BE22009615.15"
+        }
+    ]
+}

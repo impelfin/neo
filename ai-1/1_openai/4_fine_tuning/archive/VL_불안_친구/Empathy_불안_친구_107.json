@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010456",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010456",
+        "relation": "친구",
+        "situation": "취업 대신 공무원 시험준비를 택했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 이제 공무원 시험을 준비하려고 해. 취업하는 게 너무 어려워서.",
+            "utterance_id": "BE22010456.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 그동안 취업 준비하느라 정말 마음고생이 많았지? 고생 많았다.",
+            "utterance_id": "BE22010456.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고맙다. 근데 이게 맞는 선택인지 알 수 없어서 불안해. 계속 취업을 준비했어야 했던 건 아닌지 싶어서 걱정된다.",
+            "utterance_id": "BE22010456.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 불안한 마음이 충분히 이해가 간다. 취업 준비는 그래도 이때까지 해온 게 있는데 공무원 시험 준비는 아예 0에서 시작해야 하니까. 나 같아도 많이 불안했을 거야.",
+            "utterance_id": "BE22010456.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 내가 잘할 수 있을지도 모르는데 나 힘들다고 너무 섣부르게 선택한 건 아닌지 싶어서. 불안이 너무 심해지니까 이제는 조금 두렵기까지 해.",
+            "utterance_id": "BE22010456.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마나 불안하면 두려워하기까지 했을까 싶어서 마음이 안 좋다. 선택에 확신이 들지 않으면 네가 왜 그 선택을 했는지 떠올려 보는 건 어떨까? 너는 왜 취업 준비를 그만두었어?",
+            "utterance_id": "BE22010456.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몇 년을 취업 준비를 했는데 합격 소식이 없어서 정말 우울하고, 좌절했어. 앞으로도 이게 반복될 것이라 생각하니까 숨도 잘 안 쉬어지고 이렇게 살다가는 죽을 것만 같았어. 그래서 취업을 그만둔 거야.",
+            "utterance_id": "BE22010456.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너를 압박하는 감정을 내려놓고 숨을 쉬고, 살기 위해서 너는 이런 선택을 내린 거구나. 많이 힘들었겠다. 그렇다면 내가 보기에는 너는 네게 있어 옳은 선택을 한 것이라고 생각해. 죽겠다 싶을 만큼 힘든 상황이었으니 하루를 버텨보기 위해 다른 선택을 한 거잖아. 어떻게 생각해?",
+            "utterance_id": "BE22010456.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 이야기를 들어보니 맞는 것 같아. 끝없는 실패와 우울감에 사로잡혀서 밥도 제대로 못 먹었으니까 살기 위했던 선택은 옳았던 것 같다.",
+            "utterance_id": "BE22010456.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 네 선택 덕분에 네가 오늘을 살아갈 수 있는 거잖아. 그리고 나는 공무원 준비를 네가 잘할 수 있다고 굳게 믿어. 너는 모든 일에 최선을 다하는 멋진 사람이니까 이번 고난도 잘 이겨낼 수 있을 거야.",
+            "utterance_id": "BE22010456.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그렇게 생각해?",
+            "utterance_id": "BE22010456.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 진심이야. 너처럼 열심히 살기 위해서 이것저것 찾아보고 도전하는 사람은 내가 본 적이 없어. 항상 대단하다고 생각했고 배울 점이 많은 친구라고 생각했어. 나는 네가 꼭 빛을 볼 것이라는 걸 믿어 의심치 않아.",
+            "utterance_id": "BE22010456.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 나를 이렇게 믿어주는 네가 있는데 내가 하지 못할 게 뭐가 있겠어. 일단 부딪혀 보는 거, 그게 내 특기잖아.",
+            "utterance_id": "BE22010456.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 마음, 아주 보기 좋아. 너를 늘 응원하고 있는 내가 있다는 것을 잊지 말고 언제든 힘들면 나에게 연락해. 언제나처럼 네게 전폭적인 지지를 주고 네 이야기를 들어줄게.",
+            "utterance_id": "BE22010456.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "정말 고마워. 나에게 네가 있어서 얼마나 다행인지 몰라. 네 덕에 불안이 좀 사라지고 내가 나를 믿게 된 것 같아. 고맙다, 친구야.",
+            "utterance_id": "BE22010456.15"
+        }
+    ]
+}

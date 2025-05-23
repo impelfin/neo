@@ -1,0 +1,190 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22009981",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009981",
+        "relation": "친구",
+        "situation": "오늘만큼 주말이 기대되는 금요일은 없었다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘만큼 주말이 기대되는 금요일이 없어!",
+            "utterance_id": "BE22009981.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 주말에 무슨 좋은 일이라도 있어?",
+            "utterance_id": "BE22009981.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 나 주말에 EDM 페스티벌 가거든. 코로나 때문에 한참이나 못 갔었는데, 대체 이게 얼마 만인지 모르겠어!",
+            "utterance_id": "BE22009981.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오. 오랜만에 페스티벌 즐길 생각에 네가 지금 엄청 신나고 기쁘겠구나.",
+            "utterance_id": "BE22009981.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 정답이야. 지금 진짜 심장이 방망이질하고 있어. 얼마나 두근거리는지 몰라. 내일만 생각하면 온몸에 활기가 도는 기분이랄까?",
+            "utterance_id": "BE22009981.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 예전에 너 따라 페스티벌 갔었을 때 엄청 재밌었었는데. 그때 그 기억이 다시 나는 거 같아. 네가 지금 엄청 기쁠 만하네!",
+            "utterance_id": "BE22009981.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그때 진짜 엄청 재밌었지? 이번에도 분명 재밌을 거야. 엄청 유명한 DJ도 온 대서 지금 기대 중이야. 얼마나 신날까!",
+            "utterance_id": "BE22009981.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "페스티벌은 항상 유명한 DJ가 와서 디제잉 하잖아. 그거에 맞춰서 몸을 흔드는 것만큼 짜릿한 게 없지. 지금 얘기 듣는 나도 그 모습이 상상 가서 춤이 나올 지경이다!",
+            "utterance_id": "BE22009981.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "코로나 때문에 진짜 클럽이고, 감성 주점이고 다 문 닫아서 춤 못 췄었잖아. 이번 기회에 진짜 확실하게 스트레스 풀고 올 거야. 진짜 생각만 해도 너무 행복해진다.",
+            "utterance_id": "BE22009981.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 너는 항상 음악에 맞춰 춤추는 걸로 스트레스 풀었잖아. 자신만의 스트레스 푸는 방법이 확실한 게 있다는 게 참 대단해. 멋진 거 같아!",
+            "utterance_id": "BE22009981.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 칭찬해주니까 괜히 어깨가 으쓱인다. 페스티벌 가서 입을 옷도 지금 벌써 다 정해 놨어. 진짜 오늘만큼 주말이 기대되는 금요일은 없을 거 같아!",
+            "utterance_id": "BE22009981.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 얼마나 기다려왔던 페스티벌이니. 정말 두근거리고 설레이는 금요일이겠다. 얘기 듣는 나도 덩달아서 기분이 좋아지는 거 같아.",
+            "utterance_id": "BE22009981.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다음 페스티벌은 우리 같이 가자! 그럼 너도 분명 주말이 기대되는 금요일이 될 거야.",
+            "utterance_id": "BE22009981.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오. 너무 좋지. 상상만 해도 가슴이 두근거리고 온몸에 도파민이 도는 거 같아. 다음에는 나 껴서 꼭 같이 가!",
+            "utterance_id": "BE22009981.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 아무튼 나는 내일을 위해 일찍 자야겠어. 내일 다녀와서 후기 문자로 알려줄게!",
+            "utterance_id": "BE22009981.15"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 정말 신나고 설레는 금요일 밤이겠다. 푹 자고 내일 신나게 놀다가 와!",
+            "utterance_id": "BE22009981.16"
+        }
+    ]
+}

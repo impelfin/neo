@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010469",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010469",
+        "relation": "친구",
+        "situation": "최신형 전자기기를 갖고 싶다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자야, 너는 스마트워치 있지?",
+            "utterance_id": "BE22010469.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 나 얼마 전에 스마트워치 샀지. 근데 왜 갑자기 물어봐?",
+            "utterance_id": "BE22010469.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 최신형 스마트워치가 갖고 싶어서. 주변에 친구들은 다 산 거 같은데 나는 살 수가 없네. 아르바이트를 최대로 뛰는데도 생활비에 월세 내고 등록금 내면 돈이 똑 떨어지니 살 수가 없지.",
+            "utterance_id": "BE22010469.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 그랬구나. 주변에 다 가지고 있으면 부럽고 갖고 싶은 마음이 드는 건 당연해. 사고 싶은데 살 수가 없는 형편이라 마음이 무척 속상했나 보네.",
+            "utterance_id": "BE22010469.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 나는 왜 이렇게 가난한가 싶어서 열등감이 들어서 내 마음에 상처가 돼. 나름대로 열심히 사는 것 같은데 항상 생활고에 쫓기는 것 같아서 속이 쓰려.",
+            "utterance_id": "BE22010469.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "속까지 쓰리다니 정말 많이 힘들고 속상하구나. 내가 너였어도 가난에 대한 원망과 열등감에 가슴이 사무치고 상처받았을 거야. 네가 그렇게 상처받고 속이 쓰려하는 모습을 보니까 내 마음도 무겁고 가슴 아프다.",
+            "utterance_id": "BE22010469.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가난은 당장 먹고사는 것에다 미래의 꿈까지 앗아가 버리고 나를 주눅 들게 만드니까. 그래서 나는 주변에 내가 가난하다는 걸 말하지 못하고 감추고 속으로 삭였어. 대학생이 되고 나서 그래도 해냈다는 생각에 조금 자신감이 생겼었는데 스마트워치 일로 다시 박탈감이 느껴지네.",
+            "utterance_id": "BE22010469.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 얼마나 마음고생이 심했으면 이토록 절망스러워할까 싶어서 내 마음이 찢어지는 것 같아. 그런 가난에도 포기하지 않고 공부도 열심히 하고 아르바이트도 열심히 하는 네 모습이 대견하고 멋져. 가난하다는 것을 방패로 삼아서 포기하고 대충 살 수도 있는데 너는 그걸 극복하려고 부단히 노력하잖아.",
+            "utterance_id": "BE22010469.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 나 정말 열심히 살아왔고, 지금도 열심히 살고 있거든. 상대적 박탈감이 드니까 왠지 기운이 쭉 빠지고 열등감 때문에 마음에 상처를 입어서 힘들었어.",
+            "utterance_id": "BE22010469.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 이렇게 나한테 얘기할 수 있다는 것부터 열등감에서 벗어나는 시작이지. 혼자서 삭히면서 괴로워하지 않고 털어놓으니까 마음이 편해지지 않았니? 나는 네가 마음이 상처를 충분히 잘 벗어날 수 있다고 생각해.",
+            "utterance_id": "BE22010469.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 맞아. 너한테 말하면서 마음이 한결 가벼워졌어. 지금껏 잘 해왔으니까 앞으로도 노력하면 이 지긋지긋한 가난에서 벗어날 수 있겠지. 나는 이제 막 시작이니까.",
+            "utterance_id": "BE22010469.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 용기를 가지고 지금처럼 우직하게 노력해 봐. 나는 네가 가진 능력과 내면의 힘을 믿어. 너는 할 수 있어.",
+            "utterance_id": "BE22010469.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "나를 이렇게 응원해줘서 고마워. 너무 주눅 들지 않고 나를 믿어볼게. 네 응원이 상처받은 마음에 조금이나마 위로가 된다.",
+            "utterance_id": "BE22010469.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 소중한 내 친구 너무 힘들어하지 마. 너무 속상할 때는 나한테 얘기하면 내가 들어줄게.",
+            "utterance_id": "BE22010469.14"
+        }
+    ]
+}

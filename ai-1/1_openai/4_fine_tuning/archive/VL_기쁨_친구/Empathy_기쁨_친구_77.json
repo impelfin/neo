@@ -1,0 +1,162 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009675",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009675",
+        "relation": "친구",
+        "situation": "번지점프의 매력에 빠졌다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 요즘 새로운 취미가 생겼어. 들어볼래?",
+            "utterance_id": "BE22009675.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "새로운 취미라니 벌써부터 궁금하다. 뭐야?",
+            "utterance_id": "BE22009675.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "바로 번지점프야! 정말 너무 짜릿하고 재밌어!",
+            "utterance_id": "BE22009675.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와! 너 놀이 기구도 잘 못 타지 않아? 어쩌다가 번지점프를 취미로 하게 됐어?",
+            "utterance_id": "BE22009675.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지인이 추천해 줘서 반신반의하면서 한번 시도해 봤어. 그런데 한번 해보니까 너무 매력적이더라! 하면 할수록 재밌고, 이제는 상상만 해도 너무 기뻐!",
+            "utterance_id": "BE22009675.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 스릴감에 엄청 짜릿하고 신나겠다! 글만 봐도 네가 엄청 재밌어 하는 게 눈에 선해. 뭔가 도전하는 느낌도 있어서 엄청 성취감도 있겠다!",
+            "utterance_id": "BE22009675.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 네 말대로 나는 놀이 기구도 잘 못 타잖아. 그래서 번지점프를 하면 어쩐지 한계를 뛰어넘은 것 같아서 성취감이 있어. 진짜 너무 흥분되고 신난다니까.",
+            "utterance_id": "BE22009675.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 얘기만 들어도 흥미진진해. 나도 한 번도 안 해봤지만 뛰어내린다면 정말 시원하고 즐거울 것 같아.",
+            "utterance_id": "BE22009675.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 흥미로워할 줄 알았어! 너한테 이 즐거운 일을 꼭 알려주고 싶었어! 얘기하고 나니까 역시 말해주길 잘했다는 생각이 든다.",
+            "utterance_id": "BE22009675.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 언제나 쾌활하고 활동적이라 보기 너무 좋아. 너는 항상 이렇게 밝고 에너지 넘쳐서 다른 사람들한테 좋은 영향을 주는 사람이야. 나도 너를 볼 때마다 너무 힘이 나고 덩달아 기뻐져.",
+            "utterance_id": "BE22009675.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머! 네가 이렇게 나를 좋게 봐주고 칭찬해 주니까 정말 감동적이고 더 기분이 좋아진다. 우리 다음에 같이 번지점프 하러 갈래? 아마 너도 하고 나면 그 매력에 푹 빠질걸?",
+            "utterance_id": "BE22009675.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 이렇게나 즐거워하고, 적극 추천하는 것만 봐도 분명 나도 너무 즐거울 거야. 같이 가자고 권유해 줘서 너무 고마워! 너 덕분에 기대감을 가지고 지낼 수 있을 것 같아!",
+            "utterance_id": "BE22009675.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "흔쾌히 함께 가겠다고 해줘서 나야말로 고마워! 나도 네 덕에 더욱 그 시간이 기다려진다!",
+            "utterance_id": "BE22009675.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그럼 일정 잡히면 알려줘!",
+            "utterance_id": "BE22009675.14"
+        }
+    ]
+}

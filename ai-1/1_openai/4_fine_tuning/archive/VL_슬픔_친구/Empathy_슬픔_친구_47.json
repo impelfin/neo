@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009769",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009769",
+        "relation": "친구",
+        "situation": "엄마가 준 간장을 붓다가 쏟아졌다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 엄마가 주신 간장을 쏟았어. 어떡하지? 너무 슬프다.",
+            "utterance_id": "BE22009769.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "간장 옮겨 담다가 그랬구나? 돌아가신 어머니가 남겨주신 것이었을 텐데.",
+            "utterance_id": "BE22009769.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 아까워서 차마 먹지도 못하고 있었는데. 이걸 쏟은 나 자신이 한심하고 엄마 생각이 나서 자꾸 눈물이 나.",
+            "utterance_id": "BE22009769.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 그 상황이었어도 너무 슬프고 마음 아팠을 거야. 엄마가 챙겨주신 그 정성을 떠올리면 더 눈물 날 거 같고.",
+            "utterance_id": "BE22009769.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 엄마가 간장 주실 때 표정이 떠올라서 더 슬펐어. 간장 쏟았다고 누구한테 말도 못 하겠어.",
+            "utterance_id": "BE22009769.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 이렇게 슬픔에 잠겨 있으니 나도 비통한 마음이 들고 가슴이 먹먹해. 얼른 가서 토닥토닥 어깨를 두드려 주고 싶어.",
+            "utterance_id": "BE22009769.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 바닥에 흐른 거 치우는 데 또 울고. 병에 조금은 남아 있는 간장을 보고 또 울었어.",
+            "utterance_id": "BE22009769.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "죄송한 마음도 들고 간장 챙겨 주실 때의 애틋한 마음이 떠올라서 또 슬픔이 밀려오는구나?",
+            "utterance_id": "BE22009769.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 것 같아. 간장에 엄마 얼굴이 보이는 것 같아서 너무 슬퍼.",
+            "utterance_id": "BE22009769.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "눈물 나고 슬프겠지만 잘 견뎌보자. 어머님은 간장이 쏟아진 것보다 네가 슬퍼하고 자책하는 걸 훨씬 더 마음 아파하실 거야.",
+            "utterance_id": "BE22009769.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까? 내가 슬퍼하는 모습에 더 마음 아프실까?",
+            "utterance_id": "BE22009769.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 내가 너희 엄마라면 그랬을 것 같아. 그러니 조금만 울고 슬픈 마음을 추스르도록 하자. 살아가면서 눈물 나는 날이 많겠지만, 그래도 웃으려고 노력해 보자.",
+            "utterance_id": "BE22009769.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 아까보다 마음이 한결 편해졌어.",
+            "utterance_id": "BE22009769.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 웃다 보면 정말 웃게 될 일이 더 많아질 거야.",
+            "utterance_id": "BE22009769.14"
+        }
+    ]
+}

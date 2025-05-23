@@ -1,0 +1,186 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22010117",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010117",
+        "relation": "친구",
+        "situation": "수능 점수가 생각보다 낮게 나왔다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야. 오늘 수능 점수 나왔는데 생각보다 낮게 나왔어. 내가 지원하려는 학교는 못 갈 것 같아서 공부에 대한 후회가 돼. 너무 슬프다 오늘.",
+            "utterance_id": "BE22010117.1"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 슬퍼하는 너의 문자를 읽으니 내가 더 슬프다. 뉴스에서도 이번 수능이 엄청 어려웠다고 하던데 다들 점수가 낮아진 것 같더라고. 그래서 너도 생각보다 낮게 나온 거니까 너무 속상해하지 마.",
+            "utterance_id": "BE22010117.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 뉴스를 봐서 그 소식은 미리 알고 있었는데 생각보다 너무 낮아서 충격이야. 대학교마다 합격 점수가 그렇게 많이 변하는 게 아니라 이 점수로는 못 갈 것 같아. 이 생각만 하면 눈물이 나.",
+            "utterance_id": "BE22010117.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 나도 속상해서 마음이 찢어질 것 같아. 우리가 3년 동안 공부해 온 것이 한 장의 종이로 결정 난다는 게 슬픈 현실이잖아.",
+            "utterance_id": "BE22010117.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 오늘 도저히 잠들 수가 없을 것 같아. 슬퍼서 말도 안 나와서 내 방에서 못 나가고 있어. 부모님에게도 너무 죄송한 마음이야.",
+            "utterance_id": "BE22010117.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 제일 속상하고 슬픈 건 너니까 너의 감정을 먼저 추스르는 게 좋을 것 같아. 내가 봐 온 너는 누구보다 열심히 공부해온 사람이야. 너무 너 자신을 폄하하지 마.",
+            "utterance_id": "BE22010117.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 그럴게. 하지만 지금은 점수로 인한 충격이 나를 휘감고 있어서 무슨 말을 해도 힘이 안 나. 내 인생이 끝난 느낌이 들어서 못 살겠어.",
+            "utterance_id": "BE22010117.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야 네가 그렇게 말하면 나도 마음이 찢어질 것 같아. 너의 슬픔 마음은 충분히 이해하지만 그래도 너무 극단적으로 생각하지 마.",
+            "utterance_id": "BE22010117.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 알겠어. 점수가 낮은 건 다른 사람 때문이 아니라 공부를 열심히 안 한 나라서 제일 슬퍼. 누구의 탓도 못하고. 정말 지나온 시간이 후회가 돼.",
+            "utterance_id": "BE22010117.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "속상한 마음이 드는 건 노력을 안 했다는 후회로 인한 마음 때문인 거잖아. 하지만 점수가 낮게 나온 것은 여러 요소가 있다고 생각해. 온전히 너의 잘못으로 일어난 일이라고 생각하면서 너 자신을 괴롭히지 마.",
+            "utterance_id": "BE22010117.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구를 미워하는 마음보다는 나를 탓하는 게 차라리 낫겠다는 생각을 했어. 그래서 나 자신을 더 부족하다고 생각한 거고. 너의 말을 들으니 나를 너무 몰아세운 것 같긴 하다.",
+            "utterance_id": "BE22010117.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 낮게 나온 수능 점수가 너의 기분을 슬픔의 끝자락으로 몰아세웠잖아. 지금 네가 느끼는 감정이 잘못된 건 아니니까 너무 슬퍼하지 마.",
+            "utterance_id": "BE22010117.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 고마워. 너의 격려와 응원을 받으니 힘이 좀 난다. 방안에 혼자 있으면서 너에게 문자를 보낼 때 나의 마음은 정말 슬픔의 끝을 달렸거든.",
+            "utterance_id": "BE22010117.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 처음에 너의 문자를 읽고 나도 다 눈물이 나더라고. 하지만 점점 풀어지는 너의 마음을 느껴서 나도 다행이라는 생각이 들고 안심이 돼.",
+            "utterance_id": "BE22010117.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "너를 통해서 수능 점수가 생각보다 낮게 나온 것 때문에 슬펐던 나의 마음이 많이 해소되었어. 정말 큰 도움이 되었고 위로를 받았어. 고마워 친구야.",
+            "utterance_id": "BE22010117.15"
+        }
+    ]
+}

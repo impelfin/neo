@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009362",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009362",
+        "relation": "친구",
+        "situation": "목 디스크로 두통이 잦다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지난 교통사고 이후에 나 목 디스크가 생겼잖아. 아직도 후유증이 너무 심한 것 같아서 우울하다.",
+            "utterance_id": "BE22009362.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "꽤 오래 지났는데 아직도 아픈 거니? 이 얘길 들으니 너무 걱정된다. 너의 마음은 좀 어때?",
+            "utterance_id": "BE22009362.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "목도 너무 아프고, 두통도 많이 늘었어. 이대로 나 평생 회복하지 못할까 봐 너무 두렵고 막막해서 눈물이 나.",
+            "utterance_id": "BE22009362.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래 교통사고 후유증은 오래간다고 하더라고. 아픈 것도 서러운데, 두통까지 늘어서 네 마음이 너무 힘들 것 같아. 네 두려움을 덜어줄 수 있다면, 내가 도와주고 싶은 마음이야.",
+            "utterance_id": "BE22009362.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 너무 속상하고 슬퍼. 사고가 났던 그날이 너무 후회돼. 내가 이렇게 된 게 다 내 탓인 것 같아.",
+            "utterance_id": "BE22009362.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 일어날 줄 몰랐던 사고였잖아. 절대 내 탓이 아니고 넌 잘못 없어. 이건 신호를 지키지 않은 운전자의 잘못이야.",
+            "utterance_id": "BE22009362.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 사람 잘못인 거 나도 알아. 난 초록 불에 건넜으니까. 그런데, 하루에 한 번씩 두통이 너무 심해서 아무것도 할 수가 없는 지경이야.",
+            "utterance_id": "BE22009362.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 너무 무섭고 힘들 것 같아. 할 수만 있다면, 내가 대신 아프고 싶어. 네가 슬퍼하니 나도 너무 속상해.",
+            "utterance_id": "BE22009362.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니 고마워. 난 사실 너무 슬퍼. 내가 일상생활을 잘 해나갈 수 있을지 생각하다 보면 슬퍼서 잠도 못 자.",
+            "utterance_id": "BE22009362.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정이 커져서 잠을 설치는구나. 시간이 지나면, 네 바람대로 회복해서 다시 웃을 날이 올 거야. 네가 다 나으면 우리 같이 맛있는 것도 먹으러 가자.",
+            "utterance_id": "BE22009362.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말대로 내가 회복해서 퇴원할 수 있을까? 벌써 입원한 지 한 달째잖아. 미래가 그려지질 않아.",
+            "utterance_id": "BE22009362.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조금 시간이 걸릴지라도, 넌 긍정적이니까 분명 극복할 수 있을 거야. 좋은 생각을 해서 네 마음이 좋아지면, 건강도 훨씬 좋아질 거야.",
+            "utterance_id": "BE22009362.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "듣고 보니, 스트레스 때문에도 두통이 더 심해졌던 것 같아. 네 말대로 긍정적으로 생각해 볼게. 좋은 에너지를 줘서 고마워.",
+            "utterance_id": "BE22009362.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 슬프면 나도 슬프기 때문에, 난 네가 행복하길 바라. 우린 둘도 없는 친구잖아.",
+            "utterance_id": "BE22009362.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너에게 얘기하길 잘했다. 나 희망을 더 가져볼게. 내 고민을 들어줘서 마음이 편해졌어. 정말 고마워.",
+            "utterance_id": "BE22009362.15"
+        }
+    ]
+}

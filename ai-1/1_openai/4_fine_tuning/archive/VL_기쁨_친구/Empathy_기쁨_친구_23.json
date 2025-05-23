@@ -1,0 +1,163 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009120",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009120",
+        "relation": "친구",
+        "situation": "아이가 처음 간 키즈카페에서 재미있게 논다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 이제 친구들이랑 잘 어울리는 것 같아.",
+            "utterance_id": "BE22009120.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 오늘 키즈카페에서 잘 놀았어?",
+            "utterance_id": "BE22009120.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 처음 간 거라 걱정 많이 했는데 재밌게 잘 놀았어. 안도감에 눈물 나게 기쁘더라.",
+            "utterance_id": "BE22009120.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "또래랑 친해지는 데 어려움을 느끼는 것 같다고 해서 걱정 많이 했었잖아. 듣는 내가 다 마음이 놓인다.",
+            "utterance_id": "BE22009120.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "유치원에서도 애들이랑 잘 못 놀아서 내가 얼마나 불안했는지 몰라. 그런데 오늘은 다가오는 친구 봐도 도망치지 않고 잘 놀더라. 얼마나 감사하던지.",
+            "utterance_id": "BE22009120.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 친화력 키워주겠다고 정말 노력 많이 노력한 네 덕분이다. 온갖 강연부터 책까지 다 찾아봤었잖아. 넌 진짜 훌륭한 엄마야.",
+            "utterance_id": "BE22009120.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시간이 좀 지나서는 자기가 먼저 친구한테 과자도 나눠주고 하더라. 그 모습을 보고 있자니 가슴이 다 벅찼어.",
+            "utterance_id": "BE22009120.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 얼마나 감동했을지 안 봐도 눈에 선해. 아이가 이렇게 엄마를 웃고 울린다니까.",
+            "utterance_id": "BE22009120.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 아이 낳고부터는 내 감정이 온통 아이에서부터 비롯돼. 한동안 밥맛도 없었는데 오늘은 너무 기뻐서 밥도 두그릇이나 먹었어.",
+            "utterance_id": "BE22009120.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그동안 얼마나 고생했는지 알아서 그런가, 내 기분이 다 날아갈 듯하다. 남편이랑 맥주도 한잔하면서 이 기쁨을 맘껏 누려.",
+            "utterance_id": "BE22009120.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이 아빠도 이 소식을 듣더니 당장 퇴근하고 오고 싶다고 난리였어. 키즈카페는 낯선 곳이라 정말 큰마음먹고 도전한 건데. 이런 의외의 결과가 나오다니 너무 행복하다.",
+            "utterance_id": "BE22009120.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "눈에 보이진 않았어도 그동안 네가 한 노력으로 아이는 점점 성장하고 있었나 봐. 너의 마음을 네 딸이 알아준 것 같네.",
+            "utterance_id": "BE22009120.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 말해주니까 나 막 마음이 기쁨으로 충만해지는 것 같아.",
+            "utterance_id": "BE22009120.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "이렇게 사랑으로 키우는 엄마가 있으니 앞으로도 아이는 무사히 잘 성장할 것 같다. 정말 축하해.",
+            "utterance_id": "BE22009120.14"
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009578",
+        "listener_behavior": [
+            "조언",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009578",
+        "relation": "친구",
+        "situation": "그와의 대화로 내가 잘못 살아왔나 싶은 생각이 들었다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대학에 와서 나 자신에게 점점 실망하고 있어. 나는 나이를 먹었는데도 왜 이렇게 성숙하지 못할까? 내가 너무 한심해서 사람들을 힘들게 하는 것 같아.",
+            "utterance_id": "BE22009578.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 무슨 소리야. 누가 너한테 심한 말을 한 것 같은데, 나한테 말해 줄 수 있어?",
+            "utterance_id": "BE22009578.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나랑 정말 친한 선배가 오늘 진지하게 할 말이 있다고 하더라고. 내가 너무 우유부단해서 사람들에게 피해를 주고 있다고 같이 하는 과제에서 빠지라고 했어. 이런 나 자신이 정말 싫어.",
+            "utterance_id": "BE22009578.3"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 선배 말을 정말 심하게 하시네! 그 말에 너무 속상해하지 않았으면 좋겠어. 내가 본 너는 남들을 도우면 도왔지 피해를 주지는 않는 사람이야.",
+            "utterance_id": "BE22009578.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 결정도 잘 못하고 주관이 없어서 회의가 계속 지체됐거든. 다들 바쁜데 내가 시간을 낭비해 버렸어. 속상해 정말.",
+            "utterance_id": "BE22009578.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "모든 사람이 주장을 강하게 주장하면 회의가 어떻게 진행되겠어. 누군가는 중재를 하고 누군가는 들어주는 역할을 해야 한다고 생각해. 넌 다른 사람들의 의견을 조율하는 가장 중요한 역할을 했을 뿐이라고!",
+            "utterance_id": "BE22009578.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 선배의 말도 틀린 게 없는 것 같았어. 나 원래도 결정장애가 심해서 선택하는 데 어려울 때가 많았어. 내가 선택하면 잘못된 선택을 할까 봐 겁이 나서 그런 것 같아.",
+            "utterance_id": "BE22009578.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 많이 안 좋았구나 그렇지만 선택에 옳고 그름이 어디 있겠어. 어떤 선택을 하든지 그 당시의 네가 할 수 있는 최선의 선택을 했을 거야. 선택하고 후회하기보다는 그 선택을 옳게 만들어가는 것이 중요해.",
+            "utterance_id": "BE22009578.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 걸까? 그렇지만 내가 선택을 옳게 만들어갈 수조차 없어졌어. 과제에서 빠지라고 했는걸. 기회조차 잃어버려서 정말 너무 우울해.",
+            "utterance_id": "BE22009578.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 생각에 그건 그 선배가 정말 무례했던 것 같아. 너와 대화도 해보지 않고 독단적으로 판단해서 통보했으니까. 조원들은 아마 그 선배랑 다르게 널 좋아할 수도 있어.",
+            "utterance_id": "BE22009578.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬으면 좋겠다. 이렇게 끝내기엔 너무 아쉬운데 내가 잘해낼 수 있을까?",
+            "utterance_id": "BE22009578.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지, 내 친구는 시작한 일은 끝까지 완벽하게 해내는 친구라고! 일단 선배랑 다시 한 번 얘기를 해보는 건 어떨까? 너라면 할 수 있을 거야.",
+            "utterance_id": "BE22009578.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "선배와 대화하기 전에 내 생각을 확실하게 정리해서 가야겠어. 우물쭈물하지 않고 내 의견을 정확하게 알려줄 테야.",
+            "utterance_id": "BE22009578.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "거봐, 정말 멋지다니까. 그리고 조원들이랑도 잘 얘기해 봐. 분명히 네 의견을 존중해 주는 사람이 훨씬 많을 거야.",
+            "utterance_id": "BE22009578.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "정말 고마워. 너와 대화하니까 우울함이 싹 사라졌어. 어서 가서 해결해볼게!",
+            "utterance_id": "BE22009578.15"
+        }
+    ]
+}

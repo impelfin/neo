@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010165",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010165",
+        "relation": "친구",
+        "situation": "생각을 해야 하는데 멍하게 있게 된다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 주임교수님이랑 면담을 하는데 또 혼났어. 너무 화가 나. 대체 이게 몇 번째야.",
+            "utterance_id": "BE22010165.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 어떤 일이 있었는데? 네가 무슨 잘못을 저질렀니?",
+            "utterance_id": "BE22010165.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 그런 건 아니야. 교수님이 왜 본인 말에 집중하지 않고 멍하게 있냐고 하시는 거야. 나는 집중을 잘하고 있다고 생각하는데 어느새 멍해져.",
+            "utterance_id": "BE22010165.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 분도 아니고 주임교수님이 너한테 그렇게 말을 하니 네가 적지 않게 당황했겠구나. 교수님한테 그런 소리를 들으면 면담하고 나서 정말 하늘이 무너질 정도로 괴로워.",
+            "utterance_id": "BE22010165.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "면담이 맨날 있는 것도 아닌데 왜 이렇게 집중을 못 하냐고 하셨어. 나도 바꾸고 싶은데 왜 이렇게 안 되는지 몰라. 나 자신한테 너무 짜증이 나고 이러한 내가 너무 한심해.",
+            "utterance_id": "BE22010165.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 답답하지. 문제가 무엇인지 알고 있음에도 불구하고 고쳐지지 않으면 그 행동을 한 후에 자신을 탓할 뿐이야. 많이 억울할 테고 화날 만하겠다.",
+            "utterance_id": "BE22010165.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말이 맞아. 너무 당황스럽다니까? 나는 내 문제를 잘 알고 있는데 왜 안 고쳐지는 거지? 무의식적으로 나오는 행동이다 보니 쉽게 고쳐지지 않아.",
+            "utterance_id": "BE22010165.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "특히 남들과 얘기하는 도중에 나타나는 너의 모습이니 남들의 시선도 신경 많이 쓰일 거야. 네가 억울했을 일도 잦았겠다. 그렇지?",
+            "utterance_id": "BE22010165.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그래서 어른분들과 이야기를 나눌 땐 항상 꾸중을 듣곤 해. 멍때리는 모습이 보기 좋진 않잖아. 나 같아도 내가 말을 할 때 누군가 멍을 때리면 기분이 나쁠 거야.",
+            "utterance_id": "BE22010165.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한 번에 고쳐지지 않다는 것을 잘 알아. 쉽게 고쳐지지 않는 것도 잘 알아. 더군다나 네가 멍때리는 너의 모습을 고치려고 지금까지 노력을 많이 해왔다는 것도 잘 알아.",
+            "utterance_id": "BE22010165.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 나는 정말 노력을 많이 했어. 지금도 꾸준히 하고 있고.",
+            "utterance_id": "BE22010165.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지! 너는 충분히 바뀌었고 계속해서 바뀌고 있는걸! 포기하지 말기를 바라!",
+            "utterance_id": "BE22010165.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 네 말에 힘을 얻는다. 절대 포기하지 않을 거야. 단 한 순간에 바뀌지 않을 거라는 것을 잘 알기 때문이야!",
+            "utterance_id": "BE22010165.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아! 누구 친구인지 굉장히 멋있는걸? 항상 네 옆에서 응원하고 있으니까 나 믿고 열심히 앞으로 나아가길 바라!",
+            "utterance_id": "BE22010165.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고마워. 네 덕분에 요동치는 나의 마음이 더욱이 확고해졌어! 위로해줘서 고마워! 또 연락할게!",
+            "utterance_id": "BE22010165.15"
+        }
+    ]
+}

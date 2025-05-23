@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009994",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009994",
+        "relation": "친구",
+        "situation": "할아버지께서는 6.25 참전 용사다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 할아버지는 6.25 참전 용사셔.",
+            "utterance_id": "BE22009994.1"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 너무 멋있으시다. 너는 더 멋있게 느껴질 것 같아.",
+            "utterance_id": "BE22009994.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 너무 멋있으시고 한편으로는 뿌듯하기도 해.",
+            "utterance_id": "BE22009994.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 것 같아. 목숨을 바쳐 나라를 지키는 게 쉬운 일이 아니잖아. 그런 할아버지를 뒀다는 게 참 뿌듯하겠다.",
+            "utterance_id": "BE22009994.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 할아버지가 가끔 전쟁 당시의 이야기를 해주시는데 나는 도저히 해내지 못할 것 같은 일들인 거야. 그래서 더 멋있게 느껴지더라.",
+            "utterance_id": "BE22009994.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그 당시의 이야기를 들어본 적이 있는데 지금은 절대 못 할 일들이더라. 그걸 당연하게 받아들이면서 살아가는 게 참 감사하기도 하고 뭉클하기도 해.",
+            "utterance_id": "BE22009994.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집에 훈장도 있어. 어렸을 때는 그게 뭔지 잘 몰랐는데, 커서 보니까 정말 대단한 거였더라고.",
+            "utterance_id": "BE22009994.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 훈장이 있으면 본인과 자손이 더 자부심을 느낄 수 있는 것 같아. 지금 너도 그걸 보면서 자부심이 완전 클 것 같고.",
+            "utterance_id": "BE22009994.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 훈장을 통해 할아버지가 얼마나 용감한 사람이었는지 알 수 있었어.",
+            "utterance_id": "BE22009994.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 할아버지를 닮아 용기와 리더십을 가졌던 거였어. 나는 평소에 그런 네 모습이 대단하고 닮고 싶다고 생각했거든. 그나저나 이렇게 자랑스러운 걸 진작 좀 말해주지, 왜 이제야 말해?",
+            "utterance_id": "BE22009994.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상 사람들에게 다 알리고 싶은데, 너무 자랑하는 것 같아서 자제 중이야.",
+            "utterance_id": "BE22009994.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야, 충분히 자랑해도 되는 내용인걸? 할아버지께서 우리나라를 열심히 지켜주신 덕분에 우리가 이렇게 잘 살아가고 있는 거잖아. 그러니 손녀인 너도 자부심을 가지고 자랑할 수 있다고 생각해.",
+            "utterance_id": "BE22009994.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니 더 기쁘고 뿌듯하다. 앞으로는 다른 사람들에게 더 자신 있게 말하고 다닐 수 있을 것 같아. 고마워.",
+            "utterance_id": "BE22009994.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 자부심을 갖고 자랑 많이 하고 다녀! 다른 사람들도 나처럼 분명 감사하고 멋있다고 말할 거야.",
+            "utterance_id": "BE22009994.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알겠어, 정말 고마워!",
+            "utterance_id": "BE22009994.15"
+        }
+    ]
+}

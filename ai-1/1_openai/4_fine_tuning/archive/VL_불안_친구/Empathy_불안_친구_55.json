@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009829",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009829",
+        "relation": "친구",
+        "situation": "밤눈이 어두워 밤에 운전을 못하는데 갑자기 밤운전할 일이 생겼다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 갑자기 밤에 운전할 일이 생겨서 불안해 죽겠어. 어떡하지?",
+            "utterance_id": "BE22009829.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언제 해야 하는데? 너 걱정이 심하겠다.",
+            "utterance_id": "BE22009829.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당장 내일 밤에 운전해야 해. 나 밤에 운전해본 적도 없고 밤눈도 어두워서 너무 걱정이야. 사고라도 나면 어떡하지 하는 생각에 너무 불안해.",
+            "utterance_id": "BE22009829.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 운전할 때 항상 스트레스 받아 하는 걸 아니까 네가 얼마나 불안할지 알겠어. 나도 처음에 밤에 운전할 때 엄청 불안해서 그 기분 아주 잘 알아. 많이 힘들겠다. 그러면 택시나 대중교통을 이용해보는 건 어때?",
+            "utterance_id": "BE22009829.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이동하는 거리가 멀어서 택시로는 불가능할 것 같아. 대중교통 이용하면 좋긴 한데 그러면 또 갈아타고 하느라 시간이 애매할 것 같아서. 어두운 밤눈으로 운전을 제대로 잘 할 수 있을까?",
+            "utterance_id": "BE22009829.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 밤눈이 어두운 대신 운전 감각과 상황 판단 능력 등이 뛰어나잖아. 다른 능력들에 집중해서 밤에 운전한다면 밤눈이 어둡더라도 충분히 안전하게 운전할 수 있을 거야. 너무 걱정하지 마.",
+            "utterance_id": "BE22009829.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 그럴까? 하긴 다른 운전 감각이 뛰어나다는 얘기는 많이 들었거든. 정말 그랬으면 좋겠다.",
+            "utterance_id": "BE22009829.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 그리고 너무 걱정되면 밤운전하러 갈 때 내가 같이 가줄게. 너는 다른 능력을 발휘해서 운전을 하고 밤눈이 밝은 나는 보이는 상황을 알려주면 되지 않을까? 그러면 시너지 효과를 낼 수 있을 것 같아.",
+            "utterance_id": "BE22009829.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각인 것 같아! 옆에 같이 타주면 너무 위안이 되지.",
+            "utterance_id": "BE22009829.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그리고 나랑 오늘 밤에 운전 연습 같이 해볼래? 미리 연습해보면 내일 덜 당황하지 않을까?",
+            "utterance_id": "BE22009829.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래주면 나야 정말 고맙지. 밤에 운전하는 거 오늘 미리 연습하면 네 말대로 더 나을 것 같아.",
+            "utterance_id": "BE22009829.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 너무 겁먹지 말고 오늘 나도 옆에 같이 탈 테니까 너무 긴장하지 말고 같이 해보자.",
+            "utterance_id": "BE22009829.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "진짜 고마워. 너한테 고민 털어놓고 나니까 마음도 편안해지고 해결도 되어 가는 것 같아.",
+            "utterance_id": "BE22009829.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇다니 다행이야. 이따가 밤에 봐.",
+            "utterance_id": "BE22009829.14"
+        }
+    ]
+}

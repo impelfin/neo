@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009642",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009642",
+        "relation": "친구",
+        "situation": "온라인으로 구매한 화장품이 배송 중에 깨졌다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 지난번에 샀다는 화장품, 오늘 왔는데 완전히 깨져서 왔더라. 이것도 배송이라고 하는 거니? 진짜 머리끝까지 열받아.",
+            "utterance_id": "BE22009642.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와, 그거 액체로 된 것 아니야? 택배 박스가 다 젖어서 열자마자 엄청 짜증 났겠다. 너 기분 괜찮니?",
+            "utterance_id": "BE22009642.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 진짜 어이가 없어서 말도 안 나오더라. 보니까 충격 흡수 포장도 제대로 안 되어있었어. 어떻게 이런 상태로 소비자한테 보내?",
+            "utterance_id": "BE22009642.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 나도 진짜 어이없었을 것 같아. 무지 기대했을 텐데 더 기분이 많이 안 좋고, 실망했겠다. 배송에 문제 생기는 것만큼 화나고 불편한 일이 또 없잖아.",
+            "utterance_id": "BE22009642.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 말이야. 고객센터에 전화해서 따지려고.",
+            "utterance_id": "BE22009642.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 그런데 괜히 전화로 화내면 오히려 너의 화난 감정이 더 격해질 수도 있어. 그 전에 마음을 좀 가라앉히고 차분하게 생각해보는 건 어떨까?",
+            "utterance_id": "BE22009642.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴, 그렇게 하는 게 낫겠다. 괜히 싸울지도 몰라.",
+            "utterance_id": "BE22009642.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 상담원 본인이 직접 한 실수도 아닐 텐데 통화하다가 서로 감정만 상할 수도 있고. 채팅은 오히려 기록이 남으니 사진을 찍어 보내면 업체 측에서도 더 잘 인지할 수 있을 거야.",
+            "utterance_id": "BE22009642.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그냥 화가 나서 거기까지는 생각하지 못했는데, 고마워. 내가 너무 괜한 일에 화를 냈나?",
+            "utterance_id": "BE22009642.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야. 충분히 화낼 만한 상황이었어. 요즘 날씨도 습하고 더워서 사소한 일에도 화가 나기 쉽잖아. 나도 요즘에 더 그래.",
+            "utterance_id": "BE22009642.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나만 그런 게 아니었구나. 네 말 들으니까 평정심을 찾게 됐어.",
+            "utterance_id": "BE22009642.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 그렇게 말해주니 나도 기분이 좋아. 너는 평소에도 해결책을 현명하게 빨리 찾아내는 사람이니 이번 일도 잘 해결할 수 있을 거야. 네가 그 부분에 있어서는 너를 정말 신뢰하는 거 알지?",
+            "utterance_id": "BE22009642.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니 고마워. 너랑 이야기하고 나니까 화가 가라앉고, 어떻게 하면 좋을지 계획이 섰어. 지금 바로 반품 신청하려고.",
+            "utterance_id": "BE22009642.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "화가 안 난다니 다행이구나. 너의 평정심이 정말 대단한걸? 얼른 멀쩡한 상품으로 빨리 다시 받기를 바랄게.",
+            "utterance_id": "BE22009642.14"
+        }
+    ]
+}

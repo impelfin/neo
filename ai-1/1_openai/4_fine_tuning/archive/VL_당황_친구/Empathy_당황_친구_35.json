@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010290",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010290",
+        "relation": "친구",
+        "situation": "면접에 가는데 옷에 피가 묻었다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 이번에 면접 보기로 한 회사에 지금 가는 중이거든? 그런데 코피가 나서 옷에 피가 묻어버렸어. 너무 당황스럽다.",
+            "utterance_id": "BE22010290.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거 진짜 큰일이다. 이번 면접, 너에게 정말 중요한 거잖아. 코피가 난 것도 놀랐을 텐데, 옷까지 그렇다면, 너무 당황스러울 것 같아.",
+            "utterance_id": "BE22010290.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 지금 너무 당황스러워서 어떻게 해야 할지 모르겠어. 흰색 옷인데, 피가 잔뜩 묻어있어. 난 이번 면접을 망한 것과 다름없어.",
+            "utterance_id": "BE22010290.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑작스러운 상황에 몹시 당황스럽겠지만, 우선 진정해 보자. 면접도 중요하지만, 난 놀랐을 네가 너무 걱정된다.",
+            "utterance_id": "BE22010290.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 회사 내가 정말 가고 싶어 했던 디자인 회사잖아. 겨우 2차 면접을 보게 되었던 게 기회를 날리게 될 것 같아서 너무 두려워.",
+            "utterance_id": "BE22010290.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 열심히 준비한 회사라는 걸 잘 알아. 이런 때일수록 침착하게 대응해 보자. 너라면, 이런 상황에서도 잘 극복해낼 수 있을 거라 믿어.",
+            "utterance_id": "BE22010290.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시간이 없어서, 옷을 갈아입을 수가 없거든. 그냥 면접에 가야 하는데, 내가 잘할 수 있을까? 나 너무 당황스러워서 무서워서 손까지 떨려.",
+            "utterance_id": "BE22010290.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 얼마나 초조할지 알 것 같아. 이렇게 갑작스러운 상황이라면 누구여도 당황할 거야. 지금 네가 떨리는 건 당연한 일이니까 너무 겁먹지 않길 바라.",
+            "utterance_id": "BE22010290.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "피 묻은 옷을 보고, 면접관들이 날 이상하게 보면 어떡하지? 이 상황이 너무 우울하고, 부정적인 생각만 들어.",
+            "utterance_id": "BE22010290.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "코피가 난건 너도 어쩔 수 없는 일이었잖아. 네 잘못이 아니니까 절대 기죽을 필요 없어. 넌 실력도 있고, 용기도 있기 때문에 분명 면접을 잘 볼 수 있을 거야.",
+            "utterance_id": "BE22010290.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "실력만으로 내가 합격할 수 있을까? 이런 모습으로, 면접을 보는 것 자체가 너무 겁이 나.",
+            "utterance_id": "BE22010290.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 네 실력과 능력을 믿어. 넌 이 면접을 위해 어제 잠도 안 자고, 연습했잖아. 네가 차분하게 너의 상황을 설명한다면 분명 그들도 널 이해해 줄 거야.",
+            "utterance_id": "BE22010290.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 날 믿는다고 말해주니 정신이 차려진다. 조금 전까지 너무 당황스러워서 머릿속이 복잡했거든. 네 응원 덕에 마음이 한결 나아지는 것 같아.",
+            "utterance_id": "BE22010290.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 정말 네가 잘 해낼 거라고 믿는걸. 나의 이야기가 너에게 도움이 되어서 다행이야. 네 마음이 괜찮아졌다니까 나까지 마음이 놓여.",
+            "utterance_id": "BE22010290.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "네 격려에, 부정적인 생각이 눈 녹듯 사라지는 기분이야. 너의 응원을 힘입어서, 이 상황에서도 나 용기가 생겼어. 용기를 줘서 정말 고마워.",
+            "utterance_id": "BE22010290.15"
+        }
+    ]
+}

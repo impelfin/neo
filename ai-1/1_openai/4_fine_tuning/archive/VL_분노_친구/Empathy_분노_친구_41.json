@@ -1,0 +1,164 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009608",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009608",
+        "relation": "친구",
+        "situation": "물가가 올라 저렴한 식재료만 찾게 된다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘은 마트에 가도 당최 살 게 없어. 진짜 물가가 올라도 너무 올랐어.",
+            "utterance_id": "BE22009608.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 얼마 전에 대형마트에 가서 장을 보는데 조금만 담아도 금세 10만 원이더라고. 요즘 물가가 말도 안 되는 거 정말 공감해.",
+            "utterance_id": "BE22009608.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "도대체 뭘 먹고 살라는 건지 모르겠어. 물론 우크라이나 전쟁 때문에 전 세계적으로 고물가에 시달리는 건 알겠어. 그래도 너무 심하잖아.",
+            "utterance_id": "BE22009608.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "최근에 기후 위기까지 겹쳐서 더 문제가 큰 것 같아. 날씨가 오락가락하고 비가 안 오니까 농작물을 기르는 거 자체가 어렵다고 하더라고.",
+            "utterance_id": "BE22009608.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리가 일하는 것도 다 먹고살자고 하는 건데 이렇게 물가가 오르면 도대체 뭘 먹고 살아?",
+            "utterance_id": "BE22009608.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 너는 탁월한 요리 솜씨가 있지 않아? 얼마 전에도 보니까 재료 몇 가지로 금세 뚝딱 맛있는 음식을 하더라. 그런 능력자들은 볼 때마다 부러워.",
+            "utterance_id": "BE22009608.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물가 때문에 좋은 식자재를 못 사고 매번 저렴한 걸 사는 것도 화가 나.",
+            "utterance_id": "BE22009608.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "중요한 건 재료가 아니라 음식 솜씨 아닐까? 장인은 도구를 탓하지 않는다고 하잖아. 나는 네가 요리하는 것을 볼 때마다 감탄하곤 하는걸.",
+            "utterance_id": "BE22009608.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 내가 요리를 잘한다고 생각한 적도 없어.",
+            "utterance_id": "BE22009608.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말도 안 돼. 그런 센스는 정말 타고나는 거라 생각해. 네가 만든 요리는 너라는 사람 특유의 따스함이 배어있어서 얼마나 좋은데 말이야.",
+            "utterance_id": "BE22009608.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "최근에 물가가 올라서 저렴한 식자재만 찾는다고 생각했는데 그렇게 말해줘서 고마워.",
+            "utterance_id": "BE22009608.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 있는 그대로의 사실만을 말했을 뿐이야. 앞으로도 너만의 요리 비법을 나와 공유해줘.",
+            "utterance_id": "BE22009608.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응! 아무리 물가가 높아져도 맛있게 요리하는 법을 개발해서 공유하도록 할게.",
+            "utterance_id": "BE22009608.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워. 오늘도 우리 맛있고 건강한 식사를 하도록 하자! 좋은 하루 보내!",
+            "utterance_id": "BE22009608.14"
+        }
+    ]
+}

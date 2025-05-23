@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009652",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009652",
+        "relation": "친구",
+        "situation": "경로우대석에 앉은 학생이 노인에게 자리양보를 하지 않는다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 지금 지하철인데 진짜 어이없는 광경을 목격했어.",
+            "utterance_id": "BE22009652.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이야? 되게 화난 것처럼 느껴져.",
+            "utterance_id": "BE22009652.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "경로우대석에 어떤 학생이 앉아있는데, 앞에 할아버지가 서 계시는데도 자리 양보를 안 하네.",
+            "utterance_id": "BE22009652.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 말만 들어도 나도 너처럼 어이없고 화가 났을 것 같아. 네 기분이 어땠을지 정말 이해돼.",
+            "utterance_id": "BE22009652.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지? 정말 요즘 학생들 너무 예의가 없는 것 같아. 정말 화난다.",
+            "utterance_id": "BE22009652.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "화나고 노여워하는 너의 마음은 충분히 이해해. 그렇지만 그 학생에게도 어떤 사정이 있는 것은 아닐까?",
+            "utterance_id": "BE22009652.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "아, 네 말을 듣고 보니 그럴 수도 있겠다는 생각이 드네.",
+            "utterance_id": "BE22009652.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 날씨도 무척 덥고 지하철에 사람도 많아서 불쾌지수도 높은데 긍정적으로 이해해보는 게 어때? 괜히 화만 내는 게 너에게도 좋지 않은 영향을 주잖아.",
+            "utterance_id": "BE22009652.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 학생이 무지 아픈 상태일지도 몰라. 괜히 나쁘게만 본 것 같기도 하네.",
+            "utterance_id": "BE22009652.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 네가 이해한다니 마음이 넓구나. 겉으로 보이는 게 전부는 아니잖아. 그리고 설사 많이 아픈 상황이 아니더라도 그건 그 학생에게 좋은 일이기도 하고.",
+            "utterance_id": "BE22009652.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇네. 네가 그렇게 말해주니 내 마음도 한결 편해지고 불쾌지수도 내려간 것 같아.",
+            "utterance_id": "BE22009652.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 편해졌다니 다행이야. 네가 요즘 날씨 때문에 화가 더 많아져서 마음이 불쾌했었던 걸 거야. 나도 자주 그러거든.",
+            "utterance_id": "BE22009652.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 별일도 아닌데 화만 냈네. 네 덕분에 마음이 편해졌어. 위안을 줘서 고마워!",
+            "utterance_id": "BE22009652.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 어른을 공경하는 마음이 커서 그래. 나는 그런 네가 정말 정의롭고 대단해 보이는걸!",
+            "utterance_id": "BE22009652.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇게 말해줘서 고마워.",
+            "utterance_id": "BE22009652.15"
+        }
+    ]
+}

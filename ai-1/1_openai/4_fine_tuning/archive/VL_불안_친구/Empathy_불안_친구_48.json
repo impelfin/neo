@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009785",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009785",
+        "relation": "친구",
+        "situation": "목과 어깨 뭉침으로 피로하다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 어제 정형외과에 다녀왔는데 마음이 불안하다.",
+            "utterance_id": "BE22009785.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "매사에 낙천적인 너답지 않게 무슨 일인데 그래? 무슨 안 좋은 일이라도 있어?",
+            "utterance_id": "BE22009785.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지난번에는 목이 아팠는데 어제는 어깨가 너무 뭉쳐서 아프더라. 여기저기 아프니 마음이 답답하네.",
+            "utterance_id": "BE22009785.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 지난번에 거북목 진단받고 힘들어하는 모습 보고 나 정말 속상했어. 그런데 어깨까지 아프다니 내 마음이 꽉 막힌 것처럼 답답하다.",
+            "utterance_id": "BE22009785.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "목 치료하는 데도 시간이 한참 걸리는데, 어깨에 염증까지 생겼대. 약을 한 뭉치 받으니까 너무 불안한 거야.",
+            "utterance_id": "BE22009785.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물리 치료에 약까지 먹어야 한다고? 너 힘들게 치료받을 생각하니 내 마음이 너무 우울해. 절망적이고 답답해서 무슨 말을 해야 할지 모르겠어.",
+            "utterance_id": "BE22009785.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "의사는 쉬는 게 최선이라고 해. 하지만 당장 일을 관둘 수는 없으니 가슴이 답답해.",
+            "utterance_id": "BE22009785.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 쉬면 금방 낫겠지만 그럴 수 없는 게 현실이잖아. 듣는 나도 안타까운데 네 심정은 어떨까? 눈앞이 캄캄하고 막막하네.",
+            "utterance_id": "BE22009785.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "목과 어깨가 아프니 일도 제대로 할 수도 없어. 아픈 데 신경 쓰느라고 능률도 잘 오르지 않고.",
+            "utterance_id": "BE22009785.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아픈 몸으로 일할 네 모습 생각만 해도 짠하다. 괜히 눈물이 날 것 같기도 하고. 네 사정은 이해하지만, 그래도 좀 쉬엄쉬엄하는 게 좋지 않을까?",
+            "utterance_id": "BE22009785.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 의사 선생님도 일을 관두지 못하면 30분마다 반드시 스트레칭하라고 하셨어. 당장 쉴 수는 없으니 그렇게 해야 할 것 같아.",
+            "utterance_id": "BE22009785.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "스트레칭 열심히 하면 통증이나 뭉침도 나아질 거야. 넌 요가도 오랫동안 했으니 잘할 거야. 누구보다 꾸준한 성격이라 잘 해낼 거고.",
+            "utterance_id": "BE22009785.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말 들으니 힘이 난다. 몸이 아프니 괜히 마음도 힘들고 답답했나봐.",
+            "utterance_id": "BE22009785.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조금만 더 신경 쓰고 열심히 치료받으면 곧 좋아질 거야. 내 친구, 얼른 힘내!",
+            "utterance_id": "BE22009785.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그래, 힘들 땐 역시 친구밖에 없구나. 진심으로 고마워, 친구.",
+            "utterance_id": "BE22009785.15"
+        }
+    ]
+}

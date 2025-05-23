@@ -1,0 +1,188 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009227",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009227",
+        "relation": "친구",
+        "situation": "남편이 갑자기 쓰러져서 새벽 5시에 응급실에 실려갔다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "새벽 5시에 남편이 화장실에 가다 갑자기 쓰러졌어. 119에 연락해서 병원 응급실로 데리고 왔어. 다행히 정신은 차려서 이것 저것 검사를 했는데 결과가 어떻게 나올지 몰라 너무 불안하다.",
+            "utterance_id": "BE22009227.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상에, 너 정말 많이 놀랐겠다. 꼭두새벽에 무슨 큰일 당하는 건 아닌가 해서 심장이 내려앉았겠어. 네 문자를 읽는 나도 이렇게 손이 떨리는데 넌 오죽하겠니?",
+            "utterance_id": "BE22009227.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말도 마, 진짜 십 년 감수했다. 눈앞이 노래서 나도 쓰러지는 줄 알았어. 그래도 남편을 챙겨야 하니까 이를 악물고 견디는 중이야.",
+            "utterance_id": "BE22009227.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 다리를 후들거리며 뛰어다녔을 생각 하니 진짜 눈물 난다. 그래도 남편이 정신을 차렸다니 큰일은 아닐 거야. 부디 마음을 굳게 먹어야 한다.",
+            "utterance_id": "BE22009227.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 남편 여태 고생하다 이제 조금 살 만해졌는데 큰 병이면 불쌍해서 안 돼. 앞으로 둘이 여행도 다니며 재밌게 살려고 마음먹고 있던 참이었단 말이야.",
+            "utterance_id": "BE22009227.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너희 부부가 어떻게 살았는지는 내가 누구보다 잘 알지. 그리고 너희 남편도 인품 하나는 어디 내놔도 부끄럽지 않은 사람이잖아? 하늘도 무심치 않아서 별일 아닐 테니 걱정하지 마.",
+            "utterance_id": "BE22009227.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 네 말대로만 되면 더 이상 바랄 게 없겠다. 그런데 자꾸 마음이 불안한 건 왠지 모르겠어. 설마 안 좋은 일의 예감 같은 건 아니겠지?",
+            "utterance_id": "BE22009227.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남편이 새벽 5시에 쓰러져 응급실에 실려 왔는데 불안하지 않을 부인이 어디 있어? 진짜 무슨 큰 병은 아닌지 다 걱정하지. 예감 같은 거 절대 아니니까 그런 생각은 하지 마.",
+            "utterance_id": "BE22009227.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그렇겠지? 나도 그래야지 하면서도 마음이 불안하니 별생각이 다 들어.",
+            "utterance_id": "BE22009227.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 마음이 드는 게 정상이야. 그래도 다른 걱정은 접어두고 남편 상태나 잘 살펴. 네 남편은 원래 건강체니까 설혹 어디가 안 좋다 해도 잘 이겨 낼 거야.",
+            "utterance_id": "BE22009227.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 그래. 네 말대로 우리 남편은 건강체지. 그래서 더 걱정했는데 네 말 듣고 생각하니 그게 오히려 다행이다. 진짜 웬만한 병은 다 이겨낼 수 있을 거 같아.",
+            "utterance_id": "BE22009227.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 말이 그 말이야. 근본적으로 체력이 받쳐주는 사람은 같은 일을 당해도 훨씬 잘 이겨낼 수 있어. 그러니 부디 마음을 편히 먹길 바라.",
+            "utterance_id": "BE22009227.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말 들으니 진짜 마음이 많이 놓인다. 물론 별일 아니어야겠지만 설혹 무슨 문제가 있어도 우리 남편이 다 이겨낼 거 같아.",
+            "utterance_id": "BE22009227.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 네 남편에게는 네가 큰 버팀목이니까 씩씩한 모습을 보여야 해. 너는 마음이 단단한 사람이라 잘 이겨낼 거라 본다. 부디 힘내라, 친구야.",
+            "utterance_id": "BE22009227.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너 같은 친구가 있어 정말 위로가 된다. 네 말대로 별일 아닐 거라 믿고 잘 버텨볼게. 고맙다, 친구야.",
+            "utterance_id": "BE22009227.15"
+        }
+    ]
+}

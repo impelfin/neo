@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010158",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010158",
+        "relation": "친구",
+        "situation": "할머니가 코로나로 돌아가셨다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 고단한 사흘이었어, 몸과 마음이 너무 지쳤어. 내 몸의 수분이 다 빠져나간 것 같아.",
+            "utterance_id": "BE22010158.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "장례식을 이제 마쳤나 보네, 엊그제, 네 얼굴이 얼마나 하얗게 질려있던지. 나도 네 연락을 기다리는 내내 마음이 불편했어.",
+            "utterance_id": "BE22010158.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "할머니가 코로나로 돌아가시고 나서 가족 모두가 절망에 빠졌어. 그토록 건강하시던 할머니가 이렇게 갑자기 우리 곁을 떠나버리시니까 너무 슬퍼.",
+            "utterance_id": "BE22010158.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뉴스에서 코로나로 인한 사망 소식만 들어도 가슴이 철렁하는데, 넌 얼마나 놀랐을까. 고작 사흘 만에 돌아가셨으니 감당하기 힘든 슬픔일 거야. 네가 이런 일을 겪어서 나도 너무 유감스러워.",
+            "utterance_id": "BE22010158.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "코로나에 걸리기 전에 마지막으로 나와 했던 통화가 손녀 보고 싶다, 삼계탕을 해두었으니 먹고 가라는 내용이었어. 할머니와 고작 30분 거리에 살면서 일이 많다고 미뤘던 나 자신이 너무 원망스러워.",
+            "utterance_id": "BE22010158.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 그게 마지막이 될 줄은 몰랐던 거잖아. 평소에 할머니와 각별하게 시간을 보냈으니, 할머니에 대한 너의 사랑은 충분히 알고 계셨을 거야.",
+            "utterance_id": "BE22010158.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "손녀인 내가 감염되지 않게 더 신경을 썼어야 했어. 확진자가 얼마나 많고, 어떤 상황을 경계해야 하는지 알려드렸어야 했는데. 살면서 이렇게 후회스러운 날은 처음이야.",
+            "utterance_id": "BE22010158.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 슬픈 마음에 죄책감이 자꾸 몰려오나 봐. 네 나름대로 뉴스도 보내드리며 최선을 다 했잖아. 할머니도 네가 이렇게까지 힘들어하는 걸 아시면 마음이 아프실 거야, 그러니 네 마음을 스스로 해하지 말았으면 해.",
+            "utterance_id": "BE22010158.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 할머니가 그걸 원하지 않으실 거라는 걸 알고 있는데, 자꾸 부정적인 생각만 들어. 이 감정에서 헤어 나오는 게 너무 힘드네.",
+            "utterance_id": "BE22010158.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 할머니가 작년에 돌아가시면서 방황을 많이 했어. 하지만 영원히 사는 사람은 없으니 받아들이기로 하고 가슴에 할머니를 영원히 묻기로 했어. 그렇게 생각하니 늘 할머니와 함께 있는 것만 같아, 너도 그렇게 생각해보는 건 어때?",
+            "utterance_id": "BE22010158.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 뭘 할 때든 할머니를 생각한다는 거야?",
+            "utterance_id": "BE22010158.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 내게 어떤 일이 있을 때 할머니라면 뭐라고 말씀하셨을까, 상상하고는 해. 그게 정말 큰 위안이 되거든.",
+            "utterance_id": "BE22010158.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말을 듣고 보니 지금도 내게 할머니가 뭐라고 하실지 상상이 된다. 그만 울어라, 녀석아, 혼을 내시겠지. 가슴에 평생 묻어둔다는 말이 참 위안이 된다.",
+            "utterance_id": "BE22010158.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "내 말이 네게 위안이 된다니 참 다행이야. 처음에는 할머니의 부재가 익숙하지 않겠지만 시간이 지날수록 괜찮아질 거야.",
+            "utterance_id": "BE22010158.14"
+        }
+    ]
+}

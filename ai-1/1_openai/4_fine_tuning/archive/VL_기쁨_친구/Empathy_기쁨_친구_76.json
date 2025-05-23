@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009666",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009666",
+        "relation": "친구",
+        "situation": "3년만에 새벽에 일어나 나들이를 갔다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이게 얼마 만인지 모르겠습니다. 지난 주말에는 새벽에 일어나 나들이를 다녀왔어요. 얼마나 신이 나던지, 웃음을 멈출 수 없었어요.",
+            "utterance_id": "BE22009666.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "듣기 좋은 소식을 들으니 제 얼굴에도 미소가 자연스레 지어집니다. 잘하셨어요, 나들이 다녀오실 때도 되었지요.",
+            "utterance_id": "BE22009666.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 3년 만인 것 같아요. 이렇게 나들이를 다녀온 게 말이죠. 게다가 아들 녀석이랑 둘이 다녀와서 더 의미 있고 기쁜 시간을 보내고 왔습니다.",
+            "utterance_id": "BE22009666.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원하던 시간을 정말 오랜만에 보내셨으니 왜 기쁘지 않으시겠어요! 제가 다 신이 납니다. 당연히 아드님도 즐거운 시간을 보냈겠죠?",
+            "utterance_id": "BE22009666.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 아들도 은근히 저와 시간을 보내고 싶어 했던 것 같아요. 둘이 차를 타고 가는데 음악도 알아서 틀어주고, 김밥도 먹여주고 하면서 꽤 다정하게 굴더라고요. 그런 모습을 얼마 만에 느껴보는지, 벅차오르는 기쁨에 울컥했습니다.",
+            "utterance_id": "BE22009666.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 감동스러운 마음이 저에게도 전해집니다. 그동안 회사 일 열심히 하시면서도, 가족들과의 유대 관계를 놓치지 않으시려고 정말 많이 노력하셨잖아요. 가족을 생각하시는 그 모습이 대단하다 생각 들었고, 좋은 귀감이 되었거든요.",
+            "utterance_id": "BE22009666.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러셨어요? 일만 열심히 하다가 가족들과 멀어졌다며 슬퍼하는 친구들의 모습을 많이 봤습니다. 그럴 때마다, 아무리 바빠도 가족을 먼저 챙기자고 마음먹었지요. 그리고 그런 노력의 결과를 나들이 때 느낄 수 있어 행복했습니다.",
+            "utterance_id": "BE22009666.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요! 사춘기 아들이 아버지에게 그렇게 다정하게 굴기가 쉽지 않거든요. 감정화자님의 노력이 결실을 맺었네요. 뿌듯하시겠어요, 아드님을 바라보는 모습도, 그동안 노력을 기울인 본인의 모습을 바라보는 것 모두 말입니다.",
+            "utterance_id": "BE22009666.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 저도 한동안 바쁜 일에만 신경 쓰느라 잠깐 가족들과 서먹해진 시기가 있었어요. 그때 가족들에게 서운함만 느꼈는데, 다시 생각해 보니 제가 태도를 바꿔야겠더라고요. 그래서 더 노력하게 된 것 같습니다.",
+            "utterance_id": "BE22009666.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가족들과 멀어진다고 느낄 때 드는 서운함과 불안감이 말도 못 하죠. 저도 한동안 사업 때문에 한 2년 정도 멀리 떨어져 지내 그 마음을 이해합니다. 그 감정을 통해 더 노력을 기울이신 감정화자님 모습이 참 지혜롭네요.",
+            "utterance_id": "BE22009666.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자님도 가족들과 돈독한 관계를 잘 유지하고 있다 들었어요. 항상 좋게 말씀해 주셔 감사해요. 사실 나들이 가서 아들이 고민도 털어놓고, 속내를 얘기해 주는데 어찌나 고맙고, 기뻤는지 모릅니다.",
+            "utterance_id": "BE22009666.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 행복하셨겠어요, 감정화자님! 사춘기를 둔 모든 부모의 소원이 자녀들과 대화를 많이 나누는 거잖아요. 아드님은 본인이 먼저 다가와 그렇게 속을 열어 보여 줬으니 살맛 나셨겠습니다.",
+            "utterance_id": "BE22009666.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 그야말로 살맛 나더라고요. 일도 열심히 했지만, 가족 관계에 더 노력을 기울인 보람이 이제야 더 깊이 느껴집니다. 오랜만에 나들이라 좋았지만, 이런 소중한 감정을 느끼고 돌아올 수 있어 더 기쁩니다.",
+            "utterance_id": "BE22009666.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님의 기쁘고 만족스러운 마음을 느낄 수 있어 저 또한 행복합니다. 저도 더욱더 가족과 함께 시간을 많이 써야겠다는 다짐도 하게 되네요.",
+            "utterance_id": "BE22009666.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "공감화자님과 대화를 나누고 나면 제가 더 기뻐집니다. 네 가족과의 시간은 후회가 없지요. 언제나 좋게 들어주셔 감사드려요.",
+            "utterance_id": "BE22009666.15"
+        }
+    ]
+}

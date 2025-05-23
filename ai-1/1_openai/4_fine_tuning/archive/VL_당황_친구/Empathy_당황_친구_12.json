@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009731",
+        "listener_behavior": [
+            "조언",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009731",
+        "relation": "친구",
+        "situation": "나를 신임하던 상사가 함께 이직하자고 한다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사 부장님이 같이 이직하자고 꼬드기는데 갑자기 물어봐서 당황스러워.",
+            "utterance_id": "BE22009731.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 갑작스럽게 회사 같이 그만두자는 거야? 참 난감하고 당황스럽겠다.",
+            "utterance_id": "BE22009731.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 다른 거래처에서 제안받았는데 조건이 좋다고 같이 가자고 하시네.",
+            "utterance_id": "BE22009731.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 생각할 시간은 줘야지. 갑자기 그러면 다른 직원들이 의식하지 않을까?",
+            "utterance_id": "BE22009731.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 들어온 지 1년밖에 안 됐는데 그만두라고 하니까 당황스럽고 그렇네. 자기가 다 알아서 이직 준비해 놓겠다고.",
+            "utterance_id": "BE22009731.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 당황스럽겠다. 너무 갑작스러운데 회사에는 어떻게 얘기하려고 그래?",
+            "utterance_id": "BE22009731.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "모르겠어. 부장님하고 같이 그만두면 분명히 회사 사람들이 눈치 줄 것 같아.",
+            "utterance_id": "BE22009731.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 갑자기 둘 다 그만두면 눈치채지 않을까? 진짜 무척 당황스럽고 곤란해질 거 같아.",
+            "utterance_id": "BE22009731.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 더 고민돼. 다른 직원들이 분명히 의식할 텐데 말이야. 지금 하는 일이 부장님하고 나까지 둘만 하는 거거든.",
+            "utterance_id": "BE22009731.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬었으면 더 다른 사람들이 의식되겠는데? 혹시 누가 물어보게 되면 참 난감하겠다.",
+            "utterance_id": "BE22009731.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 입사하고서는 계속 부장님하고만 일했었어. 근데 둘 다 그만둔다 그러면 엄청 눈치 주지 않을까?",
+            "utterance_id": "BE22009731.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어차피 남남인데 회사 옮기면 마주칠 일도 없으니까 너무 눈치 보지 마. 연봉도 높을 텐데 그런 일에 너무 신경 쓸 필요 없어. 네 결정을 믿고 행동하면 될 것 같아.",
+            "utterance_id": "BE22009731.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇지, 훨씬 높으니까 그만두려고 하는 거야. 어차피 그만두면 다시 볼 일 없으니깐 눈 딱 감고 사표 낼까?",
+            "utterance_id": "BE22009731.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 너 그동안 열심히 했으니깐 뭐라고 못할 거야. 갑자기 옮기게 되어서 당황스럽겠지만 너무 의식하지 말고 당당하게 그만둬. 넌 퇴사도 잘하고 새 회사도 잘 다닐 테니까 걱정하지 말고.",
+            "utterance_id": "BE22009731.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 용기 내서 마무리 잘해볼게. 네가 응원해주니깐 잘 해결할 수 있을 거 같아.",
+            "utterance_id": "BE22009731.15"
+        }
+    ]
+}

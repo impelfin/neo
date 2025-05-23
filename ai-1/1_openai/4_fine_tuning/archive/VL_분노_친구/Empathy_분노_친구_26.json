@@ -1,0 +1,162 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009509",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009509",
+        "relation": "친구",
+        "situation": "꽃가루 알레르기 때문에 봄에는 썬글라스를 꼭 쓴다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 봄마다 짜증 나 죽겠어.",
+            "utterance_id": "BE22009509.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 이렇게 흥분했어. 무슨 일이야?",
+            "utterance_id": "BE22009509.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리나라는 봄에 꽃가루가 진짜 너무 많아. 너무 심해서 선글라스 없으면 밖에 나갈 수 없을 정도야.",
+            "utterance_id": "BE22009509.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 봄 되면 유독 꽃가루가 많이 날리긴 해. 나도 심한 날에는 막 엄청나게 재채기하고 그런다니까.",
+            "utterance_id": "BE22009509.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 선글라스 쓰는 것도 어쩌다 한두 번이지 매일 이러니까 불편하고 귀찮아. 정말 너무 짜증 나고 막 화까지 나!",
+            "utterance_id": "BE22009509.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "매일 챙기고 쓰고 다녀야 하면 정말 네가 너무 귀찮고 힘들겠다. 나였어도 맨날 선글라스를 쓴다면 답답하고 불편해서 화도 나고 열받았을 거야. 네가 정말 봄마다 고생이 많겠다.",
+            "utterance_id": "BE22009509.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남들은 봄이라고 화사하게 입고 야외 활동도 많이 하잖아. 그런데 나만 실내 위주 생활하거나 어쩌다 밖에 나가야 하는 날에도 꼭 선글라스를 챙겨야 해. 진짜 지긋지긋하고 신경질 나!",
+            "utterance_id": "BE22009509.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 심정 이해하지만, 선글라스 쓰는 정도로 알레르기 증상이 완화된다니 다행이지 않을까? 게다가 너는 선글라스도 아주 잘 어울리고, 스타일리시해 보여서 되게 멋있어! 너처럼 선글라스를 멋지게 소화하는 사람은 없을 거야.",
+            "utterance_id": "BE22009509.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네가 그렇게 말해주니까 마음이 좀 풀린다. 내가 괜히 요 며칠 선글라스 들고 다니느라 좀 예민했나 봐.",
+            "utterance_id": "BE22009509.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일상이 그러면 번거롭고 불편하니까 짜증이 날 수도 있지. 그래도 불편하겠지만 부정적으로 생각하면 너만 더 힘드니까 긍정적으로 생각해 보면 좀더 편해질 거야. 선글라스 쓰면 자외선으로부터 시력 보호도 된다니까 일석이조이지!",
+            "utterance_id": "BE22009509.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 네 말대로 내가 부정적인 생각에 너무 사로잡혔나 봐. 알레르기 증상 완화나 자외선 차단, 패션 등 좋은 부분도 많은 것 같아. 너랑 대화하니까 긍정적인 면이 생각나서 기분이 좀 좋아지는 것 같아!",
+            "utterance_id": "BE22009509.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 참 상황을 침착하게 잘 받아들이는 것 같아. 보통 이런 때에 그러기 쉽지 않은데 말이야. 조금 힘들어도 이렇게 금방 긍정적인 부분을 찾고 받아들이는 모습 정말 대단하고 보기 좋아.",
+            "utterance_id": "BE22009509.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 잘 들어주고 조언해 줘서 금방 받아들일 수 있었어! 다 네 덕분이야. 꽃가루가 조금 잠잠해지면 한번 보자!",
+            "utterance_id": "BE22009509.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래! 그동안 건강관리 잘하고 다음에 만나자!",
+            "utterance_id": "BE22009509.14"
+        }
+    ]
+}

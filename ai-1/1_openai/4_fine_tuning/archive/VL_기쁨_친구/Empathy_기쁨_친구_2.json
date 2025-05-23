@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22008925",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008925",
+        "relation": "친구",
+        "situation": "골목의 낡은 담벼락에 벽화 그리기 작업을 시작했다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 이번에 그동안 하고 싶었던 봉사활동을 시작하게 됐어!",
+            "utterance_id": "BE22008925.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오 뭐 하는 봉사인데? 내가 들었던 적이 있나?",
+            "utterance_id": "BE22008925.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이야기한 지 좀 되서 까먹었을 수도 있겠다! 이번에 골목에 낡은 담벼락에 벽화를 그리는 작업을 봉사로 시작하기로 했어! 그동안 낡은 담벼락이 신경쓰였는데, 그 덕분에 동네의 분위기가 밝아지는 기분이라 너무 기뻐!",
+            "utterance_id": "BE22008925.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우와 정말 멋있는 일을 시작하게 되었구나! 그 골목이 너의 손끝에서 밝아지는 거라니 정말 기쁠 것 같아. 나도 너처럼 그림을 잘 그렸으면 좋았을 텐데 정말 부럽다!",
+            "utterance_id": "BE22008925.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 작은 붓질이 많은 사람에게 행복을 주고 즐거움을 줄 수 있을 것 같다는 생각이야. 내가 사회에 도움이 되는 사람이 될 수 있다는 생각에 정말 보람차더라.",
+            "utterance_id": "BE22008925.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 내가 저번에 뉴스를 봤는데, 벽화로 동네 인기가 정말 많아지더라고. 그 후에 동네가 알려져서 관광명소가 됬다고 하던데! 너의 작품도 그럴수 있을 것 같은걸?",
+            "utterance_id": "BE22008925.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와! 그렇게 된다면 정말 영광일 것 같은데? 항상 나의 작품을 세상에 남기고 싶다는 생각을 했는데 이런 기회가 생겨서 너무 기뻐.",
+            "utterance_id": "BE22008925.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와 맞아 이야기 들으니까 생각났다! 저번에도 작품 알리고 싶어서 노력 정말 많이 하지 않았어? 드디어 목표를 이루네?",
+            "utterance_id": "BE22008925.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 벽화가 점점 유명해지면, 내 작품도 유명해질 수 있을 것 같아! 사실 이번에 벽화 봉사활동이 너무 하고 싶어서 내가 자료까지 준비해서 발표도 했다니까?",
+            "utterance_id": "BE22008925.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 너는 목표를 이루기 위해 끊임없이 노력하는 멋있는 친구야! 이 결과는 너에게 너무 당연한 결과였는걸? 역시 넌 대단해!",
+            "utterance_id": "BE22008925.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 좋게 봐주다니 정말 고마워 하하. 그동안 정말 하고 싶은 걸 했을 뿐인데!",
+            "utterance_id": "BE22008925.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 앞으로도 준비하는 과정에서 도움이 필요하면 언제든지 말해. 너를 위해서라면 뭐든 도와줄 수 있어!",
+            "utterance_id": "BE22008925.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 이야기해주다니 정말 고마워. 진짜 든든한 지원군을 얻은 기분이야!",
+            "utterance_id": "BE22008925.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 하고 싶었던 일 하게 된 걸 다시 한번 축하해! 다음에 만날 때는 어느 그림 그렸는지도 알려줘!",
+            "utterance_id": "BE22008925.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "당연하지 내가 역작을 만들어볼게!",
+            "utterance_id": "BE22008925.15"
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009717",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009717",
+        "relation": "친구",
+        "situation": "아들은 두번,세번 깨워야 일어난다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 애들은 아침에 잘 일어나?",
+            "utterance_id": "BE22009717.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 애들은 알람 맞춰서 혼자 잘해. 그렇게 물어보는 걸 보니, 아침에 문제가 있나 보네.",
+            "utterance_id": "BE22009717.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 아들은 두 번, 세 번을 깨워야 해. 그래도 밥을 먹으면서 눈이 감기는 거야.",
+            "utterance_id": "BE22009717.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머 그렇게 정신을 못 차릴 정도로 잠이 많아?",
+            "utterance_id": "BE22009717.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잠이 많아서 밤에 일찍 재우는데 그래도 못 일어나. 밥하랴, 애 깨우랴, 아침마다 전쟁이야.",
+            "utterance_id": "BE22009717.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이를 억지로 등교시켜줘야 할 때, 부모 마음이 찢어지게 아프지. 네가 얼마나 힘들게 지내는지 알 거 같아.",
+            "utterance_id": "BE22009717.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알람을 하나 더 늘려볼까? 지각할까 봐 걱정돼서 깨워줬는데 점점 더 못 일어나는 거 같더라고.",
+            "utterance_id": "BE22009717.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하나든 두 개든 더 늘리고, 혼자 일어나는 습관을 키워줘. 처음에 방임하는 것 같아 가슴이 아플 수도 있겠지만, 너라면 충분히 해낼 수 있어.",
+            "utterance_id": "BE22009717.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이한테는 뭐든 최선을 다하고 싶은 마음에서 모든 일정을 관리했었지만, 안 좋은 거 같아.",
+            "utterance_id": "BE22009717.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 진심으로 아이를 위해서 쏟아온 정성은 아이도 다른 사람들도 다 알고 있어. 설사 그게 너무 과했다고 해도, 네 가치는 변함이 없어. 조금 수정사항이 생긴 것뿐이야.",
+            "utterance_id": "BE22009717.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그럴까? 무슨 행사가 있거나 친구랑 약속이 있는 날에는 알아서 잘 일어나긴 해.",
+            "utterance_id": "BE22009717.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "거봐. 그런 날은 아이도 스스로 할 수 있는 거야. 네가 한발 물러서서, 아이가 혼자서 관리할 수 있도록 지켜봐 줘.",
+            "utterance_id": "BE22009717.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇구나. 내일부터는 엄마가 안 깨워줄 거라고, 알아서 일어나라고 해야지.",
+            "utterance_id": "BE22009717.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 밤에 얘기해서 잘 해봐. 너도 네 아들도 지금 한 단계 성장하는 과정을 잘 가고 있는 거야. 힘내.",
+            "utterance_id": "BE22009717.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "이제야 살맛 날 거 같아. 고마워.",
+            "utterance_id": "BE22009717.15"
+        }
+    ]
+}

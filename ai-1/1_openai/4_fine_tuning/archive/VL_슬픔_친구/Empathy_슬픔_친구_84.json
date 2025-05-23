@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010265",
+        "listener_behavior": [
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010265",
+        "relation": "친구",
+        "situation": "엄마가 남자 친구와 전화를 못하게 한다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 언제쯤 자유로워질 수 있을까? 자취라도 해야 하나 봐. 엄마랑 또 싸워서 정말 속상하고 슬프다.",
+            "utterance_id": "BE22010265.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가족과 싸우는 건 정말 속상한 일이야. 넌 특히 어머니와 사이가 좋았기 때문에, 더 마음이 안 좋을 것 같아. 네 마음은 괜찮니?",
+            "utterance_id": "BE22010265.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 괜찮고 너무 속상해. 우리 엄마는 내가 남자 친구 사귀는 걸 안 좋아했거든. 이번에 새 남자 친구 사귀자마자 이것저것 간섭하고 구속했어.",
+            "utterance_id": "BE22010265.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제 서른을 앞두고 있는데, 아직 남자 친구를 자유롭게 사귀지 못한다면 네가 너무 답답할 것 같아. 네가 이렇게까지 속상해하는 걸 보니 나도 마음이 안 좋아.",
+            "utterance_id": "BE22010265.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마는 내가 누굴 사귀든 안 좋아해. 집에서 남자 친구와 통화도 못 하는 건 나밖에 없어. 나 자신이 불쌍해서 슬프고 눈물이 난다.",
+            "utterance_id": "BE22010265.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자유가 억압당한 기분이라 네가 참 답답하고 슬플 것 같아. 나였어도 남자 친구랑 통화를 못 한다면 너무 괴로울 것 같아.",
+            "utterance_id": "BE22010265.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 다른 친구들은 아무도 부모님이 간섭하지 않던데, 나만 그래. 이런 일이 스무 살 때부터 지금까지 반복돼 와서 이젠 너무 스트레스야.",
+            "utterance_id": "BE22010265.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "꽤 오랫동안 반복돼 왔다면, 네가 무기력해질까봐 걱정이 된다. 네가 계속 스트레스를 받아왔을 걸 생각하니, 나도 마음이 같이 아프다.",
+            "utterance_id": "BE22010265.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "더 속상하고 슬픈 건, 남자 친구랑 대화할 시간이 부족한 거야. 남자 친구는 일하느라 바쁘거든. 통화하지 못한다면, 우린 더 멀어지게 될 거야.",
+            "utterance_id": "BE22010265.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 어렸을 때 부모님이 남자 친구를 못 사귀게 하신 적 있어서 그 마음 잘 알아. 넌 지금 남자 친구를 많이 사랑하잖아. 통화하면서 애정을 더 쌓고 싶을 텐데, 그러지 못해서 너무 속상하겠다.",
+            "utterance_id": "BE22010265.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 정말 답답해. 우리 엄마는 나한테 왜 이러는 걸까? 내가 괴롭길 바라는 거 아닌가 싶기까지 하다니까.",
+            "utterance_id": "BE22010265.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 외동딸이다 보니 좋은 사람을 만나길 바라는 마음에서 그러신 것 같아. 네가 상황을 너무 부정적으로 바라본다면, 너의 슬픔이 더 커질 것 같아서 걱정돼.",
+            "utterance_id": "BE22010265.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴. 엄마는 어렸을 적부터 나에 대한 걱정이 많으셨어. 엄마가 나를 사랑해서 그렇다고 하면, 이해가 가긴 한다.",
+            "utterance_id": "BE22010265.13"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 간섭이라고 느껴지는 부분도 있지만, 어머님은 너에게 좋은 것도 많이 해주시잖아. 네가 집에 들어갈 때 항상 마중 나와 주시는 그 모습이 얼마나 부러운데.",
+            "utterance_id": "BE22010265.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "너의 말을 듣고 보니 우리 엄마가 나를 많이 사랑하고 생각해서 그런 것 같아. 엄마랑 싸우지 말고 대화를 해봐야겠다. 좋은 조언을 해줘서 고마워.",
+            "utterance_id": "BE22010265.15"
+        }
+    ]
+}

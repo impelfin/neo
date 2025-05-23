@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010016",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010016",
+        "relation": "친구",
+        "situation": "차를 새로 뽑았는데 옆 차가 주차하다가 긁었다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와 진짜 오늘 일진 진짜 사납네.",
+            "utterance_id": "BE22010016.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이길래 이렇게 화가 난 거니?",
+            "utterance_id": "BE22010016.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에 새로 뽑는 내 차를 옆 파가 주차하다가 긁은 거 있지? 연락받고 내려가서 그 처참한 광경을 보는데 진짜 머리에 뚜껑 열리더라.",
+            "utterance_id": "BE22010016.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몇 달을 기다리다가 받은 너의 새 차에 흠집이 났으니 당연히 열 받지. 애지중지하고 있어서 내부에 비닐도 안 뜯었다고 했잖아. 듣는 내가 다 마음이 아프다.",
+            "utterance_id": "BE22010016.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 마음껏 달려보지도 못했는데, 수리를 맡겨야 한다니 손이 부들부들 떨린다. 나한테 왜 이런 일이 일어나는지 진짜 짜증 나.",
+            "utterance_id": "BE22010016.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이게 무슨 마른하늘에 날벼락이니. 새것을 그대로 누리지 못하고 수리를 맡겨야 한다니 정말 속상하겠다.",
+            "utterance_id": "BE22010016.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "보험 처리해 주신다는데 그래도 정말 분노가 치밀어 올라. 돌아오지 못한 강을 건넌 것 같고. 새 차의 의미가 무색해지니 정말 화가 폭발할 것처럼 나네.",
+            "utterance_id": "BE22010016.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 너와 비슷하게 당해서 네 마음 너무나 잘 이해해. 하지만 이미 벌어진 일이니 우리 큰 사고를 액땜했다고 생각하는 게 어때? 나도 그렇게 생각하니 한결 마음이 낫더라고.",
+            "utterance_id": "BE22010016.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "새 차라서 더 화가 났는데 이미 일어난 일 화내면 어쩌겠어. 네 말 들으니 더 큰 불운을 막았던 거라고 생각해야겠어.",
+            "utterance_id": "BE22010016.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 지금 당장 속상한 마음은 감출 길 없다는 거 잘 알아. 하지만 앞으로 그 차 타고 행복할 일만 생각하자.",
+            "utterance_id": "BE22010016.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 덕분에 정말 머리끝까지 낫던 화가 조금은 가라앉는다. 그래, 좋게 좋게 생각해야지. 앞으로 새 차 타고 신이 나게 달릴 생각만 해야겠어.",
+            "utterance_id": "BE22010016.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나로 인해 네 화가 조금은 누그러지다니 진짜 다행이야. 내 경험이 너에게 도움이 되어서 더더욱 기쁘네.",
+            "utterance_id": "BE22010016.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응, 너 없었으면 어쩔 뻔했어. 혼자 화가 나서 옆 차 주인에게 분노의 문자를 쏟아냈을지도 몰라. 다시금 긍정적으로 생각하게 되어서 나도 기분이 나아졌어.",
+            "utterance_id": "BE22010016.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "차 수리 맡기고 나오면 같이 드라이브라도 가서 기분 전환하자! 내가 맛있는 거 사줄 테니 기대하라고!",
+            "utterance_id": "BE22010016.14"
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009021",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009021",
+        "relation": "친구",
+        "situation": "육아 휴직을 마치고 복직 후에도 아기 생각만 가득하다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 육아 휴직을 마치고 복직했거든. 일은 힘들었지만 입가에 미소가 떠나지 않았어.",
+            "utterance_id": "BE22009021.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오랜만에 다시 일 시작해서 힘들었겠다. 그런데 왜 그렇게 행복한 기분이 들었어?",
+            "utterance_id": "BE22009021.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일하면서도 머릿속에 아기 생각만 가득했어. 귀여운 아기 모습을 상상하니 정말 가슴이 설레더라.",
+            "utterance_id": "BE22009021.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 네가 아기를 진심으로 사랑하나 보다. 힘든 줄 모르고 그렇게 행복했다니 나도 기분이 좋네.",
+            "utterance_id": "BE22009021.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아기가 눈앞에 없으면 덜 생각날 줄 알았거든. 그런데 신기하게도 바로 눈앞에 있는 것 같은 느낌이 들어 행복했어.",
+            "utterance_id": "BE22009021.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시, 엄마의 힘은 위대하구나. 멀리 떨어져 있으면서도 그런 사랑을 느끼다니. 정말 생각만 해도 감동인걸.",
+            "utterance_id": "BE22009021.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주변에 산후 우울증 걸리는 사람들도 많잖아. 그런데 내 마음속에는 사랑만 가득한 것 같아. 내가 아기를 이렇게 사랑할 줄 몰랐어.",
+            "utterance_id": "BE22009021.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "새 생명을 향한 소중한 모성애일 거야. 네가 그런 사랑을 경험하는 모습을 보니 나도 가슴이 뭉클해.",
+            "utterance_id": "BE22009021.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "쉬는 시간에도 늘 아기 사진만 들여다봐. 어제 새로 찍은 사진인데, 너에게 보내줄게.",
+            "utterance_id": "BE22009021.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와, 며칠 사이에 부쩍 자란 것 같은 느낌이야. 정말 귀엽고 사랑스러워.",
+            "utterance_id": "BE22009021.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "까만 눈동자를 보고 있으면 천사를 보는 것처럼 황홀해. 발가락도 너무 귀여워서 깨물어 주고 싶고.",
+            "utterance_id": "BE22009021.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 아이를 안아 주는 모습은 상상만 해도 흐뭇해. 아이를 향한 엄마의 사랑은 그 무엇보다 숭고해.",
+            "utterance_id": "BE22009021.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 말해 주니 감동이야. 내가 좀 호들갑을 떠는 것 같았는데, 넌 정말 나의 모성애를 존중해 주는구나. 정말 고마워, 친구.",
+            "utterance_id": "BE22009021.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 너의 모습을 보면서 많은 걸 배웠어. 아기를 사랑하는 네 모습 정말 아름다워. 앞으로 정말 좋은 엄마가 될 거라고 믿어.",
+            "utterance_id": "BE22009021.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "제일 가까운 친구의 칭찬이라 더 소중하게 와 닿네. 네가 격려해 준 것처럼 아기를 정말 사랑하는 좋은 엄마가 될게. 정말 고마워, 친구.",
+            "utterance_id": "BE22009021.15"
+        }
+    ]
+}

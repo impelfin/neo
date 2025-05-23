@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010262",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010262",
+        "relation": "친구",
+        "situation": "온수가 나오지 않아 차가운 물로 샤워를 했다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 우리 집에 온수가 안 나오는 것 있지? 그래서 어쩔 수 없이 차가운 물로 샤워를 했어.",
+            "utterance_id": "BE22010262.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 온수가 나오지 않았다니 너무 당황스러웠겠다. 차가운 물이 몸에 닿았을 때 너무 놀랐을 것 같아.",
+            "utterance_id": "BE22010262.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 나는 내가 차가운 물을 틀었는 줄 알았는데 알고 보니 온수가 나오지 않은 거였어. 이게 무슨 상황인지 정말 난감하네.",
+            "utterance_id": "BE22010262.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 나도 갑자기 그런 적이 있었는데 우리 집 보일러가 고장 난 줄 알고 너무 당황했던 기억이 나. 그래서 지금 네 심정이 어떨지 알 것 같아.",
+            "utterance_id": "BE22010262.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 그래서 대충 샤워를 할 수밖에 없었어. 이걸 어떻게 해야 할지 모르겠다. 머리가 하얘진 기분이야.",
+            "utterance_id": "BE22010262.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 예상에도 없는 일이 벌어지면 당황할 만하지. 차분히 진정하고 천천히 생각을 해보는 게 어때?",
+            "utterance_id": "BE22010262.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말이 맞아. 이렇게 당황한 상태로 있다고 온수가 나오는 건 아니니까. 진정해야 하는데 이 놀란 가슴을 어찌할 수가 없네.",
+            "utterance_id": "BE22010262.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아마 전체적인 점검이 있었을 거야. 분명 시간이 지나면 온수가 제대로 나올 거야. 너무 큰 걱정은 하지 않아도 될 것 같아.",
+            "utterance_id": "BE22010262.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말도 일리가 있다. 내가 너무 당황해서 그걸 생각하질 못했네.",
+            "utterance_id": "BE22010262.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조금만 진정하고 기다리면 언제 그랬냐는 듯이 다시 온수가 나올 거야. 내일부턴 분명 따뜻한 물로 샤워를 할 수 있을 거고.",
+            "utterance_id": "BE22010262.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말을 들으니 조금 진정이 된다. 하마터면 영원히 차가운 물로 샤워를 할 거란 생각에 너무 당황스러웠어.",
+            "utterance_id": "BE22010262.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "절대 그럴 일은 없을 거야! 그래도 네가 진정되었다니 다행이다.",
+            "utterance_id": "BE22010262.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 다 네 덕분이야. 갑자기 연락을 했는데도 진정시켜줘서 정말 고마워.",
+            "utterance_id": "BE22010262.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나중에라도 언제든지 문제가 생기면 연락해! 내가 다 들어줄게!",
+            "utterance_id": "BE22010262.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응! 다음에도 만약 문제가 생긴다면 너에게 꼭 연락할 게 너무 고마워!",
+            "utterance_id": "BE22010262.15"
+        }
+    ]
+}

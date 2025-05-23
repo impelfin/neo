@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010026",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010026",
+        "relation": "친구",
+        "situation": "맛있는 음식을 해주고 싶어 요리학원을 다니기로 했다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야. 나 다음 주부터 요리학원 다닌다!",
+            "utterance_id": "BE22010026.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오! 요리라고는 거리가 먼 내 친구가 웬일로?",
+            "utterance_id": "BE22010026.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남자 친구가 내가 요리하는 거 되게 좋아하거든. 맛있는 음식 해주고 싶은 마음에 요리 학원 등록했어! 요리 배워서 음식을 해줄 생각을 하니까 막 두근거린다.",
+            "utterance_id": "BE22010026.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 해주는 음식을 연인이 맛있게 먹어 줄 거 상상하니 기분이 막 좋아지고 행복해지는 걸까?",
+            "utterance_id": "BE22010026.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 정답이야! 내가 해주는 각양각색의 요리를 먹으면서 남자 친구가 좋아할 생각을 하니까 무지 설레. 새로운 취미에 도전하는 거 같아서 흡족하기도 하고. 아무튼 기분 최고야.",
+            "utterance_id": "BE22010026.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "카. 누군가를 위해 요리를 해주고 그 모습 보는 기쁨이 진짜 상당하지. 그걸 위해 네가 요리 학원을 등록했다니 지금 기분이 좋을 만하네!",
+            "utterance_id": "BE22010026.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아! 요리 학원 등록하고 조리 도구 사러 가는데 나도 모르게 발걸음이 신나지더라고. 내가 남자 친구를 진짜 좋아하기는 하나 봐. 생전 안 하던 요리를 배우겠다고 학원 등록까지 하고.",
+            "utterance_id": "BE22010026.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 남자 친구를 위해서 노력하는 네 모습이 참 반짝거린다. 연인을 위한 마음이 참 예뻐.",
+            "utterance_id": "BE22010026.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 칭찬해주니까 기분이 더 마구 좋아지는걸? 요리에 재능은 별로 없지만, 학원에 다니면 좀 나아지겠지?",
+            "utterance_id": "BE22010026.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇고말고. 네가 또 노력파이기도 하잖아. 분명 열심히 배우다 보면 실력이 일취월장할 거야. 내가 응원할게!",
+            "utterance_id": "BE22010026.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "꼭 그랬으면 좋겠어! 맛있는 음식을 해서 사람들한테 대접하는 것도 나쁘지 않을 거 같아. 꼭 남자 친구를 위해서가 아니라 요리를 잘하면 좋은 점이 많으니까.",
+            "utterance_id": "BE22010026.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 당연하지. 그럼 나도 초대해서 맛있는 음식 해줄 거야? 상상만 해도 내 기분도 좋아지는걸.",
+            "utterance_id": "BE22010026.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 너는 내가 제일 좋아하는 친구니까 특별히 더 열심히 만들어줄게. 요리학원 다니면서 갈고닦은 내 요리 실력을 보여줘야지.",
+            "utterance_id": "BE22010026.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오. 네 요리 실력이 얼른 늘었으면 좋겠다. 요리 실력에 자신감이 붙었을 때 나 꼭 초대해줘. 선물 사서 갈게.",
+            "utterance_id": "BE22010026.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 그래야지! 아무튼 네가 칭찬해주고 내 얘기 들어줘서 내 기분이 더 좋아졌어. 고마워.",
+            "utterance_id": "BE22010026.15"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나도 네가 이렇게 좋아하고 신나 하는 모습 보니까 기분 좋아. 다음에 또 연락하자.",
+            "utterance_id": "BE22010026.16"
+        }
+    ]
+}

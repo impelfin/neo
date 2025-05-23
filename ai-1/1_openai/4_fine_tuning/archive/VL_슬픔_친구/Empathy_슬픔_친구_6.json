@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009320",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009320",
+        "relation": "친구",
+        "situation": "기대는 언제나 실망으로 바뀐다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 정말 요즘 기운을 못 차리고 있어. 하루하루가 너무 힘들어.",
+            "utterance_id": "BE22009320.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일 있었어? 네가 기운이 없다고 하니 내가 너무 신경 쓰인다.",
+            "utterance_id": "BE22009320.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 며칠 전에 면접을 봤는데 떨어졌어. 기대한 만큼 실망도 커서 눈물이 다 나더라고. 왜 기대는 언제나 실망으로 바뀔까.",
+            "utterance_id": "BE22009320.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 네가 정말 가고 싶어 했던 그 회사 말하는 거지? 기대했던 만큼 정말 상처도 많이 받았겠구나. 나 같아도 정말 슬플 것 같아.",
+            "utterance_id": "BE22009320.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 정말 마지막 면접까지도 좋게 끝났거든. 그래서 난 당연히 내가 뽑힐 줄 알고 설레발쳤어. 괜한 기대로 내 마음만 실망으로 가득 차서 기분이 안 좋아.",
+            "utterance_id": "BE22009320.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 마음 뭔지 알 것 같아. 나도 직장 구할 때 매번 최종에서 탈락해서 그 슬픔 이해해. 아무래도 입맛도 없어지고 아무것도 하기 싫어지잖아.",
+            "utterance_id": "BE22009320.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 그래서 요 며칠 계속 집에만 있었어. 정말 다시 뭘 준비하기도 싫을 만큼 의욕도 없어. 그저 슬프기만 해.",
+            "utterance_id": "BE22009320.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 한동안 마음이 좋지 않겠구나. 다른 곳은 그래도 일자리가 계속 있지 않아?",
+            "utterance_id": "BE22009320.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 일자리 공고는 계속 나와. 근데 내가 요즘 기운 없어서 안 보고 있어.",
+            "utterance_id": "BE22009320.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그중에서 네가 저번에 면접 본 회사보다 더 좋은 곳이 있을지도 몰라. 포기하지 말고 다시 도전해 보는 게 어떨까? 우리에게 앞으로도 많은 시간이 펼쳐져 있잖아.",
+            "utterance_id": "BE22009320.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 다시 잘해볼 수 있을까? 또 취업 기대했다가 실망으로 바뀔까 봐 미리 슬퍼져.",
+            "utterance_id": "BE22009320.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 그건 네 인생의 결말이 아니라 과정의 하나인걸. 모든 게 끝났다고 내려놓기보다는 다시 기운을 차리는 게 어떨까? 넌 언젠가 빛날 사람이란 걸 내가 알아.",
+            "utterance_id": "BE22009320.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해주니 너무 감동적이다. 정말 내가 이번에는 잘할 수 있을 것 같단 생각이 들어. 네 말대로 다시 도전해봐야겠어.",
+            "utterance_id": "BE22009320.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 너에게 무궁무진한 가능성이 있는데 쉽게 포기하는 것 같아서 내가 마음이 안 좋더라고. 실망을 느끼더라도 좌절하지 않고 계속 널 믿었으면 좋겠어.",
+            "utterance_id": "BE22009320.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "내 편을 얻은 기분이야. 그렇게 말해줘서 고마워.",
+            "utterance_id": "BE22009320.15"
+        }
+    ]
+}

@@ -1,0 +1,201 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009843",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009843",
+        "relation": "친구",
+        "situation": "갑작스레 햄스터를 분양받았는데 냄새가 고약하다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 어제 햄스터를 분양받았거든? 생긴 것과는 다르게 냄새가 너무 고약해서 짜증 나.",
+            "utterance_id": "BE22009843.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "햄스터 냄새가 심하면 참기가 많이 힘들고 심지어는 방 전체에 번질 텐데. 힘들지 않아?",
+            "utterance_id": "BE22009843.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "코가 아플 정도로 심해. 원래는 분양 생각이 없었는데 사촌 언니가 이사하면서 나한테 분양해준 거야. 냄새가 심해서 나한테 일부러 분양한 거겠지?",
+            "utterance_id": "BE22009843.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지는 않을 거야. 친척 언니도 너를 많이 아끼기 때문에 언니가 엄청나게 아끼던 햄스터를 너에게 분양해 줬을 거야.",
+            "utterance_id": "BE22009843.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 그렇지. 이렇게 냄새가 고약하면 미리 말을 해주던가. 벌써 냄새가 집안 전체에 퍼졌어.",
+            "utterance_id": "BE22009843.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고약한 냄새가 집안 전체에 퍼지면 기분이 좋지 않기 마련이야. 햄스터를 처음 키우는 너로선 아주 당황스럽겠다. 무엇이든 익숙하지 않으면 당황스럽고 심지어는 화가 날 뿐이야.",
+            "utterance_id": "BE22009843.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "완전 당황스럽지. 이렇게까지 냄새가 심한 줄도 몰랐어. 어떻게 냄새를 없애야 하는지도 몰라. 가뜩이나 날도 더운데 냄새 때문에 속이 끓기만 해.",
+            "utterance_id": "BE22009843.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "햄스터를 키우는 건 처음이니까 모든 상황이 어색하고 불편할 수 있지. 이해돼. 너무 심하다 싶으면 목욕을 시켜주는 게 어때?",
+            "utterance_id": "BE22009843.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "목욕시켜주면 좋아질까? 냄새가 너무 심해서 없어지지 않을 거 같은데.",
+            "utterance_id": "BE22009843.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 좋아지지! 심지어는 향기가 날 거야! 더 이상 고약한 냄새는 나지 않을걸?",
+            "utterance_id": "BE22009843.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 햄스터를 씻겨주어야 하는지 몰랐어! 그저 고약한 냄새를 참아야 한다고만 생각했어.",
+            "utterance_id": "BE22009843.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "햄스터도 우리와 같아서 씻어야 해. 이렇게 하나씩 알아가다 보면 햄스터에게도 정이 붙게 되고 사랑스럽게 보일 거야.",
+            "utterance_id": "BE22009843.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 되겠지? 햄스터에게 필요한 게 뭔지 좀 알아봐야겠어. 냄새가 없어질 생각을 하니 벌써 기분이 좋아지는 것 같네.",
+            "utterance_id": "BE22009843.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 햄스터를 키워봐서 잘 알아! 혹시 또 햄스터에 대해서 궁금한 게 있으면 언제든 연락해줘!",
+            "utterance_id": "BE22009843.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워! 덕분에 묵은 때가 씻겨간 기분이야. 정말 고마워. 다 네 덕분이야!",
+            "utterance_id": "BE22009843.15"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고맙긴! 언제든 연락하면 내가 다 도와줄게! 너의 기분이 좋아졌다니 다행이야! 또 연락하자!",
+            "utterance_id": "BE22009843.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 정말 고마워!",
+            "utterance_id": "BE22009843.17"
+        }
+    ]
+}

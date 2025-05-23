@@ -1,0 +1,163 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009463",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009463",
+        "relation": "친구",
+        "situation": "아이가 태어나니 부모가 배우고 익혀야 할 것이 많다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 이런 감정이었겠지? 엄마가 된다는 기분 말이야. 뱃속에 품고 있을 땐 몰랐는데, 막상 낳아보니 너무 감격스러워.",
+            "utterance_id": "BE22009463.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "순산을 축하해. 열 달간 몸도 가누기 힘들고 고생이 많았지? 아이가 건강하게 태어나줬으니 너무 기쁜 일이지.",
+            "utterance_id": "BE22009463.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 조리원 퇴원하고 나니 부모로서 배우고 익혀야 할 것들이 산더미야. 몸은 너무 고단하지만, 마음만은 그저 감사하고 기뻐.",
+            "utterance_id": "BE22009463.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "막달엔 조금은 우울해 보이기도 했는데, 진짜 엄마가 되고 나니까 모성애가 깨어났나 봐. 몸 힘든 것도 모르고 행복하다니 나도 너무 기쁘다.",
+            "utterance_id": "BE22009463.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마치 내가 새롭게 태어난 것 같아. 임신 중일 때는 몰랐어, 엄마가 된다는 게 이렇게 감동적인 일인지. 나에게 이런 감정을 느끼게 해준 우리 아기가 너무 사랑스러워.",
+            "utterance_id": "BE22009463.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "인생의 또 다른 행복을 찾은 기분이 들지? 그 힘든 출산을 겪었으니, 뭐든 버텨낼 수 있을 것 같은 기분이고.",
+            "utterance_id": "BE22009463.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 네가 출산 경험이 있어 내 마음을 가장 잘 알아주는구나. 사실은 걱정이 많았거든. 내가 잘해 나갈 수 있을까, 난 뭐든 배우는 데 오래 걸려서 아기한테 잘 못 해주는 건 아닐까 하고.",
+            "utterance_id": "BE22009463.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 잘하고 싶은 마음에 그런 걱정이 들었나 봐. 그렇지만 지금 네 이야기를 듣다 보니, 자신감이 많이 생긴 것 같아서 다행이야.",
+            "utterance_id": "BE22009463.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하 맞아. 막상 맞닥뜨리고 나니 괜한 고민이었다는 생각이 들었어. 출산하고 나도 처음 해보는 것투성이니, 아이와 함께 성장하는 기분이라 너무 소중하게 느껴져.",
+            "utterance_id": "BE22009463.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다들 그러면서 엄마가 되어가는 거지. 나는 그걸 깨닫는 데 오래 걸렸거든, 그래서 마음이 고된 날도 많았는데 넌 그걸 바로 알아챘구나. 엄마가 되어서까지도 낙천적인 네 성격이 빛을 보는 것 같네.",
+            "utterance_id": "BE22009463.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 말을 해주니 더 스스로 대견하게 느껴진다. 남편도 같이 배우려고 노력을 많이 해 주고, 이대로라면 아기에게 좋은 엄마가 될 자신이 생겼어.",
+            "utterance_id": "BE22009463.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "넌 스스로 배움이 느리다고 걱정하지만, 결국에는 누구보다 익숙하게 해내고는 했어. 자신을 더욱 믿고 해봐도 잘할 거야.",
+            "utterance_id": "BE22009463.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 먼저 엄마가 되어서 내게 이런 조언을 해주니까 너무 든든하게 느껴진다.",
+            "utterance_id": "BE22009463.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나도 비슷한 시기에 우리가 같이 엄마가 돼서 너무 기뻐. 나중에 좀더 아이들이 크면 더 추억이 많이 생기겠지? 고민이 생기면 나누고 함께 육아를 잘 해보자.",
+            "utterance_id": "BE22009463.14"
+        }
+    ]
+}

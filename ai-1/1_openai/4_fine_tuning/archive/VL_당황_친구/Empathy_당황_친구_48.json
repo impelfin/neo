@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010524",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010524",
+        "relation": "친구",
+        "situation": "전시장이 사진 금지인 줄 모르고 사진을 찍다 주의를 받았다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 전시회 보러 갔었어. 보고 싶은 그림은 실컷 봐서 좋았는데 낯이 뜨거워서 혼났어.",
+            "utterance_id": "BE22010524.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 어제 신나서 전시회에 갔었잖아. 그런데 부끄러운 경험을 했다니 그게 무슨 소리야?",
+            "utterance_id": "BE22010524.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전시장이 사진 금지인 걸 모르고 사진을 두어 장 찍었거든. 직원이 주의를 주는데 정말 민망하더라.",
+            "utterance_id": "BE22010524.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 정말 당황스러웠겠다. 주변에 사람들도 있어서 더 곤혹스러웠겠다.",
+            "utterance_id": "BE22010524.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 부끄러워서 쥐구멍에라도 들어가고 싶었어. 사진 금지 팻말이 따로 없어서 괜찮은 줄 알았거든.",
+            "utterance_id": "BE22010524.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "넌 그렇게 생각했는데 직원의 주의를 받았으니 정말 당황스러웠겠다. 사람들도 쳐다보고 있어서 창피하기도 하고.",
+            "utterance_id": "BE22010524.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 어제 전시회 가면서 미술책도 서너 권 챙겨갔거든. 미술책도 챙겨온 관람객이 사진을 찍고 있었으니, 사람들이 얼마나 한심하게 봤을까?",
+            "utterance_id": "BE22010524.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 식은땀이 났겠다. 겉으로는 미술 애호가처럼 보이는데, 전시회에서 그런 실수를 했으니.",
+            "utterance_id": "BE22010524.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주변 사람들이 뭐라고 수군거리는 것 같더라. 다들 나를 한심하게 보고 그랬을지도 몰라. 생각만 해도 정말 부끄러워.",
+            "utterance_id": "BE22010524.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 주변 모습을 보면 당황해서 그런 생각이 들 수도 있겠다. 나라도 눈앞이 캄캄했을 거야.",
+            "utterance_id": "BE22010524.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이젠 너무 부끄러워서 전시회 갈 용기도 나지 않아. 지금 생각해도 얼굴이 화끈거려.",
+            "utterance_id": "BE22010524.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 네가 일부러 그런 것은 아니잖아. 이번엔 실수했지만 다음부터 그런 실수 안 하면 될 거야. 그러니까 너무 부끄러워하지 마.",
+            "utterance_id": "BE22010524.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그렇게 해도 될까? 사람들이 나 때문에 많이 불편하고 불쾌하지 않았을까?",
+            "utterance_id": "BE22010524.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "큰 소동을 피운 건 아니니까 너무 걱정하지는 마. 다음부터 더 조심하고 그런 실수 안 하면 될 것 같아. 그렇게 생각하고 마음 편히 가졌으면 좋겠어.",
+            "utterance_id": "BE22010524.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "네가 그렇게 말해 주니 한결 마음이 가벼워지네. 조금 전만 하더라도 너무 부끄러워 견딜 수 없었거든. 위로해 줘서 고마워, 친구.",
+            "utterance_id": "BE22010524.15"
+        }
+    ]
+}

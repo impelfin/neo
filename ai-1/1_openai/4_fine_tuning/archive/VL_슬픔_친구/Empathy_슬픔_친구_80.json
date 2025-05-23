@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010224",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010224",
+        "relation": "친구",
+        "situation": "간헐적 단식을 시작했는데 배가 너무 고프다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마 전에 또 한 번 나한테 실망을 했어. 너무 슬프다.",
+            "utterance_id": "BE22010224.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 왜 그래, 무슨 일 있었어?",
+            "utterance_id": "BE22010224.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘에 다이어트 하고 있잖아. 간헐적 단식으로 살 빼려 했거든.",
+            "utterance_id": "BE22010224.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 요새 많이 시도하더라. 해봤는데 몸에 잘 안 맞은 거니?",
+            "utterance_id": "BE22010224.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 그런 문제가 아니야. 먹는 시간을 정해 놨는데 계속 배가 고프더라고. 결국 18시간을 못 참고 밥을 먹는데 내가 너무 한심해 보이더라.",
+            "utterance_id": "BE22010224.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 그렇지만 대부분의 사람들이 처음엔 그렇다고 하더라. 네가 특별히 의지가 부족한 것은 절대 아니니 너무 걱정하지 않았으면 해.",
+            "utterance_id": "BE22010224.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 내가 다를 줄 알았어. 살도 금방 빼고 먹는 것도 잘 참을 줄 알았는데, 그게 아니니까 너무 슬프더라고.",
+            "utterance_id": "BE22010224.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 많이 힘들었겠다. 그렇지만 살이 금방 빠지진 않으니까, 장기적으로 봤으면 해. 포기하지 않는 게 더 중요하다고 하더라.",
+            "utterance_id": "BE22010224.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 나는 틀린 것 같아. 나에겐 의지가 없다는 걸 알아버렸어.",
+            "utterance_id": "BE22010224.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "의지가 없다고 생각될 땐 작심삼일을 반복해 보는 건 어떨까. 네가 지금 힘든 건 목표를 너무 크게 잡아서 그런 것 같아. 가벼운 마음으로 도전을 반복하면, 부담감과 불안이 훨씬 적어질 거야.",
+            "utterance_id": "BE22010224.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "삼 일씩만 해보라는 이야기니? 그래, 그 정도는 내가 할 수 있을지도 몰라. 그런데 그다음에 포기하고 싶어지면 어떻게 하지?",
+            "utterance_id": "BE22010224.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "꾸준히 하다 보면 습관이 된다고 하더라고. 내가 습관이 될 때까지 삼 일에 한 번씩 잔소리를 해줄게. 꼭 해낼 수 있을 거야.",
+            "utterance_id": "BE22010224.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 혼자서는 힘들겠지만, 옆에서 누군가 도와주면 이번에는 다를지도 모르겠어.",
+            "utterance_id": "BE22010224.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 뭣하면 나도 같이 간헐적 단식을 해보지 뭐. 같이 하면 의지가 조금 부족해도, 해낼 수 있을 거야.",
+            "utterance_id": "BE22010224.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그래. 같이 해준다니 말만으로도 고맙다. 덕분에 고민이 줄어들었어. 이번엔 잘 할 수 있을 것 같아.",
+            "utterance_id": "BE22010224.15"
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010292",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010292",
+        "relation": "친구",
+        "situation": "무심코 여자화장실로 들어갔다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 나 너무 급해서 앞도 제대로 안 보고 뛰어 들어갔더니 무심코 여자 화장실로 들어갔더라. 쳐다보는 시선이 이상해서 옆을 봤더니 여자 아주머니가 계시더라고. 너무 당황스러워서 뛰쳐나왔어.",
+            "utterance_id": "BE22010292.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 정말 당황스러웠겠다. 사람들이 너를 이상하게 보는 시선이 느껴질 때 진짜 뒤가 뜨겁잖아. 근데 생각지도 못하게 여자 화장실이라니 상상만 해도 내가 다 놀란다.",
+            "utterance_id": "BE22010292.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 처음에 아주머니를 봤을 때는 아무 생각도 안 들었어. 그리고 등에 땀이 흘렀어. 지금 다시 생각만 해도 창피해.",
+            "utterance_id": "BE22010292.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 당황스럽고 많이 창피했겠다. 너의 상황이 한 번은 실수하거나 상상해 본 것이라서 더 마음에 와닿아. 내가 귀가 빨개진다.",
+            "utterance_id": "BE22010292.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 나는 무심코 들어간 여자 화장실에서 여자분들의 시선이 아직도 머릿속에 남아있어. 나를 조금 혐오스럽게 쳐다보신 분도 있어서 충격받았어.",
+            "utterance_id": "BE22010292.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "앞뒤 상황을 모르고 너를 볼 때면 그런 시선이 있지. 그래도 너 상처 많이 받았겠어. 혐오스러운 시선을 받는 게 드문 경우잖아.",
+            "utterance_id": "BE22010292.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 너무 급해서 휴게소 도착하자마자 뛰어 들어간 게 잘못이지. 그 휴게소는 남자 화장실과 여자 화장실 색깔이 똑같더라고. 휴게소 탓을 하는 건 아니지만.",
+            "utterance_id": "BE22010292.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 일부로 그런 게 아니잖아 너무 상처받지 마. 너를 모르는 사람들이 오해해서 쳐다본 거잖아. 급해 보이는 너를 파악했다면 다 이해할 심정이야.",
+            "utterance_id": "BE22010292.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 나도 여자 화장실에서 다시 뛰쳐나오면서 다시는 안 볼 사람이라는 생각하기도 했어. 나의 잘못이지만 창피함이 강해서 머릿속에서 지우고 싶었거든.",
+            "utterance_id": "BE22010292.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "창피함은 순간이라는 명언이 있듯이 너도 스스로 이겨내기 위해서 노력했네. 현명하게 너의 실수를 머릿속에서 지우는 방법도 좋지.",
+            "utterance_id": "BE22010292.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각해 주면 내가 다 고맙지. 사실 트라우마가 생기는 게 싫어서 그런 생각을 했어. 나를 쳐다보는 그 시선이 자꾸 생각나서 그런가 봐.",
+            "utterance_id": "BE22010292.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "창피한 기억이 정말 머릿속에 오래 남잖아. 그래서 사람들은 자다가 이불을 걷어찬다는 말이 있지. 나는 너의 마음 이해하니까 너의 당황스러운 마음을 잘 다스리길 바랄 뿐이야.",
+            "utterance_id": "BE22010292.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 나 요즘은 화장실 갈 때 꼭 확인하고 들어가. 너에게 말하는 게 꼭 부모님에게 자랑하는 어린이 같아서 부끄럽네. 화장실 들어가기 전 확인하는 건 당연한 건데 말이야.",
+            "utterance_id": "BE22010292.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 무심코 들어간 여자 화장실 때문에 당황한 사건 때문이니까 부끄러워하지 마. 실수는 한 번이잖아. 다음번에 안 하는 게 중요한 거고.",
+            "utterance_id": "BE22010292.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "응 고마워. 내 실수가 이제 마지막이었으면 좋겠다는 생각이 드네. 무심코 들어간 여자 화장실 때문에 정말 당황한 하루였어. 그래도 너와 문자를 나누고 당황스러운 마음이 많이 해소된 것 같아.",
+            "utterance_id": "BE22010292.15"
+        }
+    ]
+}

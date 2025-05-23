@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.6,
+            "grade": "우수"
+        },
+        "id": "BE22009526",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009526",
+        "relation": "친구",
+        "situation": "다이어트를 하기 위해 밥을 반 공기만 먹는다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야 나 요즘 내가 제일 좋아하는 거를 못해서 너무 슬퍼.",
+            "utterance_id": "BE22009526.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어? 무슨 일인데? 요즘 결혼 준비를 하느라 행복함이 끊이지를 않을 것 같은데! 네가 제일 좋아하는 게 뭐였지?",
+            "utterance_id": "BE22009526.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 먹는 거 정말 좋아하잖아. 그런데 결혼 준비 때문에 식사량도 줄이고 맛있는 것도 못 먹고 있어. 진짜 요즘 많이 줄여서 행복함이 너무 많이 사라졌달까.",
+            "utterance_id": "BE22009526.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고. 맛있는 거 먹으면 기분전환도 많이 되는데 못하다니 많이 아쉽고 그렇겠다. 그리고 맛집 찾아 다니는거 엄청 좋아하는 너였는데, 그 기쁨을 느끼지 못하다니 많이 힘들겠구나 요즘.",
+            "utterance_id": "BE22009526.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 요즘 온통 신경 써야 할 것투성인데 밥까지 제대로 못 먹다니. 사실 드레스피팅 다녀온 이후로 급하게 시작해서 급하게 다이어트 중인 거라 밥을 거의 반 공기만 먹어.",
+            "utterance_id": "BE22009526.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "신경 쓸 일이 많으면 에너지도 많이 쏟아야 할 텐데. 반 공기만 먹는다니 진짜 양이 적어젔겠다. 대식간인 너에게는 정말 슬픈 일일 것 같아, 잘 못 먹는다고 말하니 내 마음도 좋지않다.",
+            "utterance_id": "BE22009526.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정해줘서 너무 고마워. 이렇게 힘든 상황에 힘들겠다고 말해주니 공감해주는 것만으로도 너무 고마운 마음이야. 결혼 전까지 다이어트해야 한다니 막막하다, 밥도 계속 잘 못 먹고.",
+            "utterance_id": "BE22009526.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 맞아. 나도 그럴 것같 아. 그래도 다이어트 끝나고 예쁜 모습으로 식장에 들어갈 생각을 하면 조금 기분이 나아지지 않을까? 반 공기만 먹 대신에 좋은 식단으로 잘 챙겨 먹고 말이야!",
+            "utterance_id": "BE22009526.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래야겠다. 양을 줄였으니 다이어트 음식 중에 맛있는 걸로 골라서 알차게 먹어야겠어. 이렇게 생각하니 마음이 훨씬 나아지는 것 같다. 그리고 식장에 선 내 모습을 떠올리며 버텨야겠어.",
+            "utterance_id": "BE22009526.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 좋다! 그렇게 긍정적으로 생각하는 게 네 큰 장점이라고 생각해! 이렇게 버티다보면 어느새 금방 결혼식 날이 다가올 거야. 밥 많이 못 먹어서 슬픈 감정 잘 이겨내면 좋을 것 같아.",
+            "utterance_id": "BE22009526.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그래야겠어. 다이어트로 슬퍼만 하고 있었는데 이렇게 생각하니 조금 나아진다. 하루하루 기뻐하기도 아까운 시간인데 너무 아쉽게 보내고 있었네. 앞으로라도 기분 좀더 좋게 생활해야겠어, 기쁘게 다이어트하고!",
+            "utterance_id": "BE22009526.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이야. 그렇게 생각하면 훨씬 나아질 것 같아. 다이어트 음식도 요즘 다양하니까 너무 슬퍼하고 힘들어하지 않으면서 다이어트 성공하면 좋겠다! 나도 옆에서 계속 응원할 게 꼭 웃으면서 성공할 수 있을 거야 넌.",
+            "utterance_id": "BE22009526.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 이렇게 위로해주고 응원해주니 얼마나 힘이 나는지 몰라. 덕분에 슬퍼하지 않고 기쁜 마음으로 앞으로를 생각하며 다이어트할 수 있을 것 같아.",
+            "utterance_id": "BE22009526.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이다 정말! 하루하루 네가 슬퍼하지 않고 기쁘게 보냈으면 좋겠어. 끝나고 더 맛있는 음식들 많이 먹고 즐거운 시간 보내길 바랄게.",
+            "utterance_id": "BE22009526.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응! 덕분에 많이 기분이 좋아진 것 같아. 슬퍼하는 나 이렇게 위로해줘서 정말 고마워 친구야.",
+            "utterance_id": "BE22009526.15"
+        }
+    ]
+}

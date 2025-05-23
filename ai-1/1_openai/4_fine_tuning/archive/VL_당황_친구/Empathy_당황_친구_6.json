@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009605",
+        "listener_behavior": [
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009605",
+        "relation": "친구",
+        "situation": "언니네 집에서 키우던 개가 멧돼지를 잡았다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 나 어제 정말 믿기지 않는 소식을 들었어. 언니네 집에서 키우던 개가 멧돼지를 잡았대. 어린 멧돼지이기는 해도, 정말 거짓말 같지 않아?",
+            "utterance_id": "BE22009605.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 그게 정말이야? 난 도무지 상상이 가지 않네.",
+            "utterance_id": "BE22009605.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 처음에는 그랬어. 도대체 그게 어떻게 가능한 일인지 모르겠어. 정말 어이가 없었어.",
+            "utterance_id": "BE22009605.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "산 짐승이 개를 잡았다면 믿겠지. 하지만 이번은 그 반대 경우잖아.",
+            "utterance_id": "BE22009605.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 말이 바로 그거야. 더구나 들개도 아니고 언니가 집에서 키우는 개잖아.",
+            "utterance_id": "BE22009605.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 이야기 듣고 너 아주 어리둥절했겠다. 전혀 믿기지 않았을 테니까. 언니 개는 몸집이 크니?",
+            "utterance_id": "BE22009605.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론 보통 개하고 비교해서 큰 편이야. 하지만 산 짐승을 잡을 만큼 덩치가 큰 것은 아니거든.",
+            "utterance_id": "BE22009605.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 이상한 수수께끼 같았겠다. 나라도 정말 혼란스러웠을 것 같아.",
+            "utterance_id": "BE22009605.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니가 산 짐승 때문에 늘 골치를 앓았거든. 농작물 피해도 점점 더 커지고. 그런데 집에서 키우던 개가 이런 일을 해낼 줄이야.",
+            "utterance_id": "BE22009605.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 어안이 벙벙했겠구나. 혹시 사진은 봤어?",
+            "utterance_id": "BE22009605.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 우리 언니가 곧바로 보내줬어. 사진을 보는 지금도 믿기지 않아. 너한테도 전송해 줄 테니 한 번 봐.",
+            "utterance_id": "BE22009605.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와, 정말 내 눈으로 직접 봐도 신기하네. 그런데, 자세히 보니 강아지 종류가 사냥견인 것 같네.",
+            "utterance_id": "BE22009605.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 그러니? 난 그런 사실은 전혀 몰랐네.",
+            "utterance_id": "BE22009605.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "크기는 아주 크지 않지만, 사냥개니까 아주 용맹할 거야. 상대가 어린 산 짐승이어서 아마 가능했을 것 같고.",
+            "utterance_id": "BE22009605.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "아, 그럴 수도 있겠네. 좀더 자세한 내용을 한 번 검색해 봐야겠다. 네 덕분에 수수께끼가 조금은 풀린 것 같아. 고마워, 친구.",
+            "utterance_id": "BE22009605.15"
+        }
+    ]
+}

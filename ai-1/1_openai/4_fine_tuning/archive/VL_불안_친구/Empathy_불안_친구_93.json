@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010219",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010219",
+        "relation": "친구",
+        "situation": "아내가 늦둥이를 임신했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기다리던 소식이 있었는데 막상 소식을 들으니 기분이 좋지만은 않네.",
+            "utterance_id": "BE22010219.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 소식인데 그래?",
+            "utterance_id": "BE22010219.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 부부가 오랜 시간 동안 아이를 기다려왔었잖아? 이제 둘 다 나이도 많아져서 사실 포기하던 상태였었거든.",
+            "utterance_id": "BE22010219.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 네가 그래서 마음고생 엄청나게 했지. 아기 가지려고 노력 많이 했었잖아.",
+            "utterance_id": "BE22010219.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 놀랍게도 어제 아내가 임신 소식을 알려준 것 있지? 기다렸던 아기라서 기뻐야 하는데 걱정부터 앞서네.",
+            "utterance_id": "BE22010219.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머. 드디어 임신하게 되었구나! 축하해. 왜 걱정인데?",
+            "utterance_id": "BE22010219.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아내가 나이가 적지 않아서 임신성 당뇨라던가 그런 문제들이 생길까 봐 너무 걱정돼. 아이도 혹시 잘못되는 것은 아닐지 불안하고 걱정되고.",
+            "utterance_id": "BE22010219.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 어렵게 가지고, 아기를 기다렸던 만큼 걱정도 많이 되겠다. 내가 네 상황이었어도 하나부터 열까지 모두 신경 쓰였을 것 같은데.",
+            "utterance_id": "BE22010219.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 생각을 하면 안 되는데 자꾸 만약의 경우를 생각하게 돼. 그리고 아기가 초등학생이 될 때쯤이면 나는 벌써 은퇴할 때가 되니까. 잘해주지 못할까 봐 또 고민이고.",
+            "utterance_id": "BE22010219.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 걱정되고 불안한 네 마음 충분히 알지. 사랑하는 만큼 더 잘해주고 싶고, 걱정되기 마련이잖아. 하지만 아직 생기지 않은 일들이니까 지금 너는 충분히 현재의 행복을 누려도 되지 않을까?",
+            "utterance_id": "BE22010219.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 행복해해도 되는 걸까? 혹시나 지금 행복이 나중에 생길 큰 불행에 대한 대가라고 생각이 자꾸 들어서 걱정이야.",
+            "utterance_id": "BE22010219.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론. 이런저런 생각들에 걱정되는 마음 이해해. 그렇지만 네가 평소에 아내를 잘 챙기고 돌봐주었듯이 사랑을 다하면 건강하고 예쁜 아이가 나오게 될 거야. 또 항상 준비해왔듯이 지금부터 차근차근 준비해두면 아무 문제도 생기지 않을 거라고 확신해!",
+            "utterance_id": "BE22010219.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래? 네 말을 들으니 걱정 가득하던 내 마음이 조금 개운해진다. 그래, 네 말대로 현재에 충실해야겠어.",
+            "utterance_id": "BE22010219.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래! 너와 아내는 잘 해낼 수 있을 거야!",
+            "utterance_id": "BE22010219.14"
+        }
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010512",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010512",
+        "relation": "친구",
+        "situation": "마감이 내일인데 일을 반도 못 끝냈다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어쩌면 좋아, 공감화자야. 심장이 너무 벌렁벌렁 뛰어서 도저히 일이 손에 안 잡히는 지경이야.",
+            "utterance_id": "BE22010512.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이야? 너 내일까지는 바빠서 연락도 안 될 거라고 얘기했잖아. 마감이 내일이 아니었어?",
+            "utterance_id": "BE22010512.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 그래서 너무 큰 문제야. 마감이 내일인데 지금 일을 반도 못 끝낸 상태야. 어쩌면 좋지? 이렇게까지 일이 밀려 본 건 처음이라서 너무 불안해 죽겠어.",
+            "utterance_id": "BE22010512.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너처럼 성실한 애가 마감에 촉박하다니 어쩌다 이런 일이 생긴 거야?",
+            "utterance_id": "BE22010512.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 너무 많은 일들이 몰아치는 바람에. 급박한 일들을 다 해결하고 나니 마감이 내일인 내 일만 남은 거야. 정말 이러고 싶지 않은데.",
+            "utterance_id": "BE22010512.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우선 지금 네가 불안감에 너무 흥분한 것 같아. 조금 진정하고 커피보단 따뜻한 차를 마셔 보는 게 어때? 마음의 여유를 되찾고 일을 하는 게 좋을 것 같아.",
+            "utterance_id": "BE22010512.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 그래야겠지. 조언해 줘서 고마워. 나만 피해 보는 거라면 큰 문제가 없는데, 우리 팀원들 모두가 피해를 보거든. 승진 같은 문제는 덮어 둬도 말이야.",
+            "utterance_id": "BE22010512.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "넌 성실하고 팀원들 생각 많이 하는 친절한 사람이니까 당연히 불안하고 초조할 거야. 하지만 착한 것보다도 넌 능력이 있으니까 오늘 밤 지새우면 충분히 할 수 있을 거야.",
+            "utterance_id": "BE22010512.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "할 수 있겠지? 그래, 불안해하며 일을 미루는 건 미련한 일이야. 얼른 정신 차리고 다시 일을 시작해야지.",
+            "utterance_id": "BE22010512.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론이지. 이번에 승진 평가도 있는 데다 팀원이 이직까지 두 명이나 했다며? 네가 바쁘고 정신없는 게 당연하지. 걱정하지 말고 시작해봐.",
+            "utterance_id": "BE22010512.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 마음이 한결 편안해졌어. 불안해하기만 하면 해결되는 건 없으니까. 조금 부족하더라도, 이번 기한 내에 해결하고 팀원들과 잘 조율하는 게 좋겠어.",
+            "utterance_id": "BE22010512.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 다들 널 이해해줄 거야. 네 노고는 나보다도 팀원들이 더 잘 알 테니까. 넌 인망도 두텁잖아.",
+            "utterance_id": "BE22010512.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응원해 줘서 고마워. 너만큼 나를 편안하게 해 주는 친구는 없을 거야. 우선 다시 일하러 가 볼게.",
+            "utterance_id": "BE22010512.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 언제든 다시 무슨 일이 생기면 연락해. 내가 도울 수 있는 일이라면 도울 테니까. 힘내서 일 마무리하고 해결되면 연락해 줘.",
+            "utterance_id": "BE22010512.14"
+        }
+    ]
+}

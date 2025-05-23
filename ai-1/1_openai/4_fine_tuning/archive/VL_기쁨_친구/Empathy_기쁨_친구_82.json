@@ -1,0 +1,164 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009742",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009742",
+        "relation": "친구",
+        "situation": "종이컵을 쓰지 않으려고 텀블러를 사무실에 가져갔다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 종이컵을 쓰지 않으려고 사무실에 텀블러를 가져다 뒀어.",
+            "utterance_id": "BE22009742.1"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와, 정말? 나는 오늘도 일회용 종이컵을 썼는데, 대단한걸?",
+            "utterance_id": "BE22009742.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음에는 텀블러 가지고 다니는 사람들이 유난스럽다고 생각했거든? 그런데 막상 해보니 별거 아닌 작은 일인데도, 굉장히 뿌듯하고 기쁘더라.",
+            "utterance_id": "BE22009742.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다들 말로만 환경을 보호하자고 하지, 직접 몸으로 실천하는 건 어려운 일이잖아. 별거 아닌 작은 일이 아니라, 직접 행동하는 게 대단한 거지! 스스로 뿌듯해할 만하다.",
+            "utterance_id": "BE22009742.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 사소한 일인데, 네가 그렇게까지 말하니 뭔가 대단한 걸 이룬 느낌이 드네.",
+            "utterance_id": "BE22009742.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "모든 환경운동의 시작은 개인의 작은 변화에서 온다고 하잖아. 나도 네 이야기를 들으니 느끼는 게 많아지는 것 같아.",
+            "utterance_id": "BE22009742.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 그렇다니 더더욱 뿌듯하네. 사실 처음에는 굳이 무겁게 텀블러를 가지고 다니는 게 쉽지는 않았어. 불편하기도 했고 말이야.",
+            "utterance_id": "BE22009742.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 편하게 종이컵 쓰고 버리면 그만이라는 생각이 들기 마련이지.",
+            "utterance_id": "BE22009742.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 시간이 지나니까, 오히려 종이컵을 쓸 때 죄책감이 들더라. 조금 귀찮더라도, 텀블러를 사용할 때 마음이 더 편하다고 해야 하나?",
+            "utterance_id": "BE22009742.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거 정말 엄청난 변화인걸? 나도 요즘 생각 없이 일회성으로 종이컵을 쓰고 버릴 때마다 양심에 가책을 느끼거든. 너처럼 텀블러를 가지고 다니면 오히려 뭘 마실 때마다 스스로가 자랑스러워질 것 같아.",
+            "utterance_id": "BE22009742.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 처음이 어렵지, 한번 시작하면 정말 아무것도 아닌 것 같아. 요즘은 텀블러 디자인도 다양해져서, 고르는 재미도 있고 말이야.",
+            "utterance_id": "BE22009742.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 예쁘다고 사놓고 집에 보관만 해둔 텀블러가 많은데, 이번 기회에 꺼내 봐야겠네. 네 덕분에 매일 매일 작은 실천이 중요하다는 걸 다시 한번 깨닫게 되는구나.",
+            "utterance_id": "BE22009742.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말을 해주니 고마워. 좀더 적극적으로 이야기하고 다녀서, 너 말고도 다른 친구들까지 텀블러를 쓰게 만들어야겠다.",
+            "utterance_id": "BE22009742.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그거참 좋은 아이디어다! 나도 내일부터 당장 회사에 텀블러를 가져가 볼게!",
+            "utterance_id": "BE22009742.14"
+        }
+    ]
+}

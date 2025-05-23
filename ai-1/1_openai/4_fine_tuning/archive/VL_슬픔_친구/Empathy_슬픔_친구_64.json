@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010086",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010086",
+        "relation": "친구",
+        "situation": "1일 1식으로 식단을 조절한다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "행복은 탄수화물에서 나온다고 했던가, 나 너무 우울하잖아.",
+            "utterance_id": "BE22010086.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 건강이 안 좋아졌다고 하더니, 그래서 우울한 거야? 아니면 무슨 일이라고 있는 거야?",
+            "utterance_id": "BE22010086.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 이번에 건강검진하고서 콜레스테롤이니 비만도니 여러 가지로 조금 안 좋은 결과가 나왔거든. 그래서 좀 알아보니까 1일 1식으로 식단을 조절하면 다이어트도 되고 건강도 좋아지고. 일석이조라고 하길래 요즘 1일 1식 시작했거든, 근데 하루에 한 끼밖에 못 먹으니 너무 우울해.",
+            "utterance_id": "BE22010086.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에고, 먹는 걸 세상에서 가장 큰 행복 중 하나로 생각하는 네가 1일 1식이라니. 많이 무기력하고 힘들 것 같아. 맛있는 걸 먹으면서 오는 기쁨도 엄청 큰데, 그게 덜해지니까 울적하기도 하겠다.",
+            "utterance_id": "BE22010086.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하루에 한 끼밖에 못 먹는다는 게 너무 슬퍼. 이것도 먹고 싶고, 저것도 먹고 싶은데. 그러질 못하니까 진짜 상실감까지 들어.",
+            "utterance_id": "BE22010086.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생각만 해도 진짜 힘들 것 같아. 먹고 싶은 게 너무 많은데 하나밖에 못 고른다는 게 스트레스이기도 할 것 같고. 마지막 식사라고 생각하면서 먹으면 맛있는 음식도 맛있게 느껴지지 않을 것 같네.",
+            "utterance_id": "BE22010086.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "흑흑, 그래서 완전 요즘 사는 재미 없음이야. 언제까지 한 끼만 먹어야 하나 싶기도 해.",
+            "utterance_id": "BE22010086.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다르게 생각하면 너는 너의 건강을 위해서 조절하고 있다는 거잖아, 얼마나 멋지고 뿌듯한 일이야! 대단한 절제력을 가지고 먹고 싶은 음식을 조절해서 먹을 수 있다는 건 아무도 못 하는 일이잖아. 그 대단한 걸 너는 지금 하고 있는걸.",
+            "utterance_id": "BE22010086.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가, 하긴 야식도 꾹 참고 안 먹는 내가 대견하기도 하더라.",
+            "utterance_id": "BE22010086.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그리고 1일 1식은 건강을 위해 하루에 한 끼를 맛있게 먹으라는 것이지, 다이어트가 목적은 아니잖아. 네가 좋아하는 음식, 네가 먹고 싶은 음식으로 한 끼를 충분히 즐기면 되지 않을까? 그렇게 행복한 한 끼를 먹으면 건강에 배로 더 좋을 것 같아.",
+            "utterance_id": "BE22010086.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇네! 나는 한 끼밖에 못 먹는다는 게 우울했는데 네 말을 들으니까 해볼 만하다는 생각이 들어.",
+            "utterance_id": "BE22010086.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그렇지만 먹는 즐거움은 정말 인생에서 큰 비중을 차지하는 것 같아. 그렇지만 그에 못지않게 건강도 중요한 거니까. 그 중간 지점의 균형을 네가 잘 잡았으면 좋겠어, 나는 건강하게 너랑 오래 보고 싶거든.",
+            "utterance_id": "BE22010086.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "하하, 무슨 말인지 알 것 같아. 고마워, 막연하게 못 먹는다고 생각해서 슬프기만 했는데 조금 자신감이 생겼어. 균형을 맞추기 위해 나도 노력해볼게.",
+            "utterance_id": "BE22010086.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "1일 1식 해보고 좋으면 후기도 나에게 꼭 알려주라. 나도 도전해봐야겠어.",
+            "utterance_id": "BE22010086.14"
+        }
+    ]
+}

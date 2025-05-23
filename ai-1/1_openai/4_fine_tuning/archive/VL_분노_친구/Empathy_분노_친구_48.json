@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009680",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009680",
+        "relation": "친구",
+        "situation": "오심도 경기의 일부라고 한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 오늘 야구 보러 갔었는데 오심 때문에 져서 짜증 나.",
+            "utterance_id": "BE22009680.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "야구장에서 본 거야? 직관했는데 응원하는 팀이 져서 화나겠다.",
+            "utterance_id": "BE22009680.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 그냥 진 것도 아니고 오심 때문에 경기가 끝나버렸어. 비디오판독을 했는데 명백한 오심인 거 있지.",
+            "utterance_id": "BE22009680.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "심판이 오심해서 진 거면 진짜 열 받지. 경기 보던 네가 무지 화났겠어.",
+            "utterance_id": "BE22009680.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 져서 짜증 나는데 티브이 해설가는 오심도 경기의 일부라면서 어쩔 수 없다는 뉘앙스로 말하더라고. 진짜 듣는데 열 받아서 핸드폰 던져 버릴 뻔했어.",
+            "utterance_id": "BE22009680.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "해설가는 누구보다 중립적으로 경기를 지켜봐야 하는 거 아니야? 그리고 비디오 판독해서도 쉽게 보일 정도면 해설가가 오심이라고 분명히 지적해 줘야지. 전해 듣는 나도 열받는데 너는 얼마나 짜증 나고 화날까.",
+            "utterance_id": "BE22009680.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동점 상황인데 9회 말 1사 3루에서 홈팀이 좌익수 플라이를 쳤거든. 좌익수가 잡자마자 송구해서 3루 주자를 홈에서 잡았는데 주심이 세이프 판정을 내고 게임 끝내버렸어. 그리고 중계방송에서 리플레이 보여주는데 포수 태그가 먼저 됐더라고 분명히 아웃인데 말이야.",
+            "utterance_id": "BE22009680.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 상황이었으면 진짜 열 받았겠다. 심판의 오심도 그렇고 해설가의 멘트도 너무 했네. 그래도 너무 화내지 말아.",
+            "utterance_id": "BE22009680.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어 경기 끝나고 선수들 인사하는데도 어이없어서 아직 관중석에 앉아 있어. 다른 사람들도 화가 많이 나 있네.",
+            "utterance_id": "BE22009680.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오심 때문에 졌으니 그렇게 화 나는 게 당연하지. 왜 중요한 상황에 오심이 나오는 걸까. 너처럼 경기 본 사람들 너무 스트레스를 받을 거 같아.",
+            "utterance_id": "BE22009680.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 이 유해하고 스트레스를 받는 야구를 왜 매일 보는지 모르겠어. 내가 직관하러 야구장 오면 항상 지는데 말이야. 나 때문에 지는 거 같아, 이제 보면.",
+            "utterance_id": "BE22009680.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야 너 때문에 지는 거 아니야. 그냥 네가 응원하는 야구팀이 운이 없을 뿐이지. 그렇게 생각하지 말아.",
+            "utterance_id": "BE22009680.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래, 나 때문은 아니겠지만 볼 때마다 지니까 이제 화도 안 나. 지금도 너랑 얘기하면서 화가 풀렸어. 우리 팀이 이길 리가 없다고 생각하니까 말이야.",
+            "utterance_id": "BE22009680.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "야구 응원하는 데 너무 에너지 소비했나 보다. 야구야 이길 때도 있고 질 때도 있으니깐 너무 속상해하지 마. 올스타전 끝나면 또 잘할지도 모르잖아.",
+            "utterance_id": "BE22009680.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래 긍정적으로 얘기해줘서 고마워.",
+            "utterance_id": "BE22009680.15"
+        }
+    ]
+}

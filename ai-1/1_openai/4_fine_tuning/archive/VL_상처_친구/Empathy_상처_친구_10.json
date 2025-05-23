@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22010458",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010458",
+        "relation": "친구",
+        "situation": "교수님이 다른 일을 또 시킨다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 아무래도 대학원 잘못 온 것 같아.",
+            "utterance_id": "BE22010458.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래? 그토록 하고 싶어 했던 공부였잖아. 적성에 안 맞아?",
+            "utterance_id": "BE22010458.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공부는 너무 좋은데 교수님 때문에 사는 게 힘들어. 몇 달에 걸쳐 교수님 연구를 도와드렸는데, 다른 일을 곧장 또 시키시네. 다른 동기들은 안 하는 일인데 나만 하고 있어.",
+            "utterance_id": "BE22010458.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혼자서 교수님을 도와드리려면 정말 힘들겠다. 네가 얼마나 고생하는지 여기까지 느껴져서 마음이 아파.",
+            "utterance_id": "BE22010458.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 내가 타깃으로 희생되고 있는 듯해. 다른 동기들은 자기 공부하면서 성실히 연구 실적을 쌓는데, 나만 이게 뭐야. 교수님이 날 너무 당연하게 이용하시니까 너무 상처받아.",
+            "utterance_id": "BE22010458.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 아이들은 하지 않는 일을 혼자 하는 기분이 얼마나 억울하고 서글프겠어. 힘들고 서럽겠지만, 어렵게 간 대학원인 만큼 끝까지 포기하지 말고 해내 보자. 너라면 충분히 잘 해낼 수 있을 거라고 생각해.",
+            "utterance_id": "BE22010458.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "믿어줘서 고마워. 사실 요즘은 취업할 걸 그랬나 후회도 하고 있었어. 교수님이 성격도 얼마나 엄하고 무서우신지 몰라.",
+            "utterance_id": "BE22010458.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일도 많은데 교수님 성격까지 맞춰드리려면 네가 정말 고생이겠다. 말만 들어도 고난의 연속인 것 같아.",
+            "utterance_id": "BE22010458.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "만만하게 보인 내 잘못이지 뭐. 혼자 이렇게 희생되고, 고맙단 인사조차 못 들을 줄 알았으면 절대로 일을 도와드리지 않았을 거야.",
+            "utterance_id": "BE22010458.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "교수님이 비록 너무하시긴 하지만, 그만큼 네가 일을 잘하고 똑 부러진다는 뜻 아닐까? 네가 동기 중에 가장 총명하고 똑똑하니까 네게 일을 맡기시는 거라고 생각해. 네 빛나는 노력과 끈기가 분명히 네 공부에도 도움이 될 거야.",
+            "utterance_id": "BE22010458.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각하면 마음이 조금 풀리긴 한다. 교수님이 날 그만큼 믿고 의지한다는 뜻이기도 하겠지.",
+            "utterance_id": "BE22010458.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 물론 네가 노력하는 만큼 네게 고마워하고, 애정을 쏟아주셨으면 더할 나위 없이 좋았겠지만 말이야. 너는 누구에게나 신뢰를 줄 만큼 멋진 사람이라는 것만은 잊지 마.",
+            "utterance_id": "BE22010458.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "정말 고마워. 너랑 이야기하고 나니까 막혔던 속이 뻥, 하고 뚫리는 기분이다.",
+            "utterance_id": "BE22010458.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이다. 대학원 다니면서 스트레스가 심할 텐데, 앞으로 이런 이야기는 언제든 내게 말해줘도 좋아. 내가 비록 직장인이라 자세한 일을 잘 모를 수는 있어도, 네 하소연은 다 들어줄게.",
+            "utterance_id": "BE22010458.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 진심으로 고맙다. 이렇게 든든한 내 편이 있다는 것이 지금 얼마나 큰 위로가 되는지 몰라.",
+            "utterance_id": "BE22010458.15"
+        }
+    ]
+}

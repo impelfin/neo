@@ -1,0 +1,193 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008934",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008934",
+        "relation": "친구",
+        "situation": "취미로 베이킹을 해서 주변에 나눠준다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 오늘 바빠? 안 바쁘면 퇴근하고 나랑 잠깐 볼래?",
+            "utterance_id": "BE22008934.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 안 바빠서 완전 칼퇴야. 근데 무슨 일 있어?",
+            "utterance_id": "BE22008934.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 다른 게 아니고 내가 취미로 베이킹하잖아. 오늘 아침에 빵을 좀 구워서 주변에 나눠주려고 들고 왔거든. 너도 좀 나눠주려고.",
+            "utterance_id": "BE22008934.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 나 완전 빵순이잖아. 정말 기대된다. 너무 좋아. 벌써 퇴근하고 싶어서 미치겠어.",
+            "utterance_id": "BE22008934.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주변에서 이렇게 좋아할 때마다 너무 뿌듯해서 계속 만들고 나눠주게 되는 것 같아. 내 마음이 너무 풍족해지는 기분이라 너무 기뻐.",
+            "utterance_id": "BE22008934.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 기쁘다니 나도 기분이 너무 좋다. 그나저나 나눔을 통해서 기쁨을 얻는다니 네가 너무 대단하게 느껴지는걸?",
+            "utterance_id": "BE22008934.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나눔을 통해서 얻는 기쁨은 값을 매길 수 없는 것 같아. 난 취미를 하면서 남도 행복하게 만들어 줄 수 있어서 너무 행복해.",
+            "utterance_id": "BE22008934.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자신에게 맞는 취미를 찾는 게 쉬운 일이 아닌데 너무 잘된 일이다. 너를 그렇게 행복하게 만드는 취미를 찾아서 나까지 너무 기쁘다.",
+            "utterance_id": "BE22008934.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 나눠주다 보면 이렇게 돈 쓰고 시간 써가면서 왜 다 남한테 주냐고 그런 사람들도 있거든. 네가 이해해 주니까 더 행복하다 헤헤.",
+            "utterance_id": "BE22008934.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나누다 보면 받은 사람들도 받은 만큼 보답하고 싶기 마련이잖아. 굳이 너한테가 아니더라도 다른 사람들에게 보답한다면 그게 바로 선한 영향력 아닐까? 넌 가만 보면 언제나 주변 사람들에게 좋은 영향을 끼치는 것 같아 참 대단해.",
+            "utterance_id": "BE22008934.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 걸까? 네가 그렇게 말해주니까 마치 대단한 일을 하고 있는 거 같은 느낌이 들어서 머쓱하네, 하하. 부끄럽지만 내가 자랑스러워.",
+            "utterance_id": "BE22008934.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 당연히 자랑스러워할 만하지. 지금은 빵이겠지만 혹시 알아? 네가 나중에 이 나눔의 맛을 알아버려서 기부를 크게 할지? 하하하.",
+            "utterance_id": "BE22008934.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하하. 그거 좋은 생각인데? 내가 취미로 만드는 빵을 팔아서 기부를 해도 되겠다!",
+            "utterance_id": "BE22008934.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "헉, 정말 좋은 아이디어인데? 그럼 정말 필요한 곳으로 네 도움이 갈 수 있을 거야. 네가 한다면 나도 정말 너를 돕고 싶어.",
+            "utterance_id": "BE22008934.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 그럼 우리 오늘 만날 때 구상을 한번 해보자. 너무 설레.",
+            "utterance_id": "BE22008934.15"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 좋아! 거봐 벌써 너의 좋은 영향력이 나에게 끼친 것 같아. 나도 막 갑자기 기부할 생각에 마음이 들떠.",
+            "utterance_id": "BE22008934.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "하하하 넌 언제나 날 웃게 만들어준다니까. 그렇게 말해줘서 고마워. 좀 이따 보자!",
+            "utterance_id": "BE22008934.17"
+        }
+    ]
+}

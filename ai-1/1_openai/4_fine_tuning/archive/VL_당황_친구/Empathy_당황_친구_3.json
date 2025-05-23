@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009568",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009568",
+        "relation": "친구",
+        "situation": "사귀고 있는 여자 친구와의 결혼이 망설여진다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야 나 요즘 고민이 생겼어. 그래서 밤에 잠도 잘 오지 않아.",
+            "utterance_id": "BE22009568.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고. 무슨 일인데? 잠도 잘 못 자고 고민한다고 하니 정말 걱정된다. 무슨 고민인지 말해줘.",
+            "utterance_id": "BE22009568.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게, 지금 사귀고 있는 여자 친구가 너무 좋은데 말이야. 결혼이 망설여져서 걱정이야. 곧 이야기할 시간이 다가오는데.",
+            "utterance_id": "BE22009568.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "결혼이 망설여진다니. 걱정이 많겠다, 일생에 있어 중요한 선택이자 판단이 될 텐데. 평소 신중한 성격의 너에게 있어 결혼 선택은 정말 고민이 많이 되는 일일 것 같아. 그런데 어떤 이유로 결혼이 망설여지는 건데?",
+            "utterance_id": "BE22009568.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게. 지금까지 지켜본 여자 친구의 소비패턴이 너무 부담스러워. 내가 결혼해서 감당할 수 있을지 잘 모르겠달까? 그래서 이런 이유로 결혼을 망설이는 나 스스로가 너무 당황스러워.",
+            "utterance_id": "BE22009568.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고. 그렇겠다. 결혼생활에 있어서 연애와는 다르게 다른 많은 것들을 신경 쓰게 되잖아. 소비 패턴도 굉장히 중요한 부분 중의 하나이고! 그러니 당연히 네가 이렇게 고민하는 것도, 이 고민에 당황스러움을 느끼는 것도 당연한 일이라고 느껴져!",
+            "utterance_id": "BE22009568.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 나만 당황스러운데 이런 생각을 나만 하는 것이 아닐까 걱정했는데. 이렇게 네가 공감해주니 훨씬 마음이 낫다. 그리고 진지하게 더 고민해보고 싶어, 맞추어갈 수 있는 부분인지 좁혀지기 어려운 부분인지.",
+            "utterance_id": "BE22009568.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래! 좋은 생각이야! 천천히 네 마음이 어떤지 충분히 들여다보고 네 마음이 당황스러움에서 벗어나 괜찮아지면 좋겠다! 언제나 이성적으로 판단하고 대화하기를 잘하는 너는 이번에도 잘 헤쳐 나갈 수 있을 거라고 믿어!",
+            "utterance_id": "BE22009568.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워. 이렇게 내가 잘 이겨내고, 좋은 결론 낼 수 있게 응원해주고 격려해주어서! 내가 진지하게 이야기도 못하고 그냥 결혼하기보다. 이렇게 생각하는 게 여자 친구와 나 모두를 위해서 좋은 시간이라는 생각이 드네.",
+            "utterance_id": "BE22009568.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아! 역시 언제나 힘든 상황에 긍정적으로 생각하는 네 모습이 빛을 발하는 시기인 것 같아! 여러 가지 생각해보고, 결혼이 망설여지지 않을 때 한다면. 네 마음이 당황스럽거나 불안한 마음도 훨씬 덜해질 거라고 믿어.",
+            "utterance_id": "BE22009568.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 이야기에 이렇게 공감해주는 네 덕분에 나는 훨씬 마음이 편해진다. 덕분에 당황스러운 이 감정을 이겨내고 조금 더 안정된 상태에서 침착하게 고민해볼 수 있게 되었어. 과연 소비패턴만이 문제인지, 소비패턴을 조절해 맞춰나갈 수 있을지 이야기해 보아야겠다.",
+            "utterance_id": "BE22009568.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋아! 넌 언제나 이야기할 때 상대방의 이야기에 충분히 공감해주는 따뜻한 사람이니까. 여자 친구분과 대화를 통해서 충분히 잘 해결해 나아갈 수 있는 문제일 거야. 대화를 하고 나면 지금 네가 느끼는 당황스러움도 많이 줄어들 거라고 생각해!",
+            "utterance_id": "BE22009568.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지? 나도 네 이야기를 듣고 나니 그럴 것 같다는 확신이 들어. 이렇게 당황스러움에 어찌할 바 모르고 나 혼자 망설이지 않아야겠어. 같이 이야기를 통해 풀어 나가야겠다는 생각이 들면서 한결 편해졌다.",
+            "utterance_id": "BE22009568.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 다행이야. 나와 연락하면서 어떻게 해야 할지 갈피를 정했다니. 당황스러워하는 네 모습을 더 이상 지켜보지 않아도 되어서 내 마음도 한결 편해지는 것 같다.",
+            "utterance_id": "BE22009568.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워! 이렇게 네 일처럼 마음 아파해주고 공감해주어서! 그래서 이렇게 당황스러운 내 마음도 한결 나아진 것 같아. 여자 친구와 잘 이야기해보고 결혼도 더 신중히 고민해보아야겠어!",
+            "utterance_id": "BE22009568.15"
+        }
+    ]
+}

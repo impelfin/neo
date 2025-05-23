@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010406",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010406",
+        "relation": "친구",
+        "situation": "원치 않는 만남을 강요당하고 있다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 나 자꾸 부모님이 그 선 본 부자 남자랑 잘 해보라고 난리야.",
+            "utterance_id": "BE22010406.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 그 남자가 별로 마음에 안 든다고 하지 않았어? 왜 부모님은 너에게 잘해보라고 하시는 거야?",
+            "utterance_id": "BE22010406.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 남자가 돈도 많고 직업도 좋아서 그냥 결혼하기를 바라시는 것 같아. 내가 나이가 많다면서 어딜 가서 그런 남자를 만날 수 있겠냐는데, 너무 상처받았어. 어떻게 자식한테 그런 상처 주는 말을 할 수가 있지?",
+            "utterance_id": "BE22010406.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 너희 부모님이 너의 의사와는 상관없이 만남을 강요하시네. 내 마음이 이해받지 못하니 나 같아도 상처가 크겠다.",
+            "utterance_id": "BE22010406.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 부자 남자도 필요 없고 그 사람도 마음에 들지 않거든. 그리고 나의 직업과 나이가 창피했던 적도 없어. 왜 부모님이 나서서 나에게 초조함을 주려고 하는지 참 속상해.",
+            "utterance_id": "BE22010406.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부모님은 아마도 네가 늦기 전에 좋은 짝을 만나기를 바라는 마음으로 하신 말일 거야. 그 방식이 조금 잘못되었지만 너를 사랑해서 하는 말이니 네가 너무 상처받지 않았으면 좋겠어.",
+            "utterance_id": "BE22010406.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 사람이 아무리 돈 잘 버는 사업가라고 해도 나는 내 힘으로 먹고살 자신이 있거든. 그런데 우리 부모님은 그 남자를 이용해서 부자 사위 덕을 보고 싶은 것 같아. 나를 믿지 못하시는 것 같아서 서럽고 슬퍼.",
+            "utterance_id": "BE22010406.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야, 부모님도 너를 자랑스러워하고 계실 거야. 부모님께 진지하게 한 번 더 대화로 말씀드려 보는 건 어떨까? 네가 원하는 바를 말씀드리고 타협하면 네 마음도 편해질 것 같아.",
+            "utterance_id": "BE22010406.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 부모님이 내 말을 들어줄까? 진지하게 내가 원하는 바를 들어준 적이 없어서 조금 걱정이 돼.",
+            "utterance_id": "BE22010406.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 삶에서 원하는 것이 남편이 아니라 너의 꿈이라는 걸 잘 이야기 해봐. 부모님들은 자식의 행복을 최우선으로 바라잖아. 네 꿈을 위해 부모님을 설득할 필요도 있다고 봐.",
+            "utterance_id": "BE22010406.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야겠다, 내가 상처를 크게 받아서 부모님의 뜻을 따르는 것도 고려하려고 했었거든. 친구야 네 덕분에 잃었던 용기를 되찾은 것 같아.",
+            "utterance_id": "BE22010406.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "예전부터 포기하지 않고 남에게 기대지 않고 주체적으로 사는 네가 참 멋있었어. 네 꿈을 잃지 않고 계속 도전했으면 하는 마음이야. 나는 너를 믿어, 너는 분명 잘 살 거야.",
+            "utterance_id": "BE22010406.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "상처받아서 흔들릴 뻔했는데 네 덕분에 마음을 다시 다잡게 되었어. 나에게 큰 위로가 되네, 정말 고마워. 나 자신감 있고 당당하게 살게.",
+            "utterance_id": "BE22010406.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 너 자신을 잃지 않는 게 가장 중요하지. 네가 행복하다니 나도 참 좋다. 부모님과도 잘 이야기해봐.",
+            "utterance_id": "BE22010406.14"
+        }
+    ]
+}

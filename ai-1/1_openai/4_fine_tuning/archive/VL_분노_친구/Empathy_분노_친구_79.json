@@ -1,0 +1,196 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22009970",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009970",
+        "relation": "친구",
+        "situation": "남편이 나니까 널 데리고 사는거라고 반복해서 말한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 나 남편하고 그만 살까 싶다. 참으려 해도 화가 나서 참을 수가 없네.",
+            "utterance_id": "BE22009970.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 요즘 연락이 뜸하더니 무슨 일이 있구나?",
+            "utterance_id": "BE22009970.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 남편과 시댁 일로 여러 번 싸웠거든. 그런데 남편이 나니까 널 데리고 사는 거라고 반복해서 말한다. 화도 나고 짜증 나서 미치겠다.",
+            "utterance_id": "BE22009970.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무리 화가 나도 그런 식으로 말을 하다니, 네가 화 나는 건 당연하지. 나 같아도 화가 나서 가만히 있을 수가 없겠다. 막 소리를 지를 것 같아.",
+            "utterance_id": "BE22009970.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남편이 예전에는 그러지 않았거든. 그런데 부모님 모시는 일로 시댁 형제들끼리 다툼이 있고 난 후부터 그래.",
+            "utterance_id": "BE22009970.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 집이나 저 집이나 부모님이 연로하시면 잘 지내던 형제들도 대부분 다툼이 생기더라. 너희 시댁도 예외는 아니었나 보네. 그렇다고 남편이 너한테 함부로 말하는 건 아닌 것 같아.",
+            "utterance_id": "BE22009970.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 입을 꼭 다물고 있었어야 했나 봐. 조금씩 양보해서 이견을 조율해야 하는 것 아니냐고 했거든. 어느 한 명이 모든 걸 책임질 문제는 아닌 것 같다고.",
+            "utterance_id": "BE22009970.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 네가 아무것도 못 한다고 한 것도 아니구나. 다만 각자 형편이 있으니 서로 조금씩 나누어서 하면 잘 해결될 거라 생각했던 거지?",
+            "utterance_id": "BE22009970.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 그랬더니 책임질 것 아니면 말하지 말래. 그런 말은 아무나 하는 거라며 화를 내면서 막 함부로 말을 하는 거야.",
+            "utterance_id": "BE22009970.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나니까 널 데리고 사는 거라고 했단 말이지. 그것도 반복해서?",
+            "utterance_id": "BE22009970.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 내가 너무 화가 나니까 요즘 회사 가서도 일이 잘 안 풀려.",
+            "utterance_id": "BE22009970.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 그럴 수 있어. 남편이 그런 식으로 함부로 말하는 걸 듣게 된다면 자존감이 떨어지지 않겠어? 당연히 회사 일을 할 때도 자신감이 떨어질 것 같아.",
+            "utterance_id": "BE22009970.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 일을 하다가도 내가 요즘 멍할 때가 많아. 남편의 막말을 계속 듣고 있으면 안 되겠어.",
+            "utterance_id": "BE22009970.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 그런 식의 언행은 남편이 잘못하고 있다는 걸 주지시킬 필요가 있는 것 같아. 단지 대부분의 사람이 화가 나면 서로 언성이 높아져 자기 생각만 고집하잖아. 한 번 숨 몰아쉬고 천천히 낮게 말하면 좋을 것 같아.",
+            "utterance_id": "BE22009970.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떻게 우리 부부 상황을 그렇게 잘 아니? 조금 전까지만 해도 화가 나서 아무것도 생각이 나지 않았거든. 이제 내가 어떻게 해야 하는지 알게 된 것 같아 마음이 진정된다.",
+            "utterance_id": "BE22009970.15"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 진정되었다니 다행이다. 마음을 가라앉히고 상대방을 대하면 문제가 쉽게 풀리기도 하잖아. 네 남편도 생각이 있는 사람이니, 조금 지나면 스스로 잘못을 깨닫고 현명한 판단을 할 거야.",
+            "utterance_id": "BE22009970.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고마워. 꽉 막혔던 머릿속이 확 풀린 느낌이야.",
+            "utterance_id": "BE22009970.17"
+        }
+    ]
+}

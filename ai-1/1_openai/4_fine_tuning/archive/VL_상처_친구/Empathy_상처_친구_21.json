@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010630",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010630",
+        "relation": "친구",
+        "situation": "옛 연인이 연인 시절 찍었던 사진으로 협박한다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 정말 충격적인 일이 있어.",
+            "utterance_id": "BE22010630.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 무슨 일인데 그래?",
+            "utterance_id": "BE22010630.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "최근에 옛 연인한테 연락이 왔는데 글쎄 연인 시절 찍었던 사진으로 날 협박하는 거야. 한때 사랑했던 사람이 그렇게 행동하니까 나에겐 너무 상처가 되는 거 같아.",
+            "utterance_id": "BE22010630.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있었구나. 기분이 정말 많이 상했을 거 같아. 네가 예전에 믿고 따랐던 사람인 만큼 충격과 상처도 당연히 클 수밖에 없지.",
+            "utterance_id": "BE22010630.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 그 사람과 함께했던 소중했던 시간도 한순간에 날아가는 기분이야. 마음이 텅 빈 것처럼 공허하고 참 씁쓸하네. 정말 믿을 사람 하나 없나 봐.",
+            "utterance_id": "BE22010630.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 마음에 얼마나 상처받았을지 충분히 이해 가. 협박이라니 믿을 수가 없는 행동인걸. 듣는 나한테도 큰 상처인데 너는 오죽하겠어?",
+            "utterance_id": "BE22010630.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 한편으로는 서운한 마음도 드는 거 같아. 내가 그럴 수 있는 사람이었나 하고 말이야. 정말 마음이 너무 아파.",
+            "utterance_id": "BE22010630.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 모습을 보니까 내 가슴이 다 찢어지는 거 같아. 세상이 싫어지는 기분도 들고 절망스러운 기분도 들 거 같아. 마음이 정말 무겁겠네.",
+            "utterance_id": "BE22010630.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 이런 경우는 처음이라 어떻게 해야 할지 모르겠어. 내 소중했던 시간을 도둑맞은 기분이고 그 행복했던 시간조차 의심하게 되는 거 같아. 생각할수록 나에게 너무 큰 상처가 되네.",
+            "utterance_id": "BE22010630.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 비슷한 경험을 한 적이 있는데 정말 자포자기 상태로 보냈던 거 같아. 온종일 무기력하기도 하다가 짜증도 나고 다시 또 나에게 상처로 돌아오더라고.",
+            "utterance_id": "BE22010630.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 지금은 옛 연인한테 배신감도 크게 느껴지는 거 같아. 그 사람과 만나고 싶지도 얘기하고 싶지도 않아. 내가 그 사람을 이해해 줘야 하는 걸까?",
+            "utterance_id": "BE22010630.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나였어도 그 사람을 마주치고 싶지도 않았을 거야. 넌 이해할 필요도 없고, 이해해주지 않아도 돼. 가장 중요한 건 너인 걸 꼭 기억해 그건 분명 너에게 상처이고 잘못된 행동이잖아.",
+            "utterance_id": "BE22010630.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 네 말을 들으니 내가 기죽어 있을 필요가 없다는 게 느껴져. 협박하는 건 백 번 그 사람 잘못이니까 말이야.",
+            "utterance_id": "BE22010630.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 네가 너무 상처받은 거 같아서 걱정된다. 아무 일 없을 거니까 너무 걱정하지 말고 마음 편히 먹어. 힘들면 나한테 기대도 되니까 겁먹지 말고 기운 내.",
+            "utterance_id": "BE22010630.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "네가 그렇게 말해주니 내 마음이 한결 나아지는 거 같아. 얘기 들어줘서 고마워.",
+            "utterance_id": "BE22010630.15"
+        }
+    ]
+}

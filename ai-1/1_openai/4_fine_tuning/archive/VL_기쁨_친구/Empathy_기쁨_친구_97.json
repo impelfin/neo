@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009901",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009901",
+        "relation": "친구",
+        "situation": "캠핑 가서 불멍을 했다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 정말 기쁜 일이 있었어.",
+            "utterance_id": "BE22009901.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일인지 정말 궁금한걸.",
+            "utterance_id": "BE22009901.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 가족들이랑 캠핑 가서 불멍을 했거든. 전부터 꼭 해보고 싶었던 거라 정말 하늘을 날아갈 것 같은 기분이었어. 어찌나 기쁘고 행복했는지 몰라.",
+            "utterance_id": "BE22009901.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오, 그랬구나. 정말 마음에 들었겠는데? 네가 불멍이 한창 유행일 때부터 딱 네 스타일이라고 했었잖아. 아주 만족스러운 하루를 보냈겠다.",
+            "utterance_id": "BE22009901.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 맞아. 모든 게 정말 흡족했어. 자유로운 기분도 들고 편안했던 거 같아. 불멍을 하는 순간엔 감격스럽기까지 했다니까 지금도 온몸에 전율이 느껴지는 거 같아!",
+            "utterance_id": "BE22009901.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 행복해하는 모습을 보니까 나까지 기분이 좋아지는 거 같아. 오래간만에 느낀 여유와 느긋함이라 더 즐거웠겠다. 개운하기도 하고 말이야.",
+            "utterance_id": "BE22009901.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 불멍을 할 땐 시간이 멈춘 것만 같았어. 흘러가는 시간이 아까워서 붙잡고 싶은 기분이었다니까. 짜릿한 기분까지 느꼈던 거 같아.",
+            "utterance_id": "BE22009901.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시간이 멈춘 것 같았다니 정말 낭만적이기까지 하다. 네 말만 들어도 그때의 분위기가 생생하게 느껴지는 거 같아. 아무 생각 없이 보고만 있어도 안정감이 느껴지고 말이야.",
+            "utterance_id": "BE22009901.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 가만히 있어도 마음도 가벼워지는 거 같았어. 그동안 쌓였던 스트레스를 불과 함께 싹 태워버리는 느낌이었달까? 마음이 깨끗해진 거 같아서 정말 기뻐.",
+            "utterance_id": "BE22009901.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 얼마나 신이 났었는지 잘 알겠다. 불멍 덕분에 모든 게 평화롭게 느껴졌을 거 같아. 마치 구름 위를 걷는 것처럼 행복하기도 하고 말이야.",
+            "utterance_id": "BE22009901.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 가슴이 벅차오르는 기분이 아직 남아 있는 듯해. 두근두근하는 심장이 쉽게 가라앉지도 않고 말이야. 정말이지 황홀하기까지 한 거 같아.",
+            "utterance_id": "BE22009901.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 마음 잘 알지 네 모습을 보니까 정말 흐뭇해. 그럴 땐 정말 하늘을 날아갈 것만 같고 누가 뭐라 해도 다 용서가 되지. 누구보다 끝내주게 즐기고 온 거 같아서 부럽기까지 한데?",
+            "utterance_id": "BE22009901.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 캠핑의 불멍으로 가득 채워온 기쁨 덕분에 한동안은 상쾌하게 하루하루를 보낼 수 있을 거 같아. 삶의 의욕도 넘쳐나는 이 기분!",
+            "utterance_id": "BE22009901.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기쁨으로 의지를 불태울 생각을 한다니, 대단한데? 지금 네 모습 생기 있고 활기차 보여서 훨씬 보기 좋다. 나도 너처럼 기쁨을 잔뜩 채워서 의지를 불태워 봐야겠어!",
+            "utterance_id": "BE22009901.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 너와 대화하고 나니 내 행복이 두 배가 되는 기분이야. 얘기 들어줘서 고마워.",
+            "utterance_id": "BE22009901.15"
+        }
+    ]
+}

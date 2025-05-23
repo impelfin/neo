@@ -1,0 +1,168 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009911",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009911",
+        "relation": "친구",
+        "situation": "자전거를 타고 가다가 폭우를 만났다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 진짜 이상한 사람인가 봐.",
+            "utterance_id": "BE22009911.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 무슨 소리니?",
+            "utterance_id": "BE22009911.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자전거를 타고 가다가 폭우를 만나서 온몸이 다 젖었어. 이왕 이렇게 젖어 버린 거 한 참 만끽하다가 집으로 돌아왔어. 그런데 그게 그렇게 후련하고 즐거운 거야.",
+            "utterance_id": "BE22009911.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 그런 상황을 오히려 좋아하는 네 모습이 정말 멋있다. 어떻게 보면 짜증 나는 상황일 수도 있는데 그걸 역으로 즐긴 긍정적인 마인드가 대단한 것 같아.",
+            "utterance_id": "BE22009911.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어쩔 수 없는 상황인데 화를 내면 내 손해이지. 우산 없이 비를 맞아도 그저 재밌던 어린 시절로 돌아간 것 같은 기분이었어. 그 해방감이 정말이지 기분을 좋게 했다고!",
+            "utterance_id": "BE22009911.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 느낌인지 알 것 같아. 어떤 상황에서도 웃음이 먼저 나오던 그 순수했던 시절 말하는 거잖아. 돈 없어도 재밌는 일이 무궁무진했던 옛날로 돌아간 것 같은 기분은 정말 유쾌할 것 같아.",
+            "utterance_id": "BE22009911.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 딱 그 기분이었어. 뛰어놀기만 해도 신이 났던 그 시절이 떠올라서 더 좋더라. 그리고 내 안에 꽉 막혔던 힘듦이 씻겨 내려가는 느낌도 들었어.",
+            "utterance_id": "BE22009911.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "떨어지는 빗방울에 몸을 맡기면 정말 속이 시원할 것 같아. 상상만으로도 속에 얹힌 것이 내려가는 기분인데? 너 정말 기분 좋았겠다.",
+            "utterance_id": "BE22009911.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 예상하지 못한 폭우였지만 정말 행복했어. 너무 웃어서 배가 아플 정도라니까?",
+            "utterance_id": "BE22009911.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 그 시절로 돌아간 듯한 기분이네, 우리 학창 시절에는 그러고 노는 게 진짜 행복이었잖아. 나도 모르게 미소가 번져오는 것 같아.",
+            "utterance_id": "BE22009911.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 그래서 이 감정을 너와 나누는 지금도 정말 행복하네. 너는 그 시절 우리를 아니까 이렇게 이야기하는 것만으로 더 기분이 좋아져.",
+            "utterance_id": "BE22009911.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 너에게 그런 존재라서 정말 기분 좋은걸. 나이만 먹었지, 사실 우리는 그때와 달라진 건 없잖아. 이렇게 너의 이야기에도 같이 즐거워할 수 있어서 나도 행복해.",
+            "utterance_id": "BE22009911.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 그래서 오늘이 더 만족스러운 것 같아. 비를 맞은 것도 너와 이야기를 한 것도 정말 기억에 많이 남을 추억으로 간직할래.",
+            "utterance_id": "BE22009911.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너의 추억에 한 페이지로 장식될 수 있다니 정말 더 기분이 좋아지네!",
+            "utterance_id": "BE22009911.14"
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009765",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009765",
+        "relation": "친구",
+        "situation": "텀블러를 가져오지 않아 음료를 주문하지 못했다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 아침부터 곤란스러운 일이 있었어. 어떡하면 좋지?",
+            "utterance_id": "BE22009765.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "출근한다고 바쁜 시간인데, 어떤 일이었어?",
+            "utterance_id": "BE22009765.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 대학생 때부터 늘 텀블러 챙겨 다니는 거 알지? 나 지금 그것 때문에 너무 곤혹스러워.",
+            "utterance_id": "BE22009765.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알지, 너 환경문제에 관심이 많아서 꼭 텀블러 사용했잖아. 대체 무슨 일이야?",
+            "utterance_id": "BE22009765.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 맞아, 근데 오늘 카페에서 음료를 주문하다가 내가 두고 온 걸 알았어. 그걸 알게 된 순간부터 마음이 얼마나 불편하던지. 계속 그 생각만 나.",
+            "utterance_id": "BE22009765.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄청 당황스러웠겠다. 그래서 그냥 주문했어?",
+            "utterance_id": "BE22009765.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 결국 죄송하다고 주문 취소했어. 이런 상황을 생겼다는 데 스트레스를 받더라. 그리고 하루 동안 텀블러 없이 보내려니 마음이 초조하더라.",
+            "utterance_id": "BE22009765.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "카페에서 당황스러웠겠다. 나도 가끔 생각지도 못하게 물건을 두고 오면 종일 잘 챙길 걸 하고 생각해. 그 물건이 필요한 순간이 생길까 봐 초조한 감정도 들고 말이야.",
+            "utterance_id": "BE22009765.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까, 내가 꼼꼼하게 잘 챙기고 다니면 지금 커피 마시며 일하고 있겠지.",
+            "utterance_id": "BE22009765.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야, 오히려 잘된 일이야. 하루쯤은 커피를 안 마시는 게 건강에 좋아. 너의 실수에 그렇게 스트레스를 받지 않았으면 해. 괜찮아.",
+            "utterance_id": "BE22009765.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그렇게 긍정적으로 생각하고 싶은데 아쉽고 불안한 마음은 어쩔 수가 없네.",
+            "utterance_id": "BE22009765.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 요즘 커피 많이 마셔서 잠 잘 못 잔다고 하지 않았어? 오늘 커피 안 마셨으니 잠도 오히려 더 잘 수 있을 거야. 카페인에 의한 수면 방해가 상당하데.",
+            "utterance_id": "BE22009765.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 말대로 텀블러를 못 챙긴 대신 오늘 잠을 잘 자게 된다면 좋은 일이지.",
+            "utterance_id": "BE22009765.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 나는 사소한 실수에 하루 내내 너의 일상을 스트레스로 보내지 않았으면 해. 실수가 때론 긍정적인 결과를 만들 수도 있는 거야. 너의 실수를 자책하지 마.",
+            "utterance_id": "BE22009765.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워, 친구야. 오늘 하루 네가 해준 말 생각하면서 긍정적으로 생각해볼게.",
+            "utterance_id": "BE22009765.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "좋아. 다음엔 불안하지 않게 문 앞에 텀블러라고 메모장도 붙여 놓는 걸 추천할게!",
+            "utterance_id": "BE22009765.16"
+        }
+    ]
+}

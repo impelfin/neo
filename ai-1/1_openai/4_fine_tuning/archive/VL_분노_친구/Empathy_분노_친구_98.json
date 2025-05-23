@@ -1,0 +1,186 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010282",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010282",
+        "relation": "친구",
+        "situation": "드라이브를 갔다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 밤에 울적해서 혼자 드라이브로 바람 쐬러 나왔는데 타이어가 터져서 견인 차 불렀어. 이게 뭔 일인지 짜증 나서 분노가 치솟는다.",
+            "utterance_id": "BE22010282.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 괜찮니? 울적한 마음에 드라이브 나왔는데 타이어가 터졌다니 내가 다 속상하다. 문자 하는 거 보면 다친 게 아니라 다행이지만 많이 속상하겠어.",
+            "utterance_id": "BE22010282.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 다치지는 않았어. 그런데 밤중에 혼자 도로에서 견인차를 기다리려고 하니까 화가 나서 참을 수가 없네. 이게 돈 쓰고 시간 쓰고 더 울적해졌어.",
+            "utterance_id": "BE22010282.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 황당하고 화가 나는 상황이야. 나였다면 당황해서 아무것도 못할 텐데 넌 견인차를 부르고 나에게 알리기까지 하다니. 정말 대단하다.",
+            "utterance_id": "BE22010282.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 어이가 없는 상황이라서 너에게 알리고 싶었나 봐. 난 너에게 말하는 걸 참 좋아하나 봐. 이렇게 시시콜콜 떠드는 걸 보니 자야 할 시간인데 연락해서 미안.",
+            "utterance_id": "BE22010282.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 무슨 일이 생기면 먼저 생각나는 게 너인 걸. 나도 너 같은 친구가 있어서 항상 든든하고 얼마나 좋은데. 언제든지 네가 무슨 일이 있든 나에게 연락해.",
+            "utterance_id": "BE22010282.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각하고 문자 보내줘서 고맙다. 사실 드라이브하는 중에 타이어가 터진 거라서 정말 당황하고 등에 땀까지 났었어. 무섭고 두려웠어. 근데 차가 정지하고 나서 열이 받더라고.",
+            "utterance_id": "BE22010282.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주행 중에 타이어가 터진 거라면 정말 놀랐겠어. 너의 운전 실력이 좋아서 침착하게 정지할 수 있었나 봐. 열이 받았던 것은 정차했다는 안도감 후에 느껴진 감정이구나.",
+            "utterance_id": "BE22010282.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 맞아. 갓길에 서고 나니까 안도감이 들었는지 바로 타이어 갈아야 하는 생각에 짜증이 났어. 사람이 참 간사하다는 것도 느끼면서 열받아 하고 있는 중이야.",
+            "utterance_id": "BE22010282.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 마음 달래려고 밤 드라이브를 나간 건데 너의 상황이면 누구든지 짜증 나고 분노가 치솟을 거야. 너의 자연스러운 감정인데 너무 스트레스받지 마.",
+            "utterance_id": "BE22010282.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 이게 뭔 일인지 모르겠다. 이제 드라이브 안 나올래. 스트레스받을 때는 집에서 쉴 걸 내가 잘 못 생각한 것 같아서 후회가 돼.",
+            "utterance_id": "BE22010282.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에 타이어가 터진 건 너도 어쩔 수 없는 일이었잖아. 너무 스트레스받지 않았으면 좋겠다. 마음을 좀더 편하게 먹으면 견인차를 기다리는 너의 마음에 도움이 될 것 같아.",
+            "utterance_id": "BE22010282.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 지금 견인차가 온다는 사실에 감사하는 마음으로 생각해야겠다. 내가 지금 너무 화가 나 있어서 그런지 머리가 아플 지경이야.",
+            "utterance_id": "BE22010282.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거 정말 좋은 생각이다. 생각의 전환을 통해서 같은 상황도 다르게 마음을 먹어서 이 상황을 벗어난다는 게 정말 현명하잖아. 역시 넌 똑똑해.",
+            "utterance_id": "BE22010282.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그렇게 말해줘서 고맙다. 그냥 나는 이 상황을 벗어나고 싶어서 편하게 생각하는 건데. 이렇게 너와 문자를 나누니 드라이브 나와서 분노했던 내 마음이 많이 해소되었어.",
+            "utterance_id": "BE22010282.15"
+        }
+    ]
+}

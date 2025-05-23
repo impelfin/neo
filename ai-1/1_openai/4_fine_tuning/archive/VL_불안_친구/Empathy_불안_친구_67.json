@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009922",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009922",
+        "relation": "친구",
+        "situation": "알콜중독 치료 중인데 금단현상으로 마른 주정을 했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "술을 끊었더니 오히려 더 안 좋아지는 것 같아.",
+            "utterance_id": "BE22009922.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "끊은 지 얼마나 됐는데 그래?",
+            "utterance_id": "BE22009922.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한 2달 됐지. 알코올중독 치료 중이라 안 마시는데 도리어 금단 현상으로 마른 주정을 해. 이런 내 상태가 혹여 이상한 걸까 봐 불안해.",
+            "utterance_id": "BE22009922.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 치료 때문에 금주인데 되려 금단 현상이 나타난다니 너 정말 불안할 수밖에 없겠다. 중독 치료가 정말 쉽지 않은 문제잖아. 너 심적으로 마음이 좋지 않겠구나.",
+            "utterance_id": "BE22009922.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 술을 마시지도 않았는데 마치 술 마신 것처럼 기분이 몽롱해. 이러다가 다시 술을 마실까 봐 불안해져. 내가 잘 버틸 수 있을까?",
+            "utterance_id": "BE22009922.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 2개월이면 잘 버티고 있는 거야. 금단 현상으로 나타난 거니 그 시기만 잘 버텨 봐. 조금만 더 시간이 지나면 좋아질 거야.",
+            "utterance_id": "BE22009922.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "금단 현상으로 마른 주정을 한다니. 술 마신 기분이라 사실 지금 술 생각이 간절해. 이러다 내가 끈기 없이 다시 전처럼 마실까 봐 걱정돼.",
+            "utterance_id": "BE22009922.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 술 마실 때랑 기분이 비슷해서 더 참기 어렵겠네. 네가 지금 얼마나 어려운 상황에 부닥쳤는지 알 것 같아. 나 같아도 지금 너처럼 마음이 좋지 않을 것 같아.",
+            "utterance_id": "BE22009922.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 마른 주정도 언제까지 계속될지 모르겠어. 이러다가 내가 무너질 것 같아.",
+            "utterance_id": "BE22009922.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 낙심하지 마. 알코올중독 치료할 때 누구나 겪는 시련인 거야. 마른 주정이 일시적으로 나타났다가 없어질 거야.",
+            "utterance_id": "BE22009922.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까? 아무리 일시적인 현상이라도 해도 너무 힘들어.",
+            "utterance_id": "BE22009922.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 네가 치료가 잘 되어가고 있어서 금단 현상이 나타난 게 아닐까 싶어. 못 참고 마셨으면 금단 현상이 나타날 이유도 없잖아. 네 치료가 잘 되어가고 있다고 생각하면서 위안하자.",
+            "utterance_id": "BE22009922.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 말해주니 정말 치료가 좋게 이루어지고 있는 것 같아. 아무래도 더 버티는 게 좋겠지?",
+            "utterance_id": "BE22009922.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 2개월 버틴 것도 정말 대단해. 네가 그렇게 의지로 버티는 모습 보니 내가 다 감동적이다. 무사히 치료 잘 되기를 바라.",
+            "utterance_id": "BE22009922.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "응, 네 덕분에 더 버틸 힘이 생겼어. 격려 고마워.",
+            "utterance_id": "BE22009922.15"
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010120",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010120",
+        "relation": "친구",
+        "situation": "얼굴에 자꾸 기름기가 생긴다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "넌 요즘 화장품 어떤 제품으로 이용해?",
+            "utterance_id": "BE22010120.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는, 민감성 피부를 위해 나온 제품들로 사용 중이야. 피부가 예민하거든.",
+            "utterance_id": "BE22010120.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇구나. 나 요즘 얼굴에 계속 기름기가 생겨서 화가 나. 내 피부는 왜 이런 걸까.",
+            "utterance_id": "BE22010120.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "피부가 안 좋아지면 기분이 당연히 안 좋지. 나도 트러블 하나 나도 거울 보기가 싫더라.",
+            "utterance_id": "BE22010120.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 요즘 거울만 보면 못마땅해. 기분이 별로 좋지 않아. 어떡해야 할까?",
+            "utterance_id": "BE22010120.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 기분이 그런 게 충분히 이해가 가. 누구이더라도 그럴 거야. 많이 성가 실 거 같아.",
+            "utterance_id": "BE22010120.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 나름대로 관리한다고 하는 데도 이렇네.",
+            "utterance_id": "BE22010120.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음식도 피부에 영향을 많이 끼친다고 하더라. 이 기회에 식단 관리를 해보는 건 어때? 건강 관리한다는 마음으로 가볍게 생각하면 기분도 괜찮아지고 피부도 좋아질 거 같은데.",
+            "utterance_id": "BE22010120.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 그럴까? 좋은 생각이네. 네 말대로 식단 조절하면서 건강도 챙기고 피부도 좋아지고 좋을 거 같아.",
+            "utterance_id": "BE22010120.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 이왕 하는 거 일석이조의 효과를 보면 더 좋지. 피부에 너무 스트레스를 받으면 더 안 좋을 거야. 기분 좋게 습관을 바꿔보자.",
+            "utterance_id": "BE22010120.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 맞아. 문제 해결도 중요하지만 내가 스트레스를 안 받는 게 제일 중요해.",
+            "utterance_id": "BE22010120.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋아. 긍정적인 좋은 생각을 가지고 생활 습관만 조금 고치면 좋아질 거야. 넌 늘 긍정적이고 밝은 사람이잖아. 그러니 금방 피부도 개선될 거야.",
+            "utterance_id": "BE22010120.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워. 덕분에 용기가 생겼어. 얼굴에 기름기 정도야 금방 사라질 거 같아.",
+            "utterance_id": "BE22010120.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "넌 멋져. 내가 지성 피부를 위한 화장품도 추천해줄게.",
+            "utterance_id": "BE22010120.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네가 내 마음도 몸도 금방 회복시켜주네. 늘 고마워.",
+            "utterance_id": "BE22010120.15"
+        }
+    ]
+}

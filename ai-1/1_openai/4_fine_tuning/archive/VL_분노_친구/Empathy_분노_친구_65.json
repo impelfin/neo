@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009861",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009861",
+        "relation": "친구",
+        "situation": "가족을 버렸던 아버지가 10년만에 연락을 해왔다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 가족을 버렸던 아버지가 10년 만에 연락이 왔는데 난 너무 화가 나.",
+            "utterance_id": "BE22009861.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 안 그렇겠니. 나 같아도 화가 나서 돌아버릴 것 같은 심정인데 너는 오죽하겠니?",
+            "utterance_id": "BE22009861.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "인제 와서 왜 연락했는지 도무지 이해가 안 가. 우리 가족이 그동안 얼마나 힘들게 살아왔는데. 가장으로써 책임감도 없이, 그렇게 우리를 내팽개치고 그렇게 버릴 수가 있냐고.",
+            "utterance_id": "BE22009861.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 가족들과 고생을 어떻게 했는지 내가 다 알지. 정말 눈물 없이는 들을 수 없는 일들이 많았었는데, 네 깊은 마음속을 어떻게 헤아릴 수가 있겠니.",
+            "utterance_id": "BE22009861.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 그래도 아버지가 우리가 자라는 동안 공부할 수 있게 교육비는 해주지 않을까 생각했어. 그런데 아버지는 우리를 철저하게 외면하고 버렸어. 난 그 부분만 생각해도 얼마나 열이 나고 화가 나는지 모르겠어.",
+            "utterance_id": "BE22009861.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 네가 공부할 때 책 살 돈이 없어서 내 책도 빌렸던 적도 있었지. 너의 그런 힘든 모습을 볼 때면 내가 다 마음이 아프고 짠한 생각이 들었었어.",
+            "utterance_id": "BE22009861.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어릴 때 어머니가 일하다가 다치신 적이 있었는데, 병원비가 없어서 병원도 못 갔었어. 얼마나 고생하셨는지 지금도 그 후유증으로 일을 못 하시게 됐어. 어릴 적 내가 느꼈던 마음은 아버지를 절대 용서하지 않겠다는 마음이었어.",
+            "utterance_id": "BE22009861.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 그런 마음을 어떻게 다 안다고 말을 하겠니. 네가 그때 얼마나 울고 속상해했는데. 나도 같이 울었잖아 너무 마음이 아파서.",
+            "utterance_id": "BE22009861.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 뒤로는 나도 아버지를 버렸어. 그래서 결심했지, 어떻게든 가족들이랑 어떻게든 살아 보겠다고, 이 악물고 버텼어. 정말 하루에 한 끼 먹어 가면서 일했어, 죽을힘을 다해서 여기까지 온 거야.",
+            "utterance_id": "BE22009861.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 많이 힘들었겠구나. 네가 어떻게 이렇게 버텨왔는지 상상이 안 돼. 내 가슴이 다 찢어진다.",
+            "utterance_id": "BE22009861.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 오직 한가지 생각밖에 없었어. 나중에 시간이 흘러서 아버지가 우리를 찾았을 때, 아버지가 없어도 우리는 이렇게 잘 살아왔다. 이걸 두 눈으로 똑똑히 보게 해주고 싶었어.",
+            "utterance_id": "BE22009861.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음이 어땠는지 내 가슴이 아린다. 그동안 정말 힘들었겠구나. 그렇게 죽을힘을 다해서 지금 이렇게 잘 사는 모습을 보니까 존경스럽다는 생각이 든다. 정말 대단해.",
+            "utterance_id": "BE22009861.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "이렇게 네가 내 말을 들어 주니까 들어주니까 아버지에 대한 분노가 조금은 사라진 것 같아. 이렇게 말을 들어주는 것도 힘든 일인데 정말 고마워.",
+            "utterance_id": "BE22009861.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 마찬가지야. 네가 얼마나 내 마음에 위안이 되는지 몰라. 네 마음이 조금은 나아졌다니 나도 기분이 좋다. 앞으로도 이렇게 마음이 힘들 때면 언제나 얘기해도 돼.",
+            "utterance_id": "BE22009861.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "내 마음이 힘들 때, 들어줄 수 있는 친구가 있다는 게 힘이 된다. 고마워.",
+            "utterance_id": "BE22009861.15"
+        }
+    ]
+}

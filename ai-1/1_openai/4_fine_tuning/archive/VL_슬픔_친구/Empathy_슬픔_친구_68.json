@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010115",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010115",
+        "relation": "친구",
+        "situation": "몇 달치 월급이 밀렸다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 지금 몇 달 동안 월급을 한 푼도 받지 못하고 있어.",
+            "utterance_id": "BE22010115.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐라고? 회사에 얘기는 해봤어? 너 지금 많이 심란하겠다.",
+            "utterance_id": "BE22010115.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "해봤는데 회사 사정이 좋지 않아서 당분간은 월급을 주기 어려울 것 같다고 하더라고. 그래서 앞으로는 아이 학원비도 내지 못하고 용돈도 주지 못할 것 같아. 너무 슬프고 마음이 아파서 하늘이 무너지는 기분이야.",
+            "utterance_id": "BE22010115.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 지난해에 너와 같은 일을 겪어서 네 마음을 누구보다 잘 알아. 네가 얼마나 열심히 일해왔고 가족들을 생각하는지 아니까 네 기분이 더 예상이 가. 네가 그렇게 슬퍼하니까 나도 눈물이 나려고 하네.",
+            "utterance_id": "BE22010115.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 진짜 우리 가족한테 좋은 옷 입히고 좋은 음식 먹이고 싶어서 정말 열심히 일했거든. 근데 돌아온 게 이런 결과라는 게 믿기지 않고 너무 속상해. 아이들과 부인이 나를 분명히 원망할 걸 생각하니까 너무 슬퍼.",
+            "utterance_id": "BE22010115.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이들과 부인은 누구보다 너를 아끼고 사랑하니까 널 원망하지 않을 거야. 네가 일부러 그런 것도 아니고 억울한 일을 당한 걸 보면 누구보다 널 위로해줄 거야. 네가 곁에 있어 주는 것만으로 행복해할 거니까 너무 슬퍼하지 마.",
+            "utterance_id": "BE22010115.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까? 이제까지는 그래도 모아둔 돈으로 생활할 수 있었는데, 이번 달부터는 너무 막막해. 당장 재정 상황이 어려운데도 이런 나를 이해하고 위로해줄까?",
+            "utterance_id": "BE22010115.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 네가 그동안 얼마나 가족을 위해 헌신하고 노력하며 살아왔는지 가족들이 누구보다 잘 알잖아. 혼자 끙끙 앓지 말고 가족들에게 속 시원하게 털어 놓아봐. 걱정을 나누고 너를 위하는 사람들이 곁에 있다는 걸 알면 마음이 편안해질 수 있을 거야.",
+            "utterance_id": "BE22010115.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 혼자 생각하니까 더 앞날이 무서워져서 슬프고 막막했던 것 같아.",
+            "utterance_id": "BE22010115.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 마음 충분히 이해해. 아니면 내가 따로 돈을 벌 수 있을 만한 일을 찾아볼게. 아르바이트 개념으로 일을 좀 하다 보면 그래도 당장 필요한 돈은 벌 수 있을 거야.",
+            "utterance_id": "BE22010115.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 고마워. 네가 있어서 너무 든든한 것 같아. 내 밀린 월급도 언젠가 받을 수 있겠지?",
+            "utterance_id": "BE22010115.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 회사 상황이 좀더 나아지면 금방 지급받을 수 있을 거야. 너무 걱정하지 말고 일단 기다려보자.",
+            "utterance_id": "BE22010115.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워. 네 덕분에 마음이 좀 괜찮아진 것 같아. 고민 들어줘서 고마워.",
+            "utterance_id": "BE22010115.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그랬다니 다행이야. 언제든지 고민 있으면 또 나한테 말해. 도와줄 수 있는 선에서 최선을 다해서 도와줄게.",
+            "utterance_id": "BE22010115.14"
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22010340",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010340",
+        "relation": "친구",
+        "situation": "자전거를 타다가 넘어졌다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 정말 당황스러운 일이 있었어.",
+            "utterance_id": "BE22010340.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일인데 그래? 자세히 말해봐.",
+            "utterance_id": "BE22010340.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "글쎄 오늘 자전거를 타다가 넘어진 거 있지? 자전거를 몇 년을 탔는데 이런 경우는 처음이라 정말 당황스러웠어.",
+            "utterance_id": "BE22010340.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있었구나 정말 많이 놀랐겠네. 절대 넘어질 일이 없다고 생각했는데 그런 일이 벌어지면 황당하기도 하고 어이가 없기도 하지.",
+            "utterance_id": "BE22010340.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 절대 넘어질 곳도 넘어질 상황도 아니었거든. 나도 그때 내가 왜 넘어졌는지 아직도 모르겠어. 넘어지고 나서는 정말 깜짝 놀랐다니까.",
+            "utterance_id": "BE22010340.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "충분히 그럴 수 있지. 그런 예상치 못한 일이 발생했을 땐 괜히 더 긴장되고 멍해지는 기분이 드는 거 같아. 머리가 핑 도는 것처럼 어지럽기도 하고 말이야.",
+            "utterance_id": "BE22010340.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 순간 머릿속이 백지가 된 기분이었어. 숨도 턱 막혀서 잘 안 쉬어지는 기분이었다니까. 지금 생각해도 정말 당혹스러워.",
+            "utterance_id": "BE22010340.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음 충분히 이해 가. 나였어도 그 상황에서 쉽게 빠져나오지 못했을 거 같아. 네 말만 들어도 벼랑 끝에 서 있는 것처럼 정말 아찔한 기분이 드는걸.",
+            "utterance_id": "BE22010340.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 일어난 다음에는 얼굴이 홍당무처럼 정말 화끈거렸던 거 같아. 눈앞이 새까맣게 된 것처럼 캄캄했고 말이야. 다시 생각해도 정말 부끄럽다.",
+            "utterance_id": "BE22010340.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 전에 비슷한 경험을 한 적이 있었는데 민망한 마음이 쉽게 사라지질 않았던 거 같아. 그럴 땐 정말 끔찍하기까지 하지 않아? 심장도 터질 것 같고 말이야.",
+            "utterance_id": "BE22010340.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 아까는 너무 놀란 마음에 스스로가 한심하기도 했던 거 같아. 다리가 후들거려서 다시 자전거를 못 타겠더라니까.",
+            "utterance_id": "BE22010340.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다치진 않았어? 넘어진 곳은 괜찮은 거지? 네가 얼마나 당황스러웠을지 나한테까지 느껴져. 정말 옷을 벌거벗은 기분이었을 거 같아.",
+            "utterance_id": "BE22010340.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 지금은 괜찮아. 이 나이에 자전거를 타다가 넘어지다니 정말 창피하네. 쉽게 당황스러운 마음이 사라지질 않는 거 같아.",
+            "utterance_id": "BE22010340.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 잘못한 것도 아닌데 뭐 어때 부끄러워할 필요도 없고 잊어버리면 돼. 이상하게 생각하거나 뭐라 할 사람도 없어 아마 주위에 있던 사람들도 안타깝다고만 생각했을 거야. 너무 걱정하지 마.",
+            "utterance_id": "BE22010340.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "응. 그 말을 들으니 마음이 한결 나아진다. 얘기 들어줘서 고마워.",
+            "utterance_id": "BE22010340.15"
+        }
+    ]
+}

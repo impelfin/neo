@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010022",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010022",
+        "relation": "친구",
+        "situation": "술에 취해 거리에서 자는 나를 구급대원이 깨웠다고 한다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 집에 잘 들어갔어? 난 너랑 헤어지고 말하기도 창피한 일 당했어.",
+            "utterance_id": "BE22010022.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일을 당했다는 거야? 난 고주망태가 되었다고 아내한테 잔소리를 들었지만 그래도 집에는 잘 도착했는데.",
+            "utterance_id": "BE22010022.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말도 마. 밤늦게 119구급대원이 우리 아내한테 전화를 했대. 술에 취해 길에서 자고 있는 나를 깨웠는데 제대로 걷지도 못하고 횡설수설하니 얼른 와서 데려가라고. 아내 말 듣고 얼마나 당황스러웠는지 몰라.",
+            "utterance_id": "BE22010022.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐? 길에서 잤다고? 어떻게 그런 황당한 일이 일어났지? 정말 나도 당황스럽네.",
+            "utterance_id": "BE22010022.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누군가가 길에 엎어져 누워 있는 사람이 있는데 죽었는지 살았는지 모르겠다며 119에 신고를 했대.",
+            "utterance_id": "BE22010022.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 어이없어서 말도 안 나오네. 정말 큰일 날 뻔했다. 넌 그럼 어제 일이 기억나지 않는다는 거야?",
+            "utterance_id": "BE22010022.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 기억이 전혀 안 나. 아침에 일어났더니 아내가 생고생하며 집에까지 데려온 얘기를 하더라고. 얼마나 부끄러운지 고개를 푹 숙이고 있었다니까.",
+            "utterance_id": "BE22010022.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 정말 창피해서 쥐구멍에라도 숨고 싶었겠다. 내가 다 부끄러워서 얼굴이 화끈거리네.",
+            "utterance_id": "BE22010022.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 우리 평소와 별반 다르지 않게 마신 거 아니야? 2차로 생맥줏집 갔다가 헤어진 거 맞지?",
+            "utterance_id": "BE22010022.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와, 너 진짜 기억하지 못하는구나! 그만 헤어지자는 날 붙잡고 딱 한잔만 더 하자며 우겨서 길가 포장마차에 끌고 들어갔잖아.",
+            "utterance_id": "BE22010022.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "3차까지 마셔서 그렇게 인사불성이 됐구나. 나 정말 얼굴을 들 수 없을 만큼 부끄럽고 당황스러워. 오늘 퇴근 후 집에 가서도 아내 얼굴을 똑바로 못 볼 것 같아.",
+            "utterance_id": "BE22010022.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 아내한테 다시는 이런 일이 생기지 않도록 술을 자제하겠다고 진지하게 약속해. 마음속으로 굳게 다짐하고 자신을 믿으면 부끄러움이 서서히 괜찮아질 거야. 이번 기회에 우리 이제 정말 술 좀 줄이자.",
+            "utterance_id": "BE22010022.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래, 나 자신을 믿고 술을 확실히 줄이는 모습을 보여줘야겠어. 네 말이 위로가 되어 부끄럽고 당황스러운 마음이 좀 진정이 되네. 고맙다, 친구야. 하지만 이제부터는 고맙다고 해서 너에게 술을 사주지는 않을 거야.",
+            "utterance_id": "BE22010022.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 그 마음 자세가 훌륭하다. 나도 네가 그런 일 겪어서 정말 당황스러워. 앞으로 우리 사이에 차 마시는 문화를 만들어보자고.",
+            "utterance_id": "BE22010022.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 좋은 생각이야. 더 이상 창피한 일 당하지 않으려면 노력해야지.",
+            "utterance_id": "BE22010022.15"
+        }
+    ]
+}

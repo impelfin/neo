@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009143",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009143",
+        "relation": "친구",
+        "situation": "처음으로 명함이 생겼다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기분이 참 이상한 날이다. 기쁘기도 하고, 눈물이 날 것 같기도 한 그런 날 있지.",
+            "utterance_id": "BE22009143.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "묘한 기분의 그런 날 그럼 있지. 난 주로 기다렸던 일이 생기면 그렇던데. 너도 그런 거야?",
+            "utterance_id": "BE22009143.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 오늘 처음으로 명함이 생겼거든. 어찌나 감개무량하던지 그 기쁨을 말로는 다 표현 못하겠어.",
+            "utterance_id": "BE22009143.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머나 너 회사 입사하고, 이제 수습 사원 딱지 떼었구나, 명함 받은 걸 보면 말야! 정말 축하해! 네가 얼마나 기다리던 일인지 알기에 나도 정말 기쁘다.",
+            "utterance_id": "BE22009143.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어, 대학 마치고, 길었던 구직 생활 끝에 이룬 성과라 그런지 성취감이 크게 느껴진다. 누구한테 말도 못하고 너한테 제일 먼저 연락하는 거야.",
+            "utterance_id": "BE22009143.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 그동안 네가 한 고생, 그 구구절절한 이야기 내가 다 알잖아. 잘했,어 나한테 먼저 연락한 거. 길고 어려운 수습 기간도 무사히 마친 네가 너무 자랑스럽다.",
+            "utterance_id": "BE22009143.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 긴 어둠의 시간을 2년 가까이 보냈잖아. 밥 먹을 돈이 없어서 네가 많이 사줬지. 그 고마움 잊지 않을 거야.",
+            "utterance_id": "BE22009143.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨, 난 운이 좋게 취직이 먼저 되는 바람에 그럴 수 있었지. 한 명이라도 먼저 되어서 서로 도울 수 있었으니 다행이고 말야. 나도 네가 그 힘든 시절 너무 좌절하지 않고 보내줘서 고맙지.",
+            "utterance_id": "BE22009143.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 대화 너무 따뜻한걸! 근데 명함을 받고 나니 책임감이 들면서 좀 부담스럽기도 해.",
+            "utterance_id": "BE22009143.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제 명함값을 해야 하니 일도 더 열심히 해야겠지. 실수가 생긴다면, 그에 대한 책임도 주어질 테고 말야. 수습을 잘 마쳤다는 의미는 잘하고 있다는 뜻이니까 너무 부담 갖지 말고 긍정적으로 생각해보면 어떨까 싶어.",
+            "utterance_id": "BE22009143.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 오늘은 그저 기뻐만 하기로 하자. 그동안 지나온 시간들을 기억하면서 말야.",
+            "utterance_id": "BE22009143.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "명함 받고 함께 일하는 동료 상사분들께 기쁨의 떡 같은 걸 좀 돌렸나? 우리 회사는 그런 전통이 있더라구.",
+            "utterance_id": "BE22009143.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 그건 생각 못했네. 나 교육해 주시는 분들도 그동안 고생하셨을 텐데. 혼자 기뻐하기보다 함께 해준 사람들에게 감사를 표시하며 나누는 즐거움도 있겠는걸.",
+            "utterance_id": "BE22009143.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 나도 그 떡 돌리기 전에는 좀 귀찮았어. 그런데 막상 하고 나니 마음이 뿌듯하면서 감사하는 마음이 커지니까 행복이 배로 늘더라.",
+            "utterance_id": "BE22009143.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "정말 좋은 생각이다! 역시 직장 선배의 말은 하나같이 흘려 들을 게 없네! 고맙다, 나도 내일 떡 맞추러 가야겠어.",
+            "utterance_id": "BE22009143.15"
+        }
+    ]
+}

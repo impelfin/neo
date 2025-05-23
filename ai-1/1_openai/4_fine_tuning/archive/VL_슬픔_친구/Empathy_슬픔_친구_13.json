@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009382",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009382",
+        "relation": "친구",
+        "situation": "거래처에서 일방적으로 계약을 해지했다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 계약 건 정말 노력해서 따낸 거였는데, 일방적으로 해지당했어.",
+            "utterance_id": "BE22009382.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 얼마나 신경 쓴 계약인지 알기에, 내가 다 속상하다. 너의 마음은 좀 괜찮아?",
+            "utterance_id": "BE22009382.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 괜찮아. 이번에 실적 내려고 정말 노력했는데, 모든 게 물거품이 됐어. 너무 절망스러워서 눈물이 나.",
+            "utterance_id": "BE22009382.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 할 수 있는 데까지는 최선을 다한 거잖아. 그들의 일방적인 해지는 너도 어쩔 수 없었던 거였어. 너무 괴로워하지 않기를 바라.",
+            "utterance_id": "BE22009382.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에 정말 큰 계약이었잖아. 그걸로 실적을 내서 성과급을 받으면, 아이 병원비에 보태려 했었어. 무능한 나 자신이 정말 비참하고 슬프다.",
+            "utterance_id": "BE22009382.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어려운 상황이니만큼 기대가 컸을 텐데, 네가 얼마나 슬펐을지 느껴진다. 아이까지 연관된 일이라면 너 정말 괴로운 마음일 것 같아.",
+            "utterance_id": "BE22009382.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 이 계약 건에 내 모든 걸 건 것과 같았어. 성과급을 받지 못하면, 아이 수술을 못 하게 돼. 나 세상이 무너진 것 같은 슬픔에 빠졌어.",
+            "utterance_id": "BE22009382.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 큰일을 겪고 있구나. 나였어도 너무 두렵고 슬펐을 것 같아. 조금 진정해 보고 우리 같이 해결책을 찾아 나가는 게 어떨까?",
+            "utterance_id": "BE22009382.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "새로운 거래처와 계약하는 방법밖에 없는데, 잘할 자신이 없어. 이번에도 정말 어렵게 따낸 거였는데, 난 이제 끝났어.",
+            "utterance_id": "BE22009382.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 말주변이 뛰어나고 유능하잖아. 지금은 자신감이 낮아졌지만, 너는 분명 잘 해낼 수 있으리라 믿어.",
+            "utterance_id": "BE22009382.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 유능하다고 생각해? 겨우 따낸 계약도 해지당했다고 난.",
+            "utterance_id": "BE22009382.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 상황과 상관없이, 난 네가 능력 있다고 생각해. 너 정말 노력해서 대기업에 들어간 거잖아. 네가 코피 흘리면서 밤낮 공부할 때 난 널 정말 멋지다고 생각했어.",
+            "utterance_id": "BE22009382.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "예전 일인데도, 기억해 줘서 고마워. 네 말을 들으니 희망이 좀 생긴다. 내가 다시 새로운 계약을 맺을 수 있을까?",
+            "utterance_id": "BE22009382.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 저번에도 해냈듯이, 이번에도 넌 해낼 수 있을 거야. 그리고 네가 해낼 수 있도록 나도 너를 응원하고 격려할 거야.",
+            "utterance_id": "BE22009382.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너처럼 내 장점을 기억하고, 위로해 주는 친구가 있어서 슬픔이 해소된다. 정말 고마워 친구야.",
+            "utterance_id": "BE22009382.15"
+        }
+    ]
+}

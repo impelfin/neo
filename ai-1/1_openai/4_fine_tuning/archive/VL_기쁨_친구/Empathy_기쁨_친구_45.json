@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009359",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009359",
+        "relation": "친구",
+        "situation": "딸이 남자 친구와 헤어졌다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 지난번에 괜찮은 남자 있다고 우리 딸 소개해 준다고 했지? 그거 아직 기회 남았니?",
+            "utterance_id": "BE22009359.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 딸 연애 중이라 거절하길래 다른 사람 소개해 주려고 찾고 있지. 정말 괜찮은 사람이라 아무나 막 이어주기 그래서 신중히 하려고 하고 있었어.",
+            "utterance_id": "BE22009359.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머 세상에 솔직히 기대 안 하고 물어본 건데 기회가 있다니 너무 잘 되었다. 우리 딸 이번에 헤어져서 소개 가능한데 그 자리 다시 마련해 줄 수 있을까?",
+            "utterance_id": "BE22009359.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마침 타이밍이 잘 맞아서 다행이네. 근데 아직 이별의 슬픔이 가시지 않았을 텐데 다른 사람을 만날 준비는 안 되지 않았을까?",
+            "utterance_id": "BE22009359.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어유 그런 날라리 같은 애 백번 천번 잘 헤어졌지. 딸도 전혀 타격도 없이 평소랑 똑같이 밝고 활발해서 마음에 거리낄 일은 하나도 없어. 이렇게 헤어지다니 마음의 큰 짐을 하나 던 것 같아 안심해서 날아갈 것같이 기쁜걸.",
+            "utterance_id": "BE22009359.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "예전 남자 친구가 행실이 별로였으면 헤어진 게 너한테 평안하고 달갑게 느껴질 만하다. 나였어도 일이 잘 해결된 게 기쁘고 마음이 놓여서 싱글벙글 웃음을 달고 살았을 거야.",
+            "utterance_id": "BE22009359.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 걔랑 계속 만나다가 깊은 관계가 되면 어떡하나 매일 노심초사했어. 드디어 오늘부터 가벼운 마음으로 발 뻗고 잘 수 있을 테니 얼마나 좋니.",
+            "utterance_id": "BE22009359.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "커다란 근심거리를 하나 짊 어질고 살다가 한순간에 던져 버렸으니 상쾌하고 가뿐한 기분이겠다. 정말 다행이라 내 마음도 놓이네.",
+            "utterance_id": "BE22009359.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "연애 문제로 만나라 마라 강요할 수도 없어서 참고만 있었는데 알아서 잘 해결해 주다니 장하지. 역시 날 닮아서 사람 보는 눈이 없지는 않은 것 같아 뿌듯하더라고. 더운 날 얼음물 한잔 쭉 마신 것처럼 시원한 기분이야.",
+            "utterance_id": "BE22009359.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 마음 편히 만족하고 기뻐하는 모습을 보니까 나도 개운하네. 좋은 사람 소개해 줄 기회도 놓치지 않게 되어서 다행이고 말이야.",
+            "utterance_id": "BE22009359.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 네가 쉽게 누구 소개해 줄 사람이 아니잖아. 그런데 그 정도로 칭찬을 강조하는 거 보고 놓치는 게 아쉬워서 배 아플뻔했지. 근데 그 기회도 오롯이 돌아오게 되었으니 일석이조라 이보다 좋을 수가 있겠어?",
+            "utterance_id": "BE22009359.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 결혼만 안 했어도 내가 찜했을 사람이야. 네 딸이라 기꺼운 마음으로 소개해준 거거든. 일이 이렇게 잘 풀리는 걸 보니까 좋은 소식이 들릴 것 같은데?",
+            "utterance_id": "BE22009359.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 완벽해서 더 바랄 게 없지. 좋은 기회 마련해 줘서 고맙다 친구야.",
+            "utterance_id": "BE22009359.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "별말씀을. 그래도 당사자들 의견이 중요하니까 우리는 뒤에서 잘 밀어주기만 하자.",
+            "utterance_id": "BE22009359.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "당연하지. 이 기쁜 마음으로 딸이랑 쇼핑이라도 가서 예쁜 옷이라도 사 입히고 준비해야겠네. 또 연락할게, 고마워.",
+            "utterance_id": "BE22009359.15"
+        }
+    ]
+}

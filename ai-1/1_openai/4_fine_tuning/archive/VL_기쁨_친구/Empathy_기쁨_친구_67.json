@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009561",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009561",
+        "relation": "친구",
+        "situation": "엄마가 출근길에 학교까지 태워다주셨다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자야, 엄마가 다시 회사에 출근하시기 시작하셨어. 그래서 오늘 학교도 엄마가 태워다 주셨다. 얼마나 편안하고 좋았는지 몰라.",
+            "utterance_id": "BE22009561.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마랑 와서 너 진짜 좋았겠다. 등굣길이 힘들기도 하지만, 엄마랑 시간을 더 나눌 수 있었으니 말이야. 너 정말 운 좋은 거 알지?",
+            "utterance_id": "BE22009561.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 등굣길이 편안해지고, 엄마랑 대화하면서 오니까 마음에 여유도 생기는 것 같아. 이게 다 엄마가 다시 출근하시면서 가능해진 일이야. 그게 얼마나 기쁜지 모른다.",
+            "utterance_id": "BE22009561.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 여유로운 마음으로 학교에 왔다니, 듣는 내가 더 좋다. 근데 난 엄마가 종일 회사에 있는 건 별로인데, 넌 괜찮아?",
+            "utterance_id": "BE22009561.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 엄마가 아프셔서 잠시 휴직하고 계셨거든. 너한테 말은 못 했지만, 걱정이 좀 많았어. 그런데 건강이 회복되시면서 출근하실 수 있어 정말 다행이고, 그런 모습을 보는 게 기뻐!",
+            "utterance_id": "BE22009561.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 기쁘다! 나도 그런 이유라면 엄마가 출근하는 게 그저 기쁘고 행복하기만 할 것 같아. 나도 엄마 아프셨을 때 아무리 좋은 일을 해도 행복하거나 좋지 않았거든. 그래서 그간 네가 얼마나 걱정이 많았을지, 오늘 함께 차 타고 오면서 기뻤을지 다 느껴진다.",
+            "utterance_id": "BE22009561.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워! 엄마가 아프다는 건 정말 끔찍한 일이야. 하늘이 무너지는 것처럼 마음이 무겁고 아프거든. 근데 오늘 아침에 예쁘게 화장하고, 미소 띤 얼굴의 엄마를 보니까 살맛 나는 느낌이 들더라.",
+            "utterance_id": "BE22009561.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 기뻤다니 내 마음도 너무 좋다. 그동안 너답지 않게 어두운 구석이 보여서 걱정했거든. 그런데 그 이유도 이제 알았고, 다시 예전처럼 밝게 돌아온 네가 정말 반갑고 좋은 거 있지.",
+            "utterance_id": "BE22009561.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "넌 그런 내 감정을 느꼈어? 나는 아무에게도 티 내지 않으려고 무척 애를 썼는데 말이야. 그래도 네가 이렇게 내 마음을 느끼고 이해해 주려 했다는 게 너무 행복하다.",
+            "utterance_id": "BE22009561.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 넌 나한테 얼마나 소중한 사람인데. 그런 사람한테 어두운 구석이 생기면 당연히 금방 느끼게 되지. 그리고 오늘처럼 기쁘고 행복하다는 걸 알게 되면 나도 덩달아 기분 좋아지고 말이야.",
+            "utterance_id": "BE22009561.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "날 그렇게 소중하게 생각해 주니 기쁨이 벅차오르는걸. 난 친구 사이라면 어려운 일은 티 내지 않고, 좋은 일들만 나누는 거라고 생각했거든. 그래서 그동안 엄마 일은 말하지 않았던 거고.",
+            "utterance_id": "BE22009561.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 네가 이렇게 생각이 깊은 사람이라 더 좋아. 결국 나를 먼저 배려해 주느라 네가 힘들게 느끼는 일은 공유하지는 않은 거잖아. 너처럼 배려심 많고, 마음 고운 사람이 내 친구인 게 정말 자랑스럽다.",
+            "utterance_id": "BE22009561.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "넌 어쩜 내 마음을 그렇게 잘 알까? 난 그저 내 어려운 얘기를 하면, 괜히 너까지 마음 무거워질까 봐 그랬던 건데 말이야. 이렇게 좋게 생각해 줘서 정말 고맙고, 기쁜걸!",
+            "utterance_id": "BE22009561.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 앞으로는 어려운 얘기도 나눠야 해. 그래야 서로 도움이 되고, 너나 나나 힘든 일을 좀 쉽게 넘길 수 있을 테니까. 무엇보다 엄마 건강 회복되셨다니 그게 제일 듣기 좋다.",
+            "utterance_id": "BE22009561.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "어, 앞으로는 좋은 일도, 어려운 일도 함께 나눌게. 너도 꼭 그래야 해. 아침부터 엄마랑 함께 와서 기뻤는데, 너랑 대화하다 보니 더 기쁘고 행복해졌는걸! 정말 고마워!",
+            "utterance_id": "BE22009561.15"
+        }
+    ]
+}

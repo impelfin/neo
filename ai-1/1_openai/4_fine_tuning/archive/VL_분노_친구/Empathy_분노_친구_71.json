@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22009914",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009914",
+        "relation": "친구",
+        "situation": "쉬고 싶을 때는 푹 쉬어야 한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 쉬고 싶을 때는 푹 쉬어야 효율적인 거 아니야? 우리 부모님은 공부만 하라고 하고 쉬지도 못하게 해! 내가 알아서 잘 조절하는데, 아직도 나를 어린아이로 보시나 봐.",
+            "utterance_id": "BE22009914.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 나름대로 잘 해낼 수 있는데, 부모님께 간섭과 통제를 받는다고 느껴서 화가 나는구나? 네가 이렇게까지 화가 나는 건 부모님께서 너를 믿지 못하신다는 마음이 들기 때문일 거야.",
+            "utterance_id": "BE22009914.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 사실 나 공부 잘하는 편이잖아. 그게 다 알아서 잘하고 있다는 증거인데, 부모님께서 쉬는 시간까지 간섭하시니 너무 열받아. 왜 나를 믿지 못하시는 건지, 정말 짜증 나!",
+            "utterance_id": "BE22009914.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부모님은 가장 칭찬받고 싶고, 믿음을 얻고 싶은 존재잖아. 그런 분들이 너를 믿지 못한다는 생각이 들면 너무 괴로울 것 같아. 게다가 네 말대로 너는 아주 훌륭하게 모든 것을 해내고 있는걸?",
+            "utterance_id": "BE22009914.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까. 우리 부모님만 그걸 몰라. 푹 쉬어본 적이 언제인지 모르겠어. 나도 종일 아무것도 안 하면서 아이스크림이나 먹고 싶다.",
+            "utterance_id": "BE22009914.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남들이 일상에서 누리는 행복조차 너한텐 부러움의 대상이구나. 네 마음이 얼마나 갑갑할지 상상이 안 간다. 할 일을 끊임없이 준다는 건 너한테 족쇄 같을 것 같아. 안타깝다.",
+            "utterance_id": "BE22009914.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 이해해주는 걸 우리 부모님은 왜 이해를 못 하시는지 모르겠어. 우리 부모님은 내가 하루라도 푹 쉬면 공부의 흐름이 깨진다고 싫어하셔. 그렇지만, 나는 너무 지칠 때는 푹 쉬고 다시 달리는 게 더 효율적이라고 생각하거든.",
+            "utterance_id": "BE22009914.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "확실히, 너무 힘들 때는 에너지를 충전한 후 달리는 게 더 좋지. 끊임없이 마라톤을 뛸 순 없잖아. 휴식이 필요한걸.",
+            "utterance_id": "BE22009914.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 말인데, 이번에 내가 휴식 계획표를 세워서 부모님께 보여드리려고. 이번에 이대로 해보고 성적이 나쁘지 않으면 부모님도 인정해주실지 모르잖아. 그런데 부모님께서 계획표를 보시고도 거부하시면, 정말 나 폭발할지도 몰라.",
+            "utterance_id": "BE22009914.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 좋은 생각이다. 사실 무작정 반항할 수도 있을 텐데, 부모님을 설득해보려는 시도가 참 어른스러운 것 같아. 나는 네 이런 노력을 부모님께서도 분명 알아봐 주실 거라 생각해. 걱정하지 마.",
+            "utterance_id": "BE22009914.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까? 네가 그래도 내 마음을 이해해주고, 용기를 주니 화가 가라앉았어. 부모님께서도 이렇게 이해해주시면 좋을 텐데.",
+            "utterance_id": "BE22009914.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "꼭 이해해주실 거야. 부모님께서도 결국 너의 행복을 위해 노력하시는 거잖아. 자식이 힘들어하는 모습을 좋아하는 부모는 없잖니. 네 마음은 꼭 전달될 거야.",
+            "utterance_id": "BE22009914.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "알겠어. 나 용기를 내서, 잘 말해볼게.",
+            "utterance_id": "BE22009914.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래! 내가 멀리서 응원하고 있을게. 그럼 다음에 또 연락해줘!",
+            "utterance_id": "BE22009914.14"
+        }
+    ]
+}

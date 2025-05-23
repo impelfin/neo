@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009202",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009202",
+        "relation": "친구",
+        "situation": "만취한 남편이 대리기사에게 업혀서 귀가했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마 전에 남편이 만취해서 집에 들어온 거 있지. 그것도 대리기사한테 업혀서 말야. 평소 안 그러던 사람이 그러니 걱정이 많이 된다.",
+            "utterance_id": "BE22009202.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 네 남편 평소 성실하기로 소문이 자자한데, 무슨 일일까? 네가 정말 걱정이 크겠다.",
+            "utterance_id": "BE22009202.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어 회사에서 무슨 일이 있는 건 아닌지, 나한테 뭐 서운한 게 있는 건 아닌지. 온갖 걱정과 상상을 하다보니 마음이 답답하고 불안해서 미칠 것 같아.",
+            "utterance_id": "BE22009202.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 상상하면서 상황을 키워가는 게 얼마나 고통스러운 일인데. 나도 신혼 초에 남편이 자기 생각을 잘 표현하지 않아서 얼마나 스트레스받았는지 몰라.",
+            "utterance_id": "BE22009202.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 혼자 추측하면서 상상하는 게 얼마나 불안한 일인지 너는 아는구나. 비슷한 감정을 가진 친구가 있다니 위로가 되는 듯해. 그래서 어제는 남편한테 저녁 먹으면서 무슨 일인지 물어봤거든.",
+            "utterance_id": "BE22009202.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 대화를 좀 나눴어? 뭐라도 얘기가 오고 가서 네 답답한 마음이 좀 수그러들었으면 좋겠는데 말야.",
+            "utterance_id": "BE22009202.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 별 소득은 없었어. 그렇게 만취가 된 것도 처음이고 누군가에게 업혀 온 것도 처음이라 너무 충격적이었는데, 별말이 없더라. 더 어이가 없었던 건 신경 쓰지 말라고 하는 남편의 그 태도였어.",
+            "utterance_id": "BE22009202.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남편 입장도 뭔가 있지 않을까? 네가 놀라서 너무 걱정할까봐 신경 쓰고 있는 건지도 몰라. 혼자 불안한 감정을 키우기보다 지금은 생각을 멈추고 시간이 더 흐른 후에 다시 대화하는 건 어때?",
+            "utterance_id": "BE22009202.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지, 그 사람도 생각은 있겠지. 그래, 공감화자야 네 말이 다 맞다. 일단 마음을 가라앉히고 남편에게 시간을 좀더 줘봐야겠어.",
+            "utterance_id": "BE22009202.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 먼저 평정심을 찾아야 남편도 그걸 느끼고 편히 다가올 수 있을 것 같아. 그래야 더 편하게 말하려고 하지 않을까? 우리도 누가 화내는 것 같으면 무서워서 피하게 되잖아.",
+            "utterance_id": "BE22009202.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자야, 네 말이 다 맞다. 나도 남편이 불안하고 화난 표정으로 대화를 걸어오면 싸울까봐 염려되어서 자리를 피하거든.",
+            "utterance_id": "BE22009202.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람 마음은 다 비슷한 거야. 남편도 다 사정이 있었을 텐데 말야. 네 스트레스는 이렇게 나랑 수다하면서 풀어버리자.",
+            "utterance_id": "BE22009202.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 공감화자야 네가 있어서 정말 고맙다. 남편에게 존중받지 못하는 것 같고, 사랑받지 못하는 것 같은 불안감도 있었거든.",
+            "utterance_id": "BE22009202.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대화를 피하는 남편을 바라보는 아내의 마음은 다 비슷하지 않을까? 나도 남편 보면서 그런 감정 느끼며 불안해할 때도 있어. 부부생활이 영화처럼 아름다운 것만은 아니잖아.",
+            "utterance_id": "BE22009202.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "맞다, 이렇게 맞춰가며 사는 게 부부지. 너랑 대화를 하고 나니 불안감이 사라지면서 편안한 마음이 들기 시작한다. 고마워, 내 말 잘 들어줘서.",
+            "utterance_id": "BE22009202.15"
+        }
+    ]
+}

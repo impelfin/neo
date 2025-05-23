@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009221",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009221",
+        "relation": "친구",
+        "situation": "허리디스크 때문에 꾸준히 걷기운동을 하고 있다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "허리 디스크가 너무 심해져서 요즘 회사에 오래 앉아 있는 게 너무 괴로워.",
+            "utterance_id": "BE22009221.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "허리가 아프면 모든 게 고통스러운데 꼼작도 못 하고 앉아서 일해야 하니 너무 아프고 힘들겠다.",
+            "utterance_id": "BE22009221.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "차라리 외근이라도 자주 나가는 부서여서 움직이면서 일했다면 지금처럼 심해지지는 않았을 텐데. 좀처럼 나아지지 않아서 불안해.",
+            "utterance_id": "BE22009221.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "밖으로 나가면 움직일 수 있으니 무리가 덜할 텐데 불안하고 힘든 마음이 드는 건 당연해. 그래서 디스크가 점점 심해지고 있다고 생각하니 네가 얼마나 걱정이 되겠니?",
+            "utterance_id": "BE22009221.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무리 직장도 중요하지만 이러다가 정말 디스크가 심해지면 어쩌지? 나중에 일하기도 힘든 상황이 올까봐 너무 불안하고 걱정돼.",
+            "utterance_id": "BE22009221.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무엇보다 건강이 최우선인데 일하기 힘든 상황이 온다 생각하면 당연히 너무 불안하지. 조금이라도 허리에 도움이 될만한 운동을 해야 하지 않을까?",
+            "utterance_id": "BE22009221.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 몇 달 전부터 아무리 힘들고 피곤해도 퇴근하고 집까지 걸어가고 있어. 한 시간 좀 넘게 걷는데 처음엔 얼마나 힘들었는지 몰라.",
+            "utterance_id": "BE22009221.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마나 아프면 하루 내내 힘들게 일하고 가장 피곤한 시간에 걷기로 집에 가려고 했을까? 정말 쉽지 않을 텐데 네가 허리 통증이 정말 심각한가 보구나.",
+            "utterance_id": "BE22009221.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "의사 선생님도 종일 움직이지 않고 앉아있는 게 허리에 안 좋으니 꾸준히 걸으면서 치료받으라고 그러더라고. 근데 생각처럼 좋아지지 않아서 스트레스받아.",
+            "utterance_id": "BE22009221.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "열심히 노력하는데 나아질 기미가 안 보이니 나라도 스트레스가 쌓일 것 같아. 그래도 열심히 걷기 운동을 하려는 네 모습이 너무 대견스럽다.",
+            "utterance_id": "BE22009221.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "며칠 날씨 핑계 대면서 운동을 쉬다 보면 통증이 더 심해지더라고. 그러니 살기 위해서라도 열심히 운동할 수밖에.",
+            "utterance_id": "BE22009221.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 건강을 위해서 열심히 운동하려는 너의 노력이 너무 대단하다. 나 같으면 그렇게 운동 못했을 것 같아. 퇴근하면 배고프고 지쳐서 쉬고 싶을 텐데 강한 의지로 운동하고 있으니 반드시 좋아지게 될 거야.",
+            "utterance_id": "BE22009221.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘도 너무 더워서 잠깐 시원한 버스를 타고 오고 싶은 마음을 꾹 참고 집까지 걸어왔어. 시원하게 샤워하고 나니 한결 개운해졌네.",
+            "utterance_id": "BE22009221.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "올여름 내내 덥다고 하는데 퇴근하는 순간마다 얼마나 걷기가 싫을까? 그럴 때마다 포기하지 않고 견디다 보면 어느새 허리도 조금씩 튼튼해지고 시원한 가을날도 찾아올 거야. 그러니 기운 내고 맛있는 저녁 먹고 스트레칭하고 꿀잠 자길 바라.",
+            "utterance_id": "BE22009221.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "네 말 들으니 왠지 오늘 저녁밥이 더 꿀맛이겠는데? 걱정해줘서 정말 고맙다, 친구야.",
+            "utterance_id": "BE22009221.15"
+        }
+    ]
+}

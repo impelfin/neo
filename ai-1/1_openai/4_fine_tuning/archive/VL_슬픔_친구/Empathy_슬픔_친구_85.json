@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010277",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010277",
+        "relation": "친구",
+        "situation": "직장동료들이 나와 식사를 잘 하지 않는다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 아무래도 회사에서 따돌림을 당하는 것 같아. 사람들이 나랑 같이 밥을 먹지 않아서 너무 외롭고 슬프다.",
+            "utterance_id": "BE22010277.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있었어? 네가 너무 속상했을 것 같아. 사람들로 인해 네 마음이 상처받은 건 아닌지 너무 걱정된다.",
+            "utterance_id": "BE22010277.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 너무 슬프고 상처받았어. 사람들은 다들 동료들이랑 밥 먹는데, 나는 항상 혼자 먹어. 스스로가 너무 위축되고 혼자 밥 먹을 때마다 창피하게 느껴져.",
+            "utterance_id": "BE22010277.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무런 이유도 없이, 너와 같이 밥 먹지 않는 그 사람들이 너무 한 거야. 네가 창피해하거나 위축될 필요는 전혀 없어.",
+            "utterance_id": "BE22010277.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람들이 볼 때 내가 별로인가 봐. 나랑은 아무도 밥 먹어주지 않으니까 자존감이 낮아져. 나한테 문제가 있는 것 같아.",
+            "utterance_id": "BE22010277.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "따돌리는 건 그들의 잘못이니 네가 괴로워할 필요 없어. 그리고, 내가 볼 때 너 충분히 근사하고, 좋은 사람이야. 그들의 태도로 인해, 네가 위축되지 않길 바라.",
+            "utterance_id": "BE22010277.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 편을 들어줘서 고마워. 그런데 나 너무 눈물이 나. 너무 창피하고 살고 싶지 않은 기분까지 느껴.",
+            "utterance_id": "BE22010277.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 말하니 나까지 눈물이 나. 죽고 싶을 정도의 고통이라면, 다른 직장을 선택하는 게 나을 수도 있어. 난 너의 감정과 마음이 우선이라고 생각해.",
+            "utterance_id": "BE22010277.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 나 정말 직장을 그만두고 싶어. 요즘 출근하는 게 너무 고통스러워서 매일 울어.",
+            "utterance_id": "BE22010277.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혼자 이런 고통을 견뎌왔을 널 생각하니 내 마음이 찢어지는 것 같아. 너 그동안 얼마나 많이 힘들었니? 듣는 나도 눈물이 나.",
+            "utterance_id": "BE22010277.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 슬픔을 헤아려줘서 정말 고마워. 나 사실 요즘 우울증도 앓고 있어. 난 항상 외로운데, 회사에서도 혼자니까 너무 슬펐어.",
+            "utterance_id": "BE22010277.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게까지 힘들었다면 내게 말하지 그랬어. 내가 항상 너의 옆에 있을 테니, 혼자라고 생각하지 마. 나는 항상 너의 이야기를 들어줄 수 있어.",
+            "utterance_id": "BE22010277.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 편이 한 명이라도 있어서 든든하다. 나를 위해 울어주는 네가 있어서, 이제는 외롭지 않을 것 같아.",
+            "utterance_id": "BE22010277.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 너에게 도움이 되어서 기뻐. 언제든 힘들 때면 내게 말해. 우리 같이 힘내보자.",
+            "utterance_id": "BE22010277.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "너에게 말하면 마음이 편해. 네가 들어주니까 슬픔이 해소된 것 같아. 정말 고마워 친구야.",
+            "utterance_id": "BE22010277.15"
+        }
+    ]
+}

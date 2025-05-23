@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009412",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009412",
+        "relation": "친구",
+        "situation": "온양 온천에 가서 편히 쉬다 왔다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 기쁜 일이 있었어.",
+            "utterance_id": "BE22009412.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일인지 정말 궁금한걸.",
+            "utterance_id": "BE22009412.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오랜만에 온양 온천에 가서 편히 쉬다 왔거든. 여태까지 쌓인 피로와 스트레스가 싹 씻겨나가는 기분이었어. 어찌나 행복했는지.",
+            "utterance_id": "BE22009412.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오. 그랬구나. 정말 기분 좋았겠다. 너 요즘 숨 쉴 틈도 없이 항상 바쁘게 살아가고 있었잖아 정말 꿈같은 시간이었겠다. 온천에 가면 왠지 모르게 여유도 느껴지는 거 같아.",
+            "utterance_id": "BE22009412.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 바쁜 삶 속에서 느끼는 여유는 나에게 아주 큰 행복인 거 같아. 온천에 도착했을 때부터 신나서 방방 뛰었다니까. 정말 좋은 시간을 보냈어.",
+            "utterance_id": "BE22009412.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 얼마나 신났는지 잘 알겠다. 온천에 들어가는 순간은 정말 짜릿하기까지 하잖아. 아무 생각 없이 앉아 있어도 마냥 기쁘기만 한 거 같아.",
+            "utterance_id": "BE22009412.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 복잡했던 생각도 정리되는 기분이더라고. 정말 황홀하고 온몸에 전율이 느껴지는 거 같았어. 구름 위를 걷는 것처럼 편안하고 행복했다니까.",
+            "utterance_id": "BE22009412.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 좋아하는 모습을 보니까 나까지 흡족스러운 기분이 들어. 정말 개운한 느낌이 들 거 같아. 마음에 안정도 오고 모든 게 평화롭게 느껴지기도 하고 말이야.",
+            "utterance_id": "BE22009412.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 마음이 가벼워지니까 화를 낼 일도 없더라고. 온천이 나에게 정말 힐링이 되어준 거 같아. 여유와 행복이 내 지친 마음을 치유해 준 거 같달까?",
+            "utterance_id": "BE22009412.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 마음 잘 알지. 나에게 주는 선물 같은 시간 말이야. 한 번씩 나에게 느긋함을 주면 오히려 앞으로 더 나아갈 의지를 팍팍 만들어주는 거 같아.",
+            "utterance_id": "BE22009412.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 비우고 온 만큼 다시 채워나가야겠다는 생각이 들더라고. 삶의 의욕이 활활 불타오르는 느낌이 들었어. 열심히 일하고 나에게 주는 보상은 그 무엇보다 최고인 거 같아.",
+            "utterance_id": "BE22009412.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그럴 땐 정말 상쾌한 기분이 들기도 하지. 자유로워진 거 같기도 하고 말이야. 온천을 다녀온 뒤로 활기차 보여서 정말 보기 좋다.",
+            "utterance_id": "BE22009412.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 고마워. 네가 공감해 주니 내 행복이 두 배가 되는 기분이야. 앞으로도 나에게 힐링이 되어주는 시간을 꼭 가져야겠어. 삶의 질이 상승하는 거 같아.",
+            "utterance_id": "BE22009412.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 넌 쉴 땐 쉬고 일할 땐 제대로 일하는 친구인 거 같아. 여유를 의지로 바꿔오다니 지금도 네 의욕이 충분히 느껴지거든 그 모습이 난 정말 존경스럽기까지 하다.",
+            "utterance_id": "BE22009412.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 네가 그렇게 말해주니 기분이 더 좋아진다. 얘기 들어줘서 고마워.",
+            "utterance_id": "BE22009412.15"
+        }
+    ]
+}

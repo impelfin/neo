@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009365",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009365",
+        "relation": "친구",
+        "situation": "방송에 실수로 내 전화번호가 공개되었다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 진짜 어이없는 일이 생겼어. 인기 아이돌이 주연으로 나오는 드라마 있잖아. 그 드라마에서 남자 주인공한테 전화를 거는 장면이 나오는데, 그 전화번호가 내 거랑 똑같더라고.",
+            "utterance_id": "BE22009365.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떻게 그런 일이 생겼지? 전화가 오거나 그러지는 않아?",
+            "utterance_id": "BE22009365.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 전화가 엄청나게 오고 있어. 거기에 사용된 전화번호가 실제로 내 전화번호라는 게 너무 황당해.",
+            "utterance_id": "BE22009365.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 전화하는 사람들이 많구나. 진짜 불편하겠다. 네가 충분히 화날만한 일이라고 생각해. 우선 전화번호를 바꾸고 네 말대로 제작사에게 건의하는 것도 좋겠어.",
+            "utterance_id": "BE22009365.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "스마트폰 전원을 켜면 쉬지 않고 전화가 와서 지금은 아예 껐어. 전화번호를 바꾸려면 스마트폰도 가져가야 해서 당장은 어려울 것 같아. 사람들이랑 연락도 인터넷 메시지로 보내야 해서 정말 화가 나.",
+            "utterance_id": "BE22009365.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 번거롭겠다. 평상시에 전화를 정말 많이 사용하는데 이런 일이 일어나다니. 충분히 기분 나쁠 만한 일이야. 네 입장 충분히 이해가 가.",
+            "utterance_id": "BE22009365.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 나 지금 진짜 너무 예민해져 있어. 일상생활이 불가능할 정도라 드라마 제작사 고소하고 싶어.",
+            "utterance_id": "BE22009365.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나라도 충분히 그런 마음이 들었을 거야. 인터넷에 검색해 보니까 제작사나 방송사 측에 연락해서 전화를 자제하라는 공지를 요청할 수 있대. 게다가 너는 지금 너무 불편한 상황이니까 네 말대로 손해배상을 받을 수도 있을 것 같아.",
+            "utterance_id": "BE22009365.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 그럼 우선 제작사에 연락을 해봐야겠다. 진짜 이런 일로 제작사에 연락할 줄 누가 알았겠니.",
+            "utterance_id": "BE22009365.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 정말 생각도 못 한 일이 벌어져서 당혹스러울 것 같아. 너무 화가 나겠지만 조금 진정하고 해결해보자. 어려운 일 생기면 언제든 얘기해. 내가 도울게.",
+            "utterance_id": "BE22009365.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네가 있어서 정말 든든하다. 방금 전까지는 진짜 스트레스가 극에 달해서 누가 내 이름만 불러도 화가 났거든. 이렇게까지 성격이 나빠질 수도 있구나 생각하면서 걱정했다니까.",
+            "utterance_id": "BE22009365.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구라도 이런 상황이라면 화가 날 수밖에 없잖아. 네 성격에 문제가 있어서가 아니라 충분히 기분 나쁠 만한 사건이야.",
+            "utterance_id": "BE22009365.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너랑 얘기하니까 마음이 편해졌어. 따뜻하게 얘기 들어줘서 진심으로 고마워. 너 같은 친구가 있어서 다행이야.",
+            "utterance_id": "BE22009365.13"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구 사이에 충분히 도울 수 있는 일인걸. 너도 내가 어려운 상황에 항상 많은 도움을 줬잖아. 너무 고마워하지 않아도 괜찮아.",
+            "utterance_id": "BE22009365.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "역시 공감화자야. 방송사에 연락해 보고 또 얘기할게.",
+            "utterance_id": "BE22009365.15"
+        }
+    ]
+}

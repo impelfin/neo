@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010145",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010145",
+        "relation": "친구",
+        "situation": "옷입는 센스가 없어서 동생의 도움을 자주 받는다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 미적인 감각이 하나도 없는 것 같아. 옷을 잘 못 입는다고 이야기를 많이 들어서 너무나 슬퍼.",
+            "utterance_id": "BE22010145.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누군가에게 그런 말을 듣는다면, 기분이 정말 좋지 않을 것 같아. 다른 사람들의 말로 인해서 네가 너무 슬퍼하지 않기를 바라.",
+            "utterance_id": "BE22010145.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "옷 입는 센스가 없다고 이야기를 많이 듣다 보니, 너무 스트레스야. 그래서 동생의 도움을 많이 받곤 하는데, 자존심도 상하고 너무 속상한 거 있지.",
+            "utterance_id": "BE22010145.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 언니이기 때문에 그렇게 느낄 수 있어. 그렇지만, 도움받는 일은 절대 창피한 일이 아니야. 자존심 상할 거 없다고 생각해.",
+            "utterance_id": "BE22010145.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 언니인데, 동생에게 가르침을 받는 기분인걸. 게다가 동생이 나를 무시하는 것 같아. 너무 슬퍼서 눈물이 멈추질 않아.",
+            "utterance_id": "BE22010145.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 울고 있으니 나도 슬퍼진다. 왜 무시당했을 때의 슬픈 기분 나도 잘 알아. 너의 마음이 상처받았을까 봐 너무 걱정돼.",
+            "utterance_id": "BE22010145.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "옷을 골라달라고 동생에게 갔는데, 비웃으면서 골라주었어. 나 정말 큰 창피함과 수치심을 느꼈어. 옷도 하나 센스 있게 못 골라 입는 내가 한심해.",
+            "utterance_id": "BE22010145.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "도움을 청했을 때, 비웃었다면 그건 동생이 너무 했어. 너의 잘못이 아니고 네가 한심한 게 아니야. 절대로 기죽지 말고 슬퍼하지 말았으면 좋겠어.",
+            "utterance_id": "BE22010145.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 이런 내가 우습지는 않아? 내 동생은 옷을 참 잘 입어. 친구들도 패션 감각이 뛰어난 네, 나만 이렇게 센스 없게 태어난 것 같아.",
+            "utterance_id": "BE22010145.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하나도 우습지 않아. 넌 비록 옷 입는 감각은 더딜지라도, 넌 사람들의 마음을 잘 헤아릴 줄 아는 사람이잖아. 너만의 장점이 있기 때문에 기죽을 것 하나 없어.",
+            "utterance_id": "BE22010145.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 나도 언젠간 옷을 잘 입게 될 날이 올까?",
+            "utterance_id": "BE22010145.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 너는 끈기가 있고, 매사에 최선을 다하잖아. 그런 열정이라면, 분명 네가 원하는 바를 이룰 수 있다고 난 확신하고 널 믿어.",
+            "utterance_id": "BE22010145.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 나를 긍정적으로 바라봐 줘서 고마워. 나 너무 슬펐는데, 네가 날 믿어주니까 이 슬픔이 극복된다.",
+            "utterance_id": "BE22010145.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "슬퍼하지 말고, 항상 힘냈으면 좋겠어. 내가 얼마나 너를 격려하고 응원하는지 알지? 내가 항상 너의 편이니까 용기를 내.",
+            "utterance_id": "BE22010145.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "나 이제 슬프지 않아. 너의 말에 용기가 생겼어. 오늘도 고민을 들어줘서 정말 고마워.",
+            "utterance_id": "BE22010145.15"
+        }
+    ]
+}

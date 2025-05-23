@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009586",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009586",
+        "relation": "친구",
+        "situation": "내일이 되면 상황이 어떻게 바뀌어 있을지 몰라 긴장된다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하, 내일은 주식 시장이 또 얼마나 널뛰기를 할까?",
+            "utterance_id": "BE22009586.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 요즘은 정말 한 치 앞도 알 수가 없는 장이네.",
+            "utterance_id": "BE22009586.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이럴 줄 알았으면 적금이나 성실하게 들어놓을 걸. 괜히 돈 좀더 벌어보겠다고 주식을 시작해서 이렇게 매일 같이 마음고생을 하냐.",
+            "utterance_id": "BE22009586.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘에 주식 하는 사람들이 다 마음이 싱숭생숭한 모양이더라. 워낙에 한 치 앞도 알 수가 없는 상황이라서. 경기침체도 우려가 되고.",
+            "utterance_id": "BE22009586.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내일이 되면 상황이 어떻게 바뀌어 있을지 모르니까 항상 긴장의 끈을 놓을 수가 없어. 변동성이 너무 커서 불안해. 내 돈이 다 증발해버리는 건 아닌지 불안해서 잠이 안 와.",
+            "utterance_id": "BE22009586.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "장이 워낙에 불안정하니까 그렇게 불안하고 초조한 마음이 드는 게 당연해. 내가 너였어도 정말 불안감에 잠을 못 이뤘을 거야. 막막하고 답답한 마음에 많이 힘들겠다.",
+            "utterance_id": "BE22009586.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 장에서도 돈을 버는 사람이 있을까? 있겠지. 그런 사람들이 내 돈을 가져가는 거겠지. 나는 왜 그 사람들처럼 현명한 판단을 하지 못하고 바보같이 이런 식으로 투자를 했을까?",
+            "utterance_id": "BE22009586.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 자책하지 마, 이렇게 예측하기 힘든 상황에서 이익이 나는 사람이 얼마나 되겠어? 너는 더 나은 미래를 위해서 노력한 거잖아. 단지 상황이 좀 어려웠을 뿐이지 네 잘못이 아니야.",
+            "utterance_id": "BE22009586.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니까 마음의 짐이 좀 덜어지네. 그래도 너무 후회스럽고 이러다가 돈 다 날릴까 봐 불안한 건 사실이야.",
+            "utterance_id": "BE22009586.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한 치 앞을 예측하기 어려운 상황에서는 마음을 비우고 기본을 지키는 게 좋을 것 같아. 우선 너무 불안해하지 말고 네 말대로 차라리 적금 들고 상황을 좀 관망하는 게 좋겠어. 네가 너무 불안해하면 오히려 잘못된 판단을 내릴 수 있으니까 마음을 차분하게 먹어 봐.",
+            "utterance_id": "BE22009586.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말이 맞아, 너무 불안하고 쫓기는 마음이 들면 오히려 일을 그르칠 수 있겠다. 마음을 좀 편안하게 가질게.",
+            "utterance_id": "BE22009586.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 잘 생각했어. 시간을 충분히 두고 마음에 여유를 가져 봐. 나는 너의 판단력을 믿으니까 너는 잘 할 수 있을 거야.",
+            "utterance_id": "BE22009586.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 위로해줘서 고마워. 불안한 마음이 한결 나아졌어.",
+            "utterance_id": "BE22009586.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇다면 정말 다행이야. 힘든 일 있으면 나한테 얘기해. 내가 들어줄게.",
+            "utterance_id": "BE22009586.14"
+        }
+    ]
+}

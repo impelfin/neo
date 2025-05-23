@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009439",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009439",
+        "relation": "친구",
+        "situation": "아버지가 가족모임에서 새 애인을 소개했다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 아빠 생신이었는데 아버지가 새 여자 친구를 데리고 오셨어. 엄마가 돌아가신 지 2년밖에 되지 않았는데 그러셔서 너무 충격받았어. 아빠한테 실망해서 정말 뭐라고 할 말이 없어.",
+            "utterance_id": "BE22009439.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 아직 돌아가신 엄마 때문에 슬퍼하고 있는데 그런 일이 있어서 상처받았겠다. 네 마음이 여기까지 전해지는 것 같아 나도 괜히 눈물이 난다.",
+            "utterance_id": "BE22009439.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 나는 아직 엄마를 보내지 못했어. 아직도 현관문을 열 때면 엄마가 웃으며 나오실 거 같아. 그런데 아빠는 어쩌면 그러시니?",
+            "utterance_id": "BE22009439.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너희 아빠는 외로워서 그러신 거 같은데, 네 입장에서는 충분히 서운할 수 있어. 나라도 그럴 거 같아. 아빠가 실망스럽고 야속할 거 같아.",
+            "utterance_id": "BE22009439.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 돌아가신 뒤 아빠 혼자 외로우신 거 나도 이해는 해. 그래서 여자 친구가 생길 수 있다고 생각해. 그런데 꼭 그렇게 티를 내야 하니?",
+            "utterance_id": "BE22009439.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 그냥 모르게 만나시면 될 텐데, 그러시니 서운할 수도 있겠다. 세월이 더 흐른 다음에 그랬으면 네가 이해하기 훨씬 쉬웠을 텐데 말이야.",
+            "utterance_id": "BE22009439.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 말이 그 말이야. 지금 나한테 소개하시는 이유가 혹시 재혼을 염두에 두셔서 그런 게 아닌가 싶어 더 속상해. 엄마랑 그렇게 사이가 좋았는데 어떻게 그렇게 쉽게 변할 수 있지?",
+            "utterance_id": "BE22009439.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "금실 좋던 부부가 사별하면 더 빨리 재혼한다는 소리를 어디서 들었어. 둘이 있는 게 익숙해서 혼자 된 걸 더 못 견딘다는 거지. 속상하겠지만 네가 아빠를 조금만 이해해 보는 건 어떠니?",
+            "utterance_id": "BE22009439.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 말 듣고 보니 그런가 싶기도 하다. 하긴, 어두워지면 아빠 방에서 유난히 헛기침 소리가 많이 들리곤 했어. 그 소리 들을 때마다 왠지 슬펐는데 그게 아빠의 외로움의 탄식이었던 거야?",
+            "utterance_id": "BE22009439.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아유, 그 말 들으니 괜히 코끝이 찡해진다. 두 분이 알콩달콩 사시다 혼자가 되셨으니 그 마음이 어떠셨겠어? 그 소리에 슬펐을 네 마음도 짠하다.",
+            "utterance_id": "BE22009439.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얘기하다 보니 괜히 또 눈물이 나네. 엄마도 불쌍하고, 아빠도 불쌍해서 가슴이 찢어진다.",
+            "utterance_id": "BE22009439.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러는 너도 불쌍해. 애초에 그런 일이 없었으면 얼마나 좋았겠니? 이왕 이렇게 된 거 차라리 그냥 받아들이는 게 마음 편하지 않겠니?",
+            "utterance_id": "BE22009439.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "인사까지 했는데 인제 와서 뭘 어쩌겠니? 네 말 듣고 갑자기 아빠가 너무 불쌍해져서 나도 마음이 약해졌다. 그냥 인정하고 말지 뭐.",
+            "utterance_id": "BE22009439.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 착하다. 네가 이렇게 금방 이해할 줄 알고 너희 아빠가 그러신 거 같다. 아빠가 여자 친구랑 잘 지내시면 너도 아빠 걱정 안 해도 되고 좋은 거야. 이제 너는 홀가분하게 네 인생을 사는 거지.",
+            "utterance_id": "BE22009439.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "듣고 보니 그 말이 백번 옳다. 갑자기 당한 일이라 내가 어쩔 줄 몰랐는데 이렇게 중심을 잡아줘서 정말 고맙다. 네가 있어서 너무 다행이야.",
+            "utterance_id": "BE22009439.15"
+        }
+    ]
+}

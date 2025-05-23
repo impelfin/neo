@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010103",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010103",
+        "relation": "친구",
+        "situation": "실업급여 신청을 하러 갔는데 사람이 너무 많다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 불합리하다는 생각밖에 들지 않는다.",
+            "utterance_id": "BE22010103.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일 있니?",
+            "utterance_id": "BE22010103.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 1년 전부터 아르바이트하던 빵집에서 코로나 때문에 힘들어졌다고 날 해고했거든. 그래서 실업급여를 신청하러 왔는데, 사람이 정말 미어터진다. 정말 성질난다.",
+            "utterance_id": "BE22010103.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람이 많다니 해고당한 것도 서러운데, 오래 기다리기까지 해야 하겠구나. 짜증이 나는 게 정상이지.",
+            "utterance_id": "BE22010103.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 오래 기다려야 되는 것도 화가 나. 그런데 그것보다 나처럼 코로나 유행 때문에 잘린 사람이 많은 것 같아서 분통이 터진다.",
+            "utterance_id": "BE22010103.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 요즘 뉴스 기사를 보니, 채용시장도 불안정하다고 하더라. 그만큼 정리해고를 당한 사람들도 만만치 않게 많겠지. 기사를 본 내 마음도 불편했는데, 직접 상황을 겪은 넌 얼마나 원망스럽겠어.",
+            "utterance_id": "BE22010103.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 착각일 수도 있지만 다들 힘들어 보이고, 억울함이 가득한 표정이야. 같은 공간에 있는 내 마음도 덩달아 착잡해진다. 이 사람들을 위해 해줄 수 있는 게 없는 나 자신이 미울 정도야.",
+            "utterance_id": "BE22010103.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 일자리를 못 구해서 힘들었던 시절이 있어서, 그 마음 이해가 된다. 무력하고 힘들어하고 있는 사람들 틈에서 너도 얼마나 분통이 터지겠어. 그런 네 모습을 상상하면 내 마음도 아프다.",
+            "utterance_id": "BE22010103.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나에게도 날 생각해 주는 친구가 있어서 다행이야. 얼른 코로나 문제가 해결되어서 안정적인 생활로 돌아가고 싶어. 다 같이 힘들어하는 모습 보기 힘들어.",
+            "utterance_id": "BE22010103.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상에 너와 같이 타인을 생각하는 사람만 있다면, 큰 문제 없이 굴러갈 텐데. 너 자신도 힘든 상황에서 타인까지 걱정할 줄 아는 사람이 내 친구여서 뿌듯할 정도다. 나도 그런 사람이 될 수 있도록 노력해야겠어.",
+            "utterance_id": "BE22010103.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말대로 이루어졌으면 좋겠다. 네 덕분에 혹한기처럼 얼어붙은 내 마음이 조금 녹았어. 그렇게 말해줘서 고마워.",
+            "utterance_id": "BE22010103.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그럴 거야. 그곳에 있는 모든 사람이 힘든 나날을 이겨낸다면, 더욱 단단한 사람이 될 수 있을 거야. 지금의 고생을 밑거름 삼아 더 좋은 곳에 취직할 수 있도록 같이 빌어주자.",
+            "utterance_id": "BE22010103.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 되면 정말 좋겠다. 내 투정 받아줘서 고마워. 네 덕에 마음이 편해질 수 있었어.",
+            "utterance_id": "BE22010103.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "기분이 나아진 것 같아서 다행이다.",
+            "utterance_id": "BE22010103.14"
+        }
+    ]
+}

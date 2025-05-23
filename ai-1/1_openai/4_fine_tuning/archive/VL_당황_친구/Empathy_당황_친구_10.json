@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009722",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009722",
+        "relation": "친구",
+        "situation": "담당 교수님의 논문이 표절이라고 판명되었다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "담당 교수님의 논문이 표절이라고 하면 기분이 어떨 것 같아?",
+            "utterance_id": "BE22009722.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 너희 교수님이 그러셨어?",
+            "utterance_id": "BE22009722.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 나 지금 엄청 당황스럽고 어떻게 해야 할지 모르겠어. 내가 정말 존경하는 교수님이시거든. 게다가 나도 그 논문을 참고해서 논문을 쓰는 중이었어.",
+            "utterance_id": "BE22009722.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런, 그러면 정말 당혹스럽겠네. 네가 얼마나 난감했을지 생각하니까 내가 다 식은땀이 난다. 어쩌니?",
+            "utterance_id": "BE22009722.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까. 정말 당황스럽네. 우선 내 논문도 다시 검토해봐야지. 교수님이 왜 그러셨을까?",
+            "utterance_id": "BE22009722.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 논문을 다시 써야 하니 정말 곤란하겠다. 누구라도 그런 일이 생기면 당황스러울 거야.",
+            "utterance_id": "BE22009722.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "교수님께서 도대체 왜 그러셨는지 이해가 잘 안돼. 평소에 연구도 열심히 하시고 성실하신 분인 것 같았는데.",
+            "utterance_id": "BE22009722.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 생각했던 교수님의 모습이 아니어서 괴리감이 느껴지는구나. 그래서 더 실망스럽기도 하고.",
+            "utterance_id": "BE22009722.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 네 말이 맞아. 안 그러실 것 같았던 교수님이셔서 더 혼란스럽고 난감해.",
+            "utterance_id": "BE22009722.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그랬겠다. 네가 평소에 나한테도 교수님이 참 훌륭하시다고 말했었잖아. 실망스럽고 혼란스럽겠지만 교수님께서 보여주셨던 좋은 모습만 마음에 새기고 이번 일은 타산지석으로 삼아보는 게 어떨까? 너도 논문 써야 하는데 계속 혼란스러워하면 힘들 테니 마음을 정리하고 차분히 생각해봐.",
+            "utterance_id": "BE22009722.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래야겠어. 교수님의 열정적인 모습은 본받을 만하지만 표절은 하지 말아야지. 그렇게 생각하니 마음이 좀 정리가 되네. 나도 내 논문 쓰기 바쁘니까 마음을 다잡아야겠어.",
+            "utterance_id": "BE22009722.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 일은 안타깝지만, 너무 실망하지 말고 넌 평소에 네가 해왔던 대로 좋은 모습을 보여줘. 지금까지 정말 잘해왔잖아.",
+            "utterance_id": "BE22009722.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너한테 그런 말을 들으니 기운이 좀 난다. 오전 내내 혼란스러웠는데 더 신경 써봤자 나아질 건 없을 것 같아.",
+            "utterance_id": "BE22009722.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "따뜻한 커피 한잔 마시고 나면 마음을 추스르는 데 도움이 될 거야. 다시 힘내서 파이팅해보자!",
+            "utterance_id": "BE22009722.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 고마워. 나중에 다시 연락할게!",
+            "utterance_id": "BE22009722.15"
+        }
+    ]
+}

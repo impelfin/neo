@@ -1,0 +1,194 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22009872",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009872",
+        "relation": "친구",
+        "situation": "대학에 입학해서 첫 강의를 들었다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 왜 대학에 왔을까. 학교 다니는 게 당황스러움의 연속이야.",
+            "utterance_id": "BE22009872.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 무슨 말이야 왜 그래? 오늘 개강한 거 아니야?",
+            "utterance_id": "BE22009872.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 오늘 개강이었어. 설레는 마음으로 강의실에 들어갔지. 경제학과 첫 전공수업이었거든.",
+            "utterance_id": "BE22009872.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 근데 왜 갑자기 대학에 왜 왔을지 고민하는 거야?",
+            "utterance_id": "BE22009872.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 어려워. 그냥 어려운 게 아니고. 진짜 너무 어려워. 무슨 말인지 하나도 모르겠어.",
+            "utterance_id": "BE22009872.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하나도 못 알아들어서 당황했구나. 경제가 원래 어렵잖아 신문 봐도 스포츠 신문이랑 경제신문이랑 다르잖아. 너뿐만 아니라 동기들도 다 어려워했을걸?",
+            "utterance_id": "BE22009872.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "근데 교수님 질문에 대답하는 애들이 있는 거야, 또. 그걸 보면서 나는 왜 한마디도 하지 못할까 봐 내가 얼마나 괴로워했는지 아냐.",
+            "utterance_id": "BE22009872.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동기들이 잘 답변하니까 네가 열등감을 느끼게 되었구나. 너무 속상했겠다.",
+            "utterance_id": "BE22009872.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 수업을 들으면서 나는 경제에 대한 기초적인 지식이 하나도 없다는 생각이 들었다. 적어도 우월감을 느끼진 않더라도 첫날부터 열등감을 느끼게 될 줄은 몰랐다고.",
+            "utterance_id": "BE22009872.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대답하는 몇 명 봤던 네 마음도 이해가 된다. 게다가 첫 전공 수업이었으니 더 욕심도 날 테고.",
+            "utterance_id": "BE22009872.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 첫 전공 수업이고 첫 강의니깐. 성적도 잘 받고 싶고 그렇지.",
+            "utterance_id": "BE22009872.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 아무래도 첫 대학 생활이니까 열심히 수업 듣고 성적도 잘 받고 싶지. 이해해. 수업과 연관된 동영상 강의를 찾아보는 것은 어때?",
+            "utterance_id": "BE22009872.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동영상 강의? 돈 내야 들을 수 있는 거 아니야?",
+            "utterance_id": "BE22009872.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 요즘 인터넷에 좋은 강의 많잖아. 무료 강의도 많이 업로드되고 필요한 것만 미리 좀 봐도 도움 될 것 같은데?",
+            "utterance_id": "BE22009872.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오 그거 좋은 생각이다!",
+            "utterance_id": "BE22009872.15"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 첫 강의 듣고도 아무 생각 없었는데 그래도 너 노력하려고 하는 모습 보니까 멋지다, 야. 같이 밥이나 먹자.",
+            "utterance_id": "BE22009872.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그렇게 말해주니까 좀 쑥스럽네. 밥 먹고 한번 영상 찾아봐야겠다!",
+            "utterance_id": "BE22009872.17"
+        }
+    ]
+}

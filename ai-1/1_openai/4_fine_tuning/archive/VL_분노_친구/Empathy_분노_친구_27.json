@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009512",
+        "listener_behavior": [
+            "조언",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009512",
+        "relation": "친구",
+        "situation": "소개팅에 나온 여성이 담배를 피우느라 자꾸 자리를 비운다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 소개팅하는 거 말해줬지? 소개팅에 나온 여성분이 담배를 피우느라 자꾸 자리를 비워.",
+            "utterance_id": "BE22009512.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "서로 알아가기에도 모자란 시간일 텐데, 네가 무안하겠다.",
+            "utterance_id": "BE22009512.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까. 상대방에 대한 매너가 부족한 거 아니야? 처음엔 그러려니 했는데 몇 번이나 저러니까 슬슬 화가 나네.",
+            "utterance_id": "BE22009512.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 화나는 것도 당연하다고 생각해. 원래 흡연자들도 소개팅에서는 최대한 자리를 비우지 않는 게 예의라고 하더라고.",
+            "utterance_id": "BE22009512.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지? 나도 예전에 담배 피웠었지만, 일행이 있을 때는 최대한 자제했었단 말이야. 나에 대한 매너와 배려가 너무 부족한 것 같아 짜증 나.",
+            "utterance_id": "BE22009512.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 인연 만나고 싶어서 기대하며 나갔을 텐데, 그런 일이 벌어지니 참 속상하겠다. 그래도 네가 마음에 들지 않아서 그런 건 아닐 테니 기분 풀어. 아직 만난 지 얼마 되지 않았으니까, 희망을 잃지 않고 기운 내.",
+            "utterance_id": "BE22009512.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 얼굴 본 지 아직 2시간도 채 되지 않았긴 해. 너무 선입견을 가지면 안 되겠어.",
+            "utterance_id": "BE22009512.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 애초에 기대를 저버리고 색안경을 끼게 되면 좋은 인연을 놓칠지도 모르잖아. 물론 네가 불쾌하고 화나는 건 당연하지만, 그래도 너그러운 마음으로 조금 더 알아가는 게 어때.",
+            "utterance_id": "BE22009512.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야겠어. 아무리 그래도 담배 때문에 세 번 넘게 들락날락하는 건 너무하잖아. 나를 무시하는 기분이 든단 말이야.",
+            "utterance_id": "BE22009512.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그런 기분이 드는 것도 당연하지. 나에 대한 존중과 배려가 있었다면 흡연 욕구를 조금은 참아줬을 테니까. 너는 그런 배려와 예의를 중시하는 사람이라, 더 기분이 상하고 열을 받을 수 있다고 생각해.",
+            "utterance_id": "BE22009512.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아. 그래도 네가 내 편을 들어 주니까 기분이 좋다. 사실 주선자한테는 말할 수 없으니까 혼자 꾹 참느라 화병이 나고 있었거든.",
+            "utterance_id": "BE22009512.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 주선자에게 말하기는 조심스럽지. 그럴 땐 나를 찾아와. 나는 언제나 네 편으로 이야길 들어줄 수 있으니까.",
+            "utterance_id": "BE22009512.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 고맙다. 덕분에 화가 많이 풀렸어. 소개팅을 무사히 끝낼 수 있을 것 같아.",
+            "utterance_id": "BE22009512.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이다. 좋은 인연으로 이어질 수 있으니까 파이팅 해 봐. 나는 네가 좋은 사람 만나서 행복한 모습을 보고 싶어.",
+            "utterance_id": "BE22009512.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응원해 줘서 고마워. 오늘 하루 최대한 잘 해볼게. 잘 되면 전부 네 덕이야.",
+            "utterance_id": "BE22009512.15"
+        }
+    ]
+}

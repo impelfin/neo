@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009977",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009977",
+        "relation": "친구",
+        "situation": "새 신발을 신고 뒤꿈치가 벗겨졌다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "새 신발 신고 데이트 갔다가 거의 기어서 들어왔어. 유튜버가 편하다고 추천해서 산 건데 나랑은 안 맞나 봐. 신발 때문에 데이트도 제대로 못해서 너무 짜증 나.",
+            "utterance_id": "BE22009977.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "새 신발이 그렇게 불편했던 거야? 하루 종일 너무 힘들었겠다. 데이트에도 지장을 줄 정도로 많이 아팠나 보다!",
+            "utterance_id": "BE22009977.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "발가락 쪽은 괜찮은데 뒤꿈치가 많이 벗겨져서 따가워 죽는 줄 알았어. 집에 와서 보니까 물집이 생겼다가 터져서 피도 났네. 하루 종일 걸을 때마다 그렇게 아프더니, 다시 신을 엄두가 안 난다.",
+            "utterance_id": "BE22009977.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 정도면 정말 아팠겠다! 그 신발을 안 벗어버린 네가 대단할 정도야. 안 그래도 데이트하면서 여기저기 다니는 거 좋아하는 너인데 얼마나 아팠을까.",
+            "utterance_id": "BE22009977.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까. 일부러 데이트할 때 신으려고 산 신발이어서 아파도 포기할 수가 없더라고. 대신 이 신발 때문에 데이트 코스를 포기했다니까. 이 좋은 날씨에 신발이 불편해서 하루 종일 카페에 앉아있기만 하니까 정말 허탈하더라.",
+            "utterance_id": "BE22009977.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "데이트를 위해서 산 신발이었는데 그것 때문에 계획을 망쳤으니 속상할 만하다. 원래는 새 신발 신고 나가는 날에는 기분이 좋아야 되는데 내가 다 안타깝네.",
+            "utterance_id": "BE22009977.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말대로 신고 딱 나갔을 땐 기분이 엄청 좋았거든. 근데 신발이 아니라 거의 고문 도구였어. 이제 신발은 무조건 신어보고 사려고 마음먹었잖아.",
+            "utterance_id": "BE22009977.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "신발은 정말 신어보고 사는 게 제일 좋지. 그래도 네가 유튜버 추천 믿고 산 건데 발이 불편해서 더 속상했겠다. 그러면 괜히 속은 느낌 들 것 같아.",
+            "utterance_id": "BE22009977.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 말이 그 말이야. 평소였으면 절대 사지 않았을 텐데 엄청 편하다고, 인생 신발이라고 하길래 믿었지. 물론 그 사람은 잘 맞았을 수도 있지만 속은 것 같아서 괜히 더 속상했어.",
+            "utterance_id": "BE22009977.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘에는 그런 게 하도 홍보가 많으니까 조심해야 되긴 하더라. 오늘처럼 괜히 기분 망칠 수도 있으니까. 그래도 오늘 그 신발이 불편했던 덕분에 오랜만에 남자 친구랑 얘기 많이 나눈 거 아니야?",
+            "utterance_id": "BE22009977.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 그래. 맨날 활동적인 데이트만 하느라 오늘처럼 차분한 데이트할 기회가 잘 없긴 했거든. 계획했던 데이트를 못해서 그렇지 생각해 보면 오늘 데이트도 썩 나쁘진 않았던 것 같네.",
+            "utterance_id": "BE22009977.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "발이 많이 아프고 신경 쓰여서 네가 오늘 데이트가 더 별로였다고 생각했던 걸 거야. 나도 컨디션이 안 좋은 날 데이트하면 예민해져서 꼭 싸우더라고. 그래도 안 싸우고 재밌게 데이트 잘한 것 같아서 다행이다!",
+            "utterance_id": "BE22009977.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 내가 발이 아파서 많이 찡얼거렸는데도 남자 친구가 다 이해해 주더라고. 밴드도 사 와서 붙여주고 그랬어. 나중엔 하도 아파하니까 업어주려고 하더라고.",
+            "utterance_id": "BE22009977.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남자 친구분이 정말 자상하시네! 새 신발 덕분에 남자 친구랑 더 돈독한 데이트한 것 같은걸? 아픈 발 잘 치료하고 다음에 네 발에 잘 맞는 신발 사러 가자!",
+            "utterance_id": "BE22009977.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그러게, 네 말 들으니까 기분이 좀 나아졌어. 다음에 네가 잘 골라줘!",
+            "utterance_id": "BE22009977.15"
+        }
+    ]
+}

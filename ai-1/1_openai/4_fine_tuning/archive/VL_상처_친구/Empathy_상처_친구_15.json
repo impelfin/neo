@@ -1,0 +1,188 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22010559",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010559",
+        "relation": "친구",
+        "situation": "남편이 직접 김치를 담가 먹는다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야 잘 지내고 있어?",
+            "utterance_id": "BE22010559.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 너도 잘 지내고 있지? 갑자기 무슨 일이야?",
+            "utterance_id": "BE22010559.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 우리 남편이 내 김치가 맛이 없다고 직접 해 먹는다고 해서 상처받았어.",
+            "utterance_id": "BE22010559.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말도 안 돼. 아내에게 그렇게 상처를 주는 말을 할 수 있다고? 내가 평소에 알던 네 남편 모습이랑은 다른 것 같아.",
+            "utterance_id": "BE22010559.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 정확하게 얘기했어. 왜 김치를 담그냐고 물어보니까, 내가 해준 김치를 먹기가 힘들대.",
+            "utterance_id": "BE22010559.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "설령 맛이 그랬다고 하더라도 그 말을 들은 너는 정말 상처받았을 것 같아. 그 얘기 듣고 마음이 많이 힘들었지?",
+            "utterance_id": "BE22010559.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 갑자기 남편한테 상처받는 말을 들으니까 하루 종일 마음이 힘들고, 생각이 멍했어.",
+            "utterance_id": "BE22010559.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 충분히 그렇게 느낄 만한 상황이라고 생각해. 말은 잠깐이지만, 하루 종일 그 생각 때문에 마음이 정말 힘들었겠다. 고생 너무 많았어.",
+            "utterance_id": "BE22010559.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니깐. 내가 듣고 싶었던 말을 해줘서 고마워. 남편이 참았다고 말을 한 걸 수도 있지만 그런 말을 들으면 누가 가만히 상처를 안 받냐고.",
+            "utterance_id": "BE22010559.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말에 백번 천번 공감해. 남편이 어떤 상황에서 말을 꺼냈던 간에 그 말로 인해 네가 힘들었다는 게 중요하지.",
+            "utterance_id": "BE22010559.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 나도 그래서 다른 걸로 트집을 잡아볼까 했어. 그런데 이건 또 내가 상처받은 것처럼 남편을 상처주려는 거니까 좋지 않은 생각 같았어.",
+            "utterance_id": "BE22010559.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "상처받은 와중에도 남편 마음도 배려해주고. 넌 정말 이렇게 마음 깊고 착한 사람이구나.",
+            "utterance_id": "BE22010559.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 네가 내 얘기 잘 들어주니까 마음이 좀 나아진다.",
+            "utterance_id": "BE22010559.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 네 마음을 먼저 회복했으면 좋겠어. 네가 마음이 행복하고 즐거운 게 가장 우선이라고 생각해.",
+            "utterance_id": "BE22010559.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말들이 정말 따뜻하다. 사람들이 모두 너처럼 말했다면 좋았을 텐데. 나는 좀 쉬면서 마음을 회복하는 시간을 가져야겠어.",
+            "utterance_id": "BE22010559.15"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "좋은 생각이야 친구야. 네 마음이 건강해지도록 시간을 가져보자.",
+            "utterance_id": "BE22010559.16"
+        }
+    ]
+}

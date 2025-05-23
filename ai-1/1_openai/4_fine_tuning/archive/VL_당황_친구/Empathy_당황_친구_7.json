@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009648",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009648",
+        "relation": "친구",
+        "situation": "미드 시리즈를 보느라 한숨 못 자고 출근했다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 어제 미드 시리즈 보느라 밤을 꼴딱 새워버렸어. 이러면 안 되는데 어떡하면 좋지? 나 자신이 당황스러워.",
+            "utterance_id": "BE22009648.1"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "밤새울 정도로 미드 시리즈가 정말 재미있었나 보다! 너의 집중력이 정말 대단한걸?",
+            "utterance_id": "BE22009648.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다음 날 출근 생각도 못 하고 밤새 미드나 보다니. 과거의 나 자신이 너무 한심해 죽겠어.",
+            "utterance_id": "BE22009648.3"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한심하다고 생각할 필요는 전혀 없어. 네가 요즘 스트레스가 많이 쌓였었잖아. 재밌는 영화를 보면서 스트레스가 많이 풀려서 오히려 너에게 좋은 일일걸?",
+            "utterance_id": "BE22009648.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 말해주니 그런 것 같기도 해. 스트레스 풀 데가 없었거든.",
+            "utterance_id": "BE22009648.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 스트레스를 풀지도 못하고 얼마나 힘들었을지 상상이 간다. 어떻게 해야 할지 갈팡질팡하고 많이 힘들었겠구나.",
+            "utterance_id": "BE22009648.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아. 그래서 미드를 보기 시작한 것 같아. 보는 순간은 힘든 감정이 사라졌거든.",
+            "utterance_id": "BE22009648.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 네가 힘든 것도 몰라줘서 미안해. 그래도 미드 덕분에 감정이 많이 해소된 것 같아 내 마음이 좀 놓이고 오히려 고마운걸?",
+            "utterance_id": "BE22009648.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 네 말을 듣고 보니 그렇게 한심한 일은 아니었던 것 같아.",
+            "utterance_id": "BE22009648.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 선택할 수 있는 방법 중 가장 좋은 방법을 찾은 것 같아. 가장 효과적이고 빠른 스트레스 해소법을 찾아서 기쁜 일이라고 생각해보면 어떨까? 그게 너에게도 더 좋을 거야.",
+            "utterance_id": "BE22009648.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알겠어. 그럼 내가 좋아하는 미드를 보면서도 마음이 편할 것 같아.",
+            "utterance_id": "BE22009648.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 맘이 편해져서 나도 너무 기뻐! 그런데 너무 자주 밤새우면 몸이 힘들 수 있으니 시간을 정해서 보는 건 어때?",
+            "utterance_id": "BE22009648.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이야. 그런 방법을 알려줘서 정말 고마워.",
+            "utterance_id": "BE22009648.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너에게 도움이 될 수 있다니 나도 정말 기쁜걸. 나는 항상 너를 응원하고 있다는 걸 잊지 마.",
+            "utterance_id": "BE22009648.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워! 덕분에 마음이 한결 가벼워졌어.",
+            "utterance_id": "BE22009648.15"
+        }
+    ]
+}

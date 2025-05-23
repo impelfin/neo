@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009523",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009523",
+        "relation": "친구",
+        "situation": "중고사이트에서 자전거를 샀다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 완전히 사기당했어. 중고 사이트에서 자전거를 샀는데, 고장 난 자전거인 거 있지?",
+            "utterance_id": "BE22009523.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "중고 사이트에 안 그래도 그런 허위 매물이 많다고 주의하라는 글 봤어. 큰돈 주고 산 걸로 알고 있는데, 많이 속상하겠다.",
+            "utterance_id": "BE22009523.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 말이야. 어떻게 이렇게 사람을 감쪽같이 속일 수 있는지 정말 화가 나서 견딜 수가 없어.",
+            "utterance_id": "BE22009523.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 네가 정말 배신감이 들 것 같아. 게다가 한두 푼짜리도 아니고 좋은 자전거를 구매했었잖아. 돈도 아깝고 배신감도 들고 기분이 정말 안 좋을 것 같아서 걱정된다.",
+            "utterance_id": "BE22009523.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이럴 줄 알았으면 돈을 조금 더 주고서라도 직접 가서 살 걸 그랬어. 스스로가 너무 바보 같고 화가 나. 이제 와서 후회해 봤자 아무 소용도 없지만.",
+            "utterance_id": "BE22009523.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 잘못 아닌데 네게로 화살을 돌리진 마. 사기를 친 사람이 나쁜 거지 너는 아무런 잘못도 실수도 하지 않았어. 안 그래도 속상할 텐데, 네가 자책하거나 스스로를 몰아세우지는 않았으면 좋겠어.",
+            "utterance_id": "BE22009523.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해 주니까 조금 위로가 된다. 나는 판매자한테도 화가 나지만, 좀더 알아보고 구매하지 못한 나 자신에게도 화가 났었어.",
+            "utterance_id": "BE22009523.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 마음인지는 충분히 이해해. 나도 내가 속은 입장이 될 때에는, 나도 모르게 나 자신을 탓하게 되더라고. 그래도 속인 사람이 가장 잘못한 거니까, 스스로 원망하고 다그칠 필요는 없다고 생각해.",
+            "utterance_id": "BE22009523.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말이 맞아. 나도 이제 나 자신을 용서해야겠어. 이미 돈은 물 건너간 거니까, 이 자전거라도 어떻게든 수리해서 써 봐야겠다.",
+            "utterance_id": "BE22009523.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "수리비가 드는 게 속상하겠지만, 그래도 잘 고쳐서 타고 다니면 기분이 조금 나아질지도 몰라. 네가 너무 속상하지 않았으면 좋겠다.",
+            "utterance_id": "BE22009523.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 날 진심으로 걱정하고 신경 써 주니까 기분이 풀리는 것 같아. 아까는 정말 화가 나서 아무 일도 손에 안 잡히더라고.",
+            "utterance_id": "BE22009523.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람에게 배신당한 거니까 마음의 상처를 입는 것도 당연하지. 그래도 조금이라도 기분이 풀렸다니 정말 다행이다.",
+            "utterance_id": "BE22009523.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전부 네 덕이야. 너랑 이야기하고 나면 소용돌이치던 내 마음이 언제 그랬냐는 듯 잠잠해져. 네가 내 이야길 진심으로 들어줘서 그런가 봐.",
+            "utterance_id": "BE22009523.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 네가 겪는 일들을 들어주고 너와 함께 이야기하는 게 기쁨이야. 그러니 부담 갖지 말고 언제든 나를 찾아와. 오늘 같은 일은 언제든지 들어줄 수 있다고.",
+            "utterance_id": "BE22009523.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "정말 고맙다. 네가 내 친구라서 참 든든하고 행복해!",
+            "utterance_id": "BE22009523.15"
+        }
+    ]
+}

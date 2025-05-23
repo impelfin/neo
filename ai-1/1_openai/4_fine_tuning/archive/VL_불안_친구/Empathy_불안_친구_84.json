@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010098",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010098",
+        "relation": "친구",
+        "situation": "어릴 때 입은 화상으로 다른 사람에게 얼굴을 보이는 것이 꺼려진다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 이번에 대학교에 들어가잖아.",
+            "utterance_id": "BE22010098.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 우리 둘 다 정말 가고 싶었던 학교에 합격해서 무지 기뻐했었지.",
+            "utterance_id": "BE22010098.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 난 걱정도 조금 들어. 난 어릴 때 화상으로 얼굴을 다쳤잖아. 다른 사람에게 얼굴을 보이는 게 조금 꺼려져.",
+            "utterance_id": "BE22010098.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그런 생각을 하는 줄은 몰랐어. 나랑 다른 친구들이랑 함께 있을 때는 전혀 그런 생각 하지 않았었잖아. 그렇게 생각한 이유가 있어?",
+            "utterance_id": "BE22010098.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금까진 내 사정을 아는 친구들과 함께 다니니까 괜찮았어. 하지만 대학교는 나 혼자 떨어져서 다녀야 하잖아. 이게 너무 불안해.",
+            "utterance_id": "BE22010098.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴, 너랑 나도 다른 학교에 다니게 되었으니까. 낯선 사람들과 만나는 게 너에게 부담일 수도 있겠다.",
+            "utterance_id": "BE22010098.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 얼굴을 모르는 사람이 보면 어떻게 생각할까. 이런 걸 생각하면 학교를 잘 다닐 수 있을까 불안해져.",
+            "utterance_id": "BE22010098.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 너무 마음 쓰지 않았으면 좋겠어. 나는 너랑 다닐 때 한 번도 너의 화상이 신경 쓰였던 적이 없거든. 게다가 너는 재치 있어서 다들 너와 함께 있을 때 즐거워했잖아.",
+            "utterance_id": "BE22010098.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 하지만 너희와 만나기 전에 다른 아이들에게 놀림당했던 기억이 생각나. 그때의 기억 때문에 이렇게 불안한가 봐.",
+            "utterance_id": "BE22010098.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래 어릴 때 입은 상처가 마음에 오래 남는 법이니까. 하지만 우리와 함께 지내면서 용기 내는 법을 길렀잖아. 좀더 자신감을 가졌으면 좋겠어.",
+            "utterance_id": "BE22010098.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 확실히 어릴 때의 나였다면 친구들과 어울린다는 생각 자체를 못했을 거야. 너희를 만난 건 정말 나에게 행운인 것 같아.",
+            "utterance_id": "BE22010098.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오히려 너처럼 재치 있고 재미있는 친구를 만난 게 나에겐 기쁨이야. 너는 누구든 스스럼없이 다가가게 할 수 있는 힘이 있어. 앞으로도 당당하게 얼굴을 드러내며 살아도 괜찮을 거라고 믿어.",
+            "utterance_id": "BE22010098.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워. 너와 얘기하면서 다시 자신감을 되찾은 것 같아. 대학에 가서도 지금처럼 잘 지낼 수 있을 거란 생각이 들어.",
+            "utterance_id": "BE22010098.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너라면 분명 할 수 있어. 오히려 너와 함께 학교생활을 못 해서 내가 다 아쉽다. 너는 정말 좋은 친구였으니까.",
+            "utterance_id": "BE22010098.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나도 그래. 앞으로도 계속 연락하자.",
+            "utterance_id": "BE22010098.15"
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010352",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010352",
+        "relation": "친구",
+        "situation": "집을 나오고 난 후에 가스밸브를 잠갔는지 확실하지 않아 집에 다시 돌아갔다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "미안해. 나 오늘 약속에 늦을 것 같아.",
+            "utterance_id": "BE22010352.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소에 지각 한번 안 하던 네가 무슨 일이야?",
+            "utterance_id": "BE22010352.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지난번에 옆 동네 아파트에서 가스 밸브를 잠그지 않아서 불이 났다는 이야기를 들었어. 그래서 외출 전에 확인하고 나오는 버릇이 생겼거든. 외출 전에 확인하지 않으면 마음이 불안해.",
+            "utterance_id": "BE22010352.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가스 밸브를 확인하고 나오느라 늦었구나. 내 주변에서 그런 일이 있었으면, 나도 염려스러워서 나오기 직전에 항상 확인하게 될 것 같아. 안 그랬다가 약속에 나와서도 안절부절못할 거야.",
+            "utterance_id": "BE22010352.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 원래는 집에서 나오기 전에 확인하고 나와야 하는데, 깜빡 잊고 나온 거야. 그리고 버스정류장까지 와서 버스를 타는데, 가스 밸브를 확인하러 다시 집까지 다녀왔어.",
+            "utterance_id": "BE22010352.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가슴이 철렁 내려앉았겠다. 버스를 타기 전에 기억이 나서 다행이야. 확인을 해야 네 마음이 편해질 거 아냐.",
+            "utterance_id": "BE22010352.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 다행히 가스 밸브는 잠그고 나왔더라. 나도 내가 정말 왜 이렇게 강박증이 생겼는지 모르겠어. 이렇게 나를 강박증에 걸리게 한, 옆 동네 아파트 사람이 원망스러울 정도야.",
+            "utterance_id": "BE22010352.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 마음이 들 정도로 아주 힘든가 보구나. 너도 그 이야기를 듣기 전까지는 이렇게 긴장하진 않았었잖아. 그 이야기가 네게 남 일처럼 느껴지지 않았나봐.",
+            "utterance_id": "BE22010352.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 사실 화재 사고라는 게 누구에게나 일어날 수 있는 일이잖아. 나는 어렸을 때 부모님 공장이 화재가 일어난 적이 있거든. 그때 부모님이 크게 상심하시는 모습을 본 뒤로 화재가 남 일로만 느껴지지 않더라.",
+            "utterance_id": "BE22010352.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있었다면 충분히 이해되지. 그리고 난 네 행동이 결코 과하다는 생각은 들지 않아. 오히려 그런 걱정은 살면서 우리에게 큰 도움이 되면 됐지 해가 된다고 생각이 들지 않거든.",
+            "utterance_id": "BE22010352.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 이야기해 주니 마음이 조금 놓인다. 나는 이 일을 누구한테 말하기도 부끄러웠거든.",
+            "utterance_id": "BE22010352.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부끄러워할 필요 없다고 생각해. 오히려 당당해도 될 만한 일이지. 넌 정말 잘하고 있어.",
+            "utterance_id": "BE22010352.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "나 때문에 더운 날에 기다려야 해서 짜증 날 텐데. 그렇게 이야기해줘서 고마워. 내가 친구 복 하나는 확실히 있다니까.",
+            "utterance_id": "BE22010352.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 힘들어하는 모습을 보는 것보다 당당한 모습이 보기 좋아. 네가 이 일을 잘 극복할 수 있도록 응원할게.",
+            "utterance_id": "BE22010352.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워. 날 응원해주는 친구가 있어서 든든하다.",
+            "utterance_id": "BE22010352.15"
+        }
+    ]
+}

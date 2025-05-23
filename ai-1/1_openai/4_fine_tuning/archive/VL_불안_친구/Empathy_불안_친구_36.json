@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009630",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009630",
+        "relation": "친구",
+        "situation": "해야 할 일이 밀려 있다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 요즘 이상해진 것 같아. 너무 불안해서 스트레스를 받아.",
+            "utterance_id": "BE22009630.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래? 무슨 일 있어?",
+            "utterance_id": "BE22009630.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "해야 할 일이 밀려 있는데 시작도 하기 전에 지쳐. 무기력증에 걸린 것 같아.",
+            "utterance_id": "BE22009630.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사 일에 자격증 공부에 집에 오면 집안일까지 한 가지 일만 해도 쉬운 게 아니잖아. 한꺼번에 일이 몰려 들어서 너무 버겁게 느껴지고 힘든 것 같아. 나라도 지치겠어.",
+            "utterance_id": "BE22009630.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 이미 많이 쌓여 있는데 뭐부터 해야 할지 엄두가 나지 않아. 밤에 잠도 못 자서 잠도 많이 부족한 것 같고.",
+            "utterance_id": "BE22009630.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "늘 열심히 완벽하게 처리해야 한다는 압박감이 너무 컸나 보다. 그래서 오히려 일이 많아져도 시도할 엄두를 못 낼 수도 있어.",
+            "utterance_id": "BE22009630.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 내가 바로 그 심정이야. 이렇게 된 지 일주일이 지났는데 해야 할 일은 쌓여있는데, 내가 무기력하게 느껴져서 불안해.",
+            "utterance_id": "BE22009630.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮아. 급할 땐 천천히 가는 것도 좋지. 넌 지금도 충분히 잘하고 있잖아. 여태까지 버텨온 것만으로도 정말 대단해.",
+            "utterance_id": "BE22009630.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 쉬어도 되는 걸까? 해야 할 게 너무 많은데.",
+            "utterance_id": "BE22009630.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금은 지친 너의 마음이 회복하는 게 먼저일 것 같아. 너무 몰아친다고 해결되지 않을 거야. 일정을 뒤로 미루더라도 휴식을 가지면서 쉬려고 해봐.",
+            "utterance_id": "BE22009630.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 될까? 마음은 불안하긴 한데 그래도 조금 쉬는 게 맞는 걸까?",
+            "utterance_id": "BE22009630.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 열심히 달려왔잖아. 며칠 쉬는 것도 나쁘지 않아. 오히려 쉬고 나면 능률이 더 높아질 거야.",
+            "utterance_id": "BE22009630.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "막상 쉬려고 생각하니 더 불안해지네. 쌓인 일들이 맘에 걸려.",
+            "utterance_id": "BE22009630.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "할 일이 신경 쓰여서 오히려 더 못 쉴 것 같다는 말이네. 그러면 지금 당장 할 수 있는 쉬운 일부터 해보는 건 어때? 작은 성취감을 느끼면서 점점 회복해봐.",
+            "utterance_id": "BE22009630.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그래, 아무래도 그게 좋겠어. 당장 할 수 있는 것들부터 해결해 나가 볼게. 조언 고마워.",
+            "utterance_id": "BE22009630.15"
+        }
+    ]
+}

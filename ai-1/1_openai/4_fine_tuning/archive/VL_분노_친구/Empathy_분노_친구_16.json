@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009398",
+        "listener_behavior": [
+            "조언",
+            "동조"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009398",
+        "relation": "친구",
+        "situation": "이상한 종교집단에 빠진 동생이 가출을 했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 동생이 사이비 종교에 빠져 정신을 못 차리더니 결국 가출했다. 자기 카드로 카드론 대출까지 받았는데 안 갚아서 신용불량자가 됐어. 이걸 진짜 어쨌으면 좋겠냐?",
+            "utterance_id": "BE22009398.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "야, 정말 장난 아니구나? 너 속상해서 어떡하냐? 그 사이비 종교에 대해 이가 갈리겠다?",
+            "utterance_id": "BE22009398.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이가 갈리는 정도가 아니라 아예 폭파를 시켜 버리고 싶다. 그래서 지금 동생 친구들을 찾아다니고 있다. 혹시 거기가 어딘지 알 수 있을까 해서.",
+            "utterance_id": "BE22009398.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 지금 어떤 기분일지 충분히 이해한다. 나라도 너 같은 일 당했으면 가만히 안 있었을 거야. 경찰에 신고도 하고 한바탕 난리를 쳤을 거야.",
+            "utterance_id": "BE22009398.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 너도 나랑 같이 동생 친구들 좀 만나주지 않을래? 혼자서 사람 찾아다니려니 보통 어려운 일이 아니다. 네가 곁에 있으면 많은 도움이 될 거 같다.",
+            "utterance_id": "BE22009398.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 같이 다녀 줄 건데, 그 전에 흥분 좀 가라앉히라고 말하고 싶다. 너 지금 분노가 심해서 진짜 뭔 일 낼 거 같다. 그래서는 일을 냉정하게 처리할 수 없으니 일단 마음을 가라앉혀.",
+            "utterance_id": "BE22009398.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 가라앉으면 그 사이비를 작살낼 힘이 떨어지는데 어떻게 그래? 지금 나를 움직이는 것은 오직 분노밖에 없어.",
+            "utterance_id": "BE22009398.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 심정은 안다만, 지금 중요한 건 사이비가 아니라 네 동생을 찾는 거야. 네 동생이 까딱하다 안 좋은 선택이라도 하면 어떻게 하냐? 그럼 네 부모님의 상심은 무슨 수로 달래 드릴래?",
+            "utterance_id": "BE22009398.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 지금, 갑자기 말문이 막히네. 네가 부모님 얘기 하니까 갑자기 정신이 확 든다. 난 내 생각만 하고 있었는데 부모님이 계셨구나.",
+            "utterance_id": "BE22009398.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실은 너보다 부모님의 상심이 훨씬 더 크실 거야. 일단 동생을 무사히 집으로 데려온 다음 그 뒤를 생각하자. 그래야 너도 마음이 안정돼서 일을 훨씬 객관적으로 보게 될 거 아냐?",
+            "utterance_id": "BE22009398.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "듣고 보니 네 말도 일리가 있다. 내가 이렇게 분노에 휩싸여 있는 것도 사실은 어머니 때문이야. 어머니가 계속 우시니까 내 가슴 속에 울화가 더 쌓이는 거 같아.",
+            "utterance_id": "BE22009398.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그것 봐라. 일단 동생 친구들한테 수소문해서 동생 찾는 일에 집중하자. 사람만 무사하면 돈은 나중 일이야. 그건 너도 그렇게 생각하는 거잖아?",
+            "utterance_id": "BE22009398.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래, 맞다. 사람만 무사하면 그까짓 카드 빚은 내가 갚아줘도 된다. 네 말대로 동생부터 찾아야겠다. 네가 도와준다니 갑자기 마음이 턱 놓인다.",
+            "utterance_id": "BE22009398.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동생 친구들도 걔 걱정 하고 있을 테니 의외로 쉽게 찾을 수 있을지 몰라. 그러니 너무 걱정하지 말고 오늘은 잠을 푹 자라. 사람이 일단 잠을 잘 자야 심신이 안정되는 거다.",
+            "utterance_id": "BE22009398.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "역시 친구밖에 없다. 네가 그렇게 말하니까 동생을 금방 찾을 거 같은 기분이 든다. 정말 고맙다, 친구야.",
+            "utterance_id": "BE22009398.15"
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22009614",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009614",
+        "relation": "친구",
+        "situation": "남자 친구의 직업은 건설현장 인부다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야. 나 사실은 고민이 좀 있어서 늦은 시간에도 불구하고 문자를 보내. 자니?",
+            "utterance_id": "BE22009614.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니. 나 아직 안 자고 있어서 문자 가능해. 무슨 일 이라도 생겼어?",
+            "utterance_id": "BE22009614.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실은 내 남자 친구의 직업이 건설 현장 인부거든. 학비 벌겠다고 잠깐 아르바이트로 한다는 게 일을 꽤 잘해서 오래 일하고 있대. 근데 솔직히 건강히 상할까 봐 너무 염려되는 거 있지? 불안해.",
+            "utterance_id": "BE22009614.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일하다가 혹시라도 크게 다칠까 봐 그게 많이 불안한 거니?",
+            "utterance_id": "BE22009614.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 아무리 안전 장비를 갖춘다고 해도 건설 현장이면 어떤 위험한 일이 생길지 아무도 모르는 거잖아. 본인은 고액 아르바이트이고, 나름대로 일에 익숙해져서 돈 벌기에는 최고라고 하는데. 여자 친구 입장에서는 솔직히 불안하고 걱정되지.",
+            "utterance_id": "BE22009614.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 안 그러겠어. 우리 아빠도 잠시 실직하셨을 때 건설 현장에서 일하신 적 있었거든. 그때 나도 혹시라도 크게 다칠까 봐 얼마나 조마조마하고 불안했는지 몰라. 네 불안한 감정 충분히 이해된다.",
+            "utterance_id": "BE22009614.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 내 불안함을 알아주는구나! 솔직히 이거에 대해 진지하게 얘기하고 싶은데, 남자 친구가 나를 예민한 사람으로 볼까 봐. 그게 참 머리를 아프게 만들어.",
+            "utterance_id": "BE22009614.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에이. 이게 무슨 예민한 사람이야. 여자 친구가 아니라 친구였어도 이 일은 충분히 걱정되고 불안할 일이야. 그런 생각 절대 하지 말았으면 해. 절대 예민하지 않아.",
+            "utterance_id": "BE22009614.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "정말? 나는 혹시라도 내가 그런 사람으로 보일까 봐 얘기도 못 꺼내고 혼자 전전긍긍하고 있었거든. 그럼 나 이 부분이 걱정된다고 넌지시 얘기해봐도 되겠지?",
+            "utterance_id": "BE22009614.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 물론이야. 네 남자 친구라면 네 얘기를 귀 기울여 들어주고 분명 이해해 줄 거야. 걱정하지 말고 그 부분에 대해서 한번 얘기해봐. 너무 불안해하지 마.",
+            "utterance_id": "BE22009614.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 나 혼자 불안해한다고 일이 해결되는 건 아니지. 어차피 학비 벌려고 잠깐 한 거라고 했으니까 위험하지 않은 일 해보면 어떠냐고 얘기해보면 되겠지?",
+            "utterance_id": "BE22009614.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 얘기하면 충분히 네 심정 이해하고 받아들일 거라고 생각해. 그러니까 너도 너무 걱정하지 말고 마음을 차분히 가라앉힌 다음에 얘기해봐. 이성적으로 얘기해야 상대방도 더 이해가 잘 될 거야.",
+            "utterance_id": "BE22009614.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그래야겠다. 덕분에 마음이 좀 편안해졌어. 역시 고민이 있을 때는 내 친구랑 얘기하는 게 최고야!",
+            "utterance_id": "BE22009614.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기분이 풀렸다니 너무 다행이다. 앞으로도 고민 있으면 언제든지 얘기해. 들어주는 건 어렵지 않으니까.",
+            "utterance_id": "BE22009614.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "솔직히 내 남자 친구 직업이 건설 현장 인부라고 하면 남들은 왜 그런 사람 만나냐고 질책하기 바쁜데. 역시 내 친구는 남달라! 고마우니까 다음에 밥 한번 살게. 시간 내줘!",
+            "utterance_id": "BE22009614.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 일정 확인하고 내가 다시 문자 할게. 일단 밤이 늦었으니까 얼른 자자.",
+            "utterance_id": "BE22009614.16"
+        }
+    ]
+}

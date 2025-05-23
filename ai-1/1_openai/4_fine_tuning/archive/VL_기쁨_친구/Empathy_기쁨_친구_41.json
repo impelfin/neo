@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009312",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009312",
+        "relation": "친구",
+        "situation": "택시에서 내리고보니 스마트폰을 두고 내린 것을 알았다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 방금 십년감수했다. 택시에서 내리고 보니까 스마트폰을 두고 내린 거야. 그래서 출발하려는 택시를 막 붙잡아 세웠어.",
+            "utterance_id": "BE22009312.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 연락되는 걸 보니까 휴대폰은 무사히 찾았나 보네?",
+            "utterance_id": "BE22009312.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 진짜 간발의 차였어. 마침 계산도 현금으로 해서, 찾기 정말 어려울 뻔했는데 몇 초 차이로 살았지. 이런 행운이 내게 찾아오다니, 너무 기뻐!",
+            "utterance_id": "BE22009312.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 때 정말 기분 좋지. 나도 버스에 가방을 두고 내린 적이 있는데, 문이 닫히기 직전에 눈치채고 찾았었어. 그날 온종일 어찌나 기분이 좋던지.",
+            "utterance_id": "BE22009312.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 오히려 아무 일도 없을 때보다 훨씬 기분이 좋다니까. 사람 마음은 정말 어쩔 수 없나 봐. 나 지금 너무 기쁘고 행복해.",
+            "utterance_id": "BE22009312.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "위기에서 벗어났을 때가 원래 제일 짜릿하고 기쁜 법이잖아. 휴대폰 잃어버렸으면 찾는 데에만 하루를 꼬박 날릴 수도 있었을 텐데. 정말 다행이다!",
+            "utterance_id": "BE22009312.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지? 만약 그대로 휴대폰을 두고 내린 걸 까먹고 집으로 와 버렸으면 어땠을까 싶어. 생각만으로도 등골이 서늘하다니까. 그런 의미에서 오늘은 정말 멋진 날이야!",
+            "utterance_id": "BE22009312.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬으면 휴대폰을 찾고 난 뒤에도 짜증 났을 거야. 지금은 네가 기분이 너무 좋아 보여서 괜히 나까지 흐뭇하다.",
+            "utterance_id": "BE22009312.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "휴대폰 산 지도 얼마 안 되어서, 무척 큰돈을 잃을 뻔하다가 구사일생으로 되찾은 느낌이야. 앞으로 택시에서 내릴 때 꼭 뒤를 돌아보는 습관을 기르려고. 오늘 일이 내게 큰 교훈을 주는 것 같아.",
+            "utterance_id": "BE22009312.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 사소한 실수에서 깨달음을 얻는 건 정말 좋은 자세야. 대수롭지 않게 생각해서 같은 실수를 반복하는 경우도 얼마나 많다고. 너는 똑똑하고 기민하니까, 앞으로 이런 비슷한 실수는 하지 않을 것 같아.",
+            "utterance_id": "BE22009312.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해 줘서 고마워. 네 말처럼 비슷한 실수를 반복하지 않았으면 좋겠어.",
+            "utterance_id": "BE22009312.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나랑 이렇게 이야기했으니까 머릿속에 완전히 각인이 되었을 거야. 앞으로도 이런 사소한 행운이 네 일상에 자주 있었으면 좋겠다.",
+            "utterance_id": "BE22009312.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 말 감동이다. 네가 그렇게 말해 주니까 마음이 괜히 설레는데? 안 그래도 좋았던 기분이 네 덕에 두 배로 좋아지는 것 같다!",
+            "utterance_id": "BE22009312.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나야말로 네가 즐거운 기분으로 연락해 주니까 덩달아 기분이 좋아. 앞으로 이런 비슷한 일이 생기면 나한테 꼭 말해 줘.",
+            "utterance_id": "BE22009312.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알았어. 너는 내 이야기를 언제나 진심으로 들어줘서 얼마나 좋은지 몰라!",
+            "utterance_id": "BE22009312.15"
+        }
+    ]
+}

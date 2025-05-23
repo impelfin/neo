@@ -1,0 +1,192 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22009985",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009985",
+        "relation": "친구",
+        "situation": "한국사능력검정시험을 보고 싶어서 인강으로 공부 중이다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아. 정말 오래 앉아서 인강 듣는 것도 참 쉬운 일이 아닌 거 같아.",
+            "utterance_id": "BE22009985.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "웬 인강? 너 요즘 뭐 공부하니?",
+            "utterance_id": "BE22009985.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 한국사능력검정시험 보고 싶어서 인강으로 공부 중이거든. 근데 하면 할수록 참 한숨만 나온다.",
+            "utterance_id": "BE22009985.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음. 인강으로는 네 공부가 충분하지 않은 거 같아서 혹시 불안한 마음이 드는 거야?",
+            "utterance_id": "BE22009985.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 인강 들으면 들을수록 뭔가 늪에 빠지는 거 같아. 너무 어려워. 이러다가 시험에서 바로 탈락하면 어떡하지? 너무 불안해서 요즘 불면증도 온 거 같아.",
+            "utterance_id": "BE22009985.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 예전에 토익 공부 독학하다가 느꼈던 기분이랑 똑같겠다. 그때 나도 인강 들어도 너무 어려워서 나 진짜 점수 너무 안 나오는 거 아닌가 걱정됐거든. 네가 진짜 엄청 불안하겠어.",
+            "utterance_id": "BE22009985.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 진짜 시험 날짜 다가오면 다가올수록 손이 달달 떨려. 이번에 3급 이상 무조건 따야지 임용 시험 볼 수 있단 말이야. 시간이 가면 갈수록 조급해지고 너무 불안한 거 같아.",
+            "utterance_id": "BE22009985.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "임용시험 준비도 힘들 텐데 그거 응시하려면 한국사능력검정시험 3급 이상 자격증 필요하다고 했지? 진짜 할 게 너무 많아서 시간도 없고 매사에 걱정도 많겠어. 얘기 듣는 나도 덩달아 불안하고 걱정이 될 지경인데 너는 오죽하겠니?",
+            "utterance_id": "BE22009985.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 한국사능력검정시험이 더 급해서 임용 시험 준비는 미루고 있기는 해. 인강으로 이게 될까 싶다 진짜. 한숨만 나와.",
+            "utterance_id": "BE22009985.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐든 조급하게 생각하고 불안해하면 더 잘될 것도 안 된다고 하잖아. 불안하고 조급한 네 마음은 잘 알겠다만 조금 마음을 느긋하게 먹어보는 건 어때? 아직 시간은 많고 너는 열심히 노력하고 있으니 조금 긍정적으로 생각하며 네 마음을 달래보자.",
+            "utterance_id": "BE22009985.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음을 좀 편하게 먹으면 잘 될까? 네 말대로 내가 너무 시험 결과를 부정적으로만 생각해서 나를 옥죄고 있었던 거 같기는 하네.",
+            "utterance_id": "BE22009985.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 나도 토익 인강으로 준비할 때 너처럼 불안해했는데, 마음 좀 느긋하게 먹고 열심히 했거든. 그러니까 공부도 더 잘되고 결국 토익 고득점 받았잖아. 분명 너도 잘될 거니까 너무 걱정 말고 마음 편히 먹어.",
+            "utterance_id": "BE22009985.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네가 그렇게 얘기해주니까 마음이 좀 편안해지는 거 같다. 너랑 문자 하길 잘했어. 고마워 덕분이야.",
+            "utterance_id": "BE22009985.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "편안해졌다니까 너무 다행이다. 고맙기는. 친구 사이에 이 정도는 기본이지. 언제든 마음이 불안하고 힘들 때 연락해.",
+            "utterance_id": "BE22009985.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 그럴게! 다음에 또 연락하자. 네 말대로 마음을 좀 느긋하게 먹고 다시 공부 열심히 하러 가볼게.",
+            "utterance_id": "BE22009985.15"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 응원하고 있을게. 반드시 잘 될 거니까 걱정 말고 힘내!",
+            "utterance_id": "BE22009985.16"
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009866",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009866",
+        "relation": "친구",
+        "situation": "논문에 각주 다는 법을 모르겠다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 무사히 학교를 졸업할 수 있을지 걱정돼서 불안해.",
+            "utterance_id": "BE22009866.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 지금까지 열심히 학점 관리를 해왔잖아. 무슨 일 있어?",
+            "utterance_id": "BE22009866.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "졸업하기 위해서 논문을 작성해야 해.",
+            "utterance_id": "BE22009866.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "학점과 대외활동뿐만 아니라 논문도 작성해야 하는구나. 나는 너처럼 성실한 학생은 본 적 없어. 난 네가 다른 것들처럼 논문도 잘 쓸 수 있을 거라고 믿어.",
+            "utterance_id": "BE22009866.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 논문에 각주를 다는 법을 모르겠어. 이것만 수정한다고 며칠 동안 잠도 제대로 못 자서 피곤해. 어떡하면 좋을까?",
+            "utterance_id": "BE22009866.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇구나. 넌 문과니까 프로그램을 많이 사용하지 않았잖아. 사용법에 미숙한 것도 이해해. 혼자서 방법을 찾아보느라 걱정이 많았겠다.",
+            "utterance_id": "BE22009866.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 아이콘이 너무 많아서 내가 원하는 기능을 사용하는 것이 어려워.",
+            "utterance_id": "BE22009866.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "프로그램을 처음 사용해 보는 사람이라면 아이콘을 다루는 것을 어려워하는 것도 이해가 돼. 나도 처음 사용했을 때 각주 아이콘을 못 찾아서 각주를 만들지 못해 당황했던 기억이 있거든.",
+            "utterance_id": "BE22009866.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "인터넷에 검색해 봐도 잘 모르겠어.",
+            "utterance_id": "BE22009866.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 내가 각주 만드는 법을 가르쳐줄게. 나는 네 옆에서 네가 졸업을 위해 얼마나 노력해왔는지 봐왔잖아. 그렇게 성실히 학교생활을 했는데 논문 때문에 졸업에 차질이 생기면 나도 너무 슬플 거야.",
+            "utterance_id": "BE22009866.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니 너무 기뻐.",
+            "utterance_id": "BE22009866.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "앞으로 힘든 일이 생기면 나에게 알려줘. 나도 네가 공부를 가르쳐 준 덕분에 무사히 졸업 시험에 합격할 수 있었잖아. 이렇게 너를 도와줄 기회가 생겨서 너무 기뻐.",
+            "utterance_id": "BE22009866.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 하지만 이후에 회사에서도 프로그램을 사용해야 할 텐데 사용법을 몰라서 걱정이야.",
+            "utterance_id": "BE22009866.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금은 졸업이 먼저니까 너무 걱정하지 마. 내가 졸업 후에도 어떻게 프로그램을 사용하는지 알려줄게. 너는 뭐든 잘 배우는 똑똑한 사람이니까 프로그램도 조금만 배우면 금방 사용할 수 있을 거야.",
+            "utterance_id": "BE22009866.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "역시 너밖에 없어. 나중에 내가 한턱낼게.",
+            "utterance_id": "BE22009866.15"
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009418",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009418",
+        "relation": "친구",
+        "situation": "자녀들이 환갑기념으로 제주도 여행을 예약해 주었다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 다음 달에 잡아둔 골프 약속 나는 빠져야 할 것 같은데 어쩌지?",
+            "utterance_id": "BE22009418.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오랜만에 친구들끼리 모이는 자리에 빠지다니 아쉽네. 이야기는 내가 전해줄게.",
+            "utterance_id": "BE22009418.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 아쉽긴 한데 우리 애들이 글쎄 환갑 기념으로 제주도 여행 예약을 해놨지 뭐야. 어쩜 이런 생각을 했는지 기특해 죽겠어.",
+            "utterance_id": "BE22009418.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 이유라면 당연히 불참해도 되지. 애들이 아빠에 대한 사랑이 지극해서 네가 기쁘겠네.",
+            "utterance_id": "BE22009418.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기들끼리 깜짝 선물 준비했다고 보여주는데 신나서 하늘을 날아갈 것 같은 기분이더라고. 스케줄도 얼마나 꼼꼼하게 짜놨는지 정성이 흘러넘치더라.",
+            "utterance_id": "BE22009418.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "널 위해서 자녀들이 오래 공들여 준비했으니 네가 행복하고 흡족한 기분이겠네. 우리 애들이 그랬으면 나도 기분 좋아서 온 동네에 자랑했을 거야.",
+            "utterance_id": "BE22009418.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 말이야. 아르바이트 비 그거 얼마나 한다고 한 푼 두 푼 모아서 이런 선물을 해주는지 감동적이더라. 생각도 못 했던 일이라 처음 듣고 다리까지 꼬집어봤지 뭐야.",
+            "utterance_id": "BE22009418.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아휴 그것도 아르바이트해서 모은 돈으로 보내주는 거야? 본인들한테 정말 큰돈으로 느껴질 텐데 선뜻 내놓다니 네가 감격하고 행복해할 만하네.",
+            "utterance_id": "BE22009418.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 자그마하던 애들이 언제 이렇게 커서 기특한 생각을 했는지 정말 자랑스러워. 이런 애들을 키운 나는 세상에서 제일 다복한 아빠일 거야.",
+            "utterance_id": "BE22009418.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 아이들한테 넘치는 사랑을 베풀어주면서 키웠기 때문에 애들도 베풀 줄 아는 사람이 된 거지. 네가 훌륭한 아빠라서 아이들도 널 많이 존경하고 사랑한다는 게 느껴지네.",
+            "utterance_id": "BE22009418.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 신나서 기분 좋은데 이렇게 얼굴에 금칠까지 해주니 몸 둘 바를 모르겠네.",
+            "utterance_id": "BE22009418.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그냥 하는 빈말이 아니고 진심이니까 자랑스러워해도 좋아. 콩 심은 데 콩 나고 팥 심은 데 팥 난다고 하잖아.",
+            "utterance_id": "BE22009418.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하. 좋게 봐줘서 고맙다 친구야. 환갑 기념 제주도 여행 가기 전에 친구들 모이면 내가 한턱 쏴야겠구먼.",
+            "utterance_id": "BE22009418.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "카, 역시 내 친구는 통도 크다니까. 친구들이 부러워할 거 알고 사전에 차단하는 센스까지 완벽하다니까. 친구들한테 얼른 이야기해주고 와야겠다.",
+            "utterance_id": "BE22009418.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래그래. 너희 먹고 싶은 거 정해서 알려주면 내가 예약할게. 빨리 날짜 정해보자.",
+            "utterance_id": "BE22009418.15"
+        }
+    ]
+}

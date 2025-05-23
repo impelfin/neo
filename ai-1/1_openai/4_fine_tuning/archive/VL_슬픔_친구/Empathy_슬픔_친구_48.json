@@ -1,0 +1,186 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009784",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009784",
+        "relation": "친구",
+        "situation": "고양이가 아프다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 고양이가 어제부터 계속 토를 해서 병원에 입원했어. 너무 걱정되고 슬프다.",
+            "utterance_id": "BE22009784.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 가족처럼 생각하는 고양인데, 정말 걱정되겠다. 많이 아픈 건 아닌지 나도 걱정이 되네.",
+            "utterance_id": "BE22009784.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "건강했던 고양이인데, 왜 아픈지 모르겠어. 우선 결과는 내일 나올 것 같아. 너무 불안하고 눈물이 난다.",
+            "utterance_id": "BE22009784.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나였어도 내가 키우는 고양이가 아프면 정말 슬플 것 같아. 특히 너는 동물을 참 사랑하잖아. 그런 널 알기에, 네 마음이 너무 힘들지 않기를 바라.",
+            "utterance_id": "BE22009784.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "특히 우리 고양이가 이제는 나이가 많잖아. 마냥 어린 나이가 아닌데 아프니까 더 속상해.",
+            "utterance_id": "BE22009784.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 걱정되고 슬플 것 같아. 나도 강아지를 키워서 그 마음 알아. 우리 강아지도 아플 때가 있었는데 나도 정말 눈물이 났었거든.",
+            "utterance_id": "BE22009784.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 잘 보살펴 줬어야 했는데, 어제 퇴근을 늦게 해서 보살펴주지 못했어. 고양이가 아픈 게 다 내 탓 같아.",
+            "utterance_id": "BE22009784.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 일하느라 무척 바쁘고 힘들었잖아. 게다가 너는 항상 고양이에게 지극정성이었는걸? 너의 탓이 아니니까 너무 너를 억누르지 않았으면 해.",
+            "utterance_id": "BE22009784.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "바빴어도, 내가 더 신경 썼어야 했어. 우리 고양이에게 무슨 일이 생긴다면, 난 정말 살 수가 없을 것 같아. 너무 눈물이 난다.",
+            "utterance_id": "BE22009784.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "두려운 그 마음 다 이해해. 하지만, 우리 같이 결과를 기다려보자. 고양이들이 토를 하는 경우는 흔하기도 해서, 큰 문제 없을 테니 너무 걱정하지 마.",
+            "utterance_id": "BE22009784.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까? 무사히 퇴원할 수 있을까?",
+            "utterance_id": "BE22009784.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 그럴 거야. 결과가 나올 때까지는 희망을 가져보는 것도 좋다고 생각해. 부정적인 생각은 너의 슬픔만 더 커질 뿐일 테니, 우리 같이 긍정적으로 생각해 보자.",
+            "utterance_id": "BE22009784.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "나 혼자서 너무 두려웠는데, 그렇게 말해줘서 정말 고마워. 너의 말을 들으니 슬픔이 좀 가라앉았어.",
+            "utterance_id": "BE22009784.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음이 괜찮아져서 참 다행이다. 너무 놀랐을 텐데, 진정하고 마음을 차분히 해보면 더 좋을 것 같아. 나도 너와 너의 고양이가 건강하고, 평안하기를 바랄게.",
+            "utterance_id": "BE22009784.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너에게 말하면 항상 마음이 편안해진다. 내 일을 너의 일처럼 생각해 줘서 정말 고마워.",
+            "utterance_id": "BE22009784.15"
+        }
+    ]
+}

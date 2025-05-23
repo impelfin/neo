@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009203",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009203",
+        "relation": "친구",
+        "situation": "더 이상 흰머리 염색을 하지 않기로 했다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 평소에도 흰머리라면 진절머리가 났었거든. 원래부터 새치가 너무 많아서 스트레스를 받았었잖아.",
+            "utterance_id": "BE22009203.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 너 학교 다닐 때 맨날 흰 머리 뽑고 그랬던 거 생각난다. 그러다 아이 낳고 유독 심하다고 더 스트레스를 받고는 했잖아?",
+            "utterance_id": "BE22009203.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 출산하고 나니까 그 전과는 비교도 되지 않을 만큼 더 많아지더라고. 그러다 이제 40대 되니까 온통 다 흰머리가 돼버렸지 뭐야. 근데 이제는 더 이상 흰머리 염색 안 하기로 결심했어!",
+            "utterance_id": "BE22009203.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 네가 염색하지 않는다니까 뭔가 어울리지 않는 느낌이 드는걸? 어쩌다 갑자기 그런 생각을 하게 된 거야?",
+            "utterance_id": "BE22009203.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 거의 한 달에 한 번꼴로 염색했었거든. 미용실 비용도 그렇고 혼자 해도 만만치 않은 일이더라고.",
+            "utterance_id": "BE22009203.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지, 요즘 머리 염색하는 가격도 좀 비싸니. 한 달에 한 번 꼬박꼬박 염색하려면 정말 힘들었겠다.",
+            "utterance_id": "BE22009203.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나중에는 집착처럼 흰머리만 보이면 너무 스트레스를 받고 내가 할머니처럼 늙어보는 것 같고 아주 난리였어. 근데 우리 딸이 엄마는 흰머리도 멋지다고 하고, 남편은 내 흰머리도 사랑스럽다네? 사소한 말 한마디에 있는 모습 그대로 나 자신을 사랑해줘야겠다 마음이 들어서 편안해!",
+            "utterance_id": "BE22009203.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나라도 그렇게 신경 쓰고 힘들다가 그런 말 들으면 좀 감동이었을 거 같은걸? 내 가족들이 나를 있는 모습 그대로 사랑하는데 정작 나 스스로 아니었던 거잖아. 내가 나를 사랑하기로 결정하면 정말 마음의 평화가 올 것 같아!",
+            "utterance_id": "BE22009203.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "바로 그거야! 나도 딱 그런 마음이 들면서 이제 흰머리 염색을 안 해야겠다 결정하니까 마음이 후련하고 기쁘기까지 하더라고. 뭔가 의무감에서 해방된 느낌이라 가볍고 기쁜 것 같아!",
+            "utterance_id": "BE22009203.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평생을 염색을 해왔으니, 그것도 꼭 해야 한다는 중압감이 들었을 텐데 말이야. 내가 너라도 자유를 얻은 것처럼 기쁘고 시원하고 했을 것 같아. 내가 이렇게 속이 시원한데, 너는 어떻겠어!",
+            "utterance_id": "BE22009203.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 이렇게 같이 공감하면서 대화해주니 기쁨이 더 커지는 것 같아. 내가 정말 잘 결심했다는 생각도 들고 말이야.",
+            "utterance_id": "BE22009203.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 그동안 그렇게 스트레스를 받으면서 고생 많았어. 이건 누가 보더라도 정말 잘 결정한 일인걸?",
+            "utterance_id": "BE22009203.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 이제 흰머리가 우아하게 보이는 시대라면서 스타일링 가르쳐준다고 하더라? 이참에 제대로 한번 배워보려고.",
+            "utterance_id": "BE22009203.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 그렇구나. 너는 원래 손재주도 좋으니까 조금만 배우면 멋지게 스타일링 할 수 있을 것 같은데?",
+            "utterance_id": "BE22009203.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "내가 잘 배워서 해보고 괜찮으면 너에게도 알려줄게! 이제 멋진 백발의 아줌마가 되는 거야!",
+            "utterance_id": "BE22009203.15"
+        }
+    ]
+}

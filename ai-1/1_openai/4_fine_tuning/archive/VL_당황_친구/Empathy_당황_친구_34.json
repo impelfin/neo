@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010286",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010286",
+        "relation": "친구",
+        "situation": "아내가 갑자기 외모를 가꾸기 시작했다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 아내가 부쩍 외모에 신경을 많이 쓰기 시작했어. 평소와 다른 모습이라 당황스러워.",
+            "utterance_id": "BE22010286.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 배우자가 평소랑 달리 느껴질 때면 당황스러웠어. 그 말할 수 없는 답답함이 뭔지 알아. 혹시 더 얘기해줄 수 있을까?",
+            "utterance_id": "BE22010286.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "밖에 나갈 때 준비시간이 전과 비교했을 때 말도 안 되게 길어졌어. 혹시 다른 사람이 생긴 건 아닐까 싶어 혼란스러워. 내 말을 좀처럼 듣지 않는 것 같기도 하고 말이야.",
+            "utterance_id": "BE22010286.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 만나는 애인이 부쩍 외모에 신경을 쓰면 괜히 의식하게 되더라고. 이 사람한테 내가 모르는 일이 생겼나 싶고 말이야. 혼자 끙끙 앓느라 답답했겠다.",
+            "utterance_id": "BE22010286.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나를 이상하게 생각할까 봐. 물어보지도 못하겠어. 괜히 서로 오해를 사는 거면 어떡해.",
+            "utterance_id": "BE22010286.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 상대에게 내 마음을 말하는 거 자체가 쉽지 않잖아. 말을 꺼내기 전부터 두렵곤 하잖아. 지금 너무 당황스럽고 혼란스러울 것 같아.",
+            "utterance_id": "BE22010286.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사랑하는 사람을 잃을까 봐 가장 두려워. 아내가 외모를 가꾼다는 게 바람의 사유가 되지도 않고 말이야.",
+            "utterance_id": "BE22010286.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 네 마음이 불안한 건 아내를 그만큼 사랑하기 때문이지? 우선 마음을 조금 편안하게 가다듬고 생각을 정리해 보면 어떨까. 의외로 가까운 곳에 해답이 있을지도 몰라.",
+            "utterance_id": "BE22010286.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 그동안 직접적인 해결 방법만 생각했던 것 같아. 생각해보면 단박에 문제를 해결하려는 게 말이 안 되기도 하고 말이야.",
+            "utterance_id": "BE22010286.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나였어도 상대방의 태도가 달라지면 당황스러웠을 것 같아. 하지만 중요한 건 네가 그녀를 여전히 누구보다 사랑한다는 게 아닐까? 상대도 그걸 누구보다 잘 알고 있고 말이야.",
+            "utterance_id": "BE22010286.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 나는 아내를 누구보다 사랑해. 그녀가 외모를 가꾸고 안 가꾸고는 전혀 중요하지 않고 말이야. 내게 중요한 게 뭔지 일깨워줘서 고마워.",
+            "utterance_id": "BE22010286.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 숭고한 사랑과 믿음을 그동안 지켜봤잖아. 지금은 혼란스러워도 결국 잘 극복할 수 있을 거야. 그러니 마음을 조금만 편안하게 가다듬자.",
+            "utterance_id": "BE22010286.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응. 우선 그녀를 믿고 나를 믿고 기다려야겠어. 나와 대화해줘서 고마워. 마음이 한결 나아졌어.",
+            "utterance_id": "BE22010286.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네 말을 들으니까 내 마음도 절로 맑아지는 것 같아. 언제든 고민이 있으면 나와 공유해줘. 늘 귀 기울일게. 오늘은 따뜻한 차라도 한잔 마시고 푹 쉬어.",
+            "utterance_id": "BE22010286.14"
+        }
+    ]
+}

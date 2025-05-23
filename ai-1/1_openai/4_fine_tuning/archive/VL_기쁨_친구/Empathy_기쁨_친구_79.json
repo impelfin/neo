@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22009694",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009694",
+        "relation": "친구",
+        "situation": "건강을 위해서 헬스를 등록했다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야. 내가 오늘 아주 뿌듯한 일을 하나 해냈단다.",
+            "utterance_id": "BE22009694.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오. 무슨 일을 했길래?",
+            "utterance_id": "BE22009694.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 바로 건강을 위해서 헬스를 등록했지! 얼마나 마음이 풍족해지는지 몰라. 아주 만족스러워서 입가에 미소가 저절로 걸리는구나.",
+            "utterance_id": "BE22009694.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오 정말? 너 자신의 건강을 위해 한 걸음 내딛는 거 같아서 기분이 정말 좋겠구나?",
+            "utterance_id": "BE22009694.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아! 너도 알다시피 나 운동이라면 엄청 끔찍하게 생각했잖아. 근데 요즘 체력도 너무 안 좋아 진 거 같고, 건강검진 받은 병원에서도 운동 권유하더라고. 그래서 큰마음먹고 등록했는데 생각보다 기분이 엄청 좋네.",
+            "utterance_id": "BE22009694.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 처음 헬스 등록했을 때 얼마나 뿌듯하고 벅차올랐는지 몰라. 그래서 지금 이렇게 만족스러워하는 네 기분 이해해! 네가 지금 진짜 기분이 좋겠다.",
+            "utterance_id": "BE22009694.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오 너도 이 기분을 느꼈었구나. 그렇게 싫어하던 일을 내 건강을 위해서 극복한 기분이 들어서 뿌듯해. 앞으로 무슨 일이든 해낼 수 있을 거라는 생각도 들더라!",
+            "utterance_id": "BE22009694.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 한번 마음먹으면 불도저처럼 해내는 성실함이 있잖아. 그 모습 보고 얼마나 대단하다고 느꼈는지 몰라.",
+            "utterance_id": "BE22009694.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 칭찬해주니까 내 기분이 더 좋아지는 거 같아. 너는 요즘 운동 안 하니?",
+            "utterance_id": "BE22009694.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몇 달 전에 무릎 다쳐서 그만둔 상태인데 네가 이렇게 좋아하는 모습 보니까 나도 하고 싶어진다!",
+            "utterance_id": "BE22009694.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 너 내가 다니는 헬스장에 등록하지 않을래? 나 통해서 등록하면 지인 할인을 해준대! 너랑 같이 운동하면 더 재밌고 신날 거 같은데!",
+            "utterance_id": "BE22009694.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오 정말? 그럼 너를 통해서 등록하는 게 완전 이득이잖아. 나야 정말 고맙지. 너희 동네랑 우리 동네랑 가깝잖아. 정말 신난다!",
+            "utterance_id": "BE22009694.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "후후. 나도 너랑 같이 건강을 위해 헬스장에서 같이 운동할 생각을 하니까 기분이 더 좋아졌어. 우리 같이 힘내보자!",
+            "utterance_id": "BE22009694.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 좋아! 그럼 내가 내일 일 끝나고 너희 동네로 넘어갈게. 같이 헬스 등록하러 가주라!",
+            "utterance_id": "BE22009694.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 그럼 내일 다시 문자 보내! 나랑 제일 친한 친구랑 같은 헬스장이라니! 야호 신난다!",
+            "utterance_id": "BE22009694.15"
+        }
+    ]
+}

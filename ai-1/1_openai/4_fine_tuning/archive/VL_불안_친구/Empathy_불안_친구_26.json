@@ -1,0 +1,166 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009528",
+        "listener_behavior": [
+            "조언",
+            "동조"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009528",
+        "relation": "친구",
+        "situation": "음식을 급하게 먹어서 위가 좋지 않다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 바빠서 음식을 급하게 먹는 습관이 생겼는데 그것 때문에 위가 좋지 않은 것 같아. 요즘 계속 속이 쓰리고 위가 아파서 불안해.",
+            "utterance_id": "BE22009528.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "밥 먹을 시간도 줄여야 할 정도로 일이 무척 바빠? 위가 괜찮다가 갑자기 안 좋으면 나 같아도 당연히 불안하지.",
+            "utterance_id": "BE22009528.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일은 항상 바쁘지. 바쁘기도 하고 정해진 시간 안에 먹어야 하니 빨리 먹을 수밖에 없더라고. 같이 일하는 사람들 눈치도 보이고, 이게 반복되니까 소화가 잘 안되네.",
+            "utterance_id": "BE22009528.3"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일이 바쁘면 눈치 보이지. 그래서 병원에는 가 봤어? 금방 괜찮아지면 다행인데 계속 그러면 문제가 있는 거니까 시간 내서 병원에 가보는 게 좋을 것 같아.",
+            "utterance_id": "BE22009528.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이러다 괜찮아지겠지 생각해서 아직 안 갔어. 그런데 자꾸 증상이 심해지는 거 같아 불안해서 병원에 가질 못하겠어. 괜히 큰 병이면 어떡하지 싶어서.",
+            "utterance_id": "BE22009528.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 작년에 소화가 자꾸 안 됐는데 병원 가기엔 너무 무서워 약국에서 약만 사다 먹었었어. 그래도 계속 아파서 위내시경 검사를 했는데, 다행히 식도염이라 약 먹고 지금은 다 나았어. 무슨 일이든 걱정하는 것보다 상황은 훨씬 나으니까 분명 이것도 큰 문제 아닐 거야. 너무 걱정하지 마.",
+            "utterance_id": "BE22009528.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말을 들으니까 그래도 마음이 한결 나아지는 것 같아. 그럴 일은 없겠지만 혹시 일을 쉬어야 하면 어떡해. 당장 휴가를 낼 수 있는 상황도 아닌데.",
+            "utterance_id": "BE22009528.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 사람들 보면 다들 위장병 하나씩은 갖고 있으니까 크게 생각할 필요 없어. 일보다 네 몸이 더 중요한데 외적인 문제 때문에 검사를 받지 않는 건 말도 안 돼. 큰 병이 되기 전에 검사로 발견하면 큰 행운인 거잖아.",
+            "utterance_id": "BE22009528.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "하긴 그렇지. 네 말이 일리가 있다. 수면마취도 해야 하는 걸로 알고 있는데 괜찮겠지?",
+            "utterance_id": "BE22009528.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마취하기 전에 의사 선생님이 충분히 설명해주고, 깨어날 때까지 간호사 선생님들이 항상 옆에 있어. 내가 해 봐서 잘 알잖아.",
+            "utterance_id": "BE22009528.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 간호사 선생님이 옆에서 지켜본다니 안심이 되네. 네 말대로 마음 편하게 먹고 검사받아봐야겠다. 네 덕분에 불안한 마음도 사라지는 것 같네.",
+            "utterance_id": "BE22009528.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "검사받으러 갈 때 내가 같이 가줄게. 매번 아플 때마다 불안해하지 말고 나도 검사받고 나니까 마음이 홀가분하더라고. 너도 분명 괜찮을 거야.",
+            "utterance_id": "BE22009528.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 같이 가준다니까 훨씬 마음이 놓이고 든든하다. 먼저 그렇게 말해줘서 고마워.",
+            "utterance_id": "BE22009528.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "뭘 이런 걸로 우린 친구인데. 검사받으러 갈 때 연락해.",
+            "utterance_id": "BE22009528.14"
+        }
+    ]
+}

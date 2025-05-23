@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010348",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010348",
+        "relation": "친구",
+        "situation": "비가 와서 우산을 펼쳤는데 우산살이 부러졌다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "비도 오는데 마음은 더 심란하네.",
+            "utterance_id": "BE22010348.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그런 마음이 들었니?",
+            "utterance_id": "BE22010348.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "비가 와서 우산을 펼쳤는데 우산살이 부러진 거 있지? 너무 당황스러워서 어찌할 바를 모르겠더라고.",
+            "utterance_id": "BE22010348.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 경험해봐서 정말 잘 알지. 당황해서 어떤 행동이나 조치를 해야 할지 모르잖아. 경황도 없으니 너 정말 놀랐겠다.",
+            "utterance_id": "BE22010348.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집까지 돌아갈 시간이 없어서 쓰고 걸었는데 사람들이 나만 쳐다보는 것 같았어. 부끄러워서 혼났어. 얼굴이 얼마나 화끈해지던지.",
+            "utterance_id": "BE22010348.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 때 다른 우산 보면 다 멀쩡하고 나만 고장 난 우산을 쓰고 있는 느낌이잖아. 다 정상인데 나만 비정상인 기분이라서 주눅도 들고 부끄럽기도 했을 것 같아.",
+            "utterance_id": "BE22010348.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "차라리 우산을 버리고 그냥 뛰어갈 걸 그랬나 생각도 들더라고. 망가진 우산을 쓰고 갈 수밖에 없어서 너무 힘들더라.",
+            "utterance_id": "BE22010348.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야, 괜히 비 맞고 감기 걸렸을 수도 있어. 뛰어갔어도 우산 쓴 사람이랑 비교돼서 이상하게 느꼈을지도 몰라. 고장 난 우산이라도 그걸 쓴 네 선택이 옳았다고 생각해.",
+            "utterance_id": "BE22010348.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각해야겠어. 너무 부끄러워서 어쩔 줄을 모르고 있었는데. 잘한 선택이었다고 생각하니 조금은 낫네.",
+            "utterance_id": "BE22010348.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 그리고 사람들이 우산에 가려져서 네 우산은 안 보였을지도 몰라. 너무 걱정하지 마.",
+            "utterance_id": "BE22010348.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생각해 보니 나만 우산을 신경 쓴 것 같기도 해. 순간 너무 놀라고 당황스러워서 사람들 눈치를 봤었는데. 너의 말 덕분에 기분이 나아진다!",
+            "utterance_id": "BE22010348.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 이번 생일 선물로 튼튼한 우산 사 줄 테니 기분 풀자! 우산살 부러질 위험이 없는 걸로 선물해줄게!",
+            "utterance_id": "BE22010348.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "갑자기 피식 웃음이 새어 나오는걸? 너에게 말하길 잘했어. 말이라도 정말 고마워!",
+            "utterance_id": "BE22010348.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "내 친구가 우산 때문에 힘들었는데, 당연히 새 우산 사줘야지! 생일 때 기대해!",
+            "utterance_id": "BE22010348.14"
+        }
+    ]
+}

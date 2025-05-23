@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009703",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009703",
+        "relation": "친구",
+        "situation": "콩쿨에 나가면 매번 실수를 한다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "방금 콩쿠르 끝나고 나오는 길이야. 콩쿠르는 항상 아쉬움이 남는 것 같아.",
+            "utterance_id": "BE22009703.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 콩쿠르 잘 마쳤다는 연락 기다리고 있었는데! 끝나서 속 시원하겠다! 너무 수고했어.",
+            "utterance_id": "BE22009703.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 근데 아니나 다를까 오늘도 실수해버렸어. 평소에는 하지도 않는 실수인데 그래서 더 속상해.",
+            "utterance_id": "BE22009703.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아쉬움이 남는다니까 나까지 속상하네. 긴장했나 보다.",
+            "utterance_id": "BE22009703.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "연습 때는 괜찮았는데 왜 매번 콩쿠르만 나가면 실수를 하는 걸까. 난 정말 무대 체질이 아닌가 봐.",
+            "utterance_id": "BE22009703.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "콩쿠르 자리니까 떨리는 게 당연한 거 아니겠어? 나였으면 떨려서 악보도 생각 안 날 것 같은데! 난 네가 정말 대단한 것 같아.",
+            "utterance_id": "BE22009703.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 첫 콩쿠르도 아니고 몇 번째인데 또 실수하니까 정말 스스로한테도 실망스러워.",
+            "utterance_id": "BE22009703.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "첫 콩쿠르는 아니지만, 그동안 열린 콩쿠르 중에 가장 규모가 컸잖아? 그렇게 생각하지 말고 그런 대단한 무대에 네가 대표로 나간 거니까 좋게 생각해봐. 비록 실수는 조금 하더라도 네 역량은 콩쿠르 규모만큼 커지고 있는 거라고 생각해.",
+            "utterance_id": "BE22009703.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말대로 지금껏 나간 콩쿠르 중에서는 규모가 가장 커서 더 잘하고 싶었나 봐. 그래서 이번엔 실수 안 하려고 연습도 더 열심히 했었거든. 근데 아무리 연습해도 긴장하는 마음까지는 내가 조절을 못하는 것 같아서 좌절감이 들어.",
+            "utterance_id": "BE22009703.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 연습을 열심히 한 만큼 속상한 마음은 이해가 돼. 노력한 것보다 결과가 더 잘 나오면 좋지만 네 말대로 마음이 긴장되면 그러기가 힘들지. 그래도 이마저도 경험이 되어서 네 능력에 도움을 주는 날이 분명히 있을 거야.",
+            "utterance_id": "BE22009703.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까, 연습한 만큼도 안 나오니까 너무 좌절감이 들었어. 무대 경험을 쌓아나가는 게 중요하다고 하긴 하더라고. 그래도 내가 제일 못한 것 같아서 정말 부끄러워.",
+            "utterance_id": "BE22009703.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 소리야, 이미 최고들만 모인 자리였잖아? 너도 그 정도 실력이니까 견줄 수 있었던 거야. 말 그대로 실수여서, 오늘은 실수 안 한 사람들도 다른 자리에서는 실수할 수도 있는 거잖아?",
+            "utterance_id": "BE22009703.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 그래도 다음엔 이 중에서도 제일 잘하고 싶은 마음이야. 실수조차도 하지 않는 실력을 갖추고 싶어!",
+            "utterance_id": "BE22009703.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 마음가짐이면 얼마든지 1등 하고도 남을 것 같은걸? 이번을 반면교사 삼아서 연습해보자. 벌써 다음 콩쿠르가 기대된다!",
+            "utterance_id": "BE22009703.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네 말대로 이번 경험을 바탕으로 다시 도전해 봐야겠다! 위로 고마워.",
+            "utterance_id": "BE22009703.15"
+        }
+    ]
+}

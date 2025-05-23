@@ -1,0 +1,160 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009511",
+        "listener_behavior": [
+            "조언",
+            "동조"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009511",
+        "relation": "친구",
+        "situation": "전세계약이 끝나지 않았는데 주인이 집을 비워달라고 한다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전세계약이 끝나지 않았는데 주인이 집을 비워 달라고 해서 당황스러워.",
+            "utterance_id": "BE22009511.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기? 계약 만료일이 되지도 않았는데 그런 말을 들으면 누구나 황당하고 당황스럽지. 이사 갈 집은 구해 놓은 거야?",
+            "utterance_id": "BE22009511.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니. 아직 계약기간이 2주 정도 남아있고, 당연히 계약연장해 줄 거라 생각해서 이사 갈 집은 안 구했지. 만약 계약연장할 거면 5천만원을 올릴 거라는데 어떻게 갑자기 5천만원을 구해. 안되면 집을 비워줘야 하는데 정말 당황스럽고 걱정돼.",
+            "utterance_id": "BE22009511.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 집값이 많이 올라서 당장 이사할 집을 알아 볼 수도 없잖아. 아무리 집주인이라도 집 구할 시간은 줘야지 갑자기 통보하면 세입자는 어떻게 하라고 그러는 거야? 이건 말이 안 돼.",
+            "utterance_id": "BE22009511.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "은행 대출이라도 받아서 보증금을 올려 줘야 하는 걸까? 내가 이런 일은 처음이라 어떻게 해결해야 할지 당황스러워.",
+            "utterance_id": "BE22009511.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 알기로는 집주인이 2주 전에 얘기 했기 때문에 임대차계약이 이미 묵시적으로 갱신된 상태일 거야. 그래서 네가 5천만원을 추가로 주지 않아도 돼.",
+            "utterance_id": "BE22009511.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 보증금을 더 올려 주지 않아도 이 집에서 나가지 않아도 된다는 말이야? 내가 이 집으로 이사 올 때도 은행 대출을 받아서 왔거든. 은행 대출이 안나올 수도 있어서 걱정이 이만저만이 아니야.",
+            "utterance_id": "BE22009511.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그러니까 너무 걱정하지 말고 집주인한테 잘 얘기해봐. 그럼 집주인도 아무 말 못할 거야. 네가 이런 걸 모른다고 생각해서 그렇게 말했을 수도 있으니까.",
+            "utterance_id": "BE22009511.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그럴 수도 있어. 그런데 묵시적갱신이 뭐야? 나도 알아야 주인한테 당당하게 말 할 수 있지.",
+            "utterance_id": "BE22009511.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "계약기간 끝나기 1개월 전까지 계약조건과 기간을 변경하겠다는 말이 없으면 같은 조건으로 갱신된다는 뜻이야. 이건 너가 보장받을 수 있는 권리니까 이 문제에 대해서 크게 걱정하지 않아도 돼.",
+            "utterance_id": "BE22009511.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래? 정말 다행이다. 나는 그런 것도 모르고 걱정만 했잖아. 네가 내 친구라는 게 얼마나 다행인지 몰라.",
+            "utterance_id": "BE22009511.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 예전에 너와 비슷한 상황이었는데 아는 것도 없고 물어볼 사람도 없어서 정말 막막했었어. 그런데 지인이 부동산에 가서 물어보라고 해서 알게 됐거든. 그렇게 다행히 계약 문제가 잘 해결되고 이후에도 잘 살다가 이사했으니 분명 너도 잘 해결될 거야. 걱정하지 마.",
+            "utterance_id": "BE22009511.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 네가 그렇게 말해주니까 훨씬 안심이 된다. 앞으로 이번 일과 비슷한 일이 생겨도 당황하지 않고 잘 대처할 거 같아. 네가 친구라는 게 너무 믿음직스럽고 뿌듯해. 정말 고마워.",
+            "utterance_id": "BE22009511.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "뭐 이런 걸 가지고. 우리 항상 어렵고 고민되는 일이 있으면 서로 잘 의논해서 잘 해결해 보자.",
+            "utterance_id": "BE22009511.14"
+        }
+    ]
+}

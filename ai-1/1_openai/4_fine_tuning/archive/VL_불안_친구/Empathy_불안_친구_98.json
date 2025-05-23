@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22010299",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010299",
+        "relation": "친구",
+        "situation": "자동차의 엔진소리가 갑자기 시끄러워졌다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하, 이번 달 지출이 또 예상을 넘을 것 같아서 너무 불안하네.",
+            "utterance_id": "BE22010299.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 무슨 일 때문에 지출이 더 나가?",
+            "utterance_id": "BE22010299.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 내 자동차 있잖아, 엔진소리가 갑자기 엄청나게 커져서 너무 시끄러워. 근데 내가 알기로는 이게 엔진에 문제가 있어서 그런 것 같거든. 하 이번에 지출 완전 큰데 엔진 교체까지 하면 진짜 돈 엄청나게 드는데, 불안하네.",
+            "utterance_id": "BE22010299.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 나도 그랬던 적이 있어서 네 기분 진짜 잘 알겠어. 저번에 이미 쓴 돈이 많은데 돈이 들어갈 곳이 더 생길 것 같은 기분에 진짜 불안하더라.",
+            "utterance_id": "BE22010299.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하, 이럴 때는 정말 어떻게 해야 하는 걸까. 내가 뭐 엔진을 스스로 바꿀 수 있는 것도 아니고, 정말 난감해.",
+            "utterance_id": "BE22010299.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 내가 관여할 수 있는 부분이 전혀 아닌데 일이 발생하면 꽤 당황스럽지. 세상 살면서 정말 예상하지 못한 일들이 많이 일어나는 것 같아.",
+            "utterance_id": "BE22010299.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 내 자동차가 이렇게 될 줄 어떻게 알았겠어? 이런 일을 예측할 수 있었다면 솔직히 이번 달은 조금 덜 썼을 거야.",
+            "utterance_id": "BE22010299.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하 맞아 후회는 언제나 미래의 나의 몫이라 현재를 더 즐길 수밖에 없는 것 같기는 해. 근데 혹시 더 지출이 생길까 봐 불안한 이 감정 싫지 않아?",
+            "utterance_id": "BE22010299.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 싫지. 지금은 과거에 돈 쓰는 나를 말리고 싶을 정도야.",
+            "utterance_id": "BE22010299.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지난 과거는 어쩔 수 없으니, 앞으로는 조금 미래를 대비하는 자세를 가져보는 건 어때? 돈도 조금 모아놓고 하면 앞으로는 이렇게 큰 불안을 느낄 일이 없을 거야. 갑작스러운 지출이 생겨도 걱정이 줄잖아?",
+            "utterance_id": "BE22010299.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 나도 앞으로는 너의 조언처럼 조금 대비를 하는 자세를 가져보도록 해야겠어. 이런 기분 앞으로는 정말 느끼고 싶지 않네.",
+            "utterance_id": "BE22010299.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "앞으로 혹시 어렵거나 조언이 필요하면 나한테 말해. 언제든지 내가 도와줄게.",
+            "utterance_id": "BE22010299.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응 고마워. 너랑 이야기하니까 기분이 훨씬 나아졌어. 이번은 어쩔 수 없더라도 앞으로 조심하면 되니까! 그렇지?",
+            "utterance_id": "BE22010299.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 나의 조언을 이렇게 잘 받아들이고 실천하려 하다니 정말 뿌듯한걸? 이렇게 바로 수용하기 쉽지 않은데 넌 정말 대단해!",
+            "utterance_id": "BE22010299.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "에이 뭘, 다 너의 좋은 조언 덕분이지!",
+            "utterance_id": "BE22010299.15"
+        }
+    ]
+}

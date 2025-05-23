@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010388",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010388",
+        "relation": "친구",
+        "situation": "아버지가 수술을 하고 중환자실로 들어간 지 일주일째다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 아버지 이번에 수술하시고 중환자실에 계신 지 벌써 일주일째야. 하루하루가 불안함의 연속이야.",
+            "utterance_id": "BE22010388.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일주일이나 됐구나. 네가 그동안 마음고생을 정말 많았겠다. 하루만 입원해도 정신적으로 힘들었을 텐데 그동안 얼마나 마음이 무거웠을지 상상이 안 가.",
+            "utterance_id": "BE22010388.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "매일 걱정이 많이 됐지. 일주일을 어떻게 보냈는지도 모르겠어.",
+            "utterance_id": "BE22010388.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나라도 아마 그랬을 거야. 매일 아버지 걱정에 밥 한술도 못 떴을 것만 같아. 넌 그동안 어떻게 버텨냈니?",
+            "utterance_id": "BE22010388.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 매일 밥 먹기도 힘들었던 것 같아.",
+            "utterance_id": "BE22010388.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 항상 네가 조금이나마 힘을 내기를 바라고 있어. 아버지도 강한 분이시니까 얼른 쾌차하실 수 있을 거야. 곧 그런 날이 올 수 있도록 나도 매일 기원할게.",
+            "utterance_id": "BE22010388.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "위로해줘서 고맙다. 힘이 좀 나는 것 같아.",
+            "utterance_id": "BE22010388.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 너는 항상 씩씩하고 긍정적인 친구잖아. 지금도 충분히 잘 이겨내고 있다고 생각해. 너무 걱정 말고 조금 더 힘을 내 보자.",
+            "utterance_id": "BE22010388.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘하고 있는 거 맞겠지? 네가 그렇게 말해주니 조금 위안이 되는구나.",
+            "utterance_id": "BE22010388.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "위로가 되었다니 내가 다 고마운걸? 내가 옆에서 많이 도와주지도 못하고 미안하다.",
+            "utterance_id": "BE22010388.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "아니야. 이렇게 문자로라도 위로해줘서 정말 고마워. 아버지도 정말 잘 이겨내실 수 있을 것 같아.",
+            "utterance_id": "BE22010388.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 지금처럼 마음을 단단히 먹어야 아버지께도 힘이 될 수 있을 거야. 어려운 상황일 텐데 친구로서 자랑스러워.",
+            "utterance_id": "BE22010388.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알겠어. 지금 마음을 잊지 않고 흔들리지 않을게.",
+            "utterance_id": "BE22010388.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그거 정말 좋은 마음가짐이야. 그리고 힘들 땐 언제든지 연락해. 기다리고 있을게.",
+            "utterance_id": "BE22010388.14"
+        }
+    ]
+}

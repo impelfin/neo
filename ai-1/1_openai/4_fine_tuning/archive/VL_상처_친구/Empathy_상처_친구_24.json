@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010703",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010703",
+        "relation": "친구",
+        "situation": "부부싸움을 했는데 아내가 밤늦게까지 들어오지 않는다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 아내 때문에 정말 너무 속상하고 상처받았어.",
+            "utterance_id": "BE22010703.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 늦은 시간에 그게 무슨 소리야? 무슨 일 있었어?",
+            "utterance_id": "BE22010703.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아까 점심에 아내랑 말다툼을 조금 했거든. 그 후에 와이프가 약속 있다고 나갔는데 아직도 안 들어왔어. 아내가 결혼 생활에 너무 무책임한 것 같아서 정말 충격적이야.",
+            "utterance_id": "BE22010703.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고. 싸우고 이 시간까지 안 들어오면 회피하는 것 같아서 네가 상처받을만하다. 나였어도 충격적이고 서운할 것 같아.",
+            "utterance_id": "BE22010703.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 아무리 싸웠다고 해도 어떻게 이 늦은 시간까지 집에 안 들어올 수가 있어? 정말 끝까지 가자는 건가? 정말 서운하다 못해 배신감까지 들어.",
+            "utterance_id": "BE22010703.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 심정 이해해. 이렇게 회피만 하면 상황 정리도 늦어지니 감정 해소도 안 되잖아. 오히려 더욱 감정 골만 깊어지고.",
+            "utterance_id": "BE22010703.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 말이 그 말이야. 아내가 지금 집에서 기다리는 내 입장을 이해했다면 아직 안 들어올 리 없잖아. 나를 무시하는 것 같아서 너무 상처가 돼.",
+            "utterance_id": "BE22010703.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "속상한 네 마음은 알지만, 그래도 너무 부정적으로 생각하지는 말자. 어쩌면 와이프도 시간이 점점 늦어져서 민망한 마음에 못 들어올 수도 있잖아. 혹시 와이프한테 연락은 해봤어?",
+            "utterance_id": "BE22010703.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 따로 아내한테 연락해 보지는 않았어. 네 말을 듣고 보니 아내도 내심 연락을 기다리고 있을 수도 있겠다는 생각이 든다. 내가 너무 내 입장만 생각했었나 봐.",
+            "utterance_id": "BE22010703.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 네가 집에서 기다리는 상황이니 너는 당연히 그럴 수 있지. 그래도 네가 먼저 배려해서 다가가면 관계 회복이 조금 더 원활하지 않을까?",
+            "utterance_id": "BE22010703.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 네 말대로 내가 먼저 어디쯤인지 연락해 봐야겠다. 시간도 너무 늦어서 걱정도 되고 말이야.",
+            "utterance_id": "BE22010703.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 역시 마음도 넓고 다정한 사람인 것 같아. 감정을 상대를 향한 태도로 드러내지 않는 모습이 정말 멋지고 존경스러워. 항상 널 보고 많이 배워.",
+            "utterance_id": "BE22010703.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네가 그렇게 봐주니 내 마음이 더 풀리는 것 같아. 너한테 연락하길 정말 잘했다는 생각이 든다.",
+            "utterance_id": "BE22010703.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 마음이 한결 편해진 것 같아서 나도 너무 다행이야. 부디 와이프랑 잘 얘기하고 화해하길 바랄게.",
+            "utterance_id": "BE22010703.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응! 다음에 또 연락할게!",
+            "utterance_id": "BE22010703.15"
+        }
+    ]
+}

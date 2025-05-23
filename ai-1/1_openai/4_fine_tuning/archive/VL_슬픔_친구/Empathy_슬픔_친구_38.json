@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22009681",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009681",
+        "relation": "친구",
+        "situation": "학생증을 잃어버려 도서관에서 책을 빌리지 못했다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야. 나 지금 너무 슬프다. 나는 진짜 바보인가 봐.",
+            "utterance_id": "BE22009681.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래? 무슨 일이라도 있어?",
+            "utterance_id": "BE22009681.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 나 정말 보고 싶은 책이 학교 도서관에 있더라고 바로 달려가서 책 빌리려고 했지. 근데 학생증을 잃어버려서 못 빌렸어. 진짜 너무 보고 싶었던 책인데 진짜 우울하다.",
+            "utterance_id": "BE22009681.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고. 보고 싶었던 책을 잔뜩 기대해서 빌리러 갔는데 결국에는 빌리지 못해서 그렇게 슬픈 거니?",
+            "utterance_id": "BE22009681.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 사려고 해도 잘 팔지도 않는 옛날에 나온 책이라 구하기가 어렵거든. 학교 도서관에 있을 줄은 몰랐는데, 있는 거 확인하고 얼마나 기뻤었는지 몰라. 근데 결국엔 학생증이 없어서 못 빌렸어. 너무 실망스럽더라.",
+            "utterance_id": "BE22009681.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고. 기뻐하고 기대한 만큼 실망도 컸겠다. 나도 저번에 학생증 두고 와서 책 못 빌린 적 있어서 그 기분 너무 잘 알지. 진짜 좌절했겠다.",
+            "utterance_id": "BE22009681.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 나 자신에 대한 한심함, 그렇게 보고 싶었던 책을 못 봤다는 거에 대한 슬픔이 한꺼번에 밀려왔어. 진짜 속이 쓰릴 만큼 마음이 아파.",
+            "utterance_id": "BE22009681.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너나 나나 광적으로 책을 좋아하기 때문에 그 기분 서로 너무 잘 알잖아. 남들은 그깟 책이 뭐라고 그렇게 슬퍼하느냐고 하지만, 우리 같은 사람들은 너무 잘 알지. 지금 얘기 듣는 내 마음이 다 슬플 지경이야.",
+            "utterance_id": "BE22009681.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시. 나와 같은 독서왕인 너는 내 기분을 잘 알아줄 거 같았어. 휴. 아무튼 그래서 오늘 종일 아무 의욕이 안 난다. 아무리 찾아도 학생증이 안 보이는 거 있지?",
+            "utterance_id": "BE22009681.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에고. 네가 속이 진짜 많이 상했겠다. 그래도 학생증만 다시 만들면 책 다시 빌릴 수 있는 거잖아. 너무 슬퍼하지 마.",
+            "utterance_id": "BE22009681.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그렇기는 한데, 진짜 오래 기다리고 찾았던 책인 만큼 얼른 보고 싶었던 마음이 컸어. 그래서 더 슬픈가 봐.",
+            "utterance_id": "BE22009681.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정 그러면 내가 내 학생증으로 너 대신 책 빌려서 줄게! 그럼 더 이상 네가 슬퍼하지는 않겠지? 네가 얼른 털어내고 마음이 편안해졌으면 하는 마음이니까 너무 슬퍼하지 마. 얼른 기운 내자!",
+            "utterance_id": "BE22009681.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "정말? 진짜 최고의 위로다. 네가 그렇게 해준다면 내가 더 이상 슬퍼할 이유가 없지!",
+            "utterance_id": "BE22009681.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐 어려운 일도 아니고, 오늘 내가 수업 끝나고 빌려서 갖다줄게. 기운 내고 있어야 해?",
+            "utterance_id": "BE22009681.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 벌써 기운이 샘솟는 거 같아. 대신 내가 커피랑 디저트 쏠게!",
+            "utterance_id": "BE22009681.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "오. 좋지! 그럼 이따가 보자!",
+            "utterance_id": "BE22009681.16"
+        }
+    ]
+}

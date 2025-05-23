@@ -1,0 +1,166 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008989",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008989",
+        "relation": "친구",
+        "situation": "도움 많이 되고 있다는 점장님 말씀에 호랑이 기운을 받았다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 아르바이트하는 가게의 점장님께 기분 좋은 말을 들어서 너무 기뻐!",
+            "utterance_id": "BE22008989.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나까지 갑자기 더 신이 나는걸. 무슨 말을 들었는데?",
+            "utterance_id": "BE22008989.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "점장님이 내가 아르바이트로 들어오고 난 뒤로부터 매출도 오르고 너무 도움이 많이 된다고 하시더라고. 그래서 호랑이처럼 기운이 샘솟는 거 있지? 이렇게 칭찬을 받으니까 기분이 너무 좋더라.",
+            "utterance_id": "BE22008989.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 진짜 열심히 했는데 그렇게 칭찬 듣고 기뻐하는 걸 보니까 나도 기분이 좋네. 나였어도 일 잘한다고 칭찬받아서 하늘을 날 것 같이 기분이 좋았을 거야.",
+            "utterance_id": "BE22008989.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 이전에 다른 곳에서 아르바이트했을 때는 이런 얘기를 들어본 적이 없었거든. 그래서 그런지 더 기분이 좋은 것 같아! 그냥 하신 말은 아니겠지?",
+            "utterance_id": "BE22008989.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너희 사장님 빈말 잘 안 하시는 편이라고 했잖아. 그리고 그냥 하는 말이면 그렇게 기운이 샘솟는 기분이 들기 어렵지! 네가 진짜 잘해서 그렇게 말해주신 걸 거니까 그런 생각은 안 해도 될 것 같아!",
+            "utterance_id": "BE22008989.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 정말 다행이다! 안 그래도 그 말이 머리에 맴돌아서 하루하루 일을 즐겁게 할 수 있는 것 같아.",
+            "utterance_id": "BE22008989.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 기분 좋은 마음 충분히 이해할 수 있을 것 같아. 칭찬은 고래를 춤추게 한다는 말도 있잖아. 이렇게 칭찬받아서 호랑이 기운을 받은 너는 앞으로 더 잘하게 될 거야! 너무 멋져!",
+            "utterance_id": "BE22008989.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 칭찬받으니까 힘든 것도 싹 다 잊게 되는 거 있지? 앞으로 더 노력해서 가게에 더 도움이 되는 직원이 되고 싶다.",
+            "utterance_id": "BE22008989.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 손도 빠르고 일하는 센스도 있어서 뭐든지 금방 해내잖아. 이렇게 경험이 쌓여서 앞으로는 더 빠르고 효율적으로 일을 잘 수행할 수 있을 거야!",
+            "utterance_id": "BE22008989.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 네가 그렇게 응원해주니까 덕분에 더 힘내서 잘 해낼 수 있을 것 같아.",
+            "utterance_id": "BE22008989.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 그리고 앞으로 혹시 힘든 일이 있을 때마다 점장님의 말을 생각하면 더 기운이 날 거야. 잊지 말고 힘들 때마다 생각해보자고!",
+            "utterance_id": "BE22008989.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 절대 잊지 않고 힘들 때마다 곱씹으면서 힘내볼게! 네 덕분에 자신감을 더 충전한 것 같아.",
+            "utterance_id": "BE22008989.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 나도 언제나 네 편이니까 도움 필요한 일 있으면 언제든 말하고.",
+            "utterance_id": "BE22008989.14"
+        }
+    ]
+}

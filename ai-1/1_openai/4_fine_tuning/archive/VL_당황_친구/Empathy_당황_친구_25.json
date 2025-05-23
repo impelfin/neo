@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009952",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009952",
+        "relation": "친구",
+        "situation": "갑자기 크게 웃다 소변을 못참고 실수했다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 친구들을 만나서 카페에서 차를 마시다가 갑자기 크게 웃다가 나도 모르게 소변이 조금 나왔어.",
+            "utterance_id": "BE22009952.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮아? 세상에 너무 당황스러웠겠다. 얼마나 놀랐을까?",
+            "utterance_id": "BE22009952.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 무의식중에 나온 상황이라 너무 당황하고 창피해서 벌떡 일어나서 화장실로 막 달려갔지 뭐야.",
+            "utterance_id": "BE22009952.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금까지 한 번도 그런 적이 없었으니 네가 얼마나 당황스러웠을까? 다행히 가까이에 화장실이 있어서 천만다행이네.",
+            "utterance_id": "BE22009952.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말이 맞아. 만약 가까이에 화장실도 없고 친구들이 아니라 다른 사람들하고 있을 때 그랬다면 더 끔찍했을 거야.",
+            "utterance_id": "BE22009952.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 끔찍한 상황까지 안됐으니 정말 다행이야. 아마 그냥 실수로 그런 거 같으니 너무 속상해하지 마.",
+            "utterance_id": "BE22009952.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야 나이를 속일 수는 없나 봐. 난 아직 젊고 건강하다고 느꼈는데 오늘 같은 상황이 또 생기면 어쩌지? 창피해서 누구에게 말하지도 못하겠어.",
+            "utterance_id": "BE22009952.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 네 심정이 얼마나 힘들면 그런 걱정이 들겠어? 하지만 네가 얼마나 열심히 운동하고 스스로 잘 돌보는데 그럴 일은 다시 생기지 않을 거야.",
+            "utterance_id": "BE22009952.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주변 친구들에게 이런 상황이 생긴 걸 가끔 들은 적이 있었거든. 근데 그때는 그저 남의 일이라고 생각하고 받아들이지 않았던 거 같아.",
+            "utterance_id": "BE22009952.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 받아들이기 힘들지. 그러니 너도 닥치기 전까지는 자신은 아프지 않고 피해 갈 수 있다고 생각하는 건 당연해.",
+            "utterance_id": "BE22009952.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "또 이럴까 봐 오히려 외출도 하기 두렵고 아무에게도 말하고 싶지 않아.",
+            "utterance_id": "BE22009952.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "피하고 숨기고 싶겠지만 그럴수록 네가 얼마나 더 힘들어지겠어? 그럴수록 더 움직이고 더 열심히 운동하다 보면 괜찮아질 거야.",
+            "utterance_id": "BE22009952.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까? 생각해 보니 무섭다고 외출까지 안 하려고 하다가는 더 우울해져서 마음의 병까지 얻을 수도 있겠어.",
+            "utterance_id": "BE22009952.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 심각해지면 그땐 치료할 수 있는 방법이 얼마든지 있잖아. 그러니 그렇게 외출하는 것까지 무서워할 필요는 없지 않을까? 서서히 변해가고 약해지는 우리의 몸과 마음을 받아들이는 자세가 있다면 너무 힘들지는 않을 거야.",
+            "utterance_id": "BE22009952.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그러네, 오늘부터 운동 열심히 하고 네 말대로 내게 다가올 변화를 조금씩 인정해 주어야겠다. 고맙다 친구야.",
+            "utterance_id": "BE22009952.15"
+        }
+    ]
+}

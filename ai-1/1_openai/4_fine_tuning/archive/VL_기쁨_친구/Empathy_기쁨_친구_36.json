@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009248",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009248",
+        "relation": "친구",
+        "situation": "피부 관리를 받으니 한결 부드러워졌다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 나 오늘도 피부관리 받고 왔어. 기분이 무척 좋아.",
+            "utterance_id": "BE22009248.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "피부가 거칠어졌다고 고민하더니 피부 관리샾에 다녀왔구나. 피부 관리를 받고나니까 피부가 좀 좋아진 것 같아? 마음에 들어?",
+            "utterance_id": "BE22009248.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 남들보다 푸석해 보이는 피부 때문에 고민이 많았는데, 네 말을 듣고 피부 관리를 했더니 건조함이 사라졌어.",
+            "utterance_id": "BE22009248.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "피부 관리받은 게 몇 번 되지도 않았는데 벌써 좋아졌다니, 엄청 부럽네. 나도 요즘 피부가 처지는 것 같은데 피부 관리받을까 봐. 윤기 나는 너의 피부는 언제 볼 수 있는 거야?",
+            "utterance_id": "BE22009248.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "두 번만 더 받고 나면 그때는 진짜 윤기가 자르르 흐르는 내 피부를 볼 수 있을 거야. 그때까지 기다려봐.",
+            "utterance_id": "BE22009248.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "거친 느낌이 사라진 것도 모자라 피부에 윤기가 흐른다니 너무 잘 됐다. 그렇잖아도 동안인데 십년은 더 젊어 보이겠네. 너에게 피부 관리 권하기를 정말 잘했다는 생각이 들어서 나도 좋다.",
+            "utterance_id": "BE22009248.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 썬크림도 바르지 않고 밖에 다녀서 얼굴이 검게 탔잖아. 그런데 피부 관리를 몇 번 받고 나니까 피부톤도 많이 밝아졌어.",
+            "utterance_id": "BE22009248.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 피부샾 소개시켜주 나한테 진짜 한 턱 내야겠다. 피부 색깔도 밝아지고, 윤기가 흐른다니 얼마나 예뻐졌을지 정말 궁금하다.",
+            "utterance_id": "BE22009248.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 너한테 밥을 사야겠어. 역시 피부 관리를 괜히 받는 게 아니구나, 하는 생각이 들어. 아주 만족스럽고 기쁘단다.",
+            "utterance_id": "BE22009248.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 만족해하니까 나도 너무 기쁘다. 네가 피부가 너무 좋아지고 예뻐져서 남자 친구가 너를 못 알아보는 건 아니겠지? 어쩜 그럴지도 모르겠다. 하하하.",
+            "utterance_id": "BE22009248.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "설마, 그럴까? 어쨌든 피부 미인이 되고 보니 기분은 굉장히 좋아. 이제 살짝 낀 기미만 없어지면 될 것 같아.",
+            "utterance_id": "BE22009248.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼굴에 기미가 있었니? 전혀 몰랐어. 얼굴색도 밝아지고 피부도 부드러워졌는데, 이제는 보이지 않던 기미가 신경쓰이겠구나.",
+            "utterance_id": "BE22009248.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 얼굴이 칙칙했을 때는 기미가 잘 안 보였는데, 피부색이 밝아지고 나니까 기미가 드러나더라구.",
+            "utterance_id": "BE22009248.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기미를 없애는 것은 지금부터라도 늦지 않아. 피부 관리를 몇 번 받지 않았는데도 피부가 부드럽고 밝아졌으니 앞으로는 더욱 좋아질 거잖아. 그러니까 꾸준히 피부 관리를 받으면 기미도 많이 옅어지고 없어질 거야.",
+            "utterance_id": "BE22009248.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "기미도 이제 곧 없어지겠지? 네 덕분에 피부 관리를 받고 피부가 많이 좋아졌으니 정말 고맙다.",
+            "utterance_id": "BE22009248.15"
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010017",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010017",
+        "relation": "친구",
+        "situation": "다이어트 보조제를 먹는데 몸무게 변화가 없다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "날씬한 너는 죽었다 깨어나도 내 심정을 모르겠지? 정말 어떻게 해야 할지 모르겠고 불안해.",
+            "utterance_id": "BE22010017.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에이 다이어트는 모든 여자의 평생 숙제인데 네 심정을 내가 왜 모르겠어. 나라고 별수 있겠니? 그런데 왜 그렇게 불안해?",
+            "utterance_id": "BE22010017.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "레몬 디톡스에 원푸드 다이어트에 이것저것 해봐도 다 안돼서 다이어트 보조제를 비싼 돈 주고 샀거든. 그런데 어떻게 된 게 몸무게가 그대로야.",
+            "utterance_id": "BE22010017.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "돈을 많이 들여서 산 보조제인데 효과를 못 봤으니 네가 화가 날 만하네. 돈을 쓴 만큼 즉각적인 효과를 봤다면 정말 좋았을 텐데 내가 다 아쉽다. 속상한 네 마음 충분히 이해해.",
+            "utterance_id": "BE22010017.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "인터넷에서 후기를 보면 먹고 바로 5킬로가 빠졌다는 사람도 있고 10킬로가 빠졌다는 사람도 있어. 아직 난 먹기 시작한 지 한 달이 안 되어서 그런 걸까?",
+            "utterance_id": "BE22010017.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 후기들 보면 더 마음이 조급해지고 큰 효과를 기대하게 되긴 하는 것 같아. 아직 넌 복용한 지 얼마 안 됐으니 효과를 보기에 조금 이른 감이 있네. 너무 조급하게 생각하고 스트레스를 받지 말았으면 해.",
+            "utterance_id": "BE22010017.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "후기가 다 거짓이라는 얘기도 있어. 다이어트 보조제를 먹는다고 10킬로씩 빠지는 게 말이 돼? 그럼 이 세상 모든 사람이 다 날씬했지.",
+            "utterance_id": "BE22010017.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과장된 홍보라면 조금을 걸러서 봐야 할 필요가 있겠다. 운동과 식이조절도 함께하면 더 효과를 볼 수 있지 않을까? 보조제는 말 그대로 보조제일 뿐이니까.",
+            "utterance_id": "BE22010017.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 다이어트 보조제 먹기 시작하고 식이조절은 좀 느슨해지긴 했어. 늦은 시간 피자도 먹고 치킨도 먹었거든. 다이어트한다면서 먹는 것 앞에 무너지는 한심하게 느껴져.",
+            "utterance_id": "BE22010017.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오랜 시간 다이어트 유지하다 보면 기름진 음식 당기는 게 당연하지. 자신이 만족하는 아름다움을 얻기 위해 꾸준히 노력하는 네가 난 대단하다고 생각해. 다이어트는 정말 힘들잖아.",
+            "utterance_id": "BE22010017.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다이어트는 정말 사람의 정신을 피폐하게 만드는 것 같아. 하루 내내 음식 생각만 하고 예민해져. 극도의 다이어트를 하고 나면 꼭 폭식하게 되는 것도 문제야.",
+            "utterance_id": "BE22010017.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 너무 스트레스를 받는 걸 보니 내 마음이 더 안 좋다. 외적인 아름다움도 중요하지만, 건강이 제일이잖아. 지금의 네 모습도 아주 괜찮으니 너무 무리하지 말고 천천히 가면 어때?",
+            "utterance_id": "BE22010017.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말대로 단기간에 다이어트를 하려고 하다 보니 건강이 많이 안 좋아지기는 했어. 조금씩 폭식하는 습관을 줄이고 다이어트 보조제에 너무 의지하지 말아야겠어.",
+            "utterance_id": "BE22010017.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 좋은 생각이야. 조금씩 습관만 바꿔도 다이어트 성공에 더 가까워질 거라고 믿어. 넌 내가 아는 사람 중 가장 끈기 있는 사람이니 꼭 성공할 거야.",
+            "utterance_id": "BE22010017.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그렇게 말해주니 내일이라도 당장 다이어트에 성공할 것 같은 기분이야. 고마워.",
+            "utterance_id": "BE22010017.15"
+        }
+    ]
+}

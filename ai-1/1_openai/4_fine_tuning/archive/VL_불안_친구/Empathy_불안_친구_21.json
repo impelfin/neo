@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.6,
+            "grade": "우수"
+        },
+        "id": "BE22009477",
+        "listener_behavior": [
+            "조언",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009477",
+        "relation": "친구",
+        "situation": "남자 친구는 데이트중에 여사친들에게서 자주 전화가 온다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 남친이 인간성 좋다고 네가 칭찬했는데 인제 보니 그게 좋은 게 아니야. 누구한테나 친절해서 데이트 중에도 여사친들한테서 걸핏하면 전화가 온다. 그걸 또 다 받아주고 있어서 정말 내가 스트레스가 쌓이다 못해 폭발한다.",
+            "utterance_id": "BE22009477.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "데이트 중에는 남사친 전화라도 성가실 텐데 너 정말 힘들겠다. 데이트할 때는 남자 친구를 온전히 독점하고 싶은 게 우리 마음이잖아? 그렇게 되면 남친을 꼭 빼앗긴 기분이 들겠어.",
+            "utterance_id": "BE22009477.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 데이트를 하는 건지, 남의 대화를 경청하러 온 건지 구분되지 않을 정도야. 여사친 전화를 옆에서 듣다 보면 정말 나를 좋아하는 게 맞나 싶어 불안해. 여사친하고 더 허물이 없고 사이가 좋아 보여.",
+            "utterance_id": "BE22009477.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 네가 그렇게 느껴서 그런 걸 거야. 누가 뭐래도 그 사람의 여자 친구는 너야. 여사친은 그야말로 친구로 편하게 대해서 그렇게 보이는 것뿐일 거야.",
+            "utterance_id": "BE22009477.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그렇게 생각하니? 그런데 왜 오는 전화를 거절 못 하는 거야? 받더라도, 지금 데이트 중이라 말하고 짧게 끊어야 할 거 아냐?",
+            "utterance_id": "BE22009477.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 남친이 착한 아이 증후군이 살짝 있는 게 아닌가 싶다. 친구들 사이에 의리남으로 인식되어 있어 싫다는 말을 못 하는 거지. 그런 거라면 네가 이해하고 그 병을 고치도록 하는 게 좋을 거 같지 않니?",
+            "utterance_id": "BE22009477.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 건가? 난 오히려 바람둥이 기질이 있어서 모든 여자에게 친절한 건 아닌가 싶어 불안한데?",
+            "utterance_id": "BE22009477.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 네 남친 행동을 잘 살펴보고 판단해야 할 거 같다. 여자에게만 잘하는지, 모든 사람에게 다 잘하는지를 봐야 할 거 같아. 괜히 미리 속단하고 속 끓이지는 마.",
+            "utterance_id": "BE22009477.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말하니 또 생각이 많아지네. 그러고 보면 그 사람은 모든 이에게 친절한 것 같기는 해. 길 가다 폐지 줍는 리어카를 봐도 그냥 못 지나가고 꼭 밀어줘.",
+            "utterance_id": "BE22009477.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그것 봐. 원래 친절한 성격인데, 내가 보기엔 착한 아이 증후군까지 있어. 그래서 절대 거절을 못 하는 거지. 그건 본인이 너무 힘드니 끊을 건 끊으라고 네가 조언을 해줘라.",
+            "utterance_id": "BE22009477.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 졸지에 남친 멘토링까지 하게 생겼네. 어째 혹 떼려다 혹 붙인 느낌이 마구 밀려온다.",
+            "utterance_id": "BE22009477.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 귀찮으면 그냥 헤어지는 게 최상의 선택이지. 그 상태로 계속 만나면 너도 스트레스 때문에 돌아버릴 거 아냐? 아니면 다 이해하고 편하게 받아들이는 게 네 정신 건강에 좋을 거 같다.",
+            "utterance_id": "BE22009477.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그냥 헤어지기에는 아직 내가 내 남친을 너무 사랑해서. 그럼 네 말을 믿고 일단 이해하고 넘어가 볼까? 그런 다음 언제 마음을 터놓고 대화해볼까?",
+            "utterance_id": "BE22009477.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 현명한 선택이야. 스트레스에 대처하는 가장 바람직한 태도가 아닌가 싶다. 네가 내 친구라 자랑스럽다.",
+            "utterance_id": "BE22009477.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "이렇게 훌륭한 조언을 해주는 사람이 내 친구라 내가 더 자랑스럽다. 네 덕분에 가슴 속의 먹구름이 싹 걷히는 느낌이다. 진짜 고맙다, 친구야.",
+            "utterance_id": "BE22009477.15"
+        }
+    ]
+}

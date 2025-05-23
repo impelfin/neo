@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009864",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009864",
+        "relation": "친구",
+        "situation": "공원을 산책하는데 개가 다가와 짖는다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엊저녁에 오랜만에 식사를 일찍 마치고 공원으로 산책을 나갔어. 그런데 갑자기 까만 큰 개가 멀리서부터 나한테 다가오는 거야.",
+            "utterance_id": "BE22009864.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 크고 검은 개가 그렇게 다가오면 너무 무서웠겠는걸. 내 기억으로 너 강아지 별로 좋아하지 않았던 거 같은데.",
+            "utterance_id": "BE22009864.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 내가 어릴 때 강아지한테 물린 적이 있어서 개를 좀 무서워해. 작은 강아지도 무서운데 큰 검정개가 다가오니 너무 무서워서 순간 온몸이 얼어버렸지 뭐야.",
+            "utterance_id": "BE22009864.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "게다가 검은 대형견이면 얼마나 무섭겠어? 나도 아마 너처럼 그 개가 지나가기 전에는 꼼찍 못하고 서 있었을 거야.",
+            "utterance_id": "BE22009864.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 그 개가 다가오더니 나한테 막 짓는데 너무 놀랐어. 도망도 못가고 서 있는데 살펴보니 목줄도 안 하고 입마개도 없이 온 개더라고. 요즘 이렇게 개를 데리고 산책하는 사람이 어디 있어?",
+            "utterance_id": "BE22009864.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 소형견도 아니고 대형견을 그렇게 산책시킨다는 거야? 정말 다른 사람에 대한 배려와 생각이 없는 주인이네.",
+            "utterance_id": "BE22009864.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주인이 뒤따라왔길래 개 목줄도 하고 입마개도 하시라고 말을 했어. 그랬더니 자기 개인데 무슨 상관이냐고 나한테 오히려 화를 내더라고. 누가 누구한테 화를 내는 건지 황당하더라.",
+            "utterance_id": "BE22009864.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 경우가 없는 사람이네. 오히려 너한테 미안하다고 했어야 하는데 적반하장으로 화를 내다니 내가 다 화가 난다.",
+            "utterance_id": "BE22009864.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "만약에 내가 그 개한테 물렸어봐. 그럼 어떻게 할 뻔했냐고 하니까 자기네 개는 절대 사람을 물지 않는다고 하더라고. 그걸 어떻게 장담할 수 있냐고!",
+            "utterance_id": "BE22009864.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 주장을 하는 주인 때문에 정말 황당했겠다. 어떻게 물지 않을 거라고 100퍼센트 장담을 하는 건지 당황스럽네.",
+            "utterance_id": "BE22009864.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 옆에서 듣고 내가 하는 말이 옳다고 해주는 분들이 있어서 다행이었어. 그분들 아니었으면 아마 한참 싸웠을 거야. 내가 또 가만히 당할 사람이 아니거든.",
+            "utterance_id": "BE22009864.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행히 상황이 그렇게 잘 정리가 되어서 좀 안심이 되었겠다. 그냥 당하고만 있었으면 얼마나 억울하겠어? 싸움도 길어지고 말이야.",
+            "utterance_id": "BE22009864.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직도 그 개 주인 생각하면 너무 어이가 없고 화가 나. 내가 틀린 말을 한 것도 아닌데 나한테 소리 지르고 했던 게 자꾸 생각나고.",
+            "utterance_id": "BE22009864.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 그렇게 화가 나겠지. 그래도 네 편에 서서 도와주신 분들도 있었잖아. 그건 네가 옳았다는 거니까 너무 분해하지 말고 빨리 잊어버리는 게 너한테도 좋을 것 같아.",
+            "utterance_id": "BE22009864.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그건 그래. 계속 생각하면 괜히 내 기분만 계속 나빠지는 거지 뭐. 빨리 잊어버리고 잠이나 자야겠다. 내일 출근도 해야 하니까 말이야.",
+            "utterance_id": "BE22009864.15"
+        }
+    ]
+}

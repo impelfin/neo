@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009075",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009075",
+        "relation": "친구",
+        "situation": "제주도에 가 본 적이 없다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 제주도 많이 가봤다고 했잖아. 맛집들 추천해 줄 수 있을까?",
+            "utterance_id": "BE22009075.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 종류별로 리스트 쭉 뽑아서 한 번에 보내줄게. 제주도 여행은 언제야?",
+            "utterance_id": "BE22009075.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다음 달 휴가 때 다녀오려고. 제주도 한 번도 안 가봐서 너무 떨린다. 얼마나 예쁠까 기대돼.",
+            "utterance_id": "BE22009075.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번이 제주도 첫 여행이야? 정말 기대되고 설레어서 밤잠을 못 이루겠네. 네가 잘 즐기고 올 수 있도록 더 최선을 다해서 추천해줄게.",
+            "utterance_id": "BE22009075.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맨날 사진이랑 영상으로만 제주도를 접하다가 눈으로 직접 보면 얼마나 벅찬 기분일까 두근거려. 맨날 가보고 싶었는데 드디어 가게 된다니 너무 신나.",
+            "utterance_id": "BE22009075.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 여행 계획 세우고 어디 갈지 찾아보고 할 때가 가장 흥미롭고 재밌어서 신나지. 네 이야기 들으니까 나도 첫 여행 전 기억이 떠올라서 무척 두근거리고 흥분되는걸.",
+            "utterance_id": "BE22009075.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가보고 싶은 곳도 많고 먹고 싶은 것도 많아서 일정 내 다녀올 수 있을지가 문제지. 하루에 다섯 끼씩 먹어서 배 터져도 행복할 것 같지만 말이야.",
+            "utterance_id": "BE22009075.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하 그 정도면 정말 알차고 즐거운 여행이 되겠는걸? 너의 원대한 포부를 보니까 성공적인 여행이 될 게 확실해. 본전 제대로 뽑고 즐길 일만 남았으니 네가 기쁠 만하네.",
+            "utterance_id": "BE22009075.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠지? 그동안에 하고 싶던 것들 모아서 정리해둔 사진 파일만 한가득하거든. 빨리 여행 가서 하나씩 다 해보고 싶어서 가슴이 뛰어.",
+            "utterance_id": "BE22009075.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 이렇게 기뻐하고 신나게 준비하는 모습 보니까 나도 덩달아 들뜨는 기분이야. 이미 마음은 비행기 타고 하늘 위를 날아가고 있는 것 같아. 눈 감으면 여행지가 눈앞에 펼쳐져서 심장이 쿵쾅거리니 기다리기 힘들겠는걸.",
+            "utterance_id": "BE22009075.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 추천해 준 검증된 맛집들 덕분에 내 여행이 더 완벽해질 거야. 중간중간 예쁜 카페들도 잊지 말고 다 다녀와야지.",
+            "utterance_id": "BE22009075.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아유 이렇게 믿어준다니 어깨가 무거워지는걸? 네 입맛에 맞는 맛집들로 잘 골라볼게. 알찬 계획으로 네 여행이 더 풍성해질 테니 정말 신나는 여행이 될 거야.",
+            "utterance_id": "BE22009075.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 덕에 먹거리 고민은 전혀 없으니 추천해 주는 것만으로도 고맙지. 음식들도 다 궁금해서 먹어봐야 하니까 전날 굶고 가야겠다.",
+            "utterance_id": "BE22009075.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하 그렇게까지 하겠다고? 이번에 여행 다녀오고 다음에 나랑도 한번 같이 가자. 그때 이번에 못 간 맛집들 또 다녀오면 되니까 미래를 위해 몇 개 남겨둬.",
+            "utterance_id": "BE22009075.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그거 정말 좋은 생각이야. 아직 첫 여행도 시작 안 했는데 벌써 너와 함께할 다음 여행이 기다려지네.",
+            "utterance_id": "BE22009075.15"
+        }
+    ]
+}

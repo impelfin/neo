@@ -1,0 +1,186 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010384",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010384",
+        "relation": "친구",
+        "situation": "생후 두 달이 지난 아이가 분유만 먹으면 토한다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 아기가 분유만 먹으면 토해. 생후 두 달이 겨우 지났는데, 이럴 땐 어떻게 해야 하지?",
+            "utterance_id": "BE22010384.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 걱정되겠다. 분유가 안 맞는 아기들도 있다고 들었어. 눈에 넣어도 안 아플 자식인데, 네가 무척 심란할 것 같다.",
+            "utterance_id": "BE22010384.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 모유수유를 할 생각이 없는데, 시댁과 남편이 눈치를 주는 것 같아. 아기 걱정이 되는 건 당연하지만 저런 반응들이 너무 상처야.",
+            "utterance_id": "BE22010384.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 아기만큼 중요한 게 네 몸과 마음 건강이잖아. 너도 워낙 몸이 약하니까 모유수유를 걱정하는 마음도 당연히 이해해.",
+            "utterance_id": "BE22010384.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 모유수유를 시도해보지 않은 건 아니야. 그런데 너무 고통스럽고 힘들었단 말이야. 그런데 내 고통은 아무도 이해해주지 않는 것 같아.",
+            "utterance_id": "BE22010384.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 얼마나 상처받았을까 생각하니 나까지 가슴이 아프다. 아기가 소중한 만큼 엄마인 너 자신도 소중하다는 걸 절대 잊지 않길 바라. 네가 받은 깊은 상처가 조금이나마 회복되면 좋겠다.",
+            "utterance_id": "BE22010384.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 알아주는 내 마음을 가장 가까운 가족들이 몰라준다는 것에 상처를 크게 받았어. 이 상처는 사는 내내 가슴에 남아 있을 듯해.",
+            "utterance_id": "BE22010384.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아기 낳고 얼마 되지 않았을 땐 몸도 마음도 약한데, 이런 때에 상처받았으니 당연하지. 네가 얼마나 슬프고 힘들지 충분히 이해해.",
+            "utterance_id": "BE22010384.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이러다 남편과 시댁에서 나를 외면할까 겁이 나. 아기가 왜 분유를 먹으면 토하는 걸까? 제발 잘 먹어주면 좋겠는데.",
+            "utterance_id": "BE22010384.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 지금 얼마나 걱정되겠니. 엄마가 된 적이 처음이니 뭐든 서툴고 두려운 마음이 드는 것도 당연해. 병원에서 조언을 들어보는 것도 좋을 듯해.",
+            "utterance_id": "BE22010384.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 병원 예약해둔 참이야. 그래도 너한테 이렇게 말하고 나니까 속이 시원해진다.",
+            "utterance_id": "BE22010384.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 그렇다면 다행이다. 네가 혼자 외롭고 쓸쓸한 시간을 보내고 있는 것 같아서 마음이 쓰였어. 아기도 너도 함께 행복했으면 좋겠어. 진심으로 네 행복을 기원할게.",
+            "utterance_id": "BE22010384.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "정말 고마워. 네 따뜻한 말에 내 마음이 녹는 것 같아. 그동안 줄곧 내가 기다려온 말이야.",
+            "utterance_id": "BE22010384.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나로 인해 네가 편안해진다면 나야말로 기쁘지. 앞으로 아기 키우면서 힘든 일 있을 땐 언제든 내게 말해.",
+            "utterance_id": "BE22010384.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네가 내 친구라 참 든든하다. 그렇게 말해 줘서 진심으로 고마워.",
+            "utterance_id": "BE22010384.15"
+        }
+    ]
+}

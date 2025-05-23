@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009639",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009639",
+        "relation": "친구",
+        "situation": "처음으로 애인과 찜질방에 갔다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 정말 완벽한 데이트를 했어. 기분 진짜 최고다!",
+            "utterance_id": "BE22009639.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오. 어떤 데이트를 하셨길래 이렇게 신나 보이는 문자를 하셨을까?",
+            "utterance_id": "BE22009639.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 내가 남자 친구랑 찜질방 가는 게 버킷리스트 중 하나였던 거 알지? 이번에 처음으로 드디어 남자 친구랑 찜질방 갔어. 얼마나 좋았는지 몰라!",
+            "utterance_id": "BE22009639.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와. 나도 저번에 남자 친구랑 데이트할 때 찜질방 간 적 있었거든. 생각보다 할 것도 많고 편안해서 엄청 좋더라. 그래서 지금 네 신난 기분 너무 잘 알 거 같아.",
+            "utterance_id": "BE22009639.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응! 안 그래도 남자 친구랑 가고 싶다고 그렇게 맨날 노래 불렀던 곳이잖아. 혼자 가는 거랑 애인이랑 가는 거랑 기분 자체가 다르더라고. 시원하게 땀 빼고 와서 남자 친구랑 식혜랑 계란 먹는데, 좋아서 가슴이 두근거렸어.",
+            "utterance_id": "BE22009639.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "카, 찜질방에서 먹는 식혜와 계란만큼 맛있고 기분 좋아지는 게 없잖아. 더군다나 사랑하는 애인과 함께였으니 얼마나 설레고 좋았겠어! 지금 얘기 듣는 내가 다 덩달아 두근거린다.",
+            "utterance_id": "BE22009639.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시. 너라면 내 기분을 이해해줄 줄 알았지! 찜질방 데이트가 어떻게 보면 되게 소소한 건데 이렇게 행복할 줄은 몰랐어. 이게 다 내가 남자 친구를 너무 사랑하기 때문이겠지?",
+            "utterance_id": "BE22009639.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "소소한 데이트에서 그렇게 행복해하고 해피 바이러스를 뿜어내는 너도 너무 사랑스러운걸? 언제나 긍정적인 네 성격은 참 보기 좋은 거 같아.",
+            "utterance_id": "BE22009639.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "후후. 네가 그렇게 칭찬해주니까 내 기분이 더 좋아진다. 오늘 하루 날아갈 거 같은 기분이야.",
+            "utterance_id": "BE22009639.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "항상 이상한 남자들만 만나서 마음고생하는 거 만 보다가 지금 모습 보니까 마음이 놓인다.",
+            "utterance_id": "BE22009639.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그래. 내가 찜질방 가자고 할 때마다 뭐 그런 데를 가냐고 타박하기나 했지, 가준 사람은 없었잖아. 지금 애인은 찜질방 남자 친구랑 가보고 싶었다니까 본인이 더 좋아서 얼른 가자고 하더라. 그 모습 보니까 너무 감격스러워서 벅차올랐어.",
+            "utterance_id": "BE22009639.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에는 정말 배려심 넘치고 좋은 남자 친구를 둔 거 같아서 내 기분이 다 흡족하고 좋아. 이렇게 훈훈한 소식 전해줘서 고마워. 덕분에 나도 기분이 좋아졌어!",
+            "utterance_id": "BE22009639.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 내 얘기 듣고 기분 좋아졌다고 하니까 나야말로 더 기뻐! 종종 좋은 데이트 후기 들려줄게.",
+            "utterance_id": "BE22009639.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나야 너무 좋지. 대리 만족하는 기분이라서 참 좋아. 그럼 나중에 또 문자 하자!",
+            "utterance_id": "BE22009639.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 그럴게! 오늘 얘기 들어줘서 정말 고마워. 덕분에 오늘 기분 진짜 끝내준다!",
+            "utterance_id": "BE22009639.15"
+        }
+    ]
+}

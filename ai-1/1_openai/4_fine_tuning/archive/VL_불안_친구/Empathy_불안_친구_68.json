@@ -1,0 +1,186 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22009932",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009932",
+        "relation": "친구",
+        "situation": "고시원에서 생활한 지 6개월째다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 고시원에서 생활한 지 벌써 6개월 됐더라. 불안하기도 하고 너무 스트레스받아.",
+            "utterance_id": "BE22009932.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "헉, 벌써 6개월이나 지났구나. 반년이나 좁은 고시원에 살다니, 생각만 해도 너 너무 힘들 것 같아.",
+            "utterance_id": "BE22009932.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 진짜 너무 힘들기도 하고 불안해. 올해 시험 붙으면 여기서 나갈 수 있겠지?",
+            "utterance_id": "BE22009932.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 네가 지금까지 열심히 했기 때문에 더 불안한 거 아닐까? 내 주위에서 너만큼 열심히 하는 사람을 본 적이 없어! 너무 걱정하지 않았으면 좋겠다.",
+            "utterance_id": "BE22009932.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가. 근데 고시원에서 계속 공부만 하다 보니 전에 비해서 집중도 잘 안되는 것 같아. 나 잘하고 있는 걸까?",
+            "utterance_id": "BE22009932.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 느끼기에 전보다 집중력이 떨어지는 것 같아서 불안한 마음이 드는 거였구나. 그럴 때는 산책이라도 좀 하면서 공부하는 건 어떨까? 가끔은 바람도 쐬는 게 더 도움이 될 것 같아.",
+            "utterance_id": "BE22009932.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래볼게. 나 취업 준비 기간이 길어져서 가족들한테도 너무 미안하고. 요즘은 엄마 생각하면 눈물 날 것 같아.",
+            "utterance_id": "BE22009932.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 취업 준비할 때 그래서 너 마음이 너무 이해된다. 그런데 가족들도 네가 얼마나 열심히 하는지 다 알고 있을 거야. 너무 자책하지 않아도 될 것 같아.",
+            "utterance_id": "BE22009932.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 나 세상이랑 너무 동떨어진 기분이 든다. 평생 이렇게 살 것만 같아. 여기서 정말 나갈 수 있겠지?",
+            "utterance_id": "BE22009932.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음, 마음을 좀 편하게 먹으면 좋을 것 같아. 마음을 편안하게 먹으면 덜 불안하고, 그럼 집중도 더 잘되지 않을까? 모두가 인정할 만큼 열심히 하고 있으니까 이번 시험에 합격해서 곧 나갈 수 있을 거야.",
+            "utterance_id": "BE22009932.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "흑, 고마워. 너 얘기 듣고 기분이 많이 나아졌어! 마음을 더 편하게 먹어볼게.",
+            "utterance_id": "BE22009932.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 좁은 데서 공부만 하면 누구나 다 불안하고 힘들 수밖에 없을 것 같아. 6개월 동안 고시원에 살면서 공부하다니, 나였으면 상상도 못 했을 거야. 이미 넌 진짜 대단해.",
+            "utterance_id": "BE22009932.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 빨리 여기서 나가서 너랑 놀고 싶다. 편안하게 쉬고 싶기도 하고.",
+            "utterance_id": "BE22009932.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 너 빨리 만나서 놀고 싶다. 이제 얼마 안 남았으니까 조금만 더 파이팅! 다음에 또 힘들면 언제든지 연락해.",
+            "utterance_id": "BE22009932.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "응, 역시 넌 내 제일 친한 친구야. 너무 고마워. 나 열심히 해서 꼭 합격할게!",
+            "utterance_id": "BE22009932.15"
+        }
+    ]
+}

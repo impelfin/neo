@@ -1,0 +1,166 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009479",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009479",
+        "relation": "친구",
+        "situation": "영업사원인 남편이 실적이 부쩍 떨어졌다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 남편 요즘 회사에서 스트레스 많이 받나 봐. 안색이 너무 안 좋아. 영업직이다 보니 실적에 대한 압박이 큰 거 같아.",
+            "utterance_id": "BE22009479.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 실적이 부진하면 아무래도 신경 쓰이지. 건강 해치지 않게 네가 무척 관심을 기울여야 할 때로구나.",
+            "utterance_id": "BE22009479.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 밤에 잠도 제대로 못 자고, 아침에 밥도 잘 못 먹어. 얼굴은 까칠해서 아주 요즘 죽을상을 하고 다녀. 얼마나 마음이 아픈지 몰라.",
+            "utterance_id": "BE22009479.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 네가 많이 걱정되겠다. 나라도 남편이 회사 일로 걱정하고 고민하면 마음이 많이 쓰일 것 같아.",
+            "utterance_id": "BE22009479.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "개인적인 일이면 내가 얘기도 들어주고 위로도 해주면서 마음을 같이 풀 수 있지. 근데 이건 회사 일이니까 내가 어떻게 손쓸 방법이 없더라.",
+            "utterance_id": "BE22009479.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지, 내가 회사 사정을 다 이해할 수 있는 것도 아니잖아. 먼저 속을 터놓고 뭐가 힘든지 얘기해주면 참 좋을 텐데, 또 혼자서 감내하는 타입이면 답답하지. 너도 속이 타들어 가겠구나.",
+            "utterance_id": "BE22009479.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 요즘 남편이랑 같이 밤잠 제대로 못 자고, 밥 못 먹고 하는 중이야. 물론 남편이 제일 힘들겠지만. 이러다가 몸 상하고 큰일 나는 거 아닌지 모르겠어.",
+            "utterance_id": "BE22009479.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 몹시 답답하겠지만 그래도 이럴 때일수록 네가 남편분의 힘이 되어 주어야지. 실적이라는 게 안 좋을 때가 있으면 또 좋아질 때도 있는 거잖아. 그러니까 걱정 조금만 내려놓자.",
+            "utterance_id": "BE22009479.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 마음은 그런데 옆에서 보고 있으면 남편 마음에 동화가 돼 버려서 힘이 드네. 실적이 계속 안 좋게 되면 남편이 엇나가게 될까 봐 불안해.",
+            "utterance_id": "BE22009479.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너희 남편 엄청 성실한 사람이잖아. 지금까지 쌓아온 게 있으니까 섣불리 그러지는 못할 거야. 그러니 네가 옆에서 잘 지켜보면서 기다려보자.",
+            "utterance_id": "BE22009479.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래 안 풀릴 때가 있으면 또 잘 풀릴 때가 있는 거니까. 기다려 보는 게 답이겠지.",
+            "utterance_id": "BE22009479.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 너도 네 일하면서 남편까지 신경 쓰고 챙기는 게 쉽지 않겠다. 하지만 이 또 한 지나갈 거야.",
+            "utterance_id": "BE22009479.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 위로해 줘서 고마워 친구야. 너랑 얘기하니까 한결 마음이 놓인다.",
+            "utterance_id": "BE22009479.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "다행이야. 언제든 힘들면 또 같이 얘기하자.",
+            "utterance_id": "BE22009479.14"
+        }
+    ]
+}

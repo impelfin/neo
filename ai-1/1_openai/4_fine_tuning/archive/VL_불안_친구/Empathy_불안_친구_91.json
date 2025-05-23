@@ -1,0 +1,190 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010199",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010199",
+        "relation": "친구",
+        "situation": "입이 짧아서 살이 찌지 않는 아들 때문에 식단에 신경쓴다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘도 우리 아들은 아침에 몇 숟가락 안 먹고 학교에 갔어. 학교에서 우유 급식도 안 먹는데 말이야.",
+            "utterance_id": "BE22010199.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 정말 걱정되겠구나. 아침을 잘 안 먹었으니 학교에서 공부할 때 배고프지 않을까 염려될 것 같아.",
+            "utterance_id": "BE22010199.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마르고 작은 아이라서 더 신경이 쓰여. 어렸을 때부터 입이 짧고 몸도 약해서 늘 먹는 것에 마음이 쓰이거든. 새벽부터 일어나서 볶음밥과 과일 주스까지 했는데 안 먹고 가니 걱정돼서 어떻게 해야 할지 모르겠어.",
+            "utterance_id": "BE22010199.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아침부터 그렇게 음식을 하는 것이 쉽지 않을 텐데, 너의 정성이 정말 대단한 것 같아. 아이를 사랑하는 너의 마음이 내게도 느껴져.",
+            "utterance_id": "BE22010199.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 아이만 잘 먹으면 내가 얼마나 힘들게 음식을 만들었는지 다 잊을 것 같거든. 그런데 많이 먹지 않으니 늘 아이를 보면 속상하고 안타까워.",
+            "utterance_id": "BE22010199.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이가 맛있게 먹는 모습만 봐도 부모는 배부르다고 하잖아. 나는 아직 아이가 없지만, 우리 아이라면 정말 걱정될 거 같아.",
+            "utterance_id": "BE22010199.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 맞아. 또래 아이들은 모두 크고 덩치도 있는데 우리 아들만 마른 모습을 보면 속이 터지지. 음식 재료부터 시작해서 영양 가득한 요리 방법까지 연구하고 배우고 있는데 소용없는 것 같아.",
+            "utterance_id": "BE22010199.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지 않아. 네가 아들을 위해 식단을 공부하는 노력이 빛을 발하는 때가 올 거야. 물론 지금도 너의 정성으로 아이가 건강하게 자라고 있고 말이야.",
+            "utterance_id": "BE22010199.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "매번 식사 준비하는 것이 너무 힘들어. 입맛이 까다로워서 한번 먹은 음식은 절대 먹지 않거든. 매번 다른 음식을 준비하는 게 어려워.",
+            "utterance_id": "BE22010199.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "끼니때마다 뭘 먹을지 항상 고민인데 아이 음식까지 신경 써야 하니 고생이 많겠다. 아이들은 자라면서 입맛도 바뀌고 크면서 더 잘 먹는다고 하니 그때까지 힘내자. 지금 아픈 데 없이 잘 자라고 있으니까 너무 걱정하지 마.",
+            "utterance_id": "BE22010199.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이가 더 자라면 잘 먹는 시기가 오겠지? 맞아. 마르긴 했어도 잔병 없이 잘 자라고 있으니 감사하고 다행이라고 생각해.",
+            "utterance_id": "BE22010199.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 정성스럽게 아들을 돌본 덕분이야. 모든 어머니의 사랑이 대단한 것처럼 너 역시 아들을 사랑하는 마음이 한없이 큰 것 같아.",
+            "utterance_id": "BE22010199.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "우리 아들도 너처럼 내 마음을 알았으면 좋겠다. 아침에 엄청 속상했는데 너에게 말하고 나니 그래도 속이 뻥 뚫리는 것 같아.",
+            "utterance_id": "BE22010199.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언제든지 답답한 일 있으면 연락해. 괴로운 일을 나누면 반이 된다고 하잖아. 들어주기만 했을 뿐인데 네 마음이 편해졌다니 나도 기분이 좋아.",
+            "utterance_id": "BE22010199.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "답답한 내 마음만 늘어놓았는데 너의 위로 덕분에 저녁을 또 힘내서 차릴 수 있겠다. 정말 고마워.",
+            "utterance_id": "BE22010199.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "시간 날 때 연락해. 나가서 맛있는 거 먹으면서 또 얘기 나누자. 그럼 좋은 하루 보내.",
+            "utterance_id": "BE22010199.16"
+        }
+    ]
+}

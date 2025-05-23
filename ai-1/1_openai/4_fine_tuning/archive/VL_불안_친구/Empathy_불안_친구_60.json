@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009869",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009869",
+        "relation": "친구",
+        "situation": "큰 아이가 동생을 때린다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 아이들 문제로 걱정이야.",
+            "utterance_id": "BE22009869.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일 있어? 내가 들어줄게.",
+            "utterance_id": "BE22009869.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "큰아이가 동생을 때렸어. 이 문제 때문에 고민하느라 며칠간 잠도 제대로 못 잤어.",
+            "utterance_id": "BE22009869.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 놀랐겠다. 지금까지 이런 일은 없었잖아. 사이좋은 형제였는데 나까지 속상하다.",
+            "utterance_id": "BE22009869.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 순간 너무 화가 나서 큰아이를 혼내고 말았어. 내가 아이들 교육을 잘못한 걸까 봐 너무 불안해.",
+            "utterance_id": "BE22009869.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 이해해. 부모도 사람이니까 이런 돌발 상황에서 당황하고 화가 나는 건 당연한 거지. 너무 자책하지 않아도 돼.",
+            "utterance_id": "BE22009869.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혼자 아이를 키우니까 너무 힘들어.",
+            "utterance_id": "BE22009869.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혼자서 아이를 두 명이나 키우니까 더 힘들겠다. 나는 한 명 키우는 것도 버거운데 너는 정말 대단해. 난 네가 정말 존경스러워.",
+            "utterance_id": "BE22009869.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 나름대로 열심히 하는데 내가 잘하고 있는 건지 의심돼.",
+            "utterance_id": "BE22009869.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전혀 의심할 필요 없어. 네가 아이들을 최선을 다해 돌본다는 건 모두가 아는 사실일 거야. 나만 해도 너에게 육아에 대해서 많은 것을 배우고 있는걸?",
+            "utterance_id": "BE22009869.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 좀더 육아에 대한 정보를 알 수 있었으면 좋겠어.",
+            "utterance_id": "BE22009869.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 커뮤니티에 가입해 보는 걸 추천할게. 그곳에서 아이들 문제를 상담하고 의견을 나누며 공감받으면 네 마음의 짐이 더욱 가벼워질 거야.",
+            "utterance_id": "BE22009869.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각인 것 같아. 역시 너한테 상담하길 잘했어.",
+            "utterance_id": "BE22009869.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나야말로 너에게 도움이 될 수 있어서 다행이야. 너는 언제나 남을 도와주기 위해 노력했으니까 남들도 너를 돕는 것에 스스럼이 없을 거라고 믿어.",
+            "utterance_id": "BE22009869.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그렇게 말해주니 고마워. 마음이 훨씬 편해지는 것 같아.",
+            "utterance_id": "BE22009869.15"
+        }
+    ]
+}

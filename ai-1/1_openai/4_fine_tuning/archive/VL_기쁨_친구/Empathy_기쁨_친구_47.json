@@ -1,0 +1,164 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009387",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009387",
+        "relation": "친구",
+        "situation": "결식아동을 위해 기부금을 냈다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "첫 월급 받은 기념으로 그동안 생각했던 일을 하나 시작하게 됐어!",
+            "utterance_id": "BE22009387.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 예전부터 돈 모으면 어딘가에 기부하고 싶다고 했었잖아. 내가 생각하는 게 맞니?",
+            "utterance_id": "BE22009387.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 이번 달부터 결식아동을 위해 기부금을 내기로 했어. 이미 자동이체도 신청했지. 내가 누군가에게 도움이 된다고 생각하니 좀 뿌듯하다.",
+            "utterance_id": "BE22009387.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 대단하다. 너는 예전부터 주변 일에 관심이 많고 사려 깊었지. 나도 그런 너를 본받아야겠는걸.",
+            "utterance_id": "BE22009387.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 나는 내가 이렇게 사회인으로 살게 된 게, 주변의 많은 도움을 받았다고 생각해서였으니까.",
+            "utterance_id": "BE22009387.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 너는 세상 혼자 사는 게 아니라고 늘 고마운 마음을 갖고 살아야 한다고 했지. 나도 네 덕분에 나 자신을 되돌아보게 됐어. 내가 얼마나 이기적으로 살아왔는지를.",
+            "utterance_id": "BE22009387.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 지금의 나를 만든 건 내 노력도 있겠지만, 노력을 할 수 있는 환경에서 태어나서라고 생각해. 그리고 그 환경은 선택할 수 있는 게 아니니까. 더 이런 일에 관심을 갖게 되었지.",
+            "utterance_id": "BE22009387.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말을 듣고 정말 많은 생각이 든다. 사람은 혼자 힘으로만 살 수 있는 게 아니라는 걸 새삼 느끼네. 네 덕분에 정말 좋은 걸 알게 돼.",
+            "utterance_id": "BE22009387.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자꾸 칭찬을 들으니 좀 부끄러운걸. 맞아. 나는 그래서 늘 기부금 내는 걸 꿈꿔왔는데, 오늘 드디어 이룰 수 있게 됐어. 나도 누군가의 힘이 되었으면 좋겠다!",
+            "utterance_id": "BE22009387.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 나도 이번 달은 소비를 줄이고 다음 달부터는 너와 함께해야겠는걸? 너처럼 누군가의 힘이 되기 위해서.",
+            "utterance_id": "BE22009387.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 좋은 생각이야. 세상은 더불어 사는 거라잖아. 너무나도 작은 나지만 누군가의 힘이 된다고 생각하면 정말 뿌듯해.",
+            "utterance_id": "BE22009387.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 네 덕분에 좋은 곳에 힘을 쏟는 방법을 배운다. 정말 고마워. 너는 정말 마음씨가 착한 친구야. 너를 본받아서 나도 이제부터 정말 열심히 살래.",
+            "utterance_id": "BE22009387.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 우리 정말 열심히 살자. 그리고 늘 감사하는 마음을 갖는 사람이 되자.",
+            "utterance_id": "BE22009387.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "주변에도 감사하지만, 주변을 살펴보게 만든 너에게도 정말 감사해.",
+            "utterance_id": "BE22009387.14"
+        }
+    ]
+}

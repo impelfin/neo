@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22009355",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009355",
+        "relation": "친구",
+        "situation": "친한 친구 아버지의 장례식에 가야 하는데 출장과 겹쳤다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 나 정말 어쩌지. 친한 친구 아버지 장례식과 출장이 겹쳐서 이러지도 저러지도 못하는 상황이야. 정말 친한 친구인데 못 가는 상황 때문에 친구에게 미안하고 너무 슬퍼서 마음이 아프다.",
+            "utterance_id": "BE22009355.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런 내가 겪은 상황이 아니더라도 너의 문자를 보니 내가 다 마음이 찢어질 것 같아. 친구 아버지 장례식에 못 가는 너의 심정이 얼마나 슬플지 말을 할 수가 없을 정도야.",
+            "utterance_id": "BE22009355.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구에게 못 간다고 말도 못 하겠어. 내가 안 가고 싶은 게 아니지만 미안해서 입이 안 떨어져. 친구에게 어떻게 말을 하야 친구의 마음이 다치지 않을까 생각하면 내 마음이 더 슬퍼질 뿐이야.",
+            "utterance_id": "BE22009355.3"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 그래도 친구가 너의 상황을 다 이해하고 너의 심정을 다 이해해 줄 거야. 친한 친구라면 말을 안 해도 마음이 통하는 사이니까 너무 걱정하지 말았으면 좋겠어.",
+            "utterance_id": "BE22009355.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구는 괜찮다고 나에게 말해줄 것 같은데 못 가는 내가 너무 싫고 용서할 수 없어. 무슨 부귀영화를 누리겠다고 친한 친구의 출장도 못 가는 신세가 된 건지.",
+            "utterance_id": "BE22009355.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야 너 자신을 그렇게 한심하게 생각하지 않았으면 좋겠어. 출장이라는 피치 못할 사정이 있는 거잖아. 네가 슬퍼하는 모습을 보니 내가 너무 속상하다.",
+            "utterance_id": "BE22009355.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "미안. 이번에는 나도 감정을 주체할 수 없게 되는 것 같아. 정말 소중한 친구라서 친구가 힘들 때 옆에 못 있어 준다는 것이 미안하고 죄스럽나 봐.",
+            "utterance_id": "BE22009355.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 생각하는 건 당연하지. 네가 그 친구를 아끼는 마음이 클수록 힘든 마음도 커진 거잖아. 너의 마음 충분히 공감하지.",
+            "utterance_id": "BE22009355.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "나의 이런 답답한 마음을 쏟아내도 받아주는 네가 있어서 정말 많은 도움이 돼. 고마워 친구야.",
+            "utterance_id": "BE22009355.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "힘들 때는 힘이 되어 주는 것이 친구인데 당연한 말을 해. 지금 네가 겪는 힘든 상황에서 도움이 된다는 말을 들으니 내가 더 고마울 뿐이야.",
+            "utterance_id": "BE22009355.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 응원을 받고 친구에게 가지 못할 것 같다는 말을 할 수 있는 용기가 생겼어. 회사의 출장을 조정해보려고 노력해봤지만, 현실적으로 불가능할 것 같아서.",
+            "utterance_id": "BE22009355.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 친구도 너의 마음을 이해하고 있을 거니까 하루빨리 보내는 게 좋을 것 같아. 잘한 결정이니까 너무 속상해하지 말고.",
+            "utterance_id": "BE22009355.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 그래야지. 속상한 나보다 아버지가 돌아가신 내 친구의 슬픔은 비교가 안 될 거야. 직접 가지는 못하더라도 최대한 친구가 힘이 날 수 있는 방법을 생각해 보려 해.",
+            "utterance_id": "BE22009355.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거 정말 좋은 생각이다. 힘들어할 친구에게 힘이 될 방안을 생각한다는 게 아무나 할 수 없는 일인데 좋은 생각이야.",
+            "utterance_id": "BE22009355.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워. 너와의 메신저를 통해서 친한 친구에게 아버지 장례식에 참석을 못 한다고 말할 힘을 얻었어. 어서 빨리 슬프고 아픈 감정을 해소해서 친구에게 힘이 되도록 노력해야지.",
+            "utterance_id": "BE22009355.15"
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009954",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009954",
+        "relation": "친구",
+        "situation": "치킨이 덜 익은 채 배달되었다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "치킨을 배달시켰는데, 먹는 도중에 치킨이 덜 익었다는 사실을 알게 되었어.",
+            "utterance_id": "BE22009954.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 그거 큰일인걸. 네가 많이 놀랐겠구나.",
+            "utterance_id": "BE22009954.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 솔직히 말해 기분이 나빠. 덜 익은 치킨은 자칫 위험할 수도 있잖아. 이 점이 제대로 확인하지 않고 배달되었다는 점이 화가 나.",
+            "utterance_id": "BE22009954.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론 네가 그렇게 느끼는 게 지극히 당연해. 네 건강을 해칠 수 있으니 더 민감하게 느껴질 수밖에 없지. 나였어도 놀라고 기분이 좋지 않았을 거야.",
+            "utterance_id": "BE22009954.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 심지어 이미 그 치킨을 일부 먹은 상태에서 알게 된 거라 더 불쾌해. 몸에 탈이 날 지도 모른다는 생각에 무지 신경이 쓰인단 말이야.",
+            "utterance_id": "BE22009954.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 걱정이 크겠구나. 덜 익은 치킨을 먹었다고 생각하면 무척 찝찝한 기분이 들 것 같아.",
+            "utterance_id": "BE22009954.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 게다가 더 화가 치밀어 오르는 건 점주의 태도야. 사과 한 마디도 없이 빠르게 환불로 무마하려고 하더라고.",
+            "utterance_id": "BE22009954.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 네가 많이 불쾌함을 느꼈을 것 같아. 명백히 상대방 측이 잘못한 상태에서 사과조차 하지 않으면 더 기분이 나쁠 법하지.",
+            "utterance_id": "BE22009954.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 꽤 자주 시켜 먹던 곳인데 배신감까지 들더라. 이것 때문에 하루 종일 기분이 나빴어.",
+            "utterance_id": "BE22009954.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 많이 실망감을 느꼈구나. 앞으로 그곳은 배달을 시키지 않는 게 좋겠다. 네게 안 좋은 기억을 남겼으니, 되도록 피하는 게 네게 좋을 것 같아.",
+            "utterance_id": "BE22009954.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 하려고. 짜증이 나서 당분간 치킨은 입에도 대기 싫을 것 같아.",
+            "utterance_id": "BE22009954.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 화가 나는 것은 이해해. 하지만 이런 일에 계속해서 네가 감정을 소모하는 것도 아까운 일인걸. 안 좋은 감정은 훌훌 털어내고 마음을 진정시켜 봐.",
+            "utterance_id": "BE22009954.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말이 맞아. 괜히 이런 일로 신경을 쏟아서 내내 불쾌해할 필요는 없지.",
+            "utterance_id": "BE22009954.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 너무 신경 쓰지 말고, 금방 잊는 게 답이야. 그러는 편이 마음이 더 후련하고 좋을 거야.",
+            "utterance_id": "BE22009954.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "알았어. 네 말을 듣고 나니 내 마음이 좀더 진정된 것 같아. 조언해줘서 고마워.",
+            "utterance_id": "BE22009954.15"
+        }
+    ]
+}

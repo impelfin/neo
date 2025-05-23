@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010351",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010351",
+        "relation": "친구",
+        "situation": "생리를 할 때는 졸음이 심하게 쏟아진다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 생리를 시작했는데 왜 이렇게 졸음이 쏟아지는지 모르겠어. 뭔가 몸에 이상이 있는 건지 불안해.",
+            "utterance_id": "BE22010351.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생리할 때마다 졸리니 뭔가 건강에 문제가 있는지 마음이 불편하구나.",
+            "utterance_id": "BE22010351.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집에 있으면 맘 편히 잠이라도 잘 텐데 출근하는 날에는 얼마나 당황스러운지 모르겠어.",
+            "utterance_id": "BE22010351.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 이 졸린 것을 참는 것이 얼마나 큰 스트레스이자 고통인데. 업무에 집중도 안 되고 계속 졸리니 얼마나 힘들겠어.",
+            "utterance_id": "BE22010351.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 이렇게 졸리다니 무슨 병에 걸린 기분이라니까. 문제가 있는 건 아니겠지?",
+            "utterance_id": "BE22010351.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에이, 그런 건 아니야. 그냥 생리적인 현상인걸. 체질에 따라 경중의 차이는 있겠지만 대부분 비슷해.",
+            "utterance_id": "BE22010351.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 이렇게 졸리고 피곤하지 의문이 들기 시작하면 바로 생리를 시작하더라고.",
+            "utterance_id": "BE22010351.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 몸이 정말 천근만근 무거워서 마치 임신한 사람처럼 졸음이 오는데 참 신기할 정도야.",
+            "utterance_id": "BE22010351.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생리휴가가 있지만 그런 건 못 쓰겠고 화장실 가서 변기에 앉아 졸고 있다니까.",
+            "utterance_id": "BE22010351.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에고 얼마나 힘들면 화장실에서 졸았을까. 생리휴가 쓰기도 눈치 보이고 민망하고 몸은 너무 힘들고 정말 괴로운 날이지.",
+            "utterance_id": "BE22010351.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남들보다 졸린 증상이 심하니까 혹시 난소기능에 문제가 있는 건 아닌지 불안감이 점점 커져.",
+            "utterance_id": "BE22010351.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그런 마음이 당연히 들 수 있어. 그래도 생리통도 없고 너는 정기적으로 검진도 받고 있고 생활 습관도 좋으니 별문제 없을 거야. 졸리는 것이야 생리할 때 나타날 수 있는 너무나 일반적 증상 중 하나인걸 뭐.",
+            "utterance_id": "BE22010351.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 검진할 때마다 건강하다고 하는데 내가 왜 이렇게 불안해하는지 모르겠어. 내가 너무 건강염려증이 있나봐. 긍정적으로 생각할래.",
+            "utterance_id": "BE22010351.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 내가 보기엔 너 너무 건강한데. 지금처럼만 잘 관리하면 문제 없을 거야.",
+            "utterance_id": "BE22010351.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그래, 고마워. 네 덕분에 불안한 마음이 사라졌어. 이제 걱정은 그만하고 운동이나 가야겠다.",
+            "utterance_id": "BE22010351.15"
+        }
+    ]
+}

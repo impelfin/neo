@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009592",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009592",
+        "relation": "친구",
+        "situation": "성수기가 되니 제주행 비행기 가격이 비싸졌다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야. 내가 우리 여행 계획 세워보려고 알아봤는데. 생각보다 슬픈 일이 발생했어.",
+            "utterance_id": "BE22009592.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일인데? 무슨 일이길래 슬프다고 하는지 궁금하네. 걱정되기도 하고.",
+            "utterance_id": "BE22009592.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게. 우리 비행기 가격이 너무 비싸진 것 같아. 성수기여서 그런가 봐. 생각보다 예산지출이 많을 것 같은데. 어떡하지?",
+            "utterance_id": "BE22009592.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아. 나는 괜찮아. 모두 여행을 떠날 때 혼자 놀지 못하는 것보다 훨씬 나을 것 같아, 이게. 갑자기 금액 올라가니까 슬펐구나?",
+            "utterance_id": "BE22009592.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소보다 동일한 비행기 티켓인데 금액이 비싸니 슬퍼지더라고. 빨리 예약할 걸 그랬다는 생각에 슬펐어. 그래서 너에게 연락했는데 이렇게 말해주니 나도 조금 다르게 생각해야겠다고 느껴지네.",
+            "utterance_id": "BE22009592.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수 있지. 빨리 예약했으면 조금 싼 가격이었을 것 같다는 생각에 나였어도 슬픈 감정에 빠져들 수 있을 것 같아. 그래도 비행기 티켓을 구한 거잖아, 못 가게 된 것보다 나은 상황이니까 좋게 생각해보는 게 어떨까!",
+            "utterance_id": "BE22009592.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그러게. 조금만 더 있었으면 구하지 못했을 텐데 이렇게 생각하니 다행이네. 공감해주고 위로해준 덕분에 조금 마음이 나아지는 것 같아.",
+            "utterance_id": "BE22009592.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 다행이다. 성수기 때는 언제나 비싼 것 같아. 그래도 여름휴가에 즐길 수 있다는 그 자체에 행복감에 비싸도 기분이 좋더라고. 이번에는 너와 함께 그 기분 느낄 수 있다고 생각하니 나는 너무 설레는걸?",
+            "utterance_id": "BE22009592.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 그렇게 생각하면 되겠다. 나도 너랑 함께할 수 있어서 너무 기쁘고 좋았는데, 예산 때문에 잠시 잊었던 것 같아. 다시 돌이켜서 생각해보니 비행기 가격보다 너와 함께하는 게 훨씬 좋고 즐거운 걸 생각해야겠다고 느껴져!",
+            "utterance_id": "BE22009592.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 좋은 생각이야! 비싼 금액을 주고 비행기도 타고 놀러 가는 만큼, 우리 더 재미있게 즐기다 오자. 네 마음도 조금 나아지고 즐겁게 생각하게 되었다니 나도 다행이다. 네가 슬퍼하면 나는 옆에서 함께 마음이 아프거든.",
+            "utterance_id": "BE22009592.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 마음 위로해주고 생각해주어서 정말 고마워, 친구야. 그리고 이렇게 이왕 열심히 계획하고 예산 들여서 가는 여행, 즐겁게 좋은 추억 많이 남기고 오자!",
+            "utterance_id": "BE22009592.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 정말 좋아! 이렇게 긍정적으로 생각하는 너의 모습 항상 본받고 싶다고 생각해왔어. 무슨 일이든 금방 슬픔에서 벗어나 긍정적으로 좋은 장점들로 승화시키는 너니까. 이번에도 티켓값이 비싸서 조금 슬프더라도 금방 기분 좋은 일들로 회복할 수 있을 거야!",
+            "utterance_id": "BE22009592.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응! 그렇게 하려고! 네 이야기 덕분에 슬픈 마음도 많이 진정되었고 편해졌어. 그리고 이렇게 이야기하니 앞으로 여행 더 신나게 계획해야겠다는 생각에 기분도 좋아지는 것 같아.",
+            "utterance_id": "BE22009592.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이다 정말. 나도 틈날 때마다 확인하고 더 좋은 계획 있는지 확인해볼게. 네가 기분 좋다고 하니 내 기분도 덩달아 좋아지는 게, 우리 행복한 여행 만들고 싶다는 생각이 마구 들어!",
+            "utterance_id": "BE22009592.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너무 좋지! 그럼 나도 슬픔 잊고 남는 시간에 더 즐겁게 계획 짜보도록 할게. 우리 곧 만나서 계획 정리해보도록 하자. 친구야 내 이야기 듣고 위로해주고 해결책도 같이 제시해주어서 무척 고마워, 정말!",
+            "utterance_id": "BE22009592.15"
+        }
+    ]
+}

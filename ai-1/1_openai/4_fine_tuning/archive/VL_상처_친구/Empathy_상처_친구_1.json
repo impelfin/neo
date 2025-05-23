@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010368",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010368",
+        "relation": "친구",
+        "situation": "고가의 가전제품은 진열상품이나 전시상품을 구입하곤 한다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 나 오늘 신혼집에 들어갈 가전제품 구매하고 왔어. 근데 너무 상처받는 일이 있었어.",
+            "utterance_id": "BE22010368.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 마음으로 구매하러 갔을 텐데 마음이 많이 안 좋겠다. 무슨 일 있었어?",
+            "utterance_id": "BE22010368.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가전제품 가격이 너무 비싼 거야. 그래서 진열 상품이나 전시 상품 위주로 해서 보고 있었는데. 점원이 무시하는 것 같은 느낌을 받았어.",
+            "utterance_id": "BE22010368.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐야. 정말 기분 나빴겠다. 어쨌든 넌 고객이고, 전시 상품도 마찬가지로 상품인데 점원이 생각이 짧았네.",
+            "utterance_id": "BE22010368.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "솔직히 나는 이왕 쓰는 거 진열된 제품도 상관없었거든. 가격도 훨씬 내려가고. 근데 점원이 왜 쓰던 거를 사려고 하냐는 식으로 이야기하니까 내가 비참하게 느껴지더라.",
+            "utterance_id": "BE22010368.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 그렇게 느낄 수 있지. 나라도 그 자리에서 그런 소리 들었으면 상처받았을 거야. 근데 네가 현명하게 많이 비교해 보고 알뜰살뜰하게 잘 구매하려는 거니까 잘 생각한 거야.",
+            "utterance_id": "BE22010368.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠지? 세탁기 말고도 냉장고랑 다 그렇게 구매하려고 했는데 무시당하니까 괜히 자존심도 상하는 것 같고. 내 상황이 불쌍하게 느껴져.",
+            "utterance_id": "BE22010368.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야. 오히려 전시상품이 훨씬 좋은 거지. 네가 원래 쇼핑할 때도 꼼꼼하게 따져보고 물건 잘 사잖아. 나도 옆에서 보면서 정말 닮고 싶은 부분이라고 생각했는데 절대 상처받을 필요 없어.",
+            "utterance_id": "BE22010368.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 말해주니까 마음이 조금 풀어진다. 사실 남편도 옆에서 그런 말이 없어서 내가 괜히 저렴하게 사자고 했나 싶은 생각이 들었거든.",
+            "utterance_id": "BE22010368.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 네가 괜한 일을 한 건 아닐 거야. 남편이 그렇게 행동한 거에 대해서는 점원과 똑같이 생각한다고 느끼기보다는 너를 믿어주기 때문이라고 생각해 봐. 그러면 나와 같은 생각이니 내 편이 있구나라고 생각이 들면서 힘이 날 거야.",
+            "utterance_id": "BE22010368.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말이 맞아. 사실 우리 남편도 참 무뚝뚝하잖아. 평소 같았으면 한마디 했을 텐데 내가 점원이랑 이야기했을 때 옆에서 묵묵히 자리를 지켜줬어.",
+            "utterance_id": "BE22010368.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 본인이 끼어들면 네가 곤란해질까 봐 그냥 가만히 있었던 거일 수도 있어. 그리고 친구야, 네가 선택한 행동은 정말 잘한 일이니까 너무 마음 아파하지 않았으면 좋겠어.",
+            "utterance_id": "BE22010368.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워. 머리로는 아는데 그 점원 말이 자꾸 생각나서 너한테 이야기하게 됐어. 근데 네가 잘 들어주고 이해해주니까 속상함이 풀린 것 같아.",
+            "utterance_id": "BE22010368.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그랬다면 정말 다행이다. 신혼집에 예쁘게 꾸밀 건데 네 판단대로 현명하게 잘 구매하길 바라.",
+            "utterance_id": "BE22010368.14"
+        }
+    ]
+}

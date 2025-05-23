@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009771",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009771",
+        "relation": "친구",
+        "situation": "친구들의 갑작스러운 약속에 아내가 보내주지 않는다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구들의 갑작스러운 약속에 아내가 보내주지 않아서 무척 당황스러워.",
+            "utterance_id": "BE22009771.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠네. 나 같아도 당황스럽지. 친구들한테는 연락은 했어?",
+            "utterance_id": "BE22009771.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 아직 말을 못 했어, 어떻게 말을 해야 할지. 간다고는 했는데 아내가 가지 말라고 해서 못 간다고 말은 할 수가 없잖아. 나도 자존심이 있는데, 이럴 때마다 내가 얼마나 당황스러운지.",
+            "utterance_id": "BE22009771.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지 나 같아도 자존심 상하지. 말 못하지. 나가야 하는데 보내 주지 않으면 마음이 조급해지고 당황스럽지. 아내가 안 보내주는 이유가 있어?",
+            "utterance_id": "BE22009771.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 건 없는데, 아내가 휴일은 가족이랑 같이 보내자고. 아니, 나도 물론 그러고 싶지, 그런데 사회생활이라는 게 어디 내 맘대로 되냐고. 나도 물론 집에서 쉬고 싶지, 근데 너도 알잖아.",
+            "utterance_id": "BE22009771.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지 알지, 일주일 내내 일했으니까 휴일에는 좀 쉬고 싶은 마음이지. 그런데 친구들과의 관계도 중요하니까, 어쩔 수 없는 부분도 있고.",
+            "utterance_id": "BE22009771.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 예전에도 그런 적이 몇 번 있었거든, 그럴 때마다 내가 얼마나 곤란했는지 정말 미치겠어. 친구들이 다시 한번 그러면 이제 친구도 아니라고 다음에 또 그러면 부르지도 않을 거라고.",
+            "utterance_id": "BE22009771.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 되면 친구가 없어지게 될 수도 있지. 아내는 설득해봤어? 아내도 친구도 있고 모임도 있을 거 아냐, 그럼 그런 일은 이해해줄 거 같은데.",
+            "utterance_id": "BE22009771.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "설득 해봤지. 그런데 아내는 이해하려고 하지를 않아, 매번 이런 식이야. 그렇다고 이런 일로 아내하고 큰소리 내며 싸울 수도 없고. 어떻게 해야 할지 모르겠어.",
+            "utterance_id": "BE22009771.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 예전에 아내하고 다툰 적이 있었는데, 나도 그전에 무조건 약속 있어서 나간다고만 했지. 왜 나가는지 이유는 말을 안 했어, 그래서 아내하고 많이 다퉜지. 그런데 그 뒤로 왜 나가는지 이유를 충분히 설명하니까 납득하더라고.",
+            "utterance_id": "BE22009771.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 그럼 나도 그렇게 한 번 얘기를 해봐야겠다. 나도 그동안은 말을 안 했거든, 친구들과 갑작스럽게 약속이 왜 생겼는지. 내가 왜 꼭 가야 하는지 말해야겠어, 네 말을 들으니까 조금 희망이 생겼어.",
+            "utterance_id": "BE22009771.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지, 그럼 아내도 분명 보내줄 거야. 그렇게 하다 보면 아내도 너를 믿고 흔쾌히 웃는 얼굴로 다녀오라고 할 거야. 그러니 너무 걱정하지 말고 얘기해봐.",
+            "utterance_id": "BE22009771.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말이 맞는 거 같아. 아내에게 자세하게 말하다 보면, 아내도 분명 친구들과의 약속에 보내줄 거라는 확신이 들어. 마음에 걱정이 사라진 것 같아, 내 고민을 들어줘서 고마워.",
+            "utterance_id": "BE22009771.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "아니야, 네가 이런 고민을 나를 믿고 얘기 해줘서 내가 고맙지.",
+            "utterance_id": "BE22009771.14"
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009793",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009793",
+        "relation": "친구",
+        "situation": "마음에 드는 정장이 너무 비싸다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언제쯤 번듯한 회사에 들어가서 돈 많이 벌 수 있을까.",
+            "utterance_id": "BE22009793.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 갑자기 우울해졌어. 무슨 일 있어?",
+            "utterance_id": "BE22009793.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 면접용 정장 사러 갔는데, 정말 마음에 드는 정장을 발견했거든. 그런데 너무 비싸서 못 사고 내려놓는데 너무 슬프더라.",
+            "utterance_id": "BE22009793.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내려놓는 네 마음이 어땠을지 나도 마음이 아프네. 게다가 내가 취업을 했다면 구매했을 것 같다는 생각이 더 슬프게 했을 것 같아.",
+            "utterance_id": "BE22009793.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 정장 하나도 마음대로 못 사는 내 처지가 초라하게 느껴지면서 비참하고 서러웠어. 난 언제까지 취준생일까.",
+            "utterance_id": "BE22009793.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 취준생 때는 트레이닝복만 입고 다니는 날 보다가, 정장 입은 사람들 보면 착잡했어. 너도 그런 마음일 것 같아서 속상하다.",
+            "utterance_id": "BE22009793.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 지금 어떤 마음인지 너는 아는구나. 그냥 제일 저렴한 정장 사 왔는데. 입고 면접 보러 가도 자신감이 안 생길 것 같아.",
+            "utterance_id": "BE22009793.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 마음인지 알지만, 너한테 자신감은 네 존재 그 자체야. 최선을 다해서 취업 준비하고, 노력하는 그 모습. 그 모습이 비싼 정장 보다 훨씬 더 가치 있는 거지.",
+            "utterance_id": "BE22009793.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니까 눈물 날 것 같다. 맞아, 난 지금 의미 있는 시간을 보내고 있는 거야. 옷 같은 게 중요한 게 아니지.",
+            "utterance_id": "BE22009793.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래 취업 준비가 정말 힘든 일이잖아. 작은 일 하나에도 서러운 감정이 들 때가 많지. 지금처럼 나한테 이야기하면서 마음 다잡으면 되니까 우울해하지 마.",
+            "utterance_id": "BE22009793.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 너 없었으면 어떻게 버텼을까? 나 더 힘을 내서 꼭 성공할 거야.",
+            "utterance_id": "BE22009793.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 역시 내 친구야. 넌 내면이 단단한 사람이니 반드시 취업에 성공할 거야. 사고 싶었던 정장은 출근 첫날 입고 가자!",
+            "utterance_id": "BE22009793.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 생각하니까 오히려 그 정장이 동기부여가 된다. 그날을 꿈꾸면서 힘내볼게.",
+            "utterance_id": "BE22009793.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "옆에서 항상 응원할 테니까. 힘들면 언제든 연락해.",
+            "utterance_id": "BE22009793.14"
+        }
+    ]
+}

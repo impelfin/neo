@@ -1,0 +1,163 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009534",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009534",
+        "relation": "친구",
+        "situation": "형이 속도위반으로 결혼을 한다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄청 대박 사건이야. 나 진짜 요즘 너무 행복해.",
+            "utterance_id": "BE22009534.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "글만 봐도 네가 신난 게 보일 정도야. 무슨 일이야?",
+            "utterance_id": "BE22009534.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형이 오래 교제한 여자 친구분이 있는데 올해 결혼해! 되게 좋은 분이라고 생각했는데 결혼한다니까 너무 기쁜 거 있지!",
+            "utterance_id": "BE22009534.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 경사네. 그런데 올해 연 조금 급하게 하시는 거 아냐? 몇 개월 안 남았잖아.",
+            "utterance_id": "BE22009534.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실은 속도위반으로 아기가 생겨서 급하게 하게 됐어. 좋은 형수님에 곧 조카도 생기니까 가족이 늘어난다는 생각에 너무 설레고 신나.",
+            "utterance_id": "BE22009534.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와! 이거 완전 겹경사구나! 좋은 분이 가족으로 들어오는 것만 해도 엄청 행복한 일인데. 조카까지 생기다니 나라도 정말 흐뭇하고 기쁠 것 같아.",
+            "utterance_id": "BE22009534.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아! 안 그래도 결혼 얘기가 조금씩 오고 갔다고 하더라고. 급하게 준비하는 거라 조금 걱정했는데 일정만 조정하는 정도라고 해서 그나마 다행이야. 형이 좋은 분과 결혼하게 돼서 정말 너무 기뻐.",
+            "utterance_id": "BE22009534.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너랑 형은 어렸을 때부터 우애가 남다르더니 형 결혼도 정말 진심으로 축하해 주고 기뻐해 주네. 성인 돼서도 이렇게 우애 좋게 지내기 쉽지 않은데 정말 멋지고 대단하다. 내가 다 뭉클하고 정말 보기 좋아.",
+            "utterance_id": "BE22009534.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형이 나를 잘 챙겨줘서 그렇지 뭐. 게다가 조카까지 생긴다니 이건 진심으로 축하해줘도 모자랄 정도야. 이제는 막 저절로 웃음이 지어진다니까.",
+            "utterance_id": "BE22009534.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 내가 너라도 정말 감격스럽고 행복할 것 같아. 형님께 나도 너무 축하드린다고 꼭 전해줘.",
+            "utterance_id": "BE22009534.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응! 잘 전해줄게. 네가 축하한다고 해줘서 내가 다 고맙다. 역시 너한테 얘기하길 정말 잘한 것 같아!",
+            "utterance_id": "BE22009534.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 이렇게 좋은 소식 전해줘서 나도 덩달아 행복해졌어! 내가 더 고마워!",
+            "utterance_id": "BE22009534.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너랑 이렇게 기쁜 일 나누니까 행복이 두 배가 된 것 같아! 형 결혼식에 초대할 테니 꼭 와줘!",
+            "utterance_id": "BE22009534.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응! 네 형 결혼식인데 당연히 가야지! 청첩장 나오면 그때 보자.",
+            "utterance_id": "BE22009534.14"
+        }
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22009759",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009759",
+        "relation": "친구",
+        "situation": "후배는 술만 마시면 달려드는 버릇이 있다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 술 마시다가 학교 후배랑 싸워서 너무 당황했잖아.",
+            "utterance_id": "BE22009759.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "설마 후배랑 술 취해서 싸운 거야? 진짜 많이 당황했겠는데?",
+            "utterance_id": "BE22009759.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 그건 아니고 그냥 서로 성향 차이 때문에 언쟁이 있었어. 근데 얘랑 술 마실 때마다 싸우는 거 같아. 술 마시면 너무 변해서 혼란스러워.",
+            "utterance_id": "BE22009759.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 그 후배가 술 마시면 좀 과격해지거나 말실수하는 거야? 그런 후배라면 나라도 무척 당황하고 혼란스러울 것 같아.",
+            "utterance_id": "BE22009759.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 조금 그런 편이야. 평소에는 예의 바르고 말도 예쁘게 하는 후배거든? 근데 술 마시면 반말도 하고 나한테 따지기도 하고 그래.",
+            "utterance_id": "BE22009759.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "후배가 선배한테 너무 한 거 아니야? 그런 상황이 생겨서 너 그때 무척 당황했겠다. 기분 너무 나쁘지 않았어?",
+            "utterance_id": "BE22009759.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지, 처음엔 너무 당황했어. 평소에는 깍듯한데 술 마시기 시작하면 조금씩 조금씩 이상한 조짐이 와.",
+            "utterance_id": "BE22009759.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "술자리 시작부터 그러면 네 기분도 많이 안 좋겠다. 같이 있기 싫을 것 같아.",
+            "utterance_id": "BE22009759.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "취기가 조금 오르면 애교 부리고 아양 떨다가 만취 되면 갑자기 소리도 지르고 고함도 쳐.",
+            "utterance_id": "BE22009759.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "야 그건 진짜 너무 심했다. 너무 친하게 지내면 안 될 거 같아. 괜히 너만 스트레스를 받을 것 같아.",
+            "utterance_id": "BE22009759.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 근데 평소에는 또 선배 대우도 잘해주고, 부탁이나 싫은 소리를 해도 군말 없거든? 술 마실 때랑 평소랑 너무 다르니깐 무섭기까지 해.",
+            "utterance_id": "BE22009759.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 180도 바뀌는 거구나. 같이 술 마시기 힘들겠다. 기분 좋게 한잔하려는데 그 후배 때문에 마음만 상해서 상처받지는 않았어?",
+            "utterance_id": "BE22009759.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음에는 무척 놀라고 화났었지. 그러다가 몇 번 잠잠했는데 어제 말싸움까지 하게 된 거야.",
+            "utterance_id": "BE22009759.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 너무 후배한테 신경 쓰지 마. 그런 일 겪어서 괜히 혼자 스트레스를 받으면 손해잖아.",
+            "utterance_id": "BE22009759.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "나도 그 상황이 되면 어이없긴 해. 네 말대로 신경 끄는 게 좋을 것 같다.",
+            "utterance_id": "BE22009759.15"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 그게 좋을 거 같아. 괜히 당황해서 마음 상하면 너만 손해잖아.",
+            "utterance_id": "BE22009759.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응 네 말대로 그래야겠다.",
+            "utterance_id": "BE22009759.17"
+        }
+    ]
+}

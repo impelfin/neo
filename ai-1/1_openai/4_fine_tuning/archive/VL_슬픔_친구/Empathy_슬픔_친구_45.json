@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009754",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009754",
+        "relation": "친구",
+        "situation": "매일 퇴근 후 TV를 보면서 와인을 마신다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야 나 요즘 남자 친구랑 헤어지고 너무 슬픔에 빠져 사는 것 같아.",
+            "utterance_id": "BE22009754.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고. 아직 많이 힘들구나. 갑자기 헤어지고 곁에 있던 존재가 없어진 일이니 너무 슬플 것 같아. 잠은 좀 잘 자고 있어?",
+            "utterance_id": "BE22009754.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니. 출근하기 전에 몇 시간만 겨우 자고 밤에는 잠이 잘 안 와. 너무 슬프니까 생각이 많아지는 것 같아. 그래서 퇴근하고 쓸쓸하고 와인 마시면서 TV 보고 그래.",
+            "utterance_id": "BE22009754.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "슬프면 생각이 깊어지기도, 길어지기도 하지. 나도 헤어지고 너무 슬퍼했던 경험이 있어서 그 시간이 얼마나 외롭고 고통스러울지 느껴져 마음이 아프다. 그러다 보니 술에 의존하게 되는 모습도 보기 안쓰러워.",
+            "utterance_id": "BE22009754.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나를 안쓰럽게 생각해주니 정말 고맙다, 위로받는 기분이야. 조금이라도 잠을 자야겠다고 생각하니 술을 마시게 되더라고. 퇴근하고 할 일이 사라지니 갑자기 외로운 마음에 울적해지고 더 슬퍼져서 말이야.",
+            "utterance_id": "BE22009754.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수 있지. 나였어도 혼자 자취하는 곳에 덩그러니 남겨진 기분에 더욱 우울하게 느껴질 수 있을 것 같아. 그래도 퇴근하고 남는 시간에 시간을 조금 더 알차게 보내는 건 어떨까!",
+            "utterance_id": "BE22009754.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그러게. 매일 TV를 보면서 와인을 마시며 보내기에는 내 하루의 마지막이 조금 아쉽게 마무리되는 느낌이다. 네가 이렇게 공감해주니 하루빨리 더 괜찮아져야겠다는 마음도 들면서 슬픔에서 벗어나야겠다는 생각도 드네.",
+            "utterance_id": "BE22009754.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 나는 네가 오랜 슬픔에 빠져있을까 너무 마음이 아플 것 같아. 그런데 우리가 연락하면서 슬픔에서 벗어나야겠다고 생각했다고 하니 다행이다. 그리고 이렇게 힘든 네 마음 충분히 이해하니 아플 만큼 아프고 툴툴 털고 일어서기를 기도할게.",
+            "utterance_id": "BE22009754.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 네가 많이 공감해준 덕분인 것 같아. 이렇게 슬퍼하며 혼자 외로운 시간을 보내기보다 활기차게 기분 좋은 시간 보내보아야겠다고 느껴졌거든. 고마워 우울한 마음이 조금씩 연락하면서 나아지는 것 같아.",
+            "utterance_id": "BE22009754.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이다. 연락으로 네 마음이 조금이나마 나아지는 것 같아서 내 마음도 한결 편해지는 기분이야. 그리고 맛있는 와인은 가끔 나랑 마시면서 기분전환을 하는 거 어때? 그리고 슬픔에 빠져서 마시는 와인은 점점 멀리하는 거지.",
+            "utterance_id": "BE22009754.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 나 생각해주고 위로해줘서 고마워. 정말 진심이야. 그리고 퇴근하고 다른 취미생활 같은 것도 찾아보고 새로운 일상을 시작해보아야겠어. 그러면서 일상의 활력을 찾아야겠다.",
+            "utterance_id": "BE22009754.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이다! 네가 고맙다고 생각해주니 쑥스럽네. 일상의 활력을 찾아 네 마음이 훨씬 기쁜 일로 가득해진다면 아주 많이 응원해! 그리고 혼자서 있기보다 사람들과 같이 어울리면서 행복한 시간 보내는 것도 좋을 것 같아!",
+            "utterance_id": "BE22009754.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응! 그래볼게! 슬픔에서 빠질 수 있는 여러 가지 방법을 네 덕분에 알게 된 것 같아. 그래서 울적한 마음도 덕분에 많이 사라지는 것 같아! 네가 있어서 위안이 되는 기분이야.",
+            "utterance_id": "BE22009754.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이다. 지금은 헤어져서 슬픔의 감정이 많이 있겠지만 네 곁에는 내가 있으니 너무 우울해하거나 슬퍼하지 않기를 바라. 네 마음이 괜찮아지면 나도 훨씬 마음이 좋을 것 같아.",
+            "utterance_id": "BE22009754.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응 그럴게. 내 곁에는 많은 사람이 있으니 TV와 와인으로 버티기보다 더 좋은 많은 것으로 지내볼게. 슬픔에서 벗어날 방법을 찾은 것 같아 마음이 한결 좋아졌어. 네 덕분이야 정말 고마워!",
+            "utterance_id": "BE22009754.15"
+        }
+    ]
+}

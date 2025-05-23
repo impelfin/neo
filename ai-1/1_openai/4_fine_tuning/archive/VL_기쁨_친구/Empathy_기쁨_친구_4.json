@@ -1,0 +1,160 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008936",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008936",
+        "relation": "친구",
+        "situation": "야근하는 날 아내가 도시락을 싸왔다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 어제 야근하는 날이었거든. 엄청 피곤해하고 있는데 아내가 도시락을 싸왔더라고. 깜짝 놀랐는데 얼마나 기쁘고 고마웠는지 몰라.",
+            "utterance_id": "BE22008936.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우와 정말? 피곤해하고 있을 찰나에 아내의 얼굴을 봤을 때 얼마나 놀라고 설렜을지 네 모습이 상상이 간다. 생각지도 못한 상황이라 엄청 좋았겠다 너.",
+            "utterance_id": "BE22008936.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까. 나도 깜짝 놀랐다니까. 그때가 또 출출하던 시간이었거든. 다들 집에 가고 싶어 하던 찰나에 직원들 거까지 싸온 걸 보고 너무 감동을 받았어.",
+            "utterance_id": "BE22008936.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제수씨 센스가 진짜 끝내준다. 어떻게 직원들 것까지 싸가지고 가실 생각을 하지. 직원들 사기가 아주 올라가서 일의 능률도 빨라졌겠는걸?",
+            "utterance_id": "BE22008936.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "덕분에 맛있게 먹고 다들 힘내서 더 열심히 하더라고. 그래서 생각했던 시간보다 일이 일찍 끝나서 다들 기분 좋게 퇴근했지.",
+            "utterance_id": "BE22008936.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진정한 내조의 여왕이시네. 일까지 빨리 끝나다니 네가 그날 기분이 아주 날아갈 것 같았겠는걸. 나였어도 너무 행복한 야근이었을 것 같아.",
+            "utterance_id": "BE22008936.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 행복과 야근이라는 단어가 공존할 수 있다는 걸 어제 알았다니까. 전혀 어울리지 않는 두 단어인데 말이야 하하.",
+            "utterance_id": "BE22008936.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게 정말 웃기면서도 맞는 말이네. 역시 너희 부부를 볼 때면 결혼하고 싶어진다니까. 노총각 서러워서 살겠어?",
+            "utterance_id": "BE22008936.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 나도 아내한테 참 감사해. 내가 아내 같은 여자를 또 어디서 만나겠어. 이런 못난 나라도 이렇게 사랑해 주고 챙겨주는 모습을 보면 미안하고 항상 감사한 것 같아.",
+            "utterance_id": "BE22008936.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 못나다니. 너만큼 건실하게 하는 애가 어딨다고. 네가 성실하고 착실한 사람이라서 똑같이 그런 좋은 사람을 만난 거지. 둘 다 너무 질투 날 정도로 멋진 부부야.",
+            "utterance_id": "BE22008936.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 말해주니 더 기분이 좋아진다. 너처럼 이렇게 우리 부부를 좋게 봐주는 친구가 있다는 것도 참 감사해. 내가 아무래도 전생에 나라를 구했나 봐.",
+            "utterance_id": "BE22008936.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "항상 볼 때마다 훈훈한 일들만 가득하니 당연히 그렇게 좋게 바라볼 수밖에 없지. 너희 부부를 결혼 장려 홍보대사로 고용해도 되겠어.",
+            "utterance_id": "BE22008936.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하 과찬이야. 언제 한번 우리 부부랑 밥 한번 먹자. 내가 사랑하는 둘을 조만간 소개해 주고 싶네.",
+            "utterance_id": "BE22008936.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "어우, 나야 영광이지. 언제든 환영이야.",
+            "utterance_id": "BE22008936.14"
+        }
+    ]
+}

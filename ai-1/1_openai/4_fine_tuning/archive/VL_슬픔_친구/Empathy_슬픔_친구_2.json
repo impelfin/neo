@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009263",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009263",
+        "relation": "친구",
+        "situation": "택시안에서 혼자 울었다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "미안. 나 지금 코맹맹이 목소리라 전화 못 받고 거절했어.",
+            "utterance_id": "BE22009263.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "울기라도 한 거야? 무슨 일이 있었는데 그래.",
+            "utterance_id": "BE22009263.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남자 친구랑 헤어지고 오는 길에 택시에서 펑펑 울었어. 지금도 마음이 너무 아파서 숨을 쉴 수가 없어.",
+            "utterance_id": "BE22009263.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상에. 어제까지만 해도 둘이 알콩달콩 잘 만나다가 갑자기 헤어지다니 이게 무슨 일이야. 네가 충격받고 마음의 상처를 크게 입어서 슬플 만하다.",
+            "utterance_id": "BE22009263.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 남자 친구가 왜 헤어지자고 한 건지 도저히 이해가 안 돼. 머리로도 이해를 못 한 걸 가슴이 어떻게 받아들이겠어. 마땅한 이유도 없이 헤어지자고 하다니 우울해서 죽고 싶은 기분이야.",
+            "utterance_id": "BE22009263.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 갑작스러운 일이라 네 마음이 정말 무겁고 참담한 기분이겠다. 네 이야기 들으니까 나도 마음이 쓰라려서 눈물이 날 것 같아.",
+            "utterance_id": "BE22009263.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 비통한 심정 내리누르면서 몇 번이나 가지 말라고 붙잡았는데 뒤도 안 보고 떠났어. 택시 타고 혼자 오는데 진짜 심장이 찢어질 것 같더라. 나한테 왜 이러는 거야 정말.",
+            "utterance_id": "BE22009263.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사랑하던 사람이 냉정히 떠나다니 네가 서글프고 처량하게 느낄만했네. 상상만 해도 서럽고 눈물겨운데 너 혼자 남겨져서 얼마나 외롭고 쓸쓸했겠어.",
+            "utterance_id": "BE22009263.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "길에서는 사람들 다 보니까 울지 않으려고 이 악물고 참았는데 택시 타자마자 눈물 터지더라고. 기사님이 괜찮냐고 걱정해 주시는데 대답도 못 하고 쏟아지는 눈물 닦기 바빴어.",
+            "utterance_id": "BE22009263.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생전 처음 보는 기사님도 널 그렇게 걱정해 주는데 남자 친구는 떠나다니 너무하네. 인제 그만 슬퍼하고 그런 사람 네 인생에서 잘 걸러졌다고 좋게 생각하자. 마음 단단히 먹고 냉정하게 생각해 보면 슬픈 감정에 휘둘리지 않을 테니 진정해.",
+            "utterance_id": "BE22009263.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 네 말이 맞아. 저런 예의 없는 사람을 위해서 흘리는 내 눈물이 아까우니까 뚝 그쳐야지. 저런 사람은 빨리 잊어버리고 보란 듯이 잘 지내줄 거야.",
+            "utterance_id": "BE22009263.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거 아주 좋은 다짐이야. 네가 이번 일로 아무 타격 없다는 걸 모두에게 보여주자. 되돌릴 수 없는 일로 우울해하는 것보다 이렇게 기운 내는 널 보니 안심이 되네.",
+            "utterance_id": "BE22009263.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네가 내 이야기 들어준 덕분에 내가 감정 정리를 할 수 있었는걸. 너 아니었으면 계속 땅 파고 들어갈 뻔했는데 정신 차리게 해줘서 고마워.",
+            "utterance_id": "BE22009263.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 너희 집 앞으로 갈게. 우리 매운 닭발이나 먹으면서 기분 전환 확실하게 하자.",
+            "utterance_id": "BE22009263.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "안 그래도 매운 음식 당겼는데 잘 되었네. 준비하고 나가면서 연락할게.",
+            "utterance_id": "BE22009263.15"
+        }
+    ]
+}

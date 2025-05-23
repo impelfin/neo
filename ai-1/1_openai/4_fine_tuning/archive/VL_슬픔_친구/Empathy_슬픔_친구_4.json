@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009305",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009305",
+        "relation": "친구",
+        "situation": "내 차에 탄 친구가 묻지도 않고 담배를 피운다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘은 내가 정말 싫다. 너무 우울해.",
+            "utterance_id": "BE22009305.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래? 무슨 일이 있길래 그런 소릴 하는 거야?",
+            "utterance_id": "BE22009305.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "싫어도 싫다는 소리를 못 하고, 그냥 웃고만 있는 내가 너무 한심해서 그래. 네가 보기에도 나 정말 바보 같지?",
+            "utterance_id": "BE22009305.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그런 소릴 하는 거야? 그렇게 얘기하니까 너무 걱정되잖아. 자세하게 얘기해 봐.",
+            "utterance_id": "BE22009305.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 차에 친구가 탔는데, 나에게 묻지도 않고 담배를 피우는 거야. 어떻게 묻지도 않고 담배를 피울 수가 있을까? 나를 무시하는 것 같아서 너무 슬퍼.",
+            "utterance_id": "BE22009305.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 같아도 그런 상황이면 기분이 언짢을 것 같아. 너는 담배 냄새를 매우 싫어하잖아, 친구가 너에게 한 번쯤 물어봤으면 좋았을 텐데. 네가 기분이 많이 상했을 것 같아.",
+            "utterance_id": "BE22009305.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 일만이면 그러려니 하고 그냥 넘어갔을 거야. 그런데 이 친구가 항상 나를 함부로 대하니까 너무 자존심이 상해. 내가 그렇게 취급당해도 되는 존재인 것 같아서 나 자신이 너무 초라하게 느껴져.",
+            "utterance_id": "BE22009305.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 왜 그런 생각을 하는지 모르겠어. 그렇게 생각하지 마. 네가 마음이 상해서 내가 속상하잖아.",
+            "utterance_id": "BE22009305.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 소심해서 남에게 싫은 소리를 못 하잖아. 그래서 싫어도 거절도 못 하고. 이 친구가 내 성격을 알고 그렇게 대하는 것 같아서 자괴감이 들어.",
+            "utterance_id": "BE22009305.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 왜 자괴감을 느끼니? 네가 얼마나 착하고 성격이 좋은데. 항상 배려하고 챙겨주는 거 보면서 내가 배워야겠다는 생각을 얼마나 많이 하는 줄 알아?",
+            "utterance_id": "BE22009305.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 친구를 만날 때마다 마음이 상하니까 사실은 만나고 싶지 않아. 만나자고 하면 거절하고 싶은데, 입이 안 떨어져.",
+            "utterance_id": "BE22009305.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 친구가 너하고 잘 맞지 않는 사람인가 봐. 네 맘이 자꾸 다치니까 내 생각에도 거리를 두는 게 좋을 것 같아. 거절하는 연습을 해보는 건 어때?",
+            "utterance_id": "BE22009305.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말대로 거절하는 연습을 해봐야겠어. 여태껏 상대방이 기분 나쁠까 봐 눈치를 보면서 하고 싶은 말을 못 했거든. 이제는 할 말은 하면서 살고 싶어.",
+            "utterance_id": "BE22009305.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "잘 생각했어. 똑 부러진 네 모습 기대할게.",
+            "utterance_id": "BE22009305.14"
+        }
+    ]
+}

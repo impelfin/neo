@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009928",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009928",
+        "relation": "친구",
+        "situation": "밤마다 스마트폰을 들여다본 결과 황반 변성 증상이 생겼다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 안과 다녀오는 길이야. 기분이 완전히 가라앉았어.",
+            "utterance_id": "BE22009928.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "눈이 가끔 안개가 낀 것처럼 뿌옇다고 걱정하더니 안과 갔다 왔구나. 기분이 가라앉았다니, 안 좋은 결과라도 나온 거야?",
+            "utterance_id": "BE22009928.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "황반변성 증상이 생겼다고 치료받으래. 심하면 실명할 수도 있다고 하더라구. 의사 선생님 말씀을 듣고 났더니 너무 당황스럽더라.",
+            "utterance_id": "BE22009928.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "최악의 경우 시력을 잃을 수도 있다니 정말 두렵고 놀랐겠다. 네가 당황했을 생각을 하니까 나도 마음이 진정되질 않아. 오늘 검사한 것이 오진이기를 바라는 마음이야.",
+            "utterance_id": "BE22009928.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 혹시 몰라서 오늘 병원 한 군데를 더 갔다 왔어. 근데 병명이 황반변성 똑같아. 역시 조심하라고 하더라구.",
+            "utterance_id": "BE22009928.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안과 두 곳 모두에서 황반변성이라고 했다면 정말 충격을 받았겠구나. 오죽 답답하면 병원을 두 곳이나 다녀왔겠니. 네 마음이 얼마나 불안한지 알 것 같아.",
+            "utterance_id": "BE22009928.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정기적으로 안과 다니면서 검사하고 치료를 받아야 한다고 하는데, 갑자기 몹시 슬퍼지더라.",
+            "utterance_id": "BE22009928.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠지. 사람의 장기 중에서 눈이 가장 중요하다는데, 눈에 이상이 생겼다고 하니 얼마나 슬프겠어. 더군다나 관리를 소홀히 하면 실명할 수도 있다니, 한동안 마음이 진정이 되지 않았을 거야.",
+            "utterance_id": "BE22009928.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 지금도 진정이 되질 않아. 밤마다 잠들기 전까지 불을 끄고 스마트폰을 오랫동안 봐서 그렇대. 스마트폰을 손에서 놓지 않은 것을 몹시 후회하고 있어.",
+            "utterance_id": "BE22009928.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "스마트폰 때문에 황반변성 증상이 생겼다니, 정말 후회가 많이 되겠구나. 하지만 이제 스마트폰 사용을 줄이면 나빠졌던 시력도 회복이 될 테니 희망을 가져.",
+            "utterance_id": "BE22009928.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 나처럼 되지 말고 스마트폰 사용을 줄였으면 좋겠다. 나는 이제 꼭 필요할 때 아니면 스마트폰을 사용하지 않을 거야.",
+            "utterance_id": "BE22009928.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 나도 네 말처럼 눈의 건강을 위해서 스마트폰 사용을 줄이고, 밤에 스마트폰을 하지 않아야겠어. 눈의 소중함을 다시 한번 느꼈으니 눈 건강에 신경 쓰는 것이 중요한 것 같아.",
+            "utterance_id": "BE22009928.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 눈은 나빠지기 전에 관리를 잘하는 것이 중요한 것 같아. 이제 원인을 알았으니 관리를 잘해야겠어.",
+            "utterance_id": "BE22009928.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 관리가 중요해. 알아봤더니 메리골드 꽃 말린 것을 차로 우려먹는 것이 황반변성에 효과가 좋다고 하네. 메리골드에는 망막의 황반을 구성하는 루테인과 지아잔틴이 많이 함유되어 있대. 나도 유기농 메리골드를 구해볼게.",
+            "utterance_id": "BE22009928.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "네 덕분에 슬픈 마음이 조금 사라졌어. 눈에 좋은 차도 알게 되었으니 너무 고맙다. 우리 이제 소중한 눈을 안전하게 관리하자.",
+            "utterance_id": "BE22009928.15"
+        }
+    ]
+}

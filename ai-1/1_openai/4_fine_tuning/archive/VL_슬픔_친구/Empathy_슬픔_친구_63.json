@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010081",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010081",
+        "relation": "친구",
+        "situation": "수능시험을 망친 딸이 방에서 나오지 않는다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 너무 슬프고 속이 상해서 눈물만 난다.",
+            "utterance_id": "BE22010081.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 쓰라릴 듯이 아프고 가슴이 슬픔으로 가득 찼구나. 무슨 일이 있니?",
+            "utterance_id": "BE22010081.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 딸이 수능시험을 망친 뒤로 방에서 나오지 않고 있어. 그 모습을 보는 내 마음이 찢어질 것 같아.",
+            "utterance_id": "BE22010081.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 상황을 지켜볼 수밖에 없다는 게 가슴이 미어지도록 아프고 목이 메고 서글플 것 같아.",
+            "utterance_id": "BE22010081.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 딸이 힘들어하는 모습을 보니 정말 슬퍼. 밥도 안 먹고 저러고 있으니 걱정되고 너무나 신경 쓰여.",
+            "utterance_id": "BE22010081.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 시험이 끝난 지 얼마 안 되어서 딸이 큰 절망에 빠져있을 거야. 그렇지만 시간이 약이라고 며칠 지나면 기운을 차리고 방문을 열지 않을까? 너무 걱정하지 마, 친구야.",
+            "utterance_id": "BE22010081.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 지금이 가장 고통스러운 시간이겠지. 이 시간이 지나면 나도 딸도 슬픔이 모두 가라앉을까?",
+            "utterance_id": "BE22010081.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 그럴 거야. 지금은 너무나도 참담하고 절망스러워서 마음이 뒤숭숭하지? 그래도 시간이 지나면 아픈 감정들도 차분해질 거라 믿어.",
+            "utterance_id": "BE22010081.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 엄마로서 해줄 수 있는 게 없다는 것도 너무 슬퍼.",
+            "utterance_id": "BE22010081.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 지금은 아무것도 할 수 있는 게 없어서 무기력함이 들고 너도 속상하고 지칠 거야. 그렇지만 마음을 단단히 먹고 딸의 곁을 지켜주고 응원해주자는 생각을 하면 슬픔이 나아질 거야.",
+            "utterance_id": "BE22010081.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 마음을 단단히 먹는 것이 중요하겠지?",
+            "utterance_id": "BE22010081.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 당연하지! 네가 든든한 버팀목 역할을 해주면 딸도 금방 기운을 차릴 거야.",
+            "utterance_id": "BE22010081.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "너랑 대화를 나누니까 슬픔이 물러나고 단단해져야겠다는 힘이 생겨.",
+            "utterance_id": "BE22010081.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그랬다니 정말 다행이다. 나도 계속 응원할게, 너도 힘내!",
+            "utterance_id": "BE22010081.14"
+        }
+    ]
+}

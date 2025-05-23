@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009906",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009906",
+        "relation": "친구",
+        "situation": "다들 그렇게 살고 너만 힘든 게 아니라는 말을 들어도 기분이 나아지지 않는다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 요즘 계속 불안해. 나만 힘든 것 같고 내 인생만 별 볼 일 없는 것 같아.",
+            "utterance_id": "BE22009906.1"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 무슨 말이야? 네가 얼마나 네 삶을 아끼고 열심히 사는데 그런 말을 하는 거야?",
+            "utterance_id": "BE22009906.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조언을 구하는데 다들 그렇게 산다고 너만 힘든 게 아니라 하는데도 그런 말은 안 들려. 기분이 전혀 나아지지 않아. 여전히 내 삶이 불안하기만 해.",
+            "utterance_id": "BE22009906.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "미래를 모르니 다들 그런 생각은 가지고 있는 것 같아. 나도 한 번씩 그런 느낌이 들면 한참 동안 힘들기도 하고 그러거든. 너만 그런 게 아니니 너무 힘들어하지 않았으면 좋겠어.",
+            "utterance_id": "BE22009906.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "머리로는 이해가 되다가도 마음은 또 불안하고 그러네. 매번 일이 잘되는 것 같다가 사고가 생겨서 돈 들어갈 일이 생기고 그게 반복이야. 그러니 왜 나만 이렇게 힘든가 하는 생각이 떠나질 않아.",
+            "utterance_id": "BE22009906.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 마음인지 이해가 돼. 그런데 우리 인생이 늘 그런 것 같아. 좋기만 한 적도 없고 나쁘기만 한 적도 없잖아.",
+            "utterance_id": "BE22009906.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 알지만 다들 힘들다 너만 그렇다 이런 말들은 너무 뻔한 것 같아. 하나도 위로가 되질 않고 그냥 마음은 계속 불안에 시달리고 말아.",
+            "utterance_id": "BE22009906.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 요즘에 사건 사고가 자주 생기는 바람에 많이 지쳤나 보다. 나였어도 아마 지쳤을 거야. 그 와중에도 너는 끊임없이 새로운 일을 찾고 다시 일어서고 그래서 참 대단한 것 같아.",
+            "utterance_id": "BE22009906.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어린아이들을 보고 있으면 가만히 있을 수가 없어서 없던 힘이라도 내는 것 같아. 내 마음은 못 살피고 그렇게 하루를 힘겹게 이어가서 더 마음이 안정이 안 되나 봐.",
+            "utterance_id": "BE22009906.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 힘들어하니 너무 걱정된다. 그래도 20년 지기인 내가 보는 너는 충분히 강한 사람이야. 어떤 어려움에도 주저앉지 않고 열심히 해서 이만큼까지 걸어 왔잖아.",
+            "utterance_id": "BE22009906.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 앞으로도 잘해 나갈 수 있을까? 이렇게 자꾸 마음이 무너지는데. 불안한 마음이 없어지질 않아.",
+            "utterance_id": "BE22009906.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 잘 꾸려낸 가정을 봐봐. 너 자신을 믿고 앞으로도 잘 될 거라는 생각을 가지면 조금 마음이 나아지지 않을까?",
+            "utterance_id": "BE22009906.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래. 아무것도 없이 이만큼 왔으니까. 그렇게 생각하니 이제 불안감 따위는 툴툴 털어버릴 수 있겠어.",
+            "utterance_id": "BE22009906.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "살면서 계속 불안하기도 하고 힘들기도 하지만 자꾸 이렇게 긍정적으로 생각하면서 이겨 나가보자.",
+            "utterance_id": "BE22009906.14"
+        }
+    ]
+}

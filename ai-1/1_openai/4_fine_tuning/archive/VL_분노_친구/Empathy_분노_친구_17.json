@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009402",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009402",
+        "relation": "친구",
+        "situation": "가정형편 때문에 장학금을 받을 수 있는 대학으로 하향 지원을 했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 등록금 때문에 장학금 주는 곳으로 하향 지원했어. 이게 도대체 뭔 일인지 믿기지 않네.",
+            "utterance_id": "BE22009402.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜? 인 서울 상위권 대학까지 충분히 붙을 수 있었는데 진짜 아쉽겠다.",
+            "utterance_id": "BE22009402.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 말이야. 이런 일이 벌어질 거라고는 상상도 해본 적 없는 절망적인 상황이라 미치고 환장하겠어.",
+            "utterance_id": "BE22009402.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "실력이 부족해서 못 가는 것도 아니고 금전적인 문제 때문에 희망이 꺾인 거니까 힘들겠다.",
+            "utterance_id": "BE22009402.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "할아버지가 어릴 때부터 내 몫의 등록금을 차곡차곡 준비해 두셨거든. 아빠가 설마 주식으로 그 돈까지 날렸을 줄은 몰랐어. 너무 화가 나서 소리부터 질러버렸지 뭐야.",
+            "utterance_id": "BE22009402.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상에. 가능성이 있는 열린 문이 한순간에 높은 성벽이 되어 눈앞에 나타났으니 네가 열받을만하다. 나였어도 속 터질 것 같아서 가만히 있을 수 없었을 거야.",
+            "utterance_id": "BE22009402.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 차라리 기회조차 없었으면 그러려니 하겠는데 멀쩡한 기회를 아빠가 박살 내서 좌절하게 만든 거잖아. 믿었던 최후의 보루도 잃은 걸 알게 되니까 욱해서 참을 수가 없었어.",
+            "utterance_id": "BE22009402.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 상황에서 성질이 안 날 사람이 어디 있겠어. 네 이야기만 들어도 감정이 불끈 치솟아서 어디다 한바탕 쏟아내고 싶은걸.",
+            "utterance_id": "BE22009402.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 노력이 한순간에 물거품이 되다니 억울해서 죽을 지경이야. 돌아버리겠다는 게 무슨 뜻인지 확실히 느끼게 되더라.",
+            "utterance_id": "BE22009402.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조금 진정하고 미래의 긍정적 가능성에 대해 생각해 보면 기분이 나아지지 않을까? 지금 하향 지원한 학교 다니다가 형편에 여유가 생기면 가려던 곳으로 편입해 보면 어때?",
+            "utterance_id": "BE22009402.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "화가 나서 당장의 일만 생각했는데 네 말을 듣고 보니까 그런 길도 있었다는 걸 깨닫게 되네. 그렇게라도 원래 목표에 도달할 수 있으면 난 좋아.",
+            "utterance_id": "BE22009402.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "목표물로 가는 길이 하나만 있는 게 아니잖아. 당장 네가 어떻게 할 수 없는 일에 집중해서 좌절하지 말고 좋은 쪽으로 생각하자.",
+            "utterance_id": "BE22009402.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래. 내가 하향 지원을 해야만 한다는 것에 열받아서 너무 한쪽으로만 생각했나 봐. 너한테 이야기하길 잘했다는 생각이 드네.",
+            "utterance_id": "BE22009402.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "화가 나는 상황에서도 내 의견을 수용해 줘서 고마워. 조금이라도 도움이 되었다니 다행이지.",
+            "utterance_id": "BE22009402.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "무슨 말이야 내가 훨씬 고맙지. 네가 말해준 방법에 대해서 지금 당장 찾아봐야겠다. 찾아보고 금방 다시 연락할게.",
+            "utterance_id": "BE22009402.15"
+        }
+    ]
+}

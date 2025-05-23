@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010454",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010454",
+        "relation": "친구",
+        "situation": "계약직만으로 직장생활을 하고 있다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 다음 달이면 이 회사도 곧 계약이 끝나.",
+            "utterance_id": "BE22010454.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 고생 너무 많았다. 앞으로는 어떻게 좀 쉴 생각인 거야?",
+            "utterance_id": "BE22010454.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 바로 또 일 구해야지. 퇴직금도 없어서 쉴 수도 없어.",
+            "utterance_id": "BE22010454.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런, 그만두자마자 또 원서 내고 면접 보러 다니려면 너무 힘들겠다.",
+            "utterance_id": "BE22010454.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "단기 계약직으로 있는 경우가 많다 보니 퇴직금 못 받는 경우가 허다해. 그리고 길어도 일 년이다 보니 퇴직금도 그리 크지 않고. 미래가 너무 막막하고 불안해.",
+            "utterance_id": "BE22010454.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "앞날에 대한 걱정으로 네 마음이 참 터널처럼 깜깜하고 불안하겠어. 하지만 직업을 가지려 하지 않는 사람들도 많은 요즘에 일을 찾아 헤매는 네가 참 대단해. 애초에 지레 겁먹고 시작조차 안 하는 사람들도 많은걸?",
+            "utterance_id": "BE22010454.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 정규직으로 일하고 싶은데, 자꾸 계약직으로만 떠도니까 암담해. 내 능력이 인정을 못 받는 건가 싶고.",
+            "utterance_id": "BE22010454.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 건 아니야. 네가 능력이 출중하니까 결국 이곳저곳에서 너를 채용하는 거지! 회사가 너를 골랐듯이 너도 회사를 고른 거야.",
+            "utterance_id": "BE22010454.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 한곳에 정착해서 일할 수 있을까? 마음이 너무 불안하고 조급해.",
+            "utterance_id": "BE22010454.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 급하게 마음먹지 마. 아직 네가 마음 줄 곳을 못 찾은 것뿐이야. 일하면서 더 애정이 가는 곳에 열정을 다하면 그럼 그곳에서도 분명 널 알아봐 줄 거야.",
+            "utterance_id": "BE22010454.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠지? 네 말을 듣고 보니 내가 너무 급하게만 생각했던 것 같다.",
+            "utterance_id": "BE22010454.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "인생은 길고 마라톤처럼 대하라잖아. 분명 일했던 작은 점들이 모여서 긴 하나의 선을 이루어 큰 업적이 될 거야! 그리고 그걸 알아보는 어딘가 나타나겠지!",
+            "utterance_id": "BE22010454.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "나를 이해하고 알아봐 주는 네가 있어 힘이 난다. 너무 의기소침해하지 말고 다시 취업 도전해 봐야겠어. 그게 무슨 일이든.",
+            "utterance_id": "BE22010454.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "꾸준히 노력하는 너의 모습이 너무 멋져. 너의 미래를 응원할게!",
+            "utterance_id": "BE22010454.14"
+        }
+    ]
+}

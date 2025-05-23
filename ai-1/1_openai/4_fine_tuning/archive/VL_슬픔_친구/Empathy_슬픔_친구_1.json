@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22009262",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009262",
+        "relation": "친구",
+        "situation": "아이가 밥은 안먹고 인스턴트 식품만 찾는다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "애가 밥은 안 먹고 인스턴트 음식만 찾아서 너무 슬프고 우울해.",
+            "utterance_id": "BE22009262.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 마음이 힘든가 보구나. 슬프고 우울하다는 소리까지 하는 걸 보니. 애한테 무슨 문제가 생긴 거야?",
+            "utterance_id": "BE22009262.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "4학년이 되더니 공부가 어려워지니까 나한테 화를 많이 내. 그러면서 밥은 안 먹고 인스턴트 음식만 찾아. 그 모습을 보는 게 슬퍼.",
+            "utterance_id": "BE22009262.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이도 힘들어서 그렇게 한다는 걸 아는데 고칠 방법이 없어서 슬픈 거지? 아이 건강도 걱정돼서 우울하고.",
+            "utterance_id": "BE22009262.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 라면하고 매운 양념이 들어간 과자만 먹고 있어서 건강이 나빠질 것 같아 걱정이야. 어떤 방법이 없을까?",
+            "utterance_id": "BE22009262.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "근본적인 원인을 해결해야 할 것 같아. 학습 스트레스를 줄이는 방법을 생각해 봐.",
+            "utterance_id": "BE22009262.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 여러 가지 방법을 시도해봤는데 효과가 없어서 자꾸 힘이 빠져.",
+            "utterance_id": "BE22009262.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 여러모로 노력해도 개선되지 않아서 슬프겠다. 나라도 그 상황이면 너처럼 힘들 것 같아. 애들 키우다 보면 슬프고 우울한 일들이 많이 생기지.",
+            "utterance_id": "BE22009262.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 그래, 학원도 가기 싫다고 해서 안 보냈어. 시험 못 봐도 혼내지도 않았는데, 갈수록 더 심해지는 거야.",
+            "utterance_id": "BE22009262.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 사춘기가 빨리 온 거 아닐까? 요즘 애들은 사춘기가 빠르대.",
+            "utterance_id": "BE22009262.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수도 있겠다. 미처 그 생각을 못 했네. 단순히 공부 스트레스인 줄만 알았는데.",
+            "utterance_id": "BE22009262.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제 사춘기 아이 심리에 대해 알아보고 대처 방법을 찾아보면 좋을 거 같아. 아이도 자기 자신을 어떻게 할 줄 몰라서 좋지 않은 음식에 집착하는지도 몰라.",
+            "utterance_id": "BE22009262.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야겠어. 너무 슬펐는데 이제 희망을 갖고 다시 해봐야 했다는 생각이 들어.",
+            "utterance_id": "BE22009262.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이다. 네가 진심으로 아이를 대하면 아이도 그 마음을 알게 될 거야.",
+            "utterance_id": "BE22009262.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "너의 조언이 도움이 됐어. 이제 슬픈 마음이 사라졌어. 아이를 진심으로 대해볼게.",
+            "utterance_id": "BE22009262.15"
+        }
+    ]
+}

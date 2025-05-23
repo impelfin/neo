@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009937",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009937",
+        "relation": "친구",
+        "situation": "결혼을 하고 싶지만 능력이 되지 않는다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "직장 생활 시작하고 지금까지 열심히 살아온 거 같은데, 그동안 뭘 했나 싶어.",
+            "utterance_id": "BE22009937.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "늘 씩씩한 네가 갑자기 무슨 일이니?",
+            "utterance_id": "BE22009937.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 연애를 오래 했잖아. 여자 친구는 결혼하고 싶어 하고, 나도 마찬가지인데 막상 준비된 게 없어서 결혼을 하자니 그저 불안하기만 해.",
+            "utterance_id": "BE22009937.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 결혼이라는 중요한 미래를 생각하면 좋기도 하겠지만, 당연히 불안한 마음이 커질 것 같아. 자신이 준비된 것보다 부족한 게 더 많이 보이기도 할 거 같아.",
+            "utterance_id": "BE22009937.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 너무 결혼해서 함께하고 싶은데, 너도 알다시피 모은 돈도 얼마 없잖아. 내가 능력 미달인 거 같아, 점점 더 불안한 마음이 커지네.",
+            "utterance_id": "BE22009937.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금처럼, 앞으로 열심히 일해도 결혼할 조건이 갖춰지지 않을 것 같아 불안한 거야?",
+            "utterance_id": "BE22009937.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 나 직장 생활 시작하고 하루도 쉬지 않고 일만 했잖아. 근데, 왜 아직도 결혼할 형편이 안 되는데, 앞으로 더 나아질 보장이 있을까.",
+            "utterance_id": "BE22009937.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 네 능력이라면 충분히 나아질 거라고 생각해. 지나온 시간보다, 앞으로의 시간이 훨씬 많고 너는 충분히 그럴 능력을 갖춘 사람이야.",
+            "utterance_id": "BE22009937.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당장 결혼을 하자니, 나 자신이 작게 느껴지고 초조하기만 했거든. 앞으로는 좀 달라질 수 있을까.",
+            "utterance_id": "BE22009937.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 또래 친구들 중에 결혼할 준비가 잘 갖춰진 사람, 사실 별로 없어. 결코 너만 겪는 특별한 감정은 아니야. 그래도 안정적인 직장 생활하는 네가 가장 능력 있다고 나는 생각해.",
+            "utterance_id": "BE22009937.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아. 다들 결혼 앞두면 비슷한 감정에 빠지는 걸까. 네 말처럼 꼬박꼬박 월급 들어오는 직장이 있으니, 내가 노력하면 변화가 생기겠지?",
+            "utterance_id": "BE22009937.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 지금까지도 잘해 왔으니, 더 큰 기회와 보상이 올 거라고 믿어. 당장은 결혼이라는 큰일 앞에 초조했겠지만, 너는 한 번도 낙오된 적 없이 앞으로만 전진하며 살아왔잖아. 네가 지금까지 걸어온 시간이 너의 빛나는 미래를 만들어줄 거라고 믿어.",
+            "utterance_id": "BE22009937.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "결혼을 빨리하고 싶은 초조한 마음에 시야를 좁게 두었던 거 같구나. 네 말처럼, 열심히 살아온 자체가 내 능력인데 말이야. 덕분에 마음이 많이 정리가 된다.",
+            "utterance_id": "BE22009937.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 차분히 결혼 계획을 세워보면, 분명 어렵지 않게 해결책이 너에게도 보일 거야. 우선, 무엇보다 너 자신의 의지와 힘을 믿으면 다 될 거 같은데!",
+            "utterance_id": "BE22009937.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "내게 자신감을 심어줘서 정말 고맙다. 괜히 회의적으로 나를 돌아본 게 좀 부끄러워진다. 고마워!",
+            "utterance_id": "BE22009937.15"
+        }
+    ]
+}

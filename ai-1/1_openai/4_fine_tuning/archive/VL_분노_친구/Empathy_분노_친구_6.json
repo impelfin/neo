@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009334",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009334",
+        "relation": "친구",
+        "situation": "놀이공원 내 아이들과 도시락을 먹을 수 있는 장소를 찾고 있다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 놀이공원은 전부 레스토랑밖에 없고, 도시락 먹을 곳이 마땅찮네. 도시락 싸온 사람들은 어떡하라는 거야? 정말 짜증 난다.",
+            "utterance_id": "BE22009334.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "놀이공원에 놀러 갔구나? 가족끼리 간 거니?",
+            "utterance_id": "BE22009334.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 남편은 바빠서 나만 아이들을 데리고 왔어. 그런데 도시락 먹을 장소를 아무리 찾아도 놀이공원 내에 그런 곳은 잘 안 보여. 답답하고 화가 나 죽겠어.",
+            "utterance_id": "BE22009334.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "더운데 무척 고생하고 있는 것 같아 걱정된다. 요즘은 놀이공원뿐만 아니라 웬만한 곳에서는 외부 음식을 먹을 수 있는 공간이 부족하더라. 찾기가 어려울 수도 있겠는데?",
+            "utterance_id": "BE22009334.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 말이야. 몇 바퀴째 돌고 있는데 너무 짜증 나고 열받아.",
+            "utterance_id": "BE22009334.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이들 데리고 움직이는 게 너무 힘들 것 같아. 네가 혼자서 길도 찾고, 아이들도 통솔해야 하니까 고생이 많겠다.",
+            "utterance_id": "BE22009334.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 무슨 정신으로 돌아다니고 있는지도 모르겠어. 다리가 아파서 밥 먹으면서 좀 쉬고 싶은데. 너무 짜증 나서 그냥 확 집에 가 버리고 싶다니까.",
+            "utterance_id": "BE22009334.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 얼마나 고생하는지 여기까지 느껴져서 나까지 마음이 아프다. 놀러 가서 그렇게 스트레스를 받으면 너처럼 몸도 마음도 지치는 것이 당연해. 어서 아이들과 자리 잡고 앉아서 함께 좋은 시간 보낼 수 있으면 좋을 텐데.",
+            "utterance_id": "BE22009334.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 내 마음을 달래 주어서 고마워. 지금 어디가 됐든 앉기만 하면 기분이 좋아질 텐데, 찾기가 정말 쉽지 않다.",
+            "utterance_id": "BE22009334.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 지금 얼마나 정신없고 스트레스받을지 눈에 훤하다. 어린아이들 데리고 힘들어하고 있을 너를 상상만 해도 안쓰러운 기분이 들어. 많이 힘들고 지치겠지만 안내 데스크를 살펴보면서 좋은 자리를 찾아보는 게 좋을 듯해.",
+            "utterance_id": "BE22009334.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야겠어. 오늘 안에 도시락 먹을 수 있겠지? 그냥 레스토랑을 들어가야 하나 고민 중이야.",
+            "utterance_id": "BE22009334.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 네가 아이들이랑 소풍 가는 기분을 내려고 새벽부터 수고한 마음이 아쉽잖아. 네가 아이들 먹이려고 얼마나 노력하면서 음식을 만들었을지 눈에 훤한데, 못 먹는다면 속상할 것 같아. 한 번만 더 찾아보는 것도 좋을 것 같아.",
+            "utterance_id": "BE22009334.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 내 수고를 알아줘서 고마워. 너랑 이야기하니까 그래도 기분이 좀 풀리는 것 같아.",
+            "utterance_id": "BE22009334.13"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 다행이다. 좋은 자리 찾아서 꼭 맛있게 먹길 바랄게. 오늘 너무 고생하는 것 같은데, 네가 고생한 만큼 아이들에겐 좋은 추억이 될 거야.",
+            "utterance_id": "BE22009334.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇게 생각하면 이 수고도 좀 버틸 수 있는 것 같아. 정말 고마워. 너랑 이야기하기 잘했어.",
+            "utterance_id": "BE22009334.15"
+        }
+    ]
+}

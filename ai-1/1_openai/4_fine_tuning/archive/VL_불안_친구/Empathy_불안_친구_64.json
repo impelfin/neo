@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009910",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009910",
+        "relation": "친구",
+        "situation": "퇴근하면 말 한 마디를 안 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 오늘도 퇴근하고 나서 말 한마디를 안 하네. 옛날에는 무슨 일이 있었는지 조잘조잘 이야기했었는데. 무슨 일이 있는 건 아닌지 걱정돼.",
+            "utterance_id": "BE22009910.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 원래부터 과묵했던 애면 몰라도 원래 이야기를 잘하던 애가 조용하면 엄청 불안하겠네. 나 같아도 밖에서 힘든 일이 있었는지, 내가 말실수라도 했는지 너무 걱정스러울 것 같은데?",
+            "utterance_id": "BE22009910.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 얼마 전에는 퇴근하고 나서 저녁도 안 먹고 방으로 들어가는 거야. 방문을 닫고 뭘 하는지, 너무 불안한 거 있지. 애가 나쁜 생각이라도 하는지, 너무 걱정돼서 밤에 잠도 안 와.",
+            "utterance_id": "BE22009910.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "온종일 일하느라 힘들었을 텐데, 밥은 꼭 든든하게 먹이고 싶은 게 엄마 마음이지. 그런데 밥도 거르고 방에만 있었다니, 엄마로서 너무 걱정됐겠다. 말이라도 해주면 참 좋을 텐데.",
+            "utterance_id": "BE22009910.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 성인이라지만 아직 내 눈에는 아기 같은데, 누가 상처 줘서 저러는지 너무 걱정돼. 내일은 딸이 좋아하는 갈비찜 해놓고 물어보려고 하는데, 정말 큰일이 있었을까 봐 불안하기도 해.",
+            "utterance_id": "BE22009910.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마나 똑 부러지는데, 그런 일 없을 거야. 그리고 설사 있다고 하더라도 우리가 성심성의껏 도우면 되지!",
+            "utterance_id": "BE22009910.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠지? 가장 큰 걱정은 내일도 딸이 나한테 한마디도 안 하는 거야. 그러면 정말 억장이 무너질 것만 같은데.",
+            "utterance_id": "BE22009910.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 딸 걱정을 얼마나 하는지 나조차 다 아는데, 아마 딸도 네 마음 알 거야. 다만 부모님 걱정하실까 봐 말씀을 못 드린 거지. 효녀잖아. 네 마음을 진솔하게 전한다면, 분명 딸도 마음을 열고 말해줄 거야.",
+            "utterance_id": "BE22009910.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬으면 정말 좋겠다. 요새 딸 걱정에 사는 게 사는 게 아니었어. 내 딸이 워낙 배려심이 깊으니까, 날 위해 말을 아낀 거겠지.",
+            "utterance_id": "BE22009910.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자식 키우기 힘들다, 힘들어. 사랑하는 만큼, 사소한 일에도 덜컥하는 게 어쩔 수 없는 엄마 마음 같아.",
+            "utterance_id": "BE22009910.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 자식이 다 커서 회사에 가면 걱정할 일이 없을 줄로만 알았는데. 어째 자식 걱정은 끝이 없냐.",
+            "utterance_id": "BE22009910.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "인생이 그렇지 뭐. 자식이 마흔 살이 되어도 퇴근하고 말 한마디 없으면 어디 아픈지, 무슨 일 있는지 걱정될걸? 자식들도 우리의 이런 마음을 알아주면 좋으련만.",
+            "utterance_id": "BE22009910.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래도 네 덕분에 마음이 좀 진정됐어. 아까는 너무 불안했거든. 이제 내일 딸 오면 내가 먼저 말을 걸어봐야지.",
+            "utterance_id": "BE22009910.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "도움이 되었다니 다행이다. 나는 같은 엄마로서 네 맘 이해하니까, 언제든 연락해!",
+            "utterance_id": "BE22009910.14"
+        }
+    ]
+}

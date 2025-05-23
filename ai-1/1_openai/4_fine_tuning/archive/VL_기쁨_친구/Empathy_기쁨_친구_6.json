@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008963",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008963",
+        "relation": "친구",
+        "situation": "선배가 밥을 사줘서 답례하고 싶다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와. 나 오늘 점심 진짜 끝내주게 먹었다.",
+            "utterance_id": "BE22008963.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오, 엄청나게 만족스러운 식사였나 본데?",
+            "utterance_id": "BE22008963.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 선배가 레스토랑에서 밥을 사줬거든 진짜 비싼밥이어서 엄청 잘 먹었어. 배불러서 기분이 너무 좋아. 답례를 하고 싶어!",
+            "utterance_id": "BE22008963.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "크, 받기만 하지 않고 받은 만큼 돌려주려는 내 친구의 훌륭한 인성! 너무 기특하고 대견한데?",
+            "utterance_id": "BE22008963.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 알잖아. 내가 받은 만큼 꼭 돌려줘야 하는 거! 아무튼 너무 기쁘고 만족스러운 식사였어. 답례로 끝내주는 맛집 같이 갈 생각하니까 지금 설렌다.",
+            "utterance_id": "BE22008963.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 받은 만큼 돌려줄 때에 기분이 또 엄청 만족스럽고 좋잖아. 네가 지금 기분이 얼마나 좋은지 알만하다.",
+            "utterance_id": "BE22008963.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 지금 기분 진짜 최고야. 선배가 내가 답례로 데려간 맛집 가서 좋아할 생각하니까 나도 너무 기쁜 거 있지? 이런 소소한 행복 너무 좋아.",
+            "utterance_id": "BE22008963.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 소소한 일에서 행복을 느끼는 네 긍정적인 성격은 정말 멋진 거 같아. 항상 본받아야겠다는 생각이 들어.",
+            "utterance_id": "BE22008963.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어우야, 선배 답례로 어디 맛집 갈지 물어보려다가 내가 칭찬을 엄청 받네. 근데 기분이 너무 좋아지는걸?",
+            "utterance_id": "BE22008963.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 칭찬받을 만하니까 하지. 네가 그렇게 좋은 사람이라서 선배 같은 좋은 사람이 넘치나 보다!",
+            "utterance_id": "BE22008963.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그리고 네 곁에 항상 있어 주는 너도 정말 최고의 친구지! 아무튼 칭찬 릴레이 그만하고. 맛집 어디로 가는 게 좋을까?",
+            "utterance_id": "BE22008963.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "칭찬 릴레이만큼 신나고 재밌는 일이 또 어딨니? 맛집은 내가 리스트 찾아 놓은 거 보내줄게. 나 맛집 블로거인 거 까먹었나보다?",
+            "utterance_id": "BE22008963.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와 맞다! 너 덕분에 선배한테 최고의 답례를 할 수 있겠다. 지금 진짜 기분 날아갈 거 같네. 리스트 얼른 보내줘!",
+            "utterance_id": "BE22008963.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "방금 보냈어. 내 리스트가 네게 도움이 되는 거 같아서 나도 흡족하고 기분이 좋다.",
+            "utterance_id": "BE22008963.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "서로가 기분이 좋아지는 문자였네! 리스트 고마워. 이 답례를 또 해야지. 내일 시간 비워. 밥 사줄게.",
+            "utterance_id": "BE22008963.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나 지금 진짜 신나서 춤추는 중이야. 내일 시간 무조건 비울게.",
+            "utterance_id": "BE22008963.16"
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009808",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009808",
+        "relation": "친구",
+        "situation": "남편이 수염을 잘 깎지 않는다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 남편은 수염을 잘 깎지 않아. 결혼하기 전에는 깔끔하게 면도한 모습만 보였는데, 결혼하고 나니 다른 사람이 된 것만 같아. 결혼 후 청결한 모습을 포기한 남편을 보니, 속이 부글부글 끓어.",
+            "utterance_id": "BE22009808.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알던 것과는 전혀 다르게 청결하지 못한 남편의 모습을 보면 속은 기분이겠다. 또 너한테 더 이상 잘 보이려는 마음이 없나 싶어 화가 나는구나?",
+            "utterance_id": "BE22009808.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 맞아. 이제 내가 너무 편해져서 여자로 보이지 않나 싶기도 하고. 수염이 듬성듬성 지저분하게 난 모습을 보면 내가 알던 그 사람이 맞나 싶어 열받아.",
+            "utterance_id": "BE22009808.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "결혼 후 내가 좋아했던 모습이 사라진다면 얼마나 속상할지 상상도 안 가. 사회생활을 할 때 예의상 면도를 하듯이 너를 대할 때도 그렇게 대해줬으면 하는 거잖아. 너에 대한 남편의 태도와 마음이 변한 것 같아 더 화가 날 것 같아.",
+            "utterance_id": "BE22009808.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그래서 먼저 면도를 해달라고 말하는 게 눈물 나게 자존심 상하기도 해. 마치 나를 다시 여자로 봐달라고 말하는 것 같기도 하잖아.",
+            "utterance_id": "BE22009808.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음 충분히 이해 가. 하지만 남편은 너를 사랑해서 결혼한 사람이고, 너는 그의 가장 사적인 바운더리 안에 든 사람이잖아. 남편이 남편의 그런 모습까지 네가 이해해주고 사랑해줄 거라 생각해서 그렇게 행동했다 생각해보면 도움이 되지 않을까?",
+            "utterance_id": "BE22009808.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남편이 남편의 그런 모습까지 내가 사랑해줄 거라고 생각했다고? 그렇게 생각할 수도 있겠다. 확실히 그렇게 생각하면 남편의 마음도 이해가 가.",
+            "utterance_id": "BE22009808.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 한집에서 같이 사니까 어떤 형태로든 편한 모습을 보일 수밖에 없지. 그게 수염이었을 뿐이라고 생각하면 어때? 남편은 사실 별로 의식하지 못하고 있을 수도 있어.",
+            "utterance_id": "BE22009808.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 내가 의식하지 못하는 편한 모습이 드러났을 수도 있겠네. 남편과 관련해서 이야기를 해봐야겠어.",
+            "utterance_id": "BE22009808.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래그래. 어떻게 서로 전혀 다른 두 세상에서 살던 사람끼리 결혼했는데 오해가 없겠니. 남편은 여전히 너를 사랑할 거고, 네 마음을 이해해 줄 거야. 어쩌면 타협해 볼 수도 있을 거고.",
+            "utterance_id": "BE22009808.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워. 덕분에 마음이 편해졌어. 결혼 후 남편의 모습이 급작스럽게 달라지니 내가 너무 불안했었나 봐. 그게 배신감에 분노로 표출된 거고.",
+            "utterance_id": "BE22009808.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "결혼이라는 게 참 쉽지 않은 것 같아. 서로의 세상을 끌어오는 일이잖아. 달라진 남편의 모습에 네가 불안한 것도 당연해.",
+            "utterance_id": "BE22009808.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무작정 남편의 마음을 의심했던 내가 부끄러워지는걸. 오늘 남편이 돌아오면 남편이 좋아하는 맥주 한잔 하면서 이야기해보려고.",
+            "utterance_id": "BE22009808.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래 분명 이야기 잘될 거야. 너무 걱정 말고, 힘내!",
+            "utterance_id": "BE22009808.14"
+        }
+    ]
+}

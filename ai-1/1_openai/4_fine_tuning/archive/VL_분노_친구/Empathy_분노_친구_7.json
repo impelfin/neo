@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009336",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009336",
+        "relation": "친구",
+        "situation": "스페인 호텔에서 배드 버그에 물렸다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 일정은 제대로 보내기 어렵겠어. 이런 호텔은 처음 겪어봐, 어렵게 온 스페인 여행인데 너무 화가 나.",
+            "utterance_id": "BE22009336.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 잘 도착했나 물어볼 참이었는데, 첫날 밤부터 무슨 일이 있었어?",
+            "utterance_id": "BE22009336.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "스페인 호텔에서 배드 버그에 물렸어. 점점 부풀어 오르는 모양이 곧 수포가 생길 것 같네. 이런 일 피하려고 비싼 호텔 예약한 건데, 첫날부터 이게 무슨 날벼락인지.",
+            "utterance_id": "BE22009336.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "예전에 유럽에서 그 벌레에 물려 고생이 많았잖아. 그 기억도 떠오르고 첫날부터 네 기분이 많이 상했겠다.",
+            "utterance_id": "BE22009336.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 그날의 악몽이 떠오르는 듯해서 끔찍해. 몸도 가렵고 너무 짜증이 솟구쳐서 관광지에 갈 생각이 들지 않아.",
+            "utterance_id": "BE22009336.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "첫날이라 많이 들뜬 마음일 텐데 가려움이 심하니 의욕이 꺾여버렸구나. 네가 혼자 타지에서 그런 상황을 겪게 되니 나도 너무 안타깝다.",
+            "utterance_id": "BE22009336.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 분해서 호텔 측에 항의를 했어. 분명 알아듣게 말했는데 모른체해서 더 언짢았어.",
+            "utterance_id": "BE22009336.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 상황을 바꿔보고자 노력했는데, 말이 안 통하니 얼마나 답답하고 힘들었니.",
+            "utterance_id": "BE22009336.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "급한 대로 약을 사서 바르긴 했지만, 처음부터 어긋나버린 느낌이라 맥이 빠져버렸어. 처음부터 너무 안 좋은 일을 겪어, 스페인과 내가 안 맞는 건가 싶어.",
+            "utterance_id": "BE22009336.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기운이 탁 빠지는 것도 이해 가지만, 여행하면서 겪을 불행을 미리 겪었다고 생각하면 어때? 액땜했으니 남은 기간 동안 즐거운 추억만 남을 거야.",
+            "utterance_id": "BE22009336.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말을 듣고 보니 다른 큰 사건 사고보다 이게 나을지도 모르겠다. 적어도 경험 해봤기에 배드 버그에 물렸을 때 해결 방법은 알고 있으니까.",
+            "utterance_id": "BE22009336.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 그렇게 생각하니 기분이 오히려 낫지? 소중한 휴식 시간인데 최대한 즐겨야지. 부정적인 감정에 낭비하기엔 1분 1초도 아깝잖아.",
+            "utterance_id": "BE22009336.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 내가 또 언제 스페인에서 휴가를 보내겠어. 네 말을 듣다 보니까 기분이 한결 나아졌어. 배도 고프고 찾아둔 식당에 가보려고 해.",
+            "utterance_id": "BE22009336.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "맛있는 식사를 하고 나면 더 기운이 날 거야! 즐거운 식사 시간을 보냈으면 좋겠다.",
+            "utterance_id": "BE22009336.14"
+        }
+    ]
+}

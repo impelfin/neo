@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009706",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009706",
+        "relation": "친구",
+        "situation": "성격이 정반대인 사람과 연애중이다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 정말로 몇 시간을 싸웠는지 모르겠어. 내 남자 친구는 도대체 왜 이렇게 나랑 다른 걸까? 사고방식을 넘어서 결 자체가 다른 사람인가 봐.",
+            "utterance_id": "BE22009706.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 남자 친구랑 또 싸웠어? 의견 차이 있을 때마다 네가 많이 힘들어했었던 거 기억나. 의견이 좁혀지지 않으니까 감정이 격해질 때가 많다고 했었잖아.",
+            "utterance_id": "BE22009706.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사소한 게 안 맞는 게 사실은 안 사소한 것이었던 거지. 내가 이 사람을 좋아해서 서로의 차이를 눈 질끈 감고 넘겨 버린 것 같아.",
+            "utterance_id": "BE22009706.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "서로 잘 맞지 않아서 많이 힘들었겠구나. 좋아하는 마음이 있기 때문에 서로가 이해되지 않는 순간에 더 네 마음이 아팠을 것 같아.",
+            "utterance_id": "BE22009706.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "같이 이야기하다 보면 내가 이해받지 못하는 순간이 오잖아. 그럴 때 내가 이 사람을 사랑하는 만큼 마음이 쿵 하고 나락으로 떨어지는 기분이야.",
+            "utterance_id": "BE22009706.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생각만 해도 마음이 찢어지네. 너도 남자 친구도 무척 힘들겠다. 그래도 서로 사랑하는 만큼 상대방의 입장에서 양보해 보면 조금은 덜 힘들지 않을까?",
+            "utterance_id": "BE22009706.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이미 그렇게도 노력해 봤지. 하지만 상대방이 잘못하거나 틀린 게 아니라 다른 거면 합의점을 찾기가 힘들더라고. 그 사람은 살아오면서 그 방식이 옳다고 생각하고 익숙하게 살아온 사람이라서 내 생각을 이해하지 못하더라.",
+            "utterance_id": "BE22009706.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 때를 두고 정말 정답 없는 문제라고 하는 것 같아. 뫼비우스의 띠처럼 아무리 대화를 이어가 보아도 다시 그 자리로 돌아오는 그 느낌. 얼마나 힘들지가 눈에 선하다.",
+            "utterance_id": "BE22009706.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 서로 더 잘 맞는 사람을 만나면 그 친구도 나도 덜 힘들 거 같아. 사랑하는데 서로가 사사건건 부딪친다면 정말 슬프지 않겠어?",
+            "utterance_id": "BE22009706.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 현실 연인의 고민이다. 결이 다른 사람과 함께하느라 너도 네 남자 친구도 그동안 고생이 많았지? 그동안 힘들었던 시간은 뒤로하고 앞으로 어떻게 잘 지낼 수 있을지 생각해보자.",
+            "utterance_id": "BE22009706.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 이 관계를 어떻게 이어가야 할지 고민이야. 헤어지는 건 정말 꿈에도 생각하기 싫거든. 근데 가끔 벽과 대화하는 것 같은 답답함을 느낄 땐 다 포기하고 싶어.",
+            "utterance_id": "BE22009706.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하루에도 천국과 지옥을 오가는 그런 기분일 것 같아. 그래도 너무 비슷한 사람이면 오히려 더 많이 부딪치게 되는 경우도 있잖아. 서로의 다름을 장점으로 생각하고 적절한 거리를 두는 방법이라든지, 둘만의 방식을 찾아가 보는 건 어떨까?",
+            "utterance_id": "BE22009706.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 어른의 연예인 걸까? 아무나 할 수는 없는 사랑인 것 같아서 내가 과연 해낼 수 있을지 모르겠다. 그래도 서로를 나에게 맞추기보다는 차이를 오히려 존중하는 그런 연애, 이 친구랑은 해보고 싶긴 해.",
+            "utterance_id": "BE22009706.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "쉽지 않겠지만 서로가 얼마나 사랑하는지 나는 둘의 모습을 보면서 많이 느꼈거든. 그래서 잘 헤쳐 나갔으면 하는 마음이 있어.",
+            "utterance_id": "BE22009706.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래, 고맙다, 친구야. 나에게 힘을 줘! 하다가 너무 답답하거니 힘들 때 또 연락해도 되지?",
+            "utterance_id": "BE22009706.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그럼, 나는 언제나 너희 커플을 응원해. 힘내!",
+            "utterance_id": "BE22009706.16"
+        }
+    ]
+}

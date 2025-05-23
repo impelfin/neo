@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009831",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009831",
+        "relation": "친구",
+        "situation": "밀려 들어오는 사람들로 인해 내려야 할 역을 지나쳤다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 오늘 지하철을 탔는데 사람들이 밀려 들어와서 내려야 할 역을 지나쳤어.",
+            "utterance_id": "BE22009831.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떡해. 그래서 다음 역에서 내려서 다시 갈아탔어? 너 힘들었겠다.",
+            "utterance_id": "BE22009831.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 근데 다시 돌아가는 데도 시간이 오래 걸려서 결국 시험 시간에 늦어버렸어. 그래서 너무 화가 나.",
+            "utterance_id": "BE22009831.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 화났겠다. 너 그 시험 진짜 열심히 준비했잖아. 나였어도 제대로 출발했는데 그런 일로 늦게 되었다면 정말 화났을 거야.",
+            "utterance_id": "BE22009831.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 진짜 왜 이렇게 사람들이 억지로 밀면서 지하철에 들어오는 거지? 나가야 할 사람들은 생각도 안 하는 건가? 진짜 어이없어.",
+            "utterance_id": "BE22009831.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그분들도 조금이라도 일찍 출근해야 한다는 생각에 그러신 게 아닐까? 아마 네가 내리려고 하는 걸 보지 못하셔서 그러셨다고 생각하면 마음이 좀 나아지지 않을까? 그래도 시험 시간에 늦어서 무척 속상했겠다.",
+            "utterance_id": "BE22009831.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 심지어 이번에 시험 문제가 어려워서 시험 시간도 부족했단 말이야. 원래대로 도착했으면 더 시간이 많이 있었을 텐데 다 못 풀고 나와서 너무 속상하고 화나.",
+            "utterance_id": "BE22009831.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 사람들보다 풀 수 있는 시간이 줄면 당연히 화나지. 그래도 너 열심히 공부했잖아. 그러니까 남들보다 짧은 시간이었어도 잘 풀었을 거야. 걱정하지 마.",
+            "utterance_id": "BE22009831.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 그랬으면 좋겠다. 다음 시험 때 또 이런 일이 일어나지 않겠지?",
+            "utterance_id": "BE22009831.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 습득하는 능력과 준비성이 좋아서 한 번 습득한 경험에 대해서는 잘 대처하잖아. 혹시 다음번에 비슷한 상황이 생기더라도 너는 오늘 겪었던 경험을 바탕으로 잘 헤쳐 나갈 거야. 너무 걱정하지 마.",
+            "utterance_id": "BE22009831.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 오늘 경험을 잊지 말고 다음번에는 더 잘 대처해보도록 하겠어. 늦게 들어온 거에 대해서 이유는 교수님께 말씀 못 드렸는데 그건 괜찮을까?",
+            "utterance_id": "BE22009831.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 안 그래도 오늘 시위 때문에 지하철이 연착된다고 해서 교수님이 늦는 건 이해해주신다고 했어! 혹시 걱정된다면 말씀드려봐! 교수님도 아마 이해해주실 거야.",
+            "utterance_id": "BE22009831.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그러면 한번 얘기해봐야겠다. 덕분에 기분이 많이 괜찮아진 것 같아. 고민 상담해주는 게 쉬운 일도 아닌데, 정말 고마워.",
+            "utterance_id": "BE22009831.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "기분이 좋아졌다니 다행이야. 시험 결과도 좋길 바랄게.",
+            "utterance_id": "BE22009831.14"
+        }
+    ]
+}

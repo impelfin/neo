@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009815",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009815",
+        "relation": "친구",
+        "situation": "팔자주름 때문에 필러 시술을 받았다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 팔자주름 때문에 필러 시술을 받았거든. 근데 지금 입이 제대로 안 움직이는 것 같아. 어떡하지?",
+            "utterance_id": "BE22009815.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언제 받은 건데? 갑자기 네 맘대로 입이 안 움직이면 많이 불편하고 걱정되긴 하겠다.",
+            "utterance_id": "BE22009815.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제저녁에 받았어. 근데 보기에 너무 많이 붓고 웃을 때도 입 근육이 원하는 대로 움직이지 않아서 무서워. 이대로 계속 이 상태이면 어떡하지 하는 걱정 때문에 불안해.",
+            "utterance_id": "BE22009815.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음 겪는 상황이니까 충분히 불안할 수 있을 것 같아. 나였어도 갑자기 잘 움직이던 내 몸의 일부분이 잘 움직이지 않으면 불안했을 거야. 갑자기 얼굴도 확 부으니까 정말 놀랐겠다.",
+            "utterance_id": "BE22009815.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 진짜 내가 보기에는 너무 심각하게 부어서 이게 원하는 대로 될지 너무 걱정돼. 괜히 했다는 후회도 들고 너무 무서워.",
+            "utterance_id": "BE22009815.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음 생긴 상황이라서 정말 많이 놀랐을 것 같은데 마음을 좀 차분히 하는 거 어떨까? 의사 선생님께서 얘기해주신 상황이라면 지시를 따르면서 마음을 편안히 가지면 금방 괜찮아질 거야. 너무 걱정하지 마.",
+            "utterance_id": "BE22009815.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 의사 선생님께서 붓기가 있을 수 있는데 점차 나아질 거라고 하긴 하셨어. 그래서 나도 마음을 다잡고 있긴 했었는데 예상보다 심해서 지금 너무 놀란 거야.",
+            "utterance_id": "BE22009815.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 의사 선생님의 말씀대로 시간이 지나면 괜찮아질 거야. 처음 해보는 거라서 당연히 두려울 수 있지만 너무 두려워하지 마. 내 친구도 필러 맞았을 때 시간 지나고 괜찮아진 걸 보면 너도 분명히 괜찮아질 거야.",
+            "utterance_id": "BE22009815.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그렇겠지? 제발 그랬으면 좋겠다. 그래서 어제오늘 이틀 동안 밥 먹는 것도 조금 불편하거든.",
+            "utterance_id": "BE22009815.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 밥 먹을 때 불편하면 제일 힘든데 너 지금 정말 힘들겠네. 이것저것 걱정되는 마음 이해하는데, 큰일 없을 거야. 문제가 있었으면 병원에서 알려줬을 거라 생각해.",
+            "utterance_id": "BE22009815.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞는 말이야. 안 그래도 이틀 동안 밥도 제대로 못 먹어서 기운도 없었거든. 마음을 좀 놓고 있는 게 낫겠지?",
+            "utterance_id": "BE22009815.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 그리고 너무 걱정되면 나랑 같이 병원 가서 의사 선생님께 한 번 더 여쭤보자. 혼자서 끙끙 앓고 있는 것보다는 전문가에게 직접 물어보는 게 마음이 더 편할 거야!",
+            "utterance_id": "BE22009815.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그러면 나야 고맙지! 이렇게 고민도 들어주고 같이 해결도 해주러 간다고 말해줘서 정말 감동이야. 쉽지 않은 일인데 정말 고마워.",
+            "utterance_id": "BE22009815.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너에게 도움이 되었다면 나는 그걸로 만족해. 괜찮아질 테니까 너무 걱정하지 말고.",
+            "utterance_id": "BE22009815.14"
+        }
+    ]
+}

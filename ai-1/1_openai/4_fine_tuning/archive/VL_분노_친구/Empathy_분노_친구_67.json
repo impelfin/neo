@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009865",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009865",
+        "relation": "친구",
+        "situation": "맵고 짜고 자극적인 음식을 자주 먹는다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 어젯밤에도 매운 떡볶이를 배달시켜 먹었어.",
+            "utterance_id": "BE22009865.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너희 동네 맛집 말하는 거지? 거기 맛있다고 몇 번 얘기했었잖아. 모처럼 맛있게 먹었어?",
+            "utterance_id": "BE22009865.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "떡볶이는 맛있었는데 요즘 자꾸 매운 것만 찾는 것 같아. 먹을 땐 좋은데, 다음 날 속이 아프고 더부룩해. 잘 먹고서 화가 나니까 답답하기만 해.",
+            "utterance_id": "BE22009865.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 자꾸 화장실에 간다고 하더니 속이 나빴던 거구나. 나도 자극적인 음식을 먹으면 속이 아프더라고. 특히 여름철에는 말이야.",
+            "utterance_id": "BE22009865.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음식을 조절하려고 해도 스트레스를 받으면 자꾸 자극적인 음식을 찾게 돼. 화가 나는 걸 주체할 수가 없어.",
+            "utterance_id": "BE22009865.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람마다 각자의 스트레스 해결 방식이 다른 거 아닐까? 나는 네가 매운 음식을 먹고 기분이 풀렸다면 그것도 좋은 거라 생각해.",
+            "utterance_id": "BE22009865.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기분이 나아지는 건 아주 잠깐이고 속은 온종일 아파서 자꾸만 내 탓을 하게 돼.",
+            "utterance_id": "BE22009865.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "모처럼 기분 풀기 위해 먹은 것일 텐데 속이 아팠다니 너무 속상했겠다. 하지만 너는 반드시 좋은 방향으로 갈 수 있는 사람이니 너무 걱정하지 않았으면 좋겠어.",
+            "utterance_id": "BE22009865.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 과연 좋은 방향이 뭔지 알고는 있는 걸까?",
+            "utterance_id": "BE22009865.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 늘 사람들에게 공감해주고 좋은 말을 먼저 건넬 줄 아는 사람이잖아. 나는 그런 너와 친구여서 행복할 때가 참 많아.",
+            "utterance_id": "BE22009865.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 자극적인 음식만 찾는 내가 한심하게 느껴지곤 했거든.",
+            "utterance_id": "BE22009865.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 절대 한심한 사람이 아니야. 나는 너에게 밝은 에너지와 삶을 긍정하는 태도 그리고 꼼꼼한 성격까지 많이 배우는걸.",
+            "utterance_id": "BE22009865.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "이제는 매운 음식이 아닌 나를 들여다보는 데 시간을 보내야겠어. 나와 얘기해줘서 고마워.",
+            "utterance_id": "BE22009865.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나도 너와 대화하면서 나의 마음을 들여다볼 수 있게 되었어. 우리 내일부터는 속도 마음도 편한 일상을 다시 보내보자!",
+            "utterance_id": "BE22009865.14"
+        }
+    ]
+}

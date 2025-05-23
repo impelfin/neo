@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009857",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009857",
+        "relation": "친구",
+        "situation": "참 오랜만에 손글씨 엽서를 받았다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "실습은 잘 되어가고 있어? 나는 오늘 끝났는데 시간이 정말 눈 깜빡할 사이에 지났네.",
+            "utterance_id": "BE22009857.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제야 적응해서 할 만해졌어. 처음에는 실습 기간 어떻게 버티나 했는데 지금은 너무 빨리 흐른 시간이 아쉬울 지경이네.",
+            "utterance_id": "BE22009857.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 아이들이랑 정들어서 헤어질 생각을 하니까 아쉽지. 근데 오늘 마지막 날이라고 애들이 케이크랑 꽃다발도 준비하고 엽서 써줬거든. 집에 와서 읽어 보는데, 정말 감동적이라 기쁘더라.",
+            "utterance_id": "BE22009857.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너희 반 애들이 깜짝 이벤트를 해줬구나. 생각도 못 하다가 그런 선물을 받았으니 정말 감격스럽고 고마웠겠네. 우리 반 애들이 그랬다고 상상하면 너무 좋아서 입꼬리가 내려오지를 않는걸.",
+            "utterance_id": "BE22009857.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "손글씨 엽서를 받는 게 얼마 만인지 모르겠어. 정말 오랜만에 이런 정성 가득한 선물을 받으니까 마음이 따뜻해지고 벅차오르더라.",
+            "utterance_id": "BE22009857.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘은 거의 디지털 기기로 의사소통하니까, 손글씨 엽서를 받을 일이 흔치 않지. 시간과 정성을 듬뿍 들인 선물이라 네가 기뻐할 만해.",
+            "utterance_id": "BE22009857.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "교생 실습하면서 아이들을 통해 배운 점들도 많은데 이렇게 좋은 추억까지 남겨주다니 정말 고맙지. 우리 반 애들이랑 잘 마무리한 것 같아서 상쾌하고 흐뭇한 기분이야.",
+            "utterance_id": "BE22009857.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 먼저 너희 반 애들에게 개인적인 관심과 애정을 넘치도록 베풀어 준 덕분이지. 감정에 민감한 애들이 네 사랑을 느꼈으니까 이렇게 보답하게 된 걸 거야. 역시 자랑스러운 내 친구라니까.",
+            "utterance_id": "BE22009857.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선생님으로서 당연히 해야 할 일을 했을 뿐인데 이렇게 칭찬해 주니까 부끄럽네.",
+            "utterance_id": "BE22009857.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그냥 단순히 직업으로만 생각하는 사람들도 많잖아. 넌 아이들에 대한 진정한 마음이 기반이 되어 가르친 거잖아. 애들도 다 알고 고마움을 엽서로 표현한 거겠지.",
+            "utterance_id": "BE22009857.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니까 선생님으로서의 자신감이 막 넘치는걸? 애들한테 좋은 기억으로 남았다는 것 자체도 기쁘고 감사한데 너까지 인정해 주니 의욕이 솟구친다.",
+            "utterance_id": "BE22009857.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 훌륭하고 좋은 선생님이 될 거야. 나도 우리 반 애들한테 남은 기간 최선을 다해줘야겠다는 생각이 무럭무럭 드네.",
+            "utterance_id": "BE22009857.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 선생님이 될 수 있으면 더 이상 바랄 게 없지. 지금의 초심을 잃지 않도록 엽서는 앨범 첫 페이지에 꽂아서 소중히 보관해야겠어.",
+            "utterance_id": "BE22009857.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이네. 실습 무사히 잘 끝난 거 축하하고 나도 실습 끝나면 만나서 뒤풀이라도 함께하자.",
+            "utterance_id": "BE22009857.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "아 오늘 정말 행복한 하루여서 기분 좋다. 그래. 너도 마무리 잘하고 끝나면 맛있는 거 먹자.",
+            "utterance_id": "BE22009857.15"
+        }
+    ]
+}

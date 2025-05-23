@@ -1,0 +1,166 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22009536",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009536",
+        "relation": "친구",
+        "situation": "며느리가 제사상을 간단하게 마련했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에 큰며느리한테 시아버지 제사를 맡겼는데, 간단해도 너무 간단하지 뭐야? 성의가 없어도 너무 없는 것 같아 화가 나 야단을 좀 쳤는데, 글쎄 적반하장이야. 꼴도 보기 싫어졌네.",
+            "utterance_id": "BE22009536.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자네가 존경했던 분인 만큼 시아버지 제사를 공들여 지냈었잖아. 그런데 며느리는 자네 마음 같지 않아 시아버지께 죄송스러운 마음이 들었구먼. 그래서 더 화가 나는 게 아니겠어?",
+            "utterance_id": "BE22009536.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자네가 맞네. 그분이 내게 어떤 분인데. 일 년에 고작 한 번 차리는 밥상, 제대로 차려드리고 싶었지. 그런데 우리 며느리는 그렇게 성의 없는 밥상을 차리고도 반성하는 기색 하나 없네그려!",
+            "utterance_id": "BE22009536.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자네가 자네 시아버지를 소중히 여기는 마음 충분히 알겠네. 그러니 평소 어렵게 대하던 귀한 며느리에게 미움받을 각오로 한 소리를 한 거겠지. 그런데 며느리는 자네 마음도 몰라주고, 자네 속이 새까맣게 타들었을 것만 같아 안타깝네.",
+            "utterance_id": "BE22009536.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞네. 나라고 며느리한테 싫은 소리 하는 게 쉬웠겠어? 참고 참다가 이번에는 며느리가 크게 잘못했다 싶어 한 소리 한 건데, 본인이 더 서운하다니. 이제는 꼴도 보기 싫네.",
+            "utterance_id": "BE22009536.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자네 마음 충분히 이해 가. 살아온 배경이 다르니 충돌하는 부분이 많았을 거고, 자네 성격상 쉽게 말하지 못해 답답했겠지. 이번에 자네가 이렇게까지 화가 난 건, 그간의 부정적인 감정들이 마음에 탑처럼 쌓였기 때문이지 않을까?",
+            "utterance_id": "BE22009536.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "생각해보니 자네 말도 맞네. 이번에 그동안 쌓였던 불편한 감정들이 이번 일을 계기로 터진 것 같아. 사실, 몇몇 감정은 바로 말했다면, 며느리가 불편하지 않도록 조심스럽게 말해볼 수 있었겠지.",
+            "utterance_id": "BE22009536.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "때로는 내 안에 임계치까지 감정이 쌓이지. 그 전에 슬기롭게 감정을 털어놓자는 마음을 먹는다면 자네 마음도 훨씬 편해질 것 같아. 물론 모두에게 쉽지 않은 일이지만, 실천만 한다면 평화로워지니, 시도해볼 값어치가 있지 않을까?",
+            "utterance_id": "BE22009536.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알아들었네. 자네 말을 듣고 보니, 지난 감정에 휘둘려 며느리에게 좀 심하게 말했다 싶어. 작정하고 야단치려 들었으니, 며느리는 내 공격적인 어투가 갑작스럽고 무서웠겠지. 그간 쌓였던 감정들을 비우고 며느리에게 내 마음을 조심스럽게 전달하면 될까?",
+            "utterance_id": "BE22009536.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "스스로 해답을 찾다니, 역시 자네네. 사람은 누구나 실수하고, 그 실수를 바탕으로 성장하지. 이번 일을 계기로 자네와 며느리 모두 크게 성장할 수 있을 거야.",
+            "utterance_id": "BE22009536.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정이 좀 가라앉으니, 며느리는 시아버지를 뵌 적이 없다는 생각이 드는구먼. 해서 시아버지에 대한 내 애정이 이해되거나 공감되지 않았을 거라는 생각이 드네. 또 요새 젊은 사람들은 제사상을 간단하게 차리는 게 트렌드라지.",
+            "utterance_id": "BE22009536.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 평소 역지사지의 자세로 친구들의 고민을 들어주는 자네답네. 타인의 입장을 헤아리는 건 쉽지 않은 일인데, 그걸 해내는 자네의 모습이 참 멋지다고 생각했어. 이번 일도 마찬가지로, 지금처럼 며느리를 이해하려고 한다면 지혜롭게 해결할 수 있을 거야.",
+            "utterance_id": "BE22009536.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 순간의 감정에 못 이겨 나 자신을 잃은 것 같아 부끄럽구먼. 잘 해결해보도록 하겠네.",
+            "utterance_id": "BE22009536.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "화가 나면 누구라도 타인의 입장까지 헤아리기 힘들지. 그렇지만 자네는 해냈잖아. 존경스럽네. 그럼 잘 해결되길 바라네!",
+            "utterance_id": "BE22009536.14"
+        }
+    ]
+}

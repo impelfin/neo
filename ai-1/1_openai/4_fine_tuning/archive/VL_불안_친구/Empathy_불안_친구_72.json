@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010006",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010006",
+        "relation": "친구",
+        "situation": "거울을 볼 때마다 웃는 습관을 기르고 있다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 요즘 거울을 볼 때마다 웃는 습관을 기르고 있어.",
+            "utterance_id": "BE22010006.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 이유가 있어?",
+            "utterance_id": "BE22010006.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지난번에 면접을 봤을 때 내 표정이 밝지 않다는 이유로 감점을 받아서 떨어졌거든. 다음번에 있을 면접에서도 같은 평가를 받을까 너무 두려워서 연습하고 있어.",
+            "utterance_id": "BE22010006.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 비슷한 경험이 있어서 너의 불안한 마음이 잘 이해가 가. 또 같은 이유로 실패하게 될까 초조하고 불안함을 느낄 널 생각하니까 나도 마음이 안 좋네.",
+            "utterance_id": "BE22010006.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 사실 나는 내가 표정 변화가 크지 않다는 걸 예전에도 몇 번 들었거든. 그런데도 이번에 이런 얘기를 면접 자리에서 듣게 되니까 더 충격과 불안함이 큰 것 같아.",
+            "utterance_id": "BE22010006.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "인생의 중요한 순간에 그런 얘기를 들으면 사람이 더 불안해지는 게 당연하지. 그래도 거울을 보면서 이렇게 네가 직접 노력하고 있잖아. 표정이 금방 개선되어서 분명히 좋은 결과 얻을 수 있을 거야.",
+            "utterance_id": "BE22010006.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까? 아직 시작한 지 얼마 안 되어서 그런 건지 모르겠는데 빨리 늘지 않는 것 같아서 불안해.",
+            "utterance_id": "BE22010006.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 원래 한 번 감 잡으면 한 번에 확 성장할 수 있는 타입이잖아. 아직 연습 초반이니까 조금만 더 연습하면 감을 찾아서 원하는 지점에 도달할 수 있을 거야. 잘 할 수 있으니까 너무 걱정하지 마.",
+            "utterance_id": "BE22010006.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 나 혼자 연습하다 보니까 객관적으로 평가를 할 수도 없고 외로워서 더 불안했던 것 같아.",
+            "utterance_id": "BE22010006.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 내가 같이 표정 연습하는 거 도와줄까? 거울 보고 표정 연습할 때 내가 옆에서 감독해주면 더 편하지 않을까?",
+            "utterance_id": "BE22010006.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 나야 너무 고맙지. 네가 보고 어떤 부분을 개선할지 알려주면 많은 도움이 될 것 같아.",
+            "utterance_id": "BE22010006.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 오늘부터 같이 시작하자! 다음 면접 때까지 꼭 개선될 테니 너무 걱정하지 말고. 할 수 있어!",
+            "utterance_id": "BE22010006.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워. 네 덕분에 마음이 많이 괜찮아진 것 같아. 네가 있어서 너무 든든하다.",
+            "utterance_id": "BE22010006.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇다니 다행이야. 또 고민 생기면 언제든지 말해줘.",
+            "utterance_id": "BE22010006.14"
+        }
+    ]
+}

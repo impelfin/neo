@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009563",
+        "listener_behavior": [
+            "조언",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009563",
+        "relation": "친구",
+        "situation": "주유소가 없는 곳에서 연료가 바닥이 났다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주유소까지 한참 남았는데 연료가 바닥났어. 차에서 소리 나기 시작하는데 당황스러워.",
+            "utterance_id": "BE22009563.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 많이 놀랐겠다. 많이 당황했겠는데 괜찮아?",
+            "utterance_id": "BE22009563.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 많이 놀랐어. 지금도 계속 경고음 뜨는데 어떡하지 너무 혼란스러워.",
+            "utterance_id": "BE22009563.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "운전도 해야 되는데 자꾸 소리 나면 많이 혼란스럽겠다. 그런 상황이라 많이 당황했겠어.",
+            "utterance_id": "BE22009563.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 국도로 가고 있는데 지도에 주유소가 안 잡히는 구간이야. 차가 서면 어떡하지.",
+            "utterance_id": "BE22009563.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 정신없겠지만 갑자기 차가 서지는 않을 테니까 진정해. 차분히 진정하고 운전에 집중하면 괜찮을 거야.",
+            "utterance_id": "BE22009563.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 혹시 몰라서 지금 공터에 차를 세워뒀어. 주유소가 어디 있는지 확인하고 운전하려고.",
+            "utterance_id": "BE22009563.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 잘했어. 잠깐 쉬었다가 마음을 추스르고 다시 운전을 해봐.",
+            "utterance_id": "BE22009563.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "근데 너무 멀리 있어서 거기까지 갈 수 있을지 모르겠어. 여기 길도 잘 모르는데 차도 저러니까 당황스럽고 혼란스러워.",
+            "utterance_id": "BE22009563.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야 진정해. 아무 일도 안 생길 테니까 걱정 마. 그럴 때일수록 더 차분하게 마음을 다잡고 운전에 집중해. 너무 걱정하지 말고 혼란스러워 말아.",
+            "utterance_id": "BE22009563.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래 괜찮겠지? 주유소까지만 안 멈추면 아무 걱정 없을 거 같아.",
+            "utterance_id": "BE22009563.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 갈 수 있으니까 너무 스트레스 안 받아도 괜찮아. 혹시라도 차가 멈추면 그때 다시 일 해결하면 되잖아.",
+            "utterance_id": "BE22009563.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 멈추더라도 사고만 안 나면 되니까 운전에만 신경 써야겠다.",
+            "utterance_id": "BE22009563.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정신 똑바로 차리고 경고음에 너무 신경 쓰지 말고 조심히 운전해서 가. 넌 할 수 있을 거야.",
+            "utterance_id": "BE22009563.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래 고마워. 많이 당황했었는데 좀 차분해진 것 같아.",
+            "utterance_id": "BE22009563.15"
+        }
+    ]
+}

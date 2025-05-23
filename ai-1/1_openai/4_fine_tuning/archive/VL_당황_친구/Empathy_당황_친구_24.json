@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009881",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009881",
+        "relation": "친구",
+        "situation": "백화점에서 원피스를 샀는데, 얼룩이 묻어 있었다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떡하지? 오늘 오래간만에 백화점에서 큰맘 먹고 원피스를 하나 샀는데, 집에 와서 입어 보니까 얼룩이 있어. 이런 건 처음이라 너무 당황스럽네.",
+            "utterance_id": "BE22009881.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐야? 중고 제품도 아니고 백화점에서 산 원피스에 그런 게 있으면 완전 당황스럽지. 너 진짜 놀랐겠다, 혼자 해결하려면 정신없을 텐데 나한테라도 연락하길 잘했어. 얼룩 사진은 찍었어?",
+            "utterance_id": "BE22009881.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까, 분명 새 상품을 달라고 해서 산 건데 나도 진짜 어이가 없었어. 내가 예민한 건가 했는데 너한테 얘기하길 잘했다, 좀 진정이 되는 것 같아. 아, 사진은 네 연락 보고 방금 여러 장 찍어뒀어.",
+            "utterance_id": "BE22009881.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 백화점 원피스면 가격도 많이 나가는데 새 옷에 얼룩이 있는 건 누구나 기분 나쁘지. 절대 네가 예민한 거 아니고, 소비자로서 당연히 느낄 수 있는 감정이야. 일단 입기는 좀 그렇고, 환불부터 받아야겠는데?",
+            "utterance_id": "BE22009881.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야 할 것 같은데 다시 가서 말하기엔 영 용기가 안 나. 알잖아, 나 이런 거 못 하는 거.",
+            "utterance_id": "BE22009881.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 알지, 너 그런 상황 불편해하잖아. 나는 다른 곳에서 환불하는 건 잘하는데, 백화점에서 환불하는 건 너무 긴장돼서 못 하겠더라. 나 같아도 힘들 것 같아.",
+            "utterance_id": "BE22009881.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까. 그래도 도저히 입을 상태는 아니라서 환불을 받긴 해야 할 것 같은데 어떻게 하면 좋을까?",
+            "utterance_id": "BE22009881.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 환불도 정해진 기간 내에 해야 하니까 최대한 빨리 가는 게 좋을 것 같아. 너 혼자 가는 게 너무 부담스러우면 내가 같이 가 줄까? 내일 어때?",
+            "utterance_id": "BE22009881.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 나야 정말 고맙긴 하지. 근데 내 일인데 스스로 해결도 못 하고, 너한테 너무 신세 지는 것 같아서 미안하다.",
+            "utterance_id": "BE22009881.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응? 전혀 그렇게 생각할 필요 없어. 나는 요즘 한가해서 남는 시간도 많고, 너한테 도움이 되면 나야 좋은걸? 오래간만에 너랑 시간도 보낼 수 있어서 난 오히려 신나.",
+            "utterance_id": "BE22009881.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워, 진짜. 근데 정말 괜찮아? 나 때문에 너도 같이 스트레스받을까 봐 미안해서.",
+            "utterance_id": "BE22009881.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알잖아, 난 혼자 하는 건 힘들지만 옆에 누구든 있으면 이런 거 잘해. 그러니까 전혀 부담 느끼지 않아도 돼. 내가 내일 환불 꼭 받아올 테니까.",
+            "utterance_id": "BE22009881.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "나는 네가 같이 가 준다고 하는 것만으로도 마음이 확 편해졌어. 고마워, 항상 너한테 신세를 많이 지네.",
+            "utterance_id": "BE22009881.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나야 오래간만에 백화점 구경도 하고 좋지, 뭐. 절대 신세 지는 거라고 생각하지 마. 환불받는 것도 잘 될 테니까 너무 걱정하지 말고.",
+            "utterance_id": "BE22009881.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 걱정 안 하고 있을게. 혼자만 고민했으면 환불도 못 받고, 그냥 치워뒀을 텐데 너한테 얘기하길 잘했다.",
+            "utterance_id": "BE22009881.15"
+        }
+    ]
+}

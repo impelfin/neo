@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010533",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010533",
+        "relation": "친구",
+        "situation": "엄마의 암 수술 결과를 기다리고 있다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "후... 너무 불안하고 걱정스러운 마음에 어제 잠도 제대로 못 잤어.",
+            "utterance_id": "BE22010533.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 이렇게 연락을 주니 나도 너무 걱정된다. 어머니 수술은 끝났어?",
+            "utterance_id": "BE22010533.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 수술은 방금 끝났는데 아직 결과를 못 들었어. 지금 결과 기다리고 있는데 너무 걱정되고 불안해.",
+            "utterance_id": "BE22010533.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "암 수술이 큰 수술이니까 네가 많이 걱정되고 염려되겠다. 소식 전해 들은 나도 너무 걱정돼. 게다가 네가 이렇게 초조해하니까 내가 다 속상하다.",
+            "utterance_id": "BE22010533.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 암투병하시면서 조금 힘들어하셨어서 괜히 기다리는 게 더 힘드네. 혹시 안 좋은 결과 나와서 또 투병 생활이 길어지면 어쩌나 너무 걱정돼. 정말 결과 기다리는 것도 너무 지친다.",
+            "utterance_id": "BE22010533.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마나 불안하고 힘들지 네 마음 이해해. 그래도 아직 결과가 나오지 않았으니 너무 부정적으로 생각 말고 마음을 진정시켜봐. 곧 좋은 결과 있을 거니 벌써부터 너무 걱정하지 마.",
+            "utterance_id": "BE22010533.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 괜히 염려스러운 마음에 내가 너무 부정적인 생각에 사로잡혔나 봐. 그런데 마음이랑 다르게 자꾸 초조해져.",
+            "utterance_id": "BE22010533.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "수술 방금 끝났는데 아직 별말 없는 거 보면 분명 괜찮으실 거야. 그리고 어머니 걸리신 유방암도 수술하게 되면 완치율도 높고 워낙 예후도 좋다고 하더라! 아마 어머니도 이번 수술 잘 돼서 금방 완치되실 거야.",
+            "utterance_id": "BE22010533.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그동안 항암도 잘하셨고, 이제 수술도 받았으니 괜찮을 거야. 네 말을 들으니 조금 진정되는 것 같아.",
+            "utterance_id": "BE22010533.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 네가 진정됐다고 하니 나도 너무 다행이다. 항암으로 종양 크기도 많이 작아져서 의사선생님이 수술 진행하자고 하신 거잖아. 분명 곧 선생님이 수술 아주 잘 됐다고 하러 오실 거야.",
+            "utterance_id": "BE22010533.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아. 네 말을 듣고 나니까 걱정이 많이 놓인다. 네 말대로 의사선생님이 수술하면 좋아질 거라고 하셨으니 분명 수술 결과도 괜찮을 거야! 혼자 생각했을 때는 마냥 불안했는데 너 덕분에 많이 안정됐어.",
+            "utterance_id": "BE22010533.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 네가 이렇게 기운 내니까 너무 보기 좋다! 내가 얼른 좋은 소식 나오라고 열심히 기도할게!",
+            "utterance_id": "BE22010533.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응! 위로해 줘서 고마워. 결과 나오면 바로 연락 줄게!",
+            "utterance_id": "BE22010533.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알겠어. 기다리고 있을게!",
+            "utterance_id": "BE22010533.14"
+        }
+    ]
+}

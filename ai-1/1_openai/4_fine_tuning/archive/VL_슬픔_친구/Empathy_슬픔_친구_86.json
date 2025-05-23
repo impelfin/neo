@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010288",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010288",
+        "relation": "친구",
+        "situation": "서부간선에서 고양이가 로드킬로 죽어 있었다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 너무 마음이 아파.",
+            "utterance_id": "BE22010288.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래? 기분 좋게 고향 내려가고 있는 거 아니었어?",
+            "utterance_id": "BE22010288.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 서부간선 지나고 있는데 고양이가 로드킬로 죽어 있는 거 있지. 깜짝 놀라기도 했는데 고양이가 너무 불쌍해서 눈물이 나.",
+            "utterance_id": "BE22010288.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있었구나. 자동차 타고 다니다 보면 로드킬로 죽은 고양이를 한 번씩 보게 되는 것 같아. 나도 그럴 때마다 마음이 울컥하더라.",
+            "utterance_id": "BE22010288.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저 아이들한테도 가족이 있을 텐데 얼마나 슬퍼할지 가늠할 수가 없어. 심지어 죽었는지 살았는지도 몰라서 애타게 찾고 있을지도 모르잖아.",
+            "utterance_id": "BE22010288.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말이 맞아. 사랑하는 가족이니까 정말 애타게 찾고 있을 거 아니야. 애완동물을 키우고 있는 입장에서 생각만 해도 정말 마음이 아프다.",
+            "utterance_id": "BE22010288.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마 전에 우리 집 고양이도 집을 나가서 찾느라 진땀을 뺏거든. 결국 찾았지만 설마 무슨 일이 생긴 건 아닐까 눈앞이 깜깜했었어. 괜히 그때 생각나서 더 슬퍼지더라.",
+            "utterance_id": "BE22010288.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있었으면 정말 남 일 같지 않겠다. 나라도 그때 생각나서 정말 심장이 철렁했을 것 같아. 그래도 잘 해결됐다니 다행이다.",
+            "utterance_id": "BE22010288.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그래서 그런지 저 고양이가 너무 불쌍해. 차를 갓길에 세웠는데, 어떻게 도와줄 방법이 없네.",
+            "utterance_id": "BE22010288.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나였으면 슬퍼하고 지나갔을 텐데 도움이 되고 싶어서 한쪽에 차를 주차했다니. 정말 너는 하늘에서 내려온 천사야. 정말 마음이 참 넓구나.",
+            "utterance_id": "BE22010288.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그냥 마음이 끌려서 어쩔 수 없었어. 도로에 차가 많아서 위험해 보이는데 어떻게 해야 할까? 나 걱정돼서 발이 안 떨어져.",
+            "utterance_id": "BE22010288.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 내 친구 마음은 햇살 같아. 일단 직접 가는 건 위험하니까 지역번호 누르고, 120번으로 전화해봐. 관할 지역에서 빠르게 처리해 줄 거야.",
+            "utterance_id": "BE22010288.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워! 죽은 고양이를 그냥 지나치려고 하니 너무 슬프고, 마음이 불편했거든. 덕분에 마음 편하게 다시 이동할 수 있겠다.",
+            "utterance_id": "BE22010288.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음이 편해졌다고 하니 다행이다. 나도 도움이 된 것 같아서 기뻐. 그럼 조심해서 내려고, 이따 연락해.",
+            "utterance_id": "BE22010288.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응 알았어. 이따가 고향 도착해서 연락할게.",
+            "utterance_id": "BE22010288.15"
+        }
+    ]
+}

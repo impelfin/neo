@@ -1,0 +1,199 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22009352",
+        "listener_behavior": [
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009352",
+        "relation": "친구",
+        "situation": "남편이 흘러간 옛가요를 아침마다 크게 틀어놓는다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아침을 기분 좋게 시작하고 싶은데, 매번 짜증으로 시작하게 돼.",
+            "utterance_id": "BE22009352.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전원생활에 누구보다 행복한 줄 알았는데, 뭐가 문제인데?",
+            "utterance_id": "BE22009352.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남편이 흘러간 옛 가요를 아침마다 크게 틀어 놓잖아. 정말 신경질 나 죽겠다.",
+            "utterance_id": "BE22009352.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 아이돌을 좋아하는 너하고는 정반대라 적응하기 힘들겠네. 그것도 매일 아침 크게 틀어 놓다니. 네가 화날 만도 하겠어.",
+            "utterance_id": "BE22009352.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 옛 가요가 싫지만은 않아. 나이가 드니 옛 가요가 좋아지긴 하더라.",
+            "utterance_id": "BE22009352.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 좋아하는 아이돌 팀이 활약이 뜸해서 좋아하는 맘이 시들해진 거야?",
+            "utterance_id": "BE22009352.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "활약이 뜸하다고 어디 한 번 좋아한 마음이 변하겠어? 나이를 못 속이는 거지. 요즘 노래는 따라 하기 힘들어서 그런지 갈수록 옛노래가 친숙하게 들려.",
+            "utterance_id": "BE22009352.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 우리가 아무리 발버둥 쳐도 세월은 이길 수가 없는 것 같아. 나도 클레식을 정말 좋아했었잖아. 그런데 요즘엔 나도 모르게 옛 가요를 흥얼거리곤 해.",
+            "utterance_id": "BE22009352.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그 심정 이해해. 그런데 한 가수만 그렇게 튼다. 왜 요즘 맞대결하는 옛 가요 프로가 있잖아?",
+            "utterance_id": "BE22009352.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 주말 저녁프로 말이구나. 나도 보는데, 서로 팀을 짜서 맞대결로 점수를 내고 시청자들 상품까지 주니까 더 재밌더라. 나도 그 프로에 엄청 빠져있어.",
+            "utterance_id": "BE22009352.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "거기 여자팀 에이스 있잖아? 그 여자 가수 노래만 줄곧 튼다. 난 상대편 남자 노래가 더 좋던데.",
+            "utterance_id": "BE22009352.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아침마다 옛 가요를 크게 틀어서 싫은 건 아니라는 거지? 다만 남편이 그 여자 가수 노래만 틀어 놓는 것이 맘에 들지 않았던 거구나? 상대 팀 남자 가수 노래도 같이 틀면 기분 상하지는 않았을 텐데 말이지?",
+            "utterance_id": "BE22009352.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 아주 사모하는 맘으로 듣는 것 같다니까. 나도 남자 가수 노래를 크게 틀까 생각 중이야.",
+            "utterance_id": "BE22009352.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 괜찮겠네. 나이 들수록 같이 뭘 공유한다는 것이 즐거운 일이잖아. 옛노래는 혼자만 관심 있는 줄 알았는데, 아내가 옛 가요를 틀겠다면 남편도 엄청나게 좋아할걸.",
+            "utterance_id": "BE22009352.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까? 애들처럼 질투한다고 놀리진 않을까?",
+            "utterance_id": "BE22009352.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알게 되면 네 사랑에 행복해할걸. 그리고 주말에는 옛 가요 프로를 보면서 자기가 좋아하는 가수를 응원하면 즐겁지 않겠어? 전원생활이니 볼륨을 크게 해도 상관없고.",
+            "utterance_id": "BE22009352.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그것 재미있겠는데! 전원생활이란 게 좋을 때도 많지만 어느 땐 심심하거든. 재미 하나를 찜해 놓은 것 같다.",
+            "utterance_id": "BE22009352.17"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전원생활도 하고 아직도 부부간에 사랑이 뚝뚝 떨어지는 것 같아 정말 부럽다.",
+            "utterance_id": "BE22009352.18"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇게 생각해주니 고맙다. 아침마다 기분이 꿀꿀했는데, 앞으론 기분 좋게 하루를 시작할 수 있겠어.",
+            "utterance_id": "BE22009352.19"
+        }
+    ]
+}

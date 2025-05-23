@@ -1,0 +1,186 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009813",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009813",
+        "relation": "친구",
+        "situation": "오늘 학교에 가지 않았다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 나 사실 오늘 학교에 안 갔어. 부모님께는 간다고 했지만 가기 싫어서 거짓말을 했어. 걱정스러운 마음에 불안감까지 겹쳐 와서 매우 초조하다.",
+            "utterance_id": "BE22009813.1"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무 이유 없이 안 갈 친구가 아닌데 무슨 일이 생겨서 그런 건지 많이 걱정된다. 부모님께 거짓말한 것은 나중에 사정을 말씀드리면 용서해 주실 테니 너무 걱정하지 말고. 나에게 이유를 말해줄 수 있을까?",
+            "utterance_id": "BE22009813.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 학교에서 배우는 공부가 필요가 없어 보여. 그저 좋은 대학에 가기 위해 아등바등 살면서 내 청춘을 허비하는 것 같아. 그래서 그냥 학교에 안 갔는데 누가 알까 봐 불안한 마음은 있어.",
+            "utterance_id": "BE22009813.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 너와 내가 메신저로 이야기는 하고 있지만 나도 자퇴를 했잖아. 그래서 너의 이야기가 많이 공감이 된다.",
+            "utterance_id": "BE22009813.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 나는 인생을 낭비하지 않으려 학교에 안 간 것인데 부모님이 사실을 알게 되시면 많이 혼내시겠지. 걱정이 되기도 하고 나를 이해 못 하는 부모님에게 반항심이 생겨.",
+            "utterance_id": "BE22009813.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지, 나의 마음을 몰라줄 때처럼 속상한 일이 없잖아. 부모님이 해주시는 조언이 이해는 가지만 나에 대한 이해가 없다면 나도 반항심이 생길 것 같아.",
+            "utterance_id": "BE22009813.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나의 마음을 이해해 줘서 고마워. 사실 예전부터 부모님께 학교를 더 이상 다니고 싶지 않다고 이야기를 했어. 그때마다 돌아오는 건 무조건 학교는 다녀야 한다는 말뿐이셨지.",
+            "utterance_id": "BE22009813.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 많이 속상했겠다. 이유를 묻지 않고 학교는 무조건 가야 한다는 말이 네가 납득하기 어려웠을 게 당연해. 이유가 없이 하는 말에는 설득력도 없는데 그걸 받아들이기는 당연히 힘들어.",
+            "utterance_id": "BE22009813.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 학교에 가지 않은 건 나의 의사 표현 중의 하나야. 부모님에게 자퇴를 하고 싶은 내 마음을 보여주는 행동이라고 생각했어. 하지만 불안한 마음은 줄어들지가 않네.",
+            "utterance_id": "BE22009813.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 우리는 아직 학생의 신분이고 학교에 다니는 것이 의무처럼 느끼며 평생을 살아왔잖아. 그건 당연하고 자연스러운 마음이야. 오늘 부모님이 돌아오시면 너의 속마음을 상세히 이야기한다면 좋을 것 같아.",
+            "utterance_id": "BE22009813.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 그래서 오늘 학교에 가지 않고 내가 미래를 어떻게 살아갈 것 인지 구상을 해보려고. 학교에서는 수업도 들어야 하고 이것저것 신경 쓸 일로 내 인생을 구상하기 어려워. 그래서 더욱 학교에 가고 싶지 않았어.",
+            "utterance_id": "BE22009813.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 좋은 생각이다. 부모님께 너의 생각을 말씀드린다면 부모님도 너를 이해해 주실 거야. 너의 속마음을 조리 있게 이야기한다면 잘 해결될 거라 난 믿어.",
+            "utterance_id": "BE22009813.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부모님이 내 생각을 한 번에 이해해 주시고 따라 주실 거라는 확신은 없지만 시작은 해야지. 부모님께 말하려니 벌써부터 떨리고 불안하다.",
+            "utterance_id": "BE22009813.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 걱정하지 마. 너는 말을 조리 있게 잘하는 사람이야. 옛날 발표 시간에 똑 부러지게 발표하던 너의 모습을 보면서 본받아야겠다고 생각했는걸.",
+            "utterance_id": "BE22009813.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고마워, 너의 응원과 격려를 듣고 많은 힘을 받았어. 오늘 학교에 가지 않은 것에 대한 불안감과 걱정스러움이 많이 해소된 것 같아.",
+            "utterance_id": "BE22009813.15"
+        }
+    ]
+}

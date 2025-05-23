@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22010446",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010446",
+        "relation": "친구",
+        "situation": "발표 날짜를 착각했다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 어떡하지? 큰일이 난 것 같아.",
+            "utterance_id": "BE22010446.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일인데?",
+            "utterance_id": "BE22010446.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 발표 날짜를 착각했어. 다음 주 목요일인 줄 알았는데 이번 주 목요일인 걸 지금 알아서 너무 당황스러워. 어떻게 하지?",
+            "utterance_id": "BE22010446.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 예전에 중요한 프로젝트 날짜를 착각했던 적이 있어서 그 기분 잘 알아. 너 진짜 당황스럽고 놀랐겠다. 네가 그렇게 놀라고 황당할 걸 생각하니까 나도 기분이 안 좋네.",
+            "utterance_id": "BE22010446.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 이번 주 목요일이면 발표 준비할 날이 이틀밖에 안 남아서 어떻게 해야 할지 당황스러워. 나 아직 발표 자료 하나도 만들지 않았단 말이야.",
+            "utterance_id": "BE22010446.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 당황스럽겠지만 일단 마음을 좀 가다듬어보자. 너 저번에 자료 조사는 해 놓았다고 했었으니까 금방 할 수 있을 거야.",
+            "utterance_id": "BE22010446.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수 있을까? 왜 나는 바보같이 지금 이 사실을 안 건지 당황스럽고 어이없어.",
+            "utterance_id": "BE22010446.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금이라도 알아서 다행이라고 생각해보면 어때? 그래도 지금 안 덕분에 이틀이나 있어서 그 안에 일을 해결할 수 있는 거잖아. 그렇게 생각하면 네 마음이 조금이나마 나아지지 않을까?",
+            "utterance_id": "BE22010446.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각하니까 그렇긴 하네. 그런데 발표 자료 만들고 암기까지 이틀이면 너무 부족한 시간인 것 같은데 괜찮을까? 불안해.",
+            "utterance_id": "BE22010446.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 원래 손도 빨라서 문서 작업도 빨리하고 암기 능력도 뛰어나잖아. 그러니까 시간 내에 발표 준비를 완성할 수 있을 거야. 너무 걱정하지 마.",
+            "utterance_id": "BE22010446.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 너무 당황해서 어떻게 해야 할지 혼란스러웠는데 덕분에 좀 나아지는 것 같아.",
+            "utterance_id": "BE22010446.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다니 다행이야. 혹시 준비하다가 도움 필요하면 언제든지 얘기해. 도와줄게.",
+            "utterance_id": "BE22010446.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 정말 고마워. 네가 있어서 너무 든든하다.",
+            "utterance_id": "BE22010446.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너에게 힘이 될 수 있어서 기뻐.",
+            "utterance_id": "BE22010446.14"
+        }
+    ]
+}

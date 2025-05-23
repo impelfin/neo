@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009313",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009313",
+        "relation": "친구",
+        "situation": "고수가 들어간 음식은 못 먹겠다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 고수 넣은 쌀국수를 처음 먹어 봤는데, 다 남기고 왔어. 고수가 들어간 음식은 정말 못 먹겠더라.",
+            "utterance_id": "BE22009313.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고수가 호불호가 많이 가리는 음식이긴 하지. 왜 고수를 넣어 먹어 보기로 한 거야?",
+            "utterance_id": "BE22009313.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "옆에서 하도 맛있게 먹길래 먹어 봤는데, 정말 최악이었어. 몇 젓가락 더 먹다가 결국 반 넘게 남겼지 뭐야.",
+            "utterance_id": "BE22009313.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 얼마 전에 선짓국밥을 억지로 먹어 보아서 네가 무슨 마음이었을지 이해해. 입에 안 맞는 음식을 먹느라 오늘 정말 고생했겠다. 나도 한동안 입에서 선지 비린내가 나는 것 같아 힘들었거든.",
+            "utterance_id": "BE22009313.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 정말 힘들었어. 나는 앞으로 남의 식습관을 따라 하는 일은 절대 하지 않으려고. 입맛도 버리고, 돈도 버려서 지금 엄청 짜증 나.",
+            "utterance_id": "BE22009313.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 새로운 시도를 한번 해봤으니까, 앞으로 고수를 넣은 음식은 피할 수 있잖아. 가끔은 색다른 시도를 해서 나 자신을 알아가는 게 의미 있는 거 아닐까? 네가 싫어한다는 음식 하나를 알게 되었으니 오늘은 나름대로 가치 있는 하루인 거지.",
+            "utterance_id": "BE22009313.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "듣고 보니 네 말도 일리가 있다. 화가 좀 풀리는 것 같아. 비록 지금은 무척 배가 고프지만 말이야.",
+            "utterance_id": "BE22009313.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론 식사를 제대로 못 했으니 그건 짜증 날 것 같아. 네가 배도 고프고 기분도 안 좋을 것 같아서 걱정된다. 대신에 오늘 저녁은 맛있는 거 먹으면서 기분 풀어 보자고.",
+            "utterance_id": "BE22009313.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야겠어. 오늘 저녁은 색다른 시도 같은 거 하지 않고, 내가 제일 좋아하는 피자를 시켜 먹을래. 오늘 하루의 분노를 말끔히 사라지게 하려면 말이야.",
+            "utterance_id": "BE22009313.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이야. 새로운 시도는 점심시간에 충분히 했으니까, 저녁은 평소 좋아하는 걸로 먹어 봐. 그러고 나면 오늘 하루 고생한 네 몸과 마음이 많이 풀릴 거야.",
+            "utterance_id": "BE22009313.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 빨리 좋아하는 피자로 오늘의 끔찍했던 기억을 덮어야겠어.",
+            "utterance_id": "BE22009313.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 정말 수고 많았어. 입맛에 안 맞는 음식을 먹는 것만큼이나 괴로운 일이 없지.",
+            "utterance_id": "BE22009313.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 그래도 네가 내 이야기를 열심히 들어 주니까 나도 기분이 풀리는 것 같아.",
+            "utterance_id": "BE22009313.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이다. 내가 네 기분이 좋아지는 데에 도움이 되었다면 나도 기뻐. 오늘 저녁에는 꼭 맛있는 피자집에서 피자 먹으면서 힐링하면 좋겠다.",
+            "utterance_id": "BE22009313.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 안 그래도 피자 맛집 찾아갈 예정이야. 너도 오늘 저녁 맛있게 먹어.",
+            "utterance_id": "BE22009313.15"
+        }
+    ]
+}

@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009805",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009805",
+        "relation": "친구",
+        "situation": "오줌이 마려운데 화장실 줄이 너무 길다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하, 지금 너무 여유가 없어서 화가 나.",
+            "utterance_id": "BE22009805.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 무슨 일이길래 그래?",
+            "utterance_id": "BE22009805.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오줌이 마려운데 화장실 줄이 너무 길어. 다들 빨리빨리 안 싸고 뭐 하나 싶어서 화가 다 나.",
+            "utterance_id": "BE22009805.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "급한 데 네 차례가 아직 올 기미가 안 보여서 화가 날 수밖에 없겠구나. 나도 고속도로 휴게소에서 급하게 오줌 마려울 때 줄이 길었던 적이 있어서 네 감정 공감돼. 너 정말 지금 초조하고 화가 나겠다.",
+            "utterance_id": "BE22009805.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 그런데 다들 뭐가 이렇게 여유로운지. 느긋하게 싸고 나오는 것 같아서 더 열 받아.",
+            "utterance_id": "BE22009805.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 넌 급한데 상대적으로 사람들이 여유로우면 그 모습 때문에 화가 더 날 것 같아. 나도 그 심정 이해할 수 있어. 나는 쌀 것 같아서 급한데 남들은 상관없어하는 걸 보면 열 받을 수밖에 없지.",
+            "utterance_id": "BE22009805.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 정말 오줌 참기도 힘들어. 하, 다들 왜 이렇게 오랫동안 안 나올까. 정말 짜증 나 죽겠어.",
+            "utterance_id": "BE22009805.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 네가 급해서 더 그렇게 느껴지나 봐. 안 그래도 오줌도 마려운데 마음이라도 진정시켜 보는 게 어떨까? 화를 낸다고 해서 사람들이 빨리 나오는 것도 아니니까 말이야.",
+            "utterance_id": "BE22009805.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말대로 하고 싶은데 지금 오줌 말고는 아무 생각도 못 하겠어.",
+            "utterance_id": "BE22009805.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자꾸 오줌 생각만 해서 더 마렵다고 느끼는 걸 수도 있어. 급할수록 여유를 찾고 애써 자신을 속여보자고. 사람은 자신이 생각하는 거에 따라서 몸의 반응도 달라진대.",
+            "utterance_id": "BE22009805.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하, 내 차례 될 때까지 잘 참을 수 있을까. 내가 지금 너무 오줌이 마려워서 화만 잔뜩 나거든.",
+            "utterance_id": "BE22009805.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 화를 낸다고 오줌이 안 마렵게 되는 것도 아니니 차라리 마음만이라도 가볍게 가지자고. 조금씩 마음을 달래보면서 참다 보면 네 차례가 곧 올 거야. 네 뇌를 속이면서 참을 수 있을 때까지 참아보자.",
+            "utterance_id": "BE22009805.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 네 말대로 그래봐야겠어. 너에게 이렇게 감정을 쏟으니까 좀 나아지긴 하네. 네 말대로 나 자신을 속이면서 참아볼게.",
+            "utterance_id": "BE22009805.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 줄 기다리면 언젠가 네 차례가 올 거야. 네가 지금 여유가 없어서 줄이 짧아지는 게 더디게 보일 뿐이지. 줄이 줄어들고 그랬을 거니까 더 참자.",
+            "utterance_id": "BE22009805.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고마워, 네 말대로 마음을 진정시키니 오줌이 덜 마려운 것 같아.",
+            "utterance_id": "BE22009805.15"
+        }
+    ]
+}

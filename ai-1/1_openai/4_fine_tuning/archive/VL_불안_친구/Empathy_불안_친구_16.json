@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009333",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009333",
+        "relation": "친구",
+        "situation": "머리가 덥수룩하니까 더 더운 것 같다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "머리가 덥수룩하니까 더 더운 것 같아. 이러다 내가 머리를 잘라버릴까 봐 불안해. 온종일 머리만 살피면서 스트레스받게 돼.",
+            "utterance_id": "BE22009333.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "스트레스라니 걱정된다. 소아암 환우들에게 기부하기 위해서 머리를 기르고 있다고 했었지?",
+            "utterance_id": "BE22009333.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그런데 올여름이 이렇게 더울 줄은 몰랐어. 여름이 가기 전에 내 결심이 나약해지지 않을지 걱정스러워. 내 생각보다 훨씬 힘들고 어려운 과정인 것 같아.",
+            "utterance_id": "BE22009333.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 얼마나 어려운 일을 하고 있는지 알아. 나도 얼마 전에 머리를 잘라서 네 자제력이 대단하다고 생각해. 아무리 신념을 가져도 요즘 같은 날씨는 버티기 어려운 것 같아.",
+            "utterance_id": "BE22009333.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지? 조금 더 참아보고 싶은데, 정말 더워서 견딜 수가 없어. 머리에 자꾸 집착하고 의식하게 되니까 마음도 불안하고.",
+            "utterance_id": "BE22009333.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 정말 고생하고 있는 것 같아. 게다가 요즘은 습하기도 해서, 목덜미 같은 경우에는 머리카락이 달라붙으면 땀 나기가 더 쉽지. 네가 얼마나 힘들게 기르고 있을지 알겠기에 나도 마음이 아프다.",
+            "utterance_id": "BE22009333.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 목덜미에 땀띠가 나는 것 같아서 걱정이야. 이대로 올여름을 잘 버틸 수 있을까? 꼭 목표까지 머리카락을 길러서 기부하고 싶은데 불안하네.",
+            "utterance_id": "BE22009333.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 그 다정한 마음과 결단력이라면 충분히 가능하다고 생각해. 너는 한번 마음먹은 일은 끝까지 지키잖아. 비록 지금은 너무 덥지만, 너라면 충분히 네 목표를 달성할 수 있다고 믿어.",
+            "utterance_id": "BE22009333.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워. 네 말에 용기를 얻게 되었어. 내가 한 번 결심한 일은 쉽게 포기하지 않는 편이긴 하지.",
+            "utterance_id": "BE22009333.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래! 그런 점이 얼마나 멋있고 존경스럽다고. 더위가 한풀 꺾일 때까지 조금만 견디면 분명히 네가 원하는 만큼 머리를 기를 수 있어. 그러고 나면 바로 기부하면 되지.",
+            "utterance_id": "BE22009333.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말이 맞아. 너랑 이야기하고 나니까 불안함이 좀 가신다. 모든 게 계획대로 잘 될 것 같은 기분이 들어.",
+            "utterance_id": "BE22009333.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음이 편안해졌다면 정말 다행이야! 앞으로 또 머리를 충동적으로 잘라 버리고 싶어지면 말해. 내가 네 계획을 다시 상기시켜줄게.",
+            "utterance_id": "BE22009333.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 고마워. 네 덕분에 내 계획이 더 잘 지켜질 수 있겠다. 기분이 무척 좋아졌어.",
+            "utterance_id": "BE22009333.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 네가 기분이 좋아졌다니 흐뭇하고 좋다. 조만간 더위가 가시면 얼굴 보자. 머리가 얼마나 자랐는지도 궁금해.",
+            "utterance_id": "BE22009333.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알았어. 너한테 보여 줘야 하니까 그때까지 무슨 일이 있어도 길러 볼게. 정말 고마워!",
+            "utterance_id": "BE22009333.15"
+        }
+    ]
+}

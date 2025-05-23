@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010015",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010015",
+        "relation": "친구",
+        "situation": "결혼을 앞둔 딸의 안색이 좋지 않다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다음 주면 우리 딸 결혼식이네.",
+            "utterance_id": "BE22010015.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오 벌써 시간이 그렇게 됐나.",
+            "utterance_id": "BE22010015.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 근데 어제 본 딸의 안색이 너무 좋지 않아서 걱정된다. 혹시라도 무슨 일이 있는데 엄마가 걱정할까 봐 말을 안 하는 걸까? 괜히 불안해서 잠도 안 오는 거 있지.",
+            "utterance_id": "BE22010015.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음? 한참 기뻐해야 해도 모자랄 시간에 딸 안색이 좋지 않아 보여서 사위랑 안 좋은 일 있나. 라는 생각이 들어서 그러는 거야? 네가 불안해할 만한 상황이네!",
+            "utterance_id": "BE22010015.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 우리 딸은 우리 부부한테 항상 본인이 힘든 내색을 잘 안 하더라고. 물론 우리가 걱정할까 봐 그러는 건 아는데 그런 점을 아니까 더 불안해.",
+            "utterance_id": "BE22010015.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 같아도 우리 딸이 결혼을 앞두고 사위랑 좋지 않은 일이 있는데 숨기는 거면 너무 걱정될 거 같아. 더군다나 네가 보기에 안색도 안 좋다고 하니까 네 기분이 오죽하겠어. 나 같아도 불안해서 잠 못 잤을 거야.",
+            "utterance_id": "BE22010015.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지? 이렇게 이런저런 걱정하는 내가 예민한 게 아니겠지. 이렇게 불안해하고 걱정하는 내가 예민한 엄마인가 싶었지 뭐야.",
+            "utterance_id": "BE22010015.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "결혼을 앞둔 딸의 안색이 좋지 않다면 그 어떤 엄마도 당연히 걱정되고 불안할 거야. 그런 생각하지 마. 절대 네가 예민한 게 아니야. 그런 걱정은 집어넣어.",
+            "utterance_id": "BE22010015.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 얘기해주니까 고맙긴 하네. 어휴. 계속 딸 안색 안 좋았던 게 생각나서 마음에 걸린다.",
+            "utterance_id": "BE22010015.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 걱정되면 네가 먼저 딸이랑 대화를 시도해보는 건 어때? 자꾸 그렇게 걱정하고 불안해하면 네 마음만 더 안 좋아지잖아. 너무 걱정하지 말고 딸 얼굴 보러 갈 겸 가서 대화해봐.",
+            "utterance_id": "BE22010015.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 그래야겠다. 이렇게 혼자 불안해 해봤자 해결되는 일은 없으니까. 오늘 저녁에 딸 보러 가야겠어.",
+            "utterance_id": "BE22010015.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 생각했어. 그리고 너무 신경 쓰지 마. 우리가 오래돼서 까먹고 있는 거지 원래 결혼 앞두고 나서 우리도 심란해서 표정 안 좋았을걸? 괜히 이런저런 생각에 불안감 들고 그러잖아.",
+            "utterance_id": "BE22010015.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "하하. 네 말이 맞네. 나도 결혼 앞두고 괜히 미래에 대한 걱정에 마냥 기뻐하지만은 않았던 거 같아. 고맙다. 덕분에 기분이 많이 나아졌어.",
+            "utterance_id": "BE22010015.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기분이 나아졌다니 정말 다행이다. 아무튼 너무 걱정하지 말고 딸이랑 잘 대화해봐. 분명 별일 아닐 거야.",
+            "utterance_id": "BE22010015.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 그렇게 할게. 얘기 들어줘서 정말 고맙다. 우리 딸 결혼식 때 보자!",
+            "utterance_id": "BE22010015.15"
+        }
+    ]
+}

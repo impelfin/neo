@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009619",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009619",
+        "relation": "친구",
+        "situation": "금주를 하려고 집에 있는 술을 친구들에게 모두 나눠줬다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야. 나 헤어지고 계속 술에 의존해서 잠들곤 했잖아. 위험할 것 같아서 술을 끊고 생활해보려고 금주하기로 결심했어.",
+            "utterance_id": "BE22009619.1"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 위험할 것 같다고 나도 느꼈었는데. 이렇게 너도 이런 마음으로 생활을 달리하기로 결심했다니 대단한걸? 진짜 큰마음 먹었을 생각을 하니 내 마음이 다 벅차다.",
+            "utterance_id": "BE22009619.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 나는 사실 조금 불안한 마음이 들어 내가 잘 할 수 있을지 말이야. 금주하려고 집에 있던 술을 친구들에게 모두 나눠줬거든. 그랬더니 술이 집에 없는 것만으로도 마음이 조금 불안하네?",
+            "utterance_id": "BE22009619.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아. 그럴 수 있지. 내가 같은 상황이었어도 꽤 오랜 기간 동안 밤에 술 마시고 잠들곤 했으니 불안하고 그럴 수 있을 것 같아. 그런데 곧 괜찮아지지 않을까? 이 생활에 적응하다 보면 또 금세 잠에도 잘 들고 불안한 마음도 사라질 것 같은데?",
+            "utterance_id": "BE22009619.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그런가? 정말 그랬으면 좋겠다. 지금과 같은 마음에서는 며칠 가지 못하고 불안한 마음에 새로 술을 사서 올 것 같았거든. 그래도 네가 이렇게 곧 나아질 거라고 말해주니 안정되는 것 같기도 하네.",
+            "utterance_id": "BE22009619.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이다. 술을 계속해서 마시면 몸에도 해롭잖아 네 마음이 안정되는 것 같아 한결 마음이 놓인다. 넌 이전까지 항상 정해놓은 약속을 잘 수행하던 모습을 보였으니 이번에도 금주 잘할 수 있을 거야! 다른 취미를 찾아서 활동하고 밤에 잠자리를 갖는 것도 고려해보면 좋을 것 같다!",
+            "utterance_id": "BE22009619.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 위로도 해주고 이렇게 실질적인 조언까지. 정말 고마운걸? 내 불안한 마음 너에게 털어놓기 참 잘했다는 생각이 든다. 일단 따뜻한 차를 마시면서 마음 가라앉히고 자보려고 노력 중인데 쉽지는 않아서 초조하기도 해.",
+            "utterance_id": "BE22009619.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수 있지 초조한 감정이라는 게 그렇게 쉽게 없어지지 않으니 얼마나 속상하니. 술에 의존해서 살던 삶의 환경이 바뀐 거니 당연히 초조할 것 같아. 그런데 너무 불안한 마음 가지지 말고 서서히 나아지려고 마음가짐 가지면 훨씬 편해질 것 같아!",
+            "utterance_id": "BE22009619.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 해보도록 노력할게, 응원 힘차게 해줘서 정말 고맙다. 건강하고 밝은 살아가기 위해 열심히 노력할 거야. 그리고 네 말처럼 서서히 나아지기 위해 노력하려고 운동을 알아보는 중이야!",
+            "utterance_id": "BE22009619.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 너무 좋은 생각이다! 운동으로 에너지 발산하고 자려고 누우면 잠도 더 잘 올 것 같은데? 불안하고 그러면 나를 불러도 되고! 네 불안함이 없어질 수 있다면 내 마음도 훨씬 좋아질 것 같아.",
+            "utterance_id": "BE22009619.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 말해주니 진짜 의지가 된다. 내가 불안할 때 해소할 수 있는 다양한 방법을 듣고 네가 옆에 있어 주니 얼마나 안심되는지 몰라.",
+            "utterance_id": "BE22009619.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 정말 다행이다. 넌 꼭 이겨낼 수 있는 힘을 가진 친구라고 생각해 언제나 네 마음을 잘 조절하잖아. 안심이 된다고 하니 내 마음도 다 안심이 되고 그래. 이번에도 성공할 수 있을 거라고 굳게 믿어 난.",
+            "utterance_id": "BE22009619.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나보다 나를 더 믿어주고 지지해줘서 얼마나 든든한지 몰라. 집에 있는 술친구들에게 나누어 준 것 후회하기도 했는데 이제 마음 굳게 먹어야겠어. 그리고 불안해하지 않아야겠어.",
+            "utterance_id": "BE22009619.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응! 긍정적으로 생각해보면 좋을 것 같아. 넌 언제나 그런 모습을 우리 친구들에게 자주 보여줬었잖아, 할 수 있을 거야. 조금 안정된 모습을 보니 다행이다, 그리고 가끔 맛있는 술은 밖에서 나와 마시자.",
+            "utterance_id": "BE22009619.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워. 이렇게 아쉬움과 함께 온 불안감을 줄일 수 있게 도와주어서. 덕분에 마음이 한결 편해졌어. 고마워 친구야.",
+            "utterance_id": "BE22009619.15"
+        }
+    ]
+}

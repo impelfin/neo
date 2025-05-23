@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009480",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009480",
+        "relation": "친구",
+        "situation": "원하는 대학에 미련을 버리지 못한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원하는 대학에 떨어져서 너무 화가 나.",
+            "utterance_id": "BE22009480.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런, 너무 유감이야. 준비하면서 고생이 많았을 텐데 상심이 크겠구나.",
+            "utterance_id": "BE22009480.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 내가 불합격인지 이유를 모르겠어. 면접도 잘 봤다고 생각했거든. 나보다 성적이 낮은 친구도 붙었다고 하니 열받아서 잠이 안 와.",
+            "utterance_id": "BE22009480.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 상황인지 알겠다. 확실히 납득하기 어렵고 네 마음이 복잡해질 만해. 잠이 안 올 정도라니 많이 화나 보여서 너무 마음이 쓰이네.",
+            "utterance_id": "BE22009480.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 간절히 원했던 학교거든. 미련을 떨치기가 어렵고 속이 들끓어서 미치겠어. 하루하루가 지옥이야.",
+            "utterance_id": "BE22009480.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 3년 전 예고 진학이 좌절됐을 때 비슷한 심정으로 밤을 지새운 적 있어. 그래서 지금 네 속이 얼마나 타들어 갈지 알 것 같아. 하루하루가 지옥 같다는 말이 너무 와닿아서 가슴이 아프다 친구야.",
+            "utterance_id": "BE22009480.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 아는구나. 합격한 친구보다 내가 부족한 점이 뭔지 모르겠고 화만 난다. 마음 같아선 창문을 열고 악이라도 지르고 싶어.",
+            "utterance_id": "BE22009480.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 주체할 수 없는 분노로 마음이 많이 다친 것 같아. 그래도 이미 벌어진 일에 너무 애를 쓰지 않았으면 좋겠어. 그럴수록 너만 더 괴로워질 거잖아.",
+            "utterance_id": "BE22009480.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "머리로는 아는데 화가 주체가 안 돼. 내 인생이 통으로 망가진 것만 같아.",
+            "utterance_id": "BE22009480.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아쉬운 마음은 이해하지만 그런 생각은 마 친구야. 네 앞에 얼마나 찬란한 일들이 많이 남아 있겠어. 인생을 길게 보고 미련을 떨치도록 노력하면 마음도 편해질 거야.",
+            "utterance_id": "BE22009480.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말을 들으니까 이게 내 인생의 전부는 아니라는 생각도 드네. 그래, 더 좋은 일들이 많이 남아 있겠지.",
+            "utterance_id": "BE22009480.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 너처럼 성실한 친구라면 다른 대학에서도 원하는 바를 꼭 이룰 수 있을 거야. 스스로를 믿고 분노는 그만 털어 버려.",
+            "utterance_id": "BE22009480.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 내가 눈앞의 실패에 너무 잠식돼 있었나 봐. 네 말처럼 다른 곳에서 더 열심히 하면 된다고 생각하니까 마음이 놓여.",
+            "utterance_id": "BE22009480.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 현상이야. 너라면 충분히 잘할 친구라 나는 걱정이 없어.",
+            "utterance_id": "BE22009480.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 네 덕에 나도 나에게 확신이 생기면서 화도 가라앉는다. 이 일은 꼭 보답할게.",
+            "utterance_id": "BE22009480.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "별말씀을. 또 속이 불편할 때가 찾아오면 언제든지 연락해.",
+            "utterance_id": "BE22009480.16"
+        }
+    ]
+}

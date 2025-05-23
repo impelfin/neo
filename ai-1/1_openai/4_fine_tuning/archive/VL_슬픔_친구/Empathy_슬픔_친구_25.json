@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009537",
+        "listener_behavior": [
+            "조언",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009537",
+        "relation": "친구",
+        "situation": "쉬는 날 집안을 둘러보다 할 일을 찾았는데 손을 대면 하루가 끝날 것 같다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "모처럼 쉬는 날인데 집안에 할 일이 남아 있어서 짜증이 나네.",
+            "utterance_id": "BE22009537.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하루 만에 못 끝낼 일이야? 짜증날 정도로 일이 많은가 보네?",
+            "utterance_id": "BE22009537.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에어컨 배관 선이 끊어져서 이거 수리해야 하거든. 이거 다 끝내면 하루가 다 갈 거 같아서 슬퍼져.",
+            "utterance_id": "BE22009537.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "쉬는 날에 할 일이 있어서 슬프겠다. 게다가 하루 종일 시간 쓸 정도로 일이 많다니 안쓰러운걸.",
+            "utterance_id": "BE22009537.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "소파 뒤에 선이 연결되어 있어서 다 끌어내서 배관선 교체해야 되거든. 지난 주에 알았을 때 해 놓을 걸 후회된다.",
+            "utterance_id": "BE22009537.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 짜증나고 후회되긴 하겠다. 그래도 너무 짜증내지 말아, 휴일이잖아.",
+            "utterance_id": "BE22009537.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주중에 매일 야근해서 주말에 푹 쉴까 했는데 이거 때문에 고민이야. 더워질테니 오늘 고치긴 해야 하는데 말이야.",
+            "utterance_id": "BE22009537.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집에도 할 일이 있으면 짜증나긴 하지. 지난주에도 바빴을 테니 일 못했을 거 아니야.",
+            "utterance_id": "BE22009537.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬지 그래도 날이 너무 더워서 고치기는 해야 할 것 같아. 차라리 사람 부를 걸 후회된다.",
+            "utterance_id": "BE22009537.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 그렇게 후회하고 자책하지 마. 너도 사정이 있었으니까 혼자 못 고치고 사람 못 불렀겠지. 게다가 쉬는 날인데 그걸로 너무 스트레스받지 말아.",
+            "utterance_id": "BE22009537.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 쉬는 날인데 스트레스받으면 나만 손해지. 그냥 하루만 참고 내일 사람을 부를까 싶어.",
+            "utterance_id": "BE22009537.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 직접 하든 사람을 부르던 너무 신경 쓰지 말아. 그런 일에 스트레스받으면 너만 손해잖아. 네 맘이 편한 게 제일 중요하잖아.",
+            "utterance_id": "BE22009537.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래, 어떻게 처리하든 너무 신경 쓰지 말아야겠다. 네 말대로 그저 스트레스 안 받고 편히 쉬는 게 좋을 거 같아.",
+            "utterance_id": "BE22009537.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 하루만 참고 푹 쉬어. 내일 또 출근해야 하잖아.",
+            "utterance_id": "BE22009537.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래 알았다. 오늘은 그냥 마음놓고 푹 쉬어야겠다.",
+            "utterance_id": "BE22009537.15"
+        }
+    ]
+}

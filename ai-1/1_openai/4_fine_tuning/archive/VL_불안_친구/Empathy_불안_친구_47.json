@@ -1,0 +1,168 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009734",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009734",
+        "relation": "친구",
+        "situation": "울어도 힘든 일은 해결되지 않았다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진단 결과 남편이 또 암이래. 전이 된 것 같아. 많이 안 좋아진 건지 너무 불안해.",
+            "utterance_id": "BE22009734.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "수술한 지 10년이나 지났는데 재발한 거야? 얼마나 놀랐니? 네 남편도 충격이 컸겠다.",
+            "utterance_id": "BE22009734.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집안 분위기도 아주 안 좋아, 애들도 아빠 걱정에 밤마다 훌쩍거리는 것 같고. 어떤 일도 손에 안 잡혀.",
+            "utterance_id": "BE22009734.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너희 사업이 힘들다고 하더니, 스트레스를 너무 받으셨나보다. 걱정이 많겠구나. 아직 아이들도 어린데.",
+            "utterance_id": "BE22009734.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당장 한 달 뒤에 수술 해야 하고, 항암 치료 받고 하면 1년은 꼼짝 못 해. 그 힘든 시간을 어떻게 견뎌야 할지.",
+            "utterance_id": "BE22009734.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "본인도 이 상황을 받아들이기 얼마나 힘들겠니, 전에 그 고생을 하셨는데. 옆에서 많이 위로해드려. 나도 너무 마음이 안 좋다.",
+            "utterance_id": "BE22009734.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남편도 그렇지만 나도 어찌해야 할지 모르겠어. 온종일 눈물만 나와. 아이들이 아빠 없이 살게 될까봐 무서워.",
+            "utterance_id": "BE22009734.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 안 그러겠니, 듣는 나도 이렇게 가슴 아픈데. 하지만 그렇게만 지낼 수는 없잖아. 아이들을 생각해서라도 맘 굳게 먹자.",
+            "utterance_id": "BE22009734.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "수술 날짜가 다가올수록 결과가 걱정되고 떨려서 아무 일도 할 수가 없어.",
+            "utterance_id": "BE22009734.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "힘들겠지만 너의 역할이 중요해. 남편에게도 용기를 줘야 하고 애들도 안심하고 생활할 수 있게 만들어야지. 불안해한다고 해서 해결되지 않는 거 너도 알잖아.",
+            "utterance_id": "BE22009734.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇지, 운다고 해결되는 일은 없더라. 네 말 들으니 내가 약한 모습만 보여서 식구들이 더 힘들었을 것 같아. 엄마가 돼서 부끄럽다.",
+            "utterance_id": "BE22009734.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "억지로라도 웃고, 희망적인 이야기 나누고 긍정적으로 생각하자. 암은 10년 전보다 치료법이 많이 발전했대. 불치병이 아니야.",
+            "utterance_id": "BE22009734.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘부터 용기 내서 살아볼게, 나는 아내이고 엄마니까 달라져야겠다는 생각이 들어.",
+            "utterance_id": "BE22009734.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "흔한 위로 같겠지만, 다 잘 될 거라고 생각하자. 이번에도 수술 잘 될 거고, 치료받으시면 좋아지실 거야. 그동안 조금만 더 고생한다고 생각해. 나도 항상 기도할게.",
+            "utterance_id": "BE22009734.14"
+        }
+    ]
+}

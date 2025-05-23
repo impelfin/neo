@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009957",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009957",
+        "relation": "친구",
+        "situation": "부모님이 내 허락없이 내 우편물을 열어봤다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 독립할 준비를 해야 하나봐. 집에서 부모님이랑 같이 못 살겠어.",
+            "utterance_id": "BE22009957.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이길래 집을 나가야겠다는 얘기까지 하는 거야?",
+            "utterance_id": "BE22009957.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 학교생활이 많이 힘들었잖아. 그래서 학사경고를 받았는데 그러면 우편물로 발송되거든. 근데 그걸 내 허락 없이 부모님이 열어본 게 너무 화가 나.",
+            "utterance_id": "BE22009957.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무리 자식이지만 독립된 인격체로서 존중받지 못한 느낌이 지금 화가 나는 거구나.",
+            "utterance_id": "BE22009957.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무리 내가 자식이고 같이 살고 있지만 서로의 사생활은 존중해줘야 하지 않아? 나는 내 부모님이 허락 없이 열어본 것에 대해서는 사과하지 않고 학사경고를 받은 부분만 이야기하시는 게 싫어.",
+            "utterance_id": "BE22009957.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 생각하기에 부당한 부분을 말씀드렸는데 그건 중요하게 생각하지 않으시니 많이 답답하고 기분이 나쁘겠다. 학사경고를 받은 건 나중에 이야기할 일이고 핵심이 아닌데.",
+            "utterance_id": "BE22009957.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까. 내가 학사경고를 받은 것에만 흥분해서 화만 내시니 대화가 아예 안 되더라. 그래서 그냥 나도 소리 지르고 나와버렸어.",
+            "utterance_id": "BE22009957.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 화나고 짜증나 하는 거 이해해. 근데 부모님도 학사경고문을 보고 순간 너무 놀라서 어떤 것도 들리지 않으신 걸 거야. 이제 너도 화를 좀 가라앉히고 부모님과 다시 제대로 대화해보는 게 어떨까?",
+            "utterance_id": "BE22009957.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 항상 모범생처럼 살던 내가 대학에 가서 학사경고를 받은 것에 너무 놀라셔서 그러셨던 거겠지?",
+            "utterance_id": "BE22009957.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 너의 감정을 솔직하게 말씀드려봐. 또 앞으로는 스스로 잘 해결해 나갈 수 있다는 그런 믿음을 드리고 걱정하지 않으셔도 된다고 안심시켜드려.",
+            "utterance_id": "BE22009957.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 소리만 내지르고 온 게 마음에 걸리는데 죄송한 마음을 잘 이야기해보아야겠어.",
+            "utterance_id": "BE22009957.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부모님도 네가 그렇게 나간 게 마음이 편치 않으실 거야. 그리고 부모님은 너의 편이시니까 너무 걱정 말고 다시 잘 이야기해봐.",
+            "utterance_id": "BE22009957.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응, 고마워. 네 덕분에 화가 한층 가라앉는 것 같아. 집 들어가서 부모님과 얘기해볼게.",
+            "utterance_id": "BE22009957.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "다시 좋은 부모 자식 간의 관계로 돌아갈 수 있기를 바라!",
+            "utterance_id": "BE22009957.14"
+        }
+    ]
+}

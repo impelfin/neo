@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009179",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009179",
+        "relation": "친구",
+        "situation": "클럽에 갔는데 내가 좋아하는 노래가 많이 나온다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘따라 기분 좋은 일만 생기는 것 같아. 클럽에 갔는데 내가 좋아하는 노래가 계속 연달아 나와.",
+            "utterance_id": "BE22009179.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 네가 평소에 음악도 즐겨 듣고, 분위기도 좋게 만드니까 곡 선정하는 분이랑도 마음이 통했나 봐.",
+            "utterance_id": "BE22009179.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬나 봐. 오랜만에 클럽 가서 너무 신났는데 노래마저 그러니까 더 방방 뛰었어.",
+            "utterance_id": "BE22009179.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가고 싶었던 곳에 가서 좋아하는 음악을 들으면 누구나 기분이 더 좋을 거야. 요즘 기분이 많이 우울해 보였는데 스트레스 푼 것 같아서 나까지 기분이 좋아진다.",
+            "utterance_id": "BE22009179.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 같이 기뻐해 주니 좋네. 사실 어제는 그렇게 기대하지 않은 날이었거든. 며칠째 일이 잘 안 풀려서 머리 식힐 겸 간 거였어.",
+            "utterance_id": "BE22009179.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 그런 날은 가만히 있기보다는 하고 싶은 거 하면서 스트레스 푸는 게 최고지!",
+            "utterance_id": "BE22009179.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그래서 안 틀어줄 것 같았던 발라드도 선곡하니까 틀어주더라고?",
+            "utterance_id": "BE22009179.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 평소에 밤낮 가리지 않고, 아르바이트하고 학업 병행하면서 정말 열심히 살았는데. 내가 옆에서 보아도 너는 멋진 친구였어. 근데 하늘이 그걸 다 알고 보상해 주나 봐.",
+            "utterance_id": "BE22009179.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 말해주니 난 놀러 간 거였는데 괜히 쑥스럽네.",
+            "utterance_id": "BE22009179.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 날도 있어야지. 놀러 갔어도 네 할 일 다 하고 간 거니까 행복한 일이 생기는 거야. 어제는 모든 게 잘 되는 날이었나 봐.",
+            "utterance_id": "BE22009179.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 내가 좋아하는 가수 곡은 거의 다 나온 것 같아. 가는 길 내내 들었던 팝송도 나왔던 거 있지? 얼마나 깜짝 놀라는지 몰라.",
+            "utterance_id": "BE22009179.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대박! 그건 정말 행운이네! 내가 너였어도 좋은 일들이 자꾸 생기면 너무 기분이 날아갈 것 같아.",
+            "utterance_id": "BE22009179.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 마음을 딱! 아는구나. 이렇게 대화 나누니까 어제가 생각나면서 더 기쁘네.",
+            "utterance_id": "BE22009179.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 행복하다고 느끼는 건 아마 그만큼 노력도 하고 감사할 줄 알기 때문일 거야. 항상 좋은 일만 가득할 거니까 지금처럼 웃고, 기뻤으면 좋겠어.",
+            "utterance_id": "BE22009179.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나를 위해서 좋은 말 많이 해줘서 고마워.",
+            "utterance_id": "BE22009179.15"
+        }
+    ]
+}

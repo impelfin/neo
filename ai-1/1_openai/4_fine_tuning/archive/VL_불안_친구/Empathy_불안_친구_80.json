@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010049",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010049",
+        "relation": "친구",
+        "situation": "조카들이 놀러와서 놀아줬더니 피곤하다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 너무 피곤하다.",
+            "utterance_id": "BE22010049.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일 있었어?",
+            "utterance_id": "BE22010049.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "큰 언니네 가족이 놀러 왔거든. 형부랑 데이트 갈 거라고 애들 봐 달라고 하더니 아직도 안 들어왔어. 오랜만에 쉬는 날인데 더 늦을까 불안한데.",
+            "utterance_id": "BE22010049.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조카들이랑 놀아줘서 그렇구나. 애들 보는 거 보통 힘든 일 아닌데 스트레스 많이 받겠다.",
+            "utterance_id": "BE22010049.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전부 남자아이들이라서 체력도 장난 아니야. 이러다가 자고 가겠다고 할까 봐 걱정된다. 우리 집 빈방 없어서 내 방에서 재워야 할 텐데.",
+            "utterance_id": "BE22010049.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "벌써 저녁 8시인데 곧 들어오시겠지, 너무 걱정하지 마. 쉬는 날인데 쉬지도 못하고 언니도 늦고 많이 힘들겠어.",
+            "utterance_id": "BE22010049.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그것도 그렇고 내가 아끼던 그릇을 아까 간식 먹다가 애들이 깨뜨렸어. 어려서 뭐라고 하기도 그렇고 너무 스트레스를 받아.",
+            "utterance_id": "BE22010049.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 조카가 내 게임기 고장 낸 적 있어서 네 마음 너무 알겠다. 그래도 큰 언니 오랜만에 보는 거 아니야?",
+            "utterance_id": "BE22010049.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇기는 해. 언니 부산에 사니까 진짜 오랜만이지. 조카들도 오랜만에 보고 너무 커서 놀랐어. 그나저나 왜 이렇게 안 들어오나 몰라, 나도 좀 쉬어야 하는데.",
+            "utterance_id": "BE22010049.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 어린애들은 금방 크잖아. 그래도 오랜만에 고향에 와서 큰 언니가 너무 좋으셔서 늦는 거라고 생각하면 어때? 그럼 네 마음도 조금 덜 불안하고 스트레스도 덜 받을 것 같은데.",
+            "utterance_id": "BE22010049.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지난 추석에 왔다가 처음 오는 거니까 오랜만이네. 하긴, 언니 친구들도 전부 결혼하고 타지에 산다고 들어서 애들 맡길 사람도 없었을걸. 고향에 오랜만에 왔으니 기분이 좋을 것 같긴 해.",
+            "utterance_id": "BE22010049.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇구나. 오히려 네가 있어서 다행이네. 그리고 너 대학교 다닐 때 아동 센터 봉사 오래 해서 아이들이랑 잘 놀아 주잖아.",
+            "utterance_id": "BE22010049.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 이상하게 아이들이 나를 잘 따르더라. 누가 뭐라고 해도 조카들이라서 더 예쁜 것도 있고. 오랜만에 쉬는 날인데 너무 피곤해서 괜히 예민했나 봐.",
+            "utterance_id": "BE22010049.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 네 상황이었으면 그랬을 거야. 쉬는 날인데 조카들 돌보는 거 쉽지 않잖아. 난 오히려 아이들을 잘 못 봐서 네가 대단하다고 생각하는걸.",
+            "utterance_id": "BE22010049.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "오랜만에 온 언니 애들 좀 봐준다고 생각하니 좀 덜 불안하다. 쉬는 거야 다음 주에 쉬면 되지, 내가 너무 스트레스를 받았나 봐. 큰 언니 들어올 때 아이스크림이나 사 오라고 해야겠다, 고마워!",
+            "utterance_id": "BE22010049.15"
+        }
+    ]
+}

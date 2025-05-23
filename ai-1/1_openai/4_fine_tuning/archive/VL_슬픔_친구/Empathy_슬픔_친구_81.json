@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010226",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010226",
+        "relation": "친구",
+        "situation": "금연치료까지 받았는데 다시 담배를 물게 됐다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 내가 이렇게나 끈기가 없을 줄은 몰랐어. 내게 너무 실망스럽고 이런 상황이 너무 슬퍼.",
+            "utterance_id": "BE22010226.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일 있어?",
+            "utterance_id": "BE22010226.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저번에 금연하겠다고 치료까지 받았는데, 다시 담배를 피우게 됐어. 나조차 이렇게 실망스러운데 너도 그렇지?",
+            "utterance_id": "BE22010226.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "금연하려고 주변의 도움까지 받았는데 안 되었으니 실망감에 슬픔이 폭풍처럼 몰아쳤을 것 같아. 나도 예전에 다이어트한다고 트레이닝까지 받았는데 요요로 다시 돌아왔을 때 나에게 실망해서 슬펐거든. 네 마음을 이해해.",
+            "utterance_id": "BE22010226.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 그래서 나 자신에게 실망하고 슬퍼했어. 아무리 힘든 일이 있어도 다시는 피우지 않겠다고 결심했는데 말이야.",
+            "utterance_id": "BE22010226.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만 또 요즘 네 일이 잘 안 풀렸잖아. 그래서 너무 힘드니까 인내심이 유지되기 힘들었을 수도 있지. 우리가 다 참고 견디며 살아갈 수는 없으니까.",
+            "utterance_id": "BE22010226.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무리 힘들어도 그렇지. 환경 때문이라고 하다 보면 내가 하는 모든 일의 책임과 탓을 하는 핑계 같아. 그렇게 하면 주체적으로 행동하던 내가 더 실망스러워.",
+            "utterance_id": "BE22010226.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 그렇게 심각하게 받아들이려고 하지 마. 네가 힘든 것이 전적으로 네 책임이 아니고 어떤 환경과 관계를 맺으면서 네가 느끼는 감정들이잖아. 그러니까 너는 잘 버텨왔고 견뎌왔다는 것을 생각하고 조금은 느긋하게 자신을 사랑해줬으면 해.",
+            "utterance_id": "BE22010226.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조금은 풀어둬도 될까?",
+            "utterance_id": "BE22010226.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 당연하지. 우리가 전적으로 모든 걸 제어하고 결정할 수는 없잖아. 상황에 따라 예측하지 못하는 일들이 너무 많이 벌어지기도 해. 너의 인내와 끈기가 부족한 게 아니라 담배를 다시 피우게 될 만큼 상황이 흘러갔다고 생각하는 건 어때?",
+            "utterance_id": "BE22010226.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 내가 모든 걸 다 예측하고 결정할 수는 없다는 사실을 잊고 있었던 것 같아. 이렇게 생각하니까 나 자신에게 실망하고 슬퍼했던 것들이 조금은 해소가 된다.",
+            "utterance_id": "BE22010226.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이네. 너무 힘들어하지 말고 어쩔 수 없는 것은 이렇게 나한테 연락이라도 해서 풀어. 내가 힘이 닿는 대로 도와주고 이해하려고 노력할게.",
+            "utterance_id": "BE22010226.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "덕분에 많이 위로되었어. 항상 같이 고민해줘서 고마워.",
+            "utterance_id": "BE22010226.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그럼, 언제든지 편하게 연락해.",
+            "utterance_id": "BE22010226.14"
+        }
+    ]
+}

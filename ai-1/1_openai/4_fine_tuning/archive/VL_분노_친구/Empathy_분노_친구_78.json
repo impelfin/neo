@@ -1,0 +1,224 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22009968",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009968",
+        "relation": "친구",
+        "situation": "쌍꺼플 수술한 친구가 썬글라스를 끼고 모임에 나왔다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 진짜 어이없는 일이 있었어.",
+            "utterance_id": "BE22009968.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 사건이 있었길래 그래?",
+            "utterance_id": "BE22009968.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저번에 나 코 수술했다고 엄청 뭐라고 한 친구가 있거든? 성형하는 거 이해 안 된다고. 공개적인 모임에서 말이야.",
+            "utterance_id": "BE22009968.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 말을 친구들이 있는 데서 들었다니 너무 기분 나빴겠는데. 그래서 그 친구가 왜?",
+            "utterance_id": "BE22009968.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "근데 이번에 걔가 선글라스를 쓰고 모임에 나왔더라고. 알고 보니 쌍꺼풀 수술해서 그런 거 있지?",
+            "utterance_id": "BE22009968.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 정말? 네 입장에서는 황당할 수 있었겠다.",
+            "utterance_id": "BE22009968.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 완전 화났는데 거기서 뭐라고 할 순 없으니까, 그냥 집에 왔어. 근데 자꾸만 생각나서 분해 죽겠는 거 있지!",
+            "utterance_id": "BE22009968.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "속 시원하게 한마디 해줄걸, 하고 후회되나 보네. 나라도 그럴 거야. 원래 그때 하지 못한 말이 집에 와서 계속 아른거리는 법이지.",
+            "utterance_id": "BE22009968.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 딱 그거야. 그래서 지금 그 친구한테 메시지라도 보낼까 생각하고 있어.",
+            "utterance_id": "BE22009968.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말을 하고 나면 좀 속이 시원해질 것 같아?",
+            "utterance_id": "BE22009968.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 잘 모르겠어. 넌 어떻게 생각해.",
+            "utterance_id": "BE22009968.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "글쎄, 네가 꼭 하고 싶다면 말리지는 않겠어. 나도 네 마음이 이해가 가니까. 하지만 내 생각에는 너는 타인에게 못된 말을 하고 기분이 좋아지는 사람이 아닌 것 같아.",
+            "utterance_id": "BE22009968.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음. 확실히 하고 싶은 말을 한다고 속이 시원해지기보단, 찝찝해서 잠을 못 잘 것 같긴 해.",
+            "utterance_id": "BE22009968.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그것 봐. 그 친구의 못된 언행에 휘둘릴 필요는 없어. 나에게 중요하지 않은 사람이 한 말에 귀 기울여봤자 피곤한 건 너니까. 물론 당시를 생각하면 화도 나고 분하겠지만 그렇구나 하고 넘기는 태도가 오히려 좋을 거야.",
+            "utterance_id": "BE22009968.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말이 맞아. 원래도 남에게 상처 주는 말을 많이 하는 친구긴 하거든.",
+            "utterance_id": "BE22009968.15"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇구나. 함께 있으면서 속상한 일이 많았겠는데. 네가 좋아하는 영화라도 보면서 기분을 푸는 건 어떨까?",
+            "utterance_id": "BE22009968.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거 좋은 생각이다. 가만히 있으면 자꾸 그 친구 생각을 하게 되니까.",
+            "utterance_id": "BE22009968.17"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 곳으로 집중을 돌리면 한결 마음이 편해질 거야!",
+            "utterance_id": "BE22009968.18"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워, 친구야! 역시 너에게 고민 상담하면 마음이 깃털처럼 가벼워진다니까.",
+            "utterance_id": "BE22009968.19"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네 마음이 풀리면 그게 바로 내 기쁨이야. 언제든지 공감화자 표 고민 상담소를 이용해 줘!",
+            "utterance_id": "BE22009968.20"
+        }
+    ]
+}

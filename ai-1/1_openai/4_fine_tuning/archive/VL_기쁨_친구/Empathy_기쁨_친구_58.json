@@ -1,0 +1,161 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009458",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009458",
+        "relation": "친구",
+        "situation": "교생 선생님을 좋아하게 되었다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 좋아하는 사람 생겼어!",
+            "utterance_id": "BE22009458.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 정말? 누군지 말해줄 수 있어?",
+            "utterance_id": "BE22009458.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에 3반으로 배정받으신 수학 교생 선생님을 좋아하게 되었어! 선생님을 처음 본 순간부터 마치 운명처럼 끌린 것 같아.",
+            "utterance_id": "BE22009458.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와, 처음 본 순간부터 사랑에 빠지기 쉽지 않은데. 기분 정말 날아가듯이 좋았겠다!",
+            "utterance_id": "BE22009458.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 내가 제일 싫어하는 과목이 수학임에도 불구하고 선생님 때문에 수학이 좋아질 정도라니까?",
+            "utterance_id": "BE22009458.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "싫어하는 것을 좋아하게 만드는 선생님의 매력에 네가 정말 가슴이 떨렸겠다! 어떤 부분이 제일 마음에 들었어?",
+            "utterance_id": "BE22009458.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무엇보다도 학생들에게 열정적으로 수학을 가르치는 모습이 너무 다정하고 멋졌어. 볼 때마다 늘 가슴이 간질간질해!",
+            "utterance_id": "BE22009458.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 온 마음을 다해 좋아하는 마음이 들 수밖에 없겠다. 네 말만 들어도 좋은 선생님이라는 게 느껴져.",
+            "utterance_id": "BE22009458.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응! 게다가 나는 다른 반인데도 불구하고 항상 먼저 인사해주시고 안부를 물어봐 주시거든. 배려 넘치는 모습도 무척 마음에 들어.",
+            "utterance_id": "BE22009458.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선생님의 멋진 모습에 네 마음이 정말 사랑으로 가득 차겠다. 그러면 선생님께 좋아하는 감정을 표현해봤어?",
+            "utterance_id": "BE22009458.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저번에 수업 끝나고 용기 내어서 편지와 함께 좋아한다고 전했어. 선생님이 고맙다고 하면서 나중에 밥 한번 먹자고 했는데 너무 좋아서 방방 뛰었어!",
+            "utterance_id": "BE22009458.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 너무 좋았겠다! 역시 내 친구답게 용기 내어서 마음을 표현하는 모습이 너무 멋져.",
+            "utterance_id": "BE22009458.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워! 그래도 막상 선생님이 부담스러워할지도 모르니까 천천히 다가가 보려고!",
+            "utterance_id": "BE22009458.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "내가 아는 너는 사랑스럽고 다른 사람들을 기분 좋게 만들어주는 능력이 있는 멋진 친구잖아. 분명 선생님도 네 그 모습을 좋아하실 거야!",
+            "utterance_id": "BE22009458.14"
+        }
+    ]
+}

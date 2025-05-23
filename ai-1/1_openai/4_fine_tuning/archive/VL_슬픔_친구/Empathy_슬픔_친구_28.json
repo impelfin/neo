@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009583",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009583",
+        "relation": "친구",
+        "situation": "SNS에 나쁜 댓글이 달리면 밤잠을 설친다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 밤에도 잠자긴 글렀어. 마음이 너무 심란하다.",
+            "utterance_id": "BE22009583.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 무슨 일이니? 밤이 깊었는데 네가 잠들지 못해서 걱정돼.",
+            "utterance_id": "BE22009583.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "최근에 내가 그린 그림을 올리는 SNS 계정을 만든 거 알지? 가끔 나쁜 댓글이 달린 날에는 밤잠을 설치곤 하거든. 오늘 댓글 알람이 떠서 봤는데 나쁜 댓글이었어.",
+            "utterance_id": "BE22009583.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋지 않은 내용이 적힌 댓글은 보기만 해도 기분이 좋지 않지. 게다가 네 SNS에 달린 댓글이라 네 마음이 얼마나 아플지 이해돼. 나쁜 내용이 적힌 댓글을 보고 네가 슬퍼하는 것이 느껴져서 나도 속상하다.",
+            "utterance_id": "BE22009583.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이름도 얼굴도 모르는 사람이 내 그림을 보고 욕을 남기고 갔더라고. 그런 이상한 댓글은 무시해야 한다는 걸 머리로는 알면서도 쉽지 않아. 나쁜 댓글을 읽으면 한없이 무력해지고 우울해져.",
+            "utterance_id": "BE22009583.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 아무리 단단한 사람이라도 그런 내용을 아무렇지 않게 무시하는 일은 어려운 게 당연해. 하지만 나는 네가 그런 나쁜 댓글로 인해서 너무 많이 슬퍼하지 않았으면 좋겠어.",
+            "utterance_id": "BE22009583.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 댓글이 100개가 달려도 나쁜 댓글 1개 때문에 슬퍼지곤 해. 그런 댓글을 신경 쓰지 않으면 될 일인데, 그러지 못하는 내가 한심해져서 우울해. 머릿속에 댓글 내용이 자꾸 맴돌아서 잠이 안 와.",
+            "utterance_id": "BE22009583.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "슬픈 마음이 들면 그 감정에서 바로 빠져나오기 힘들지. 그러니 너를 탓하지 않았으면 좋겠어. 그리고 나쁜 댓글보다는 좋은 댓글을 네가 더 오래 기억하길 바라.",
+            "utterance_id": "BE22009583.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 그러고 보니 나를 깎아내리기 위한 나쁜 댓글 하나 때문에 좋은 댓글의 내용을 눈여겨보지 못했어. 좋은 댓글을 오래 기억하려고 했던 적은 없었지.",
+            "utterance_id": "BE22009583.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나쁜 댓글을 보게 되는 날에는 좋은 댓글을 찾아 읽으며 마음에 새겨보는 것은 어떨까? 네 작품을 좋아하는 사람들의 댓글을 기억하며 기분 좋은 마음으로 잠들 수 있길 바라. 네 마음에 늘 행복이 가득했으면 좋겠다.",
+            "utterance_id": "BE22009583.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 응원과 조언이 큰 위로가 된다. 나를 비난하는 사람보다 나를 응원해주고 사랑해주는 사람들의 따뜻한 마음을 더 기억해야겠어.",
+            "utterance_id": "BE22009583.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 기운을 차린 것 같아서 참 다행이야! 너를 좋아해 주는 사람들을 믿고 힘을 내, 친구야! 나도 너를 사랑하는 팬 중의 한 명이라는 걸 잊지 마.",
+            "utterance_id": "BE22009583.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워, 친구야. 네가 내 팬이라는 말이 정말 큰 힘이 된다. 네 말처럼 나를 사랑해주는 사람들을 기억하며 힘을 낼게!",
+            "utterance_id": "BE22009583.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "마음이 힘들 때면 언제든지 나를 찾아와. 언제나 네 편이 되어줄게!",
+            "utterance_id": "BE22009583.14"
+        }
+    ]
+}

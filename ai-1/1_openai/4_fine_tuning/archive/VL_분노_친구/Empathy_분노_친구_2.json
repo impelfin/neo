@@ -1,0 +1,198 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22009311",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009311",
+        "relation": "친구",
+        "situation": "황소개구리들을 목격했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직도 저수지나 강가에 황소개구리가 있네.",
+            "utterance_id": "BE22009311.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몇 년 동안이나 정화 활동을 하려고 황소개구리 포획을 했는데. 아직도 황소개구리가 나와? 네가 황소개구리가 유입돼서 퍼진 후부터 포획 활동을 열심히 했는데, 너 마음이 얼마나 언짢을까?",
+            "utterance_id": "BE22009311.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 정말 어이가 없고 화가 나서 머리끝까지 분노가 치민다. 포획하고 또 하고 매년 해도 왜 아직도 나오는지.",
+            "utterance_id": "BE22009311.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니깐, 네가 그 더운 한 여름에도 황소개구리의 폐해에 해대서 강연하러 다니고 포획하러 다니는데. 벌써 활동한 지 20년이 넘었는데. 아직 나온다니 네가 정말 말이 안 나오게 열받을 거 같아.",
+            "utterance_id": "BE22009311.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 정말 화나고 내가 지금까지 한 활동들이 아무 의미 없는 거 같아서 짜증도 나.",
+            "utterance_id": "BE22009311.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 같아도 그럴 거 같아. 아파트에 자꾸 재활용 분리수거를 안 하는 사람들이 있어서 10여 년째 분리수거 선도 활동을 하고 있는데. 여전히 분리수거가 안 돼서 배출된 재활용품들을 보면 내가 한 활동들이 허탈해.",
+            "utterance_id": "BE22009311.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 정말 허탈하고 한심스러울 때도 있어. 너 얘기대로 내가 지금까지 뭐 한 거지 싶기도 하고 아무 의미 없는 거 같아. 그래서 짜증도 나고 화도 나는데 사실 슬픈 마음도 들더라고.",
+            "utterance_id": "BE22009311.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 그럼, 당연히 그럴 거 같아. 네가 정말 열정적으로 마음을 다했는데. 그대로 인 거 같으면 너 마음이 얼마나 아프고 슬프겠니.",
+            "utterance_id": "BE22009311.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그래 내가 지금까지 한 정화 활동이랑 포획 활동이 아무 의미도 효과도 없구나 싶어. 그래서 눈물이 나게 슬프고 또 짜증과 분노가 생겨.",
+            "utterance_id": "BE22009311.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "분노가 치미는 것도 당연한 거 같아. 열심히 하지 않았으면 화도 안 날 텐데. 네가 진심으로 열심히 했기에 화도 많이 나는 거 같아.",
+            "utterance_id": "BE22009311.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 정말 너 말대로 20년 동안 환경활동가 생활을 하면서 진심으로 환경을 위해서 노력했는데. 내가 가장 중점으로 두고 한 황소개구리 없애기 사업이 성과를 못 내니 마음이 너무 아프고 쓰리다.",
+            "utterance_id": "BE22009311.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 마음이 얼마나 미어질지 생각하니 나도 마음이 아프고 너무 안쓰럽고 안타깝다. 그래도 너는 정말 너무 잘해왔고 지금도 너무 잘하고 있어. 지금까지 네가 한 노력이 사라지는 건 아니잖아, 그리고 너 스스로 뿌듯하면 충분한 거 같아.",
+            "utterance_id": "BE22009311.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "나 자신의 활동에는 매우 만족감도 높고 뿌듯해. 단지, 결과가 별로 안 좋아서 분노가 들끓는 거 같아.",
+            "utterance_id": "BE22009311.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 마음이 충분히 이해해, 화나고 짜증 나고 슬플 거 같아. 그런데, 너의 활동으로 많은 게 변한 거 같아, 사람들이 황소개구리 생태계 교란을 다들 알잖아. 이 모든 게 네가 열정을 다해서 정화 활동 그리고 강의를 해서 그런 거 같아.",
+            "utterance_id": "BE22009311.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 이제는 사람들이 황소개구리가 생태계를 교란하고 환경에 악영향을 준다는 건 기본적으로 알더라고. 그래서 사실 그런 얘기들을 안다는 것만으로도 만족스럽고 뿌듯해.",
+            "utterance_id": "BE22009311.15"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 나는 네가 너무 자랑스럽고 대견해. 지금 그 자체로 너무 멋져.",
+            "utterance_id": "BE22009311.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너랑 문자하고 나니 내 마음이 다 풀린다. 그리고 너 조언대로 내가 한 정성과 마음은 변하는 게 아니니까 만족스럽다. 고마워.",
+            "utterance_id": "BE22009311.17"
+        }
+    ]
+}

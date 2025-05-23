@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009394",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009394",
+        "relation": "친구",
+        "situation": "퇴근하고 들어왔는데 싱크대에 설거지거리가 한가득이다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 싱크대에 설거짓거리가 그대로 있을 수 있지? 남편이 설거지하는 날인데 어쩜 이래? 점점 화가 나려고 하는데.",
+            "utterance_id": "BE22009394.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 남편이 집안일을 많이 안 도와주니까 네 마음에 화가 쌓여서 짜증스러운 마음이 드는구나? 얼마나 속상하고 화가 날까.",
+            "utterance_id": "BE22009394.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 남편만 아니었으면 벌써 소리 지르고 난리 났었을 거야. 소파에 누워서 티브이 보는 것 보면 진짜 울화통이 터져.",
+            "utterance_id": "BE22009394.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 우리 집 남편이 설거지 안 하고 가만히 있는 것 보면 진짜 짜증 나더라. 하루 이틀도 아니고 점점 마음이 쌓여가는 것 같아.",
+            "utterance_id": "BE22009394.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까. 하나 부탁하면 바로 하는 법이 없어. 그러면서 티브이는 엄청 열심히 봐. 생각하니까 또 화나네.",
+            "utterance_id": "BE22009394.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 어쩜 다들 그렇게 똑같니? 나도 어제 그래서 엄청나게 화를 냈어. 네가 느끼는 감정이 뭔지 잘 알 것 같아.",
+            "utterance_id": "BE22009394.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "핑계는 또 엄청 많아요. 뭐가 그렇게 힘든지. 누구는 일 안 해서 때 되면 설거지하는 건가.",
+            "utterance_id": "BE22009394.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 남편들 이야기하는 거 들으면 화가 치밀어 올라. 내 상황도 좀 신경 써주면 좋을 텐데 말이야. 너는 일까지 나가니까 더 화나고 속상할 것 같아.",
+            "utterance_id": "BE22009394.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하루가 멀다 하고 화만 난다. 매일 똑같은 말만 반복하니까 이제는 좀 지치는 것 같기도 해.",
+            "utterance_id": "BE22009394.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그렇게 생각이 들 때가 많아. 하지만 어쩌겠어. 결혼 생활은 시작했고, 내가 선택한 남편이니 좋은 마음으로 지내야지. 이야기를 통해서 합의점을 찾을 수 있을 거야.",
+            "utterance_id": "BE22009394.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇겠지? 맨날 화만 내면 남편도 기분이 썩 좋지는 않겠지? 네 말을 들으니 화가 풀리는 것 같아. 좋게 생각할 수 있는 방법은 있으니까.",
+            "utterance_id": "BE22009394.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 말을 이해해 줘서 고마워. 우리가 생각했던 것보다 별일 아닐 수 있을 것 같아. 너무 걱정하지 않았으면 좋겠어.",
+            "utterance_id": "BE22009394.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 싱크대에 쌓여 있는 설거짓거리를 보고 내가 조금 흥분했던 것 같아. 덕분에 짜증도 많이 가라앉았어. 남편이랑 이야기를 좀 해봐야겠다.",
+            "utterance_id": "BE22009394.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "누구나 그렇게 생각할 수 있을 거야. 나만 봐도 너랑 똑같이 화를 내고 있는걸. 좋은 게 좋은 거니까 이야기해 보면서 잘 풀어보자.",
+            "utterance_id": "BE22009394.14"
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009237",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009237",
+        "relation": "친구",
+        "situation": "남편의 구직 생활이 길어지고 있다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 불안해서 도통 잠을 잘 수가 없어.",
+            "utterance_id": "BE22009237.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이구, 무슨 초조한 일이나 걱정거리라도 생긴 거야?",
+            "utterance_id": "BE22009237.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남편 구직 생활이 벌써 6개월이 지나가잖아. 기간이 계속 길어지니 요즘 부쩍 초조한 마음이 들고 불안해서 잠을 잘 못 자겠어.",
+            "utterance_id": "BE22009237.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "반년이 지나가니 당연히 네 마음이 불안하지. 안정이 되지 않으니까 더 초초해지고 말야. 잠을 못 잔다니 건강을 해칠까 염려된다.",
+            "utterance_id": "BE22009237.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어, 불안해서 자꾸 남편이 어떻게 하고 있나 궁금하게 돼. 집에서도 구직 활동 이외에 쉬고 있으면 왜 일을 안 구하지? 하는 마음이 들고 자꾸 불만족스러운 감정이 들고.",
+            "utterance_id": "BE22009237.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 내 동생이 직업 구하는 동안 게임하고 앉아 있으면 답답하고 한심하게 바라보곤 했어. 매일 제대로 하고 있나 확인하기도 했고. 근데 남편인데 오죽할까, 너 그 마음 이해되고도 남는다.",
+            "utterance_id": "BE22009237.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 딱 그 답답한 마음, 확인하고 싶은 욕심! 네가 알아주니 속이 다 시원하다! 그리고 자꾸 남편이랑 대화하는 게 조심스러워져서 그것도 걱정이야.",
+            "utterance_id": "BE22009237.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 남편 마음은 오죽할까 싶으니 네가 더 조심스럽고 눈치 보게 될거야. 내 친구 얼마나 스트레스받을까 생각하니 내 마음이 다 아프다.",
+            "utterance_id": "BE22009237.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 일 구하는 거 잘 되고 있는지 물어보고 싶어도 눈치 보여서 묻지도 못하겠고, 어찌해야 할지 모르겠어. 속 시원하게 물어보고 싶어 솔직히. 이러다 불안해서 미칠 것 같아.",
+            "utterance_id": "BE22009237.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에이 남편을 좀더 믿어봐. 그런 믿음이 네 안에 있다면, 확인하고 싶은 마음, 불안하고 초조한 마음이 줄어들 거야. 네 남편 능력 있는 사람이라는 거 나도 알아, 그러니까 시간에 쫓겨서 한다는 괜한 걱정은 좀 접어둬.",
+            "utterance_id": "BE22009237.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남편에 대한 믿음이 없어서 더 그랬던 걸까? 이런저런 생각에 잠도 잘 못 자거든 요즘은. 너 말대로 남편을 좀더 사랑하고 믿어봐야겠어.",
+            "utterance_id": "BE22009237.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 잠 못 자는 거 정말 힘들겠다. 그래, 그렇게 바라보다 보면 남편도 네 사랑과 관심을 느껴 더 자신감을 갖게 될 거야.",
+            "utterance_id": "BE22009237.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "돌이켜 보면 남편을 원망스런 눈빛으로 바라보고 있었던 것 같아. 네 덕분에 내 모습을 반성하게 된다.",
+            "utterance_id": "BE22009237.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 스스로를 돌아볼 기회가 생기고 고쳐가다보면, 마음도 편해지고 잠도 잘 잘 수 있게 될 거야. 남편과 관계도 더 편해질 수 있고.",
+            "utterance_id": "BE22009237.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "이렇게 터놓고 대화를 나누다보니 네가 내 곁에 있다는 게 정말 행운이라는 생각이 들어. 고마워, 나도 네가 말한대로 믿음과 사랑의 마음으로 남편을 대해봐야겠어.",
+            "utterance_id": "BE22009237.15"
+        }
+    ]
+}

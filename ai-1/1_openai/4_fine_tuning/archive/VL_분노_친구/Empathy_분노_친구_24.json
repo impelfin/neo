@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009492",
+        "listener_behavior": [
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009492",
+        "relation": "친구",
+        "situation": "해외 여행을 가고 싶은데 자가격리기간이 길어서 가지 못한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 시국에는 내 마음대로 여행도 제대로 못 다니나 봐. 휴, 너무 짜증이 난다.",
+            "utterance_id": "BE22009492.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이야. 여행을 못 가게 되었니?",
+            "utterance_id": "BE22009492.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 연휴 때 연차를 껴서 해외에 가려 했었거든. 근데 거의 모든 나라의 자가격리 기간이 내 휴가 기간보다 길더라고. 그래서 너무 화가 나더라.",
+            "utterance_id": "BE22009492.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 정말 많이 아쉽겠다. 쉬라고 준 기간에 자기가 하고 싶은 걸 못 한다니, 얼마나 억울하겠어. 너의 화난 마음 이해해.",
+            "utterance_id": "BE22009492.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 다들 국내로 알아보라고 하는데, 국내 여행은 언제든 갈 수 있는 거잖아. 그래서 이국적인 분위기를 느껴보고 싶었단 말이야. 내 마음대로 할 수 없는 이 현실이 너무 화가 나.",
+            "utterance_id": "BE22009492.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 해외여행은 국내 여행이랑 확실히 다르긴 하지. 올해 네가 누구보다 열심히 일해 온 것을 알아서 더 안타깝다. 게다가 계획하고 있는 일이 틀어진 것이니까 더 화날만해.",
+            "utterance_id": "BE22009492.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 계획이 틀어져서 급하게 국내로 가려고 알아보는데 이미 성수기엔 갈만한 곳이 꽉 찼더라고. 이번 여름휴가는 호화롭게 보내고 싶었는데 급하게 아무 데나 가야 할 것 같아서 너무 속상해.",
+            "utterance_id": "BE22009492.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 그렇게 실망하기엔 일러. 원래 기대도 안 했던 것에서 더 감명받는 법이야. 오히려 기대가 없이 떠난 여행이라 그만큼 네 예상보다 만족스럽고 멋진 게 많을 거라고 생각해. 편하게 생각해봐.",
+            "utterance_id": "BE22009492.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 휴가 기대도 안 하긴 했어. 근데 네 말대로 그만큼 예상보다 좋은 게 많을 거라고 긍정적으로 생각해 보진 못했었네.",
+            "utterance_id": "BE22009492.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 항상 안 좋은 일이 생기면 무작정 화만 났거든. 그런데 어차피 바꿀 수 없는 일에 괜히 화만 내봤자 나만 손해라는 걸 알았어. 그래서 내 기분을 계속 그렇게 망치지 않게 좋게 생각하니까 너무 좋더라고.",
+            "utterance_id": "BE22009492.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "듣고 보니 그러네. 어차피 내가 바꾸지도 못하는 일 계속 붙잡고 있어봤자 화만 더 나는 것 같아. 네 말대로 그 상황을 받아들이고 좋게 생각해 봐야겠어.",
+            "utterance_id": "BE22009492.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "분명 이번 너의 여름휴가에 멋진 일들이 일어날 거야. 요즘에 너무 수고 많았으니까 그만큼 너한테 좋은 추억을 만들고 왔으면 좋겠어. 사소한 행복은 생각지도 못한 곳에서 생기기 마련이니까.",
+            "utterance_id": "BE22009492.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 정말 고맙다. 나한테 좋은 일들이 일어난다고 말해주니까 진짜 그럴 것만 같아. 기대치는 낮지만 그만큼 모든 게 그보단 나을 거라고 생각하니 마음이 편해진다.",
+            "utterance_id": "BE22009492.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 좀 나아졌다니 다행이다. 우리에게는 아직 많은 날이 있으니 해외여행 갈 기획도 많겠지. 코로나가 얼른 잠잠해지면 나랑도 한번 가자.",
+            "utterance_id": "BE22009492.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너무 좋지. 진짜 잠잠해지면 계획 한번 세워보자. 네 덕분에 화가 많이 가라앉았어. 고마워.",
+            "utterance_id": "BE22009492.15"
+        }
+    ]
+}

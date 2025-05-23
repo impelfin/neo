@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010108",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010108",
+        "relation": "친구",
+        "situation": "여드름 자국이 심해 화장으로도 가려지지 않는다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여드름 자국이 화장으로도 가려지지 않아서 너무 슬프다.",
+            "utterance_id": "BE22010108.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그거 있는데, 쉽게 가려지지는 않더라고. 사람이라면 누구나 그런 거니까 너무 슬퍼하지 않길 바라.",
+            "utterance_id": "BE22010108.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 얼굴이 너무 흉측하게 느껴져서 거울을 볼 수가 없어. 자존감이 너무 떨어지고, 한없이 눈물이 나.",
+            "utterance_id": "BE22010108.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 피부 상태로 인해, 많이 속상한 거구나. 하지만 그 정도의 여드름은 자국은 누구나 있을 수 있는걸? 난 네가 여드름 자국이 많다고 생각하지 않아.",
+            "utterance_id": "BE22010108.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만 연예인이나 인플루언서들을 보면 여드름 하나 없이 피부가 정말 좋잖아. 그들에 비하면 난 별 볼품없어.",
+            "utterance_id": "BE22010108.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 사람들은 보이는 직업이기 때문에 더 많은 돈과 노력을 들이겠지. 우리 같은 평범한 사람들을 기준으로 본다면, 너의 피부 그렇게 나쁘다고는 생각 안 들어.",
+            "utterance_id": "BE22010108.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 연예인처럼 피부 좋아지고 싶어. 자꾸 그들과 비교하게 돼. 그에 비해 못난 내 모습을 보면 한없이 슬퍼져.",
+            "utterance_id": "BE22010108.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자신이 못나게 느껴질 때의 그 슬픔 이해해. 나도 어릴 적 부러워하는 사람이 있었는데, 그 사람과 비교하는 마음이 들으니 너무 속상하더라고.",
+            "utterance_id": "BE22010108.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 화려한 그들의 외모를 보면 난 주눅이 들어. 나에게도 그런 매력이 있었으면 좋겠어. 내가 너무 못난 것 같아서 절망스럽고 고통스러워.",
+            "utterance_id": "BE22010108.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "꼭 겉으로 보이는 모습이 아니더라도, 넌 정말 착한 마음을 갖고 있잖아. 너의 따뜻한 마음은 아름다운 겉모습보다 훨씬 가치 있는 매력이라고 생각해.",
+            "utterance_id": "BE22010108.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 하지만 난 자신이 없어. 내 내면의 착한 마음을 사람들이 알아주는 것도 아니잖아.",
+            "utterance_id": "BE22010108.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 알고 있는걸? 난 따뜻한 마음을 가진 너를 사랑해. 그리고, 타인이 알아주지 않는다고 해서 네 가치가 변하는 것도 아닌걸?",
+            "utterance_id": "BE22010108.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 난 정말 거울도 보기 싫을 정도로 슬펐거든. 너의 말을 듣고 나니 자신감이 생긴다.",
+            "utterance_id": "BE22010108.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 그리고 난 긍정적인 너의 성격도 참 좋아해. 외모보다 더 중요한 것들은 내면의 아름다움이라 생각해. 넌 그런 아름다움을 가졌으니 너무 속상해 말았으면 좋겠어.",
+            "utterance_id": "BE22010108.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "너와 말하니 자존감이 높아지는 기분이야. 너의 말대로 내면의 아름다움을 더 가꾸는 내가 되어볼게. 들어줘서 정말 고마워.",
+            "utterance_id": "BE22010108.15"
+        }
+    ]
+}

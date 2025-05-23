@@ -1,0 +1,159 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009448",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009448",
+        "relation": "친구",
+        "situation": "여자 친구와 사귀기로 한 첫날이다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 이게 꿈인지 생시인지 모르겠어.",
+            "utterance_id": "BE22009448.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "설마 고백 성공한 거야?",
+            "utterance_id": "BE22009448.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응! 오늘이 여자 친구랑 사귀기로 한 첫날이야. 나 지금 실감이 안 날 정도로 기뻐.",
+            "utterance_id": "BE22009448.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와, 진짜 축하해. 나도 마음 졸이고 있었는데 너무 잘됐다! 꿈 아니니까 마음껏 행복해도 돼!",
+            "utterance_id": "BE22009448.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여기저기 자랑하고 싶었는데 너밖에 생각나는 사람이 없더라. 핸드폰에 저장된 이름 여자 친구라고 바꾸는데 콧노래가 다 나와.",
+            "utterance_id": "BE22009448.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "딱 애칭으로 바꾸는 그 순간 진짜 행복하잖아. 콧노래가 뭐야 춤도 덩실덩실 출 정도로 좋겠다.",
+            "utterance_id": "BE22009448.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고등학교 다닐 때 혼자 좋아하던 짝사랑을 이제 와서 만나게 되다니 정말 운명 같지 않아?",
+            "utterance_id": "BE22009448.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 우연히 길에서 마주쳤다고 했을 때부터 이건 운명이라고 느꼈어. 마치 소설 속에서나 나오는 러브스토리 같아서 괜히 나까지 다 설렌다.",
+            "utterance_id": "BE22009448.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 아니었으면 고백도 못 해보고 그냥 지나쳤을 텐데 이게 다 용기를 준 네 덕분이야. 나한테 너 같은 친구가 있다니 난 행운아야!",
+            "utterance_id": "BE22009448.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에이 아니야, 네가 좋은 사람인 걸 그 여자분도 알아봤던 거지. 내가 너 10년을 넘게 옆에서 지켜봤지만 너처럼 정직하고 착한 사람 또 없어.",
+            "utterance_id": "BE22009448.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 칭찬해 주니까 부끄럽긴 하지만 좋네. 나 더 좋은 사람이 돼서 여자 친구 정말 행복하게 해줄 거야.",
+            "utterance_id": "BE22009448.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와 더 나은 사람이 되고 싶은 마음이 들 정도인 거야? 네가 얼마나 여자 친구를 진심으로 생각하는지 느껴진다. 둘이 오래 아주 잘 만날 것 같아.",
+            "utterance_id": "BE22009448.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 나중에 여자 친구 소개해 줄게 한번 만나자. 너한텐 꼭 보여주고 싶어.",
+            "utterance_id": "BE22009448.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그럼 당연하지. 만나면 네 칭찬을 잔뜩 해야겠다. 언제든 연락해.",
+            "utterance_id": "BE22009448.14"
+        }
+    ]
+}

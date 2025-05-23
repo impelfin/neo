@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010477",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010477",
+        "relation": "친구",
+        "situation": "위층에 사는 아줌마는 늘 화가 난 표정이다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 나 요즘에 윗집 때문에 너무 스트레스받아. 분명 애들은 없는데 뭐가 그리 소란인지 밤마다 쿵쿵거리는 거야. 아주 힘들어.",
+            "utterance_id": "BE22010477.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "헉 그 힘들다는 층간소음에 걸렸구나. 아이고 일하고 들어가면 좀 쉬어야 할 텐 데 소음 때문에 힘들어서 어째.",
+            "utterance_id": "BE22010477.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 말야. 그래서 오며 가며 윗집 아줌마를 마주칠 때마다 한번 말하려고 했거든? 그런데 뭔가 항상 화가 나 있는 표정이라서 무서워서 말도 못 걸겠어.",
+            "utterance_id": "BE22010477.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와 안 그래도 항의할 것이 있는데 그런 표정이면 더더욱 다가가기 어렵지. 나도 그런 이웃이 있어봐서 이해해. 세상에 항의는커녕 말도 못 붙이겠더라니까.",
+            "utterance_id": "BE22010477.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 딱 그 상태야 피해받은 건 난데 괜히 눈치 보게 되는 그런 상황. 도대체 어떻게 하면 좋을까? 나 진짜 너무 스트레스받아. 이제는 소리가 들리면 막 불안해진다니까.",
+            "utterance_id": "BE22010477.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 많이 힘든가 보구나. 너무 매일 화가 나 있으시니 괜히 한마디 붙였다가 큰 싸움이 날 것 같고. 나 같아도 마음이 많이 어려울 것 같아 소음으로 인해서 계속 스트레스가 쌓일 테니까.",
+            "utterance_id": "BE22010477.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 맞아. 이런 상태를 알아줘서 고마워. 나는 진짜 우리 부모님한테도 말해 봤는데 엄마는 그냥 참으라고 하시더라고. 그냥 사정이 있는 거 아니겠냐면서.",
+            "utterance_id": "BE22010477.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 그러셨구나? 아마 어머니가 층간소음을 아직 안 겪어 보셔서 그러실 거야. 이게 참 사람 힘들게 하는 건데 당사자 빼고는 아무도 모르지. 아마 윗층 아줌마도 몰라서 쿵쿵거리며 걷는 것일 수 있어.",
+            "utterance_id": "BE22010477.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 생각해보니 그럴 수 있겠구나. 본인이 소음을 내는지 모르면 조심도 안 할 테니까.",
+            "utterance_id": "BE22010477.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 내 생각에는 아마 화가 난 표정은 그냥 원래 그러신 것 같아. 그리고 소음은 몰라서 내셨을 수도 있고. 그러니까 조심스럽게 올라가서 말씀드리면 좀 주의해 주시지 않을까?",
+            "utterance_id": "BE22010477.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴 예전에 처음 이사 와서 인사드릴 때는 되게 상냥하셨던 기억이 나. 생각해보니 그때도 표정은 그대로 셨네. 네 말을 들으니 불안한 마음이 좀 줄었어.",
+            "utterance_id": "BE22010477.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 표정과 상관없이 좋은 분일 수 있으니 너무 편견부터 가지진 말자. 그리고 소음 문제도 네가 잘 말씀드리면 분명 잘 해결될 거야.",
+            "utterance_id": "BE22010477.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말을 듣고 보니 내가 너무 아무것도 안 하고 혼자 스트레스를 받아 왔던 거 같아. 지레짐작은 안 좋은 건데 말이야. 고마워 덕분에 윗층에 찾아갈 용기가 생겼어.",
+            "utterance_id": "BE22010477.13"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이다. 그래 보이는 것과 속사정은 다를 수 있지. 나도 그런 상황이었으면 여러모로 마음이 어려웠을 거야. 잘 풀리기를 기원할게.",
+            "utterance_id": "BE22010477.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응 고마워. 편하게 마음먹고 다녀와 볼게. 내가 나중에 다녀와서 또 연락할게!",
+            "utterance_id": "BE22010477.15"
+        }
+    ]
+}

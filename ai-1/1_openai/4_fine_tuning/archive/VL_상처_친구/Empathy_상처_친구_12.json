@@ -1,0 +1,193 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22010471",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010471",
+        "relation": "친구",
+        "situation": "명절인데 자식들이 해외여행을 갔다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "명절 잘 보내고 있어? 몇 없는 명절인데 난 혼자서 보내서 그런지 명절 같지 않네. 괜히 울적한 마음에 연락했어.",
+            "utterance_id": "BE22010471.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소에는 혼자여도 외로운 게 덜하더라도 원래 이런 날이면 더 외로운 법이잖아. 네가 너무 외롭진 않을까 걱정이네. 내가 먼저 연락했어야 했는데 깜빡했네, 미안해.",
+            "utterance_id": "BE22010471.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음 써줘서 고마워. 나 버려두고 해외여행 간 건 내 아들놈인데 네가 왜 미안해. 결혼하고 애까지 생기니까 완전 자기 가족밖에 안 보이나 봐.",
+            "utterance_id": "BE22010471.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "속상한 네 마음은 이해되지만 어떻게 보면 당연한 거 아니겠어? 막상 나부터도 돌이켜보면 내 가정 꾸리면서 부모님을 많이 신경 못 써 드린 것 같아. 그걸로 너무 속상해하면 앞으로도 네가 더 힘들까 봐 걱정이야.",
+            "utterance_id": "BE22010471.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알지. 이게 당연하다는 걸 알면서도 괜히 서운한 마음에 혼자 상처받곤 해. 나도 문제야 문제. 그냥 너희끼리 잘 살면 됐다고 생각하려고 하면서도 오늘 같은 날 혼자 있으니까 괜히 비참하네.",
+            "utterance_id": "BE22010471.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "더군다나 외동아들이니까 네가 많이 기댄 만큼 얼마나 더 헛헛하겠어. 나는 자식이 둘이어도 한쪽이 안 온다고 하면 그것만으로도 너무 섭섭할 것 같은데. 그래도 좋게 생각하려고 노력해 주는 네 마음이 너무 감동적이면서도 찡하네.",
+            "utterance_id": "BE22010471.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말대로 내가 너무 기대고 있었나 싶더라고. 어쩌겠어. 본인들도 이런 연휴 아니면 길게 휴가 가기 힘들다고 그러는데 안 보내 줄 수도 없고. 말로는 같이 가자고 하지만 진심이 아닌 걸 알잖아?",
+            "utterance_id": "BE22010471.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 이해해 준 네가 대단하네. 빈말인 느낌까지 들었으면 네가 더 서운했을 텐데 마음을 넓게 써줬구나! 덕분에 아들네 가족이 좋은 추억을 만들 수 있겠어.",
+            "utterance_id": "BE22010471.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까. 나도 기왕 보내 주는 거 기쁜 마음으로 보내주고 싶었거든. 그리고 정말 괜찮을 줄 알았어. 근데 막상 옆집 시끌벅적한 소리 들리니까 홀로 버려진 느낌을 지울 수가 없네.",
+            "utterance_id": "BE22010471.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "버려지다니 그게 무슨 말이야. 너도 아들 어렸을 때 살기 바빠서 많이 데리고 못 다닌 게 평생 한이라고 했잖아? 아들네도 그런 짐을 지고 사는 것보다 즐길 수 있을 때 즐기는 게 낫지 않겠어?",
+            "utterance_id": "BE22010471.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 그렇지. 아들도 나처럼 평생 자식한테 미안한 마음을 갖고 사는 것보단 낫지. 그래도 막상 소외되는 게 내가 되니까 섭섭했나 봐. 그리고 본인들끼리 그런 생각을 가지고 물어본 것 자체가 상처가 되더라고.",
+            "utterance_id": "BE22010471.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 말이 쉽지 당장 내 경우였어도 많이 섭섭했을 것 같긴 해. 네 말대로 어떤 집단에서든 소외되는 느낌은 정말 별로잖아. 하물며 가족 간에서 그랬으니까 정말 네 마음이 다친 게 이해가 돼서 더 슬프다.",
+            "utterance_id": "BE22010471.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까. 나도 이런 경험이 처음이어서 더 상처로 다가왔던 것 같아. 막상 해외여행을 말리고 명절에 억지로 우리 집에 왔다고 해도 마음이 편치 않았을 텐데. 상처받은 마음에 괜히 심술이 나온 것 같아.",
+            "utterance_id": "BE22010471.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 이기적인 부모들은 강압적으로라도 그렇게 할 텐데 네가 마음이 깊다. 이렇게 아들 내외를 생각하는 마음을 절대 몰라줄 리가 없어. 아마 여행 다녀와서 너한테 감사한 마음에 더 잘할 것 같은걸?",
+            "utterance_id": "BE22010471.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그러려나? 여행 가서도 간간이 사진도 보내고 덕분에 잘 놀고 있다고 인사는 하더라고. 알아주면 다행이지. 너한테 털어놓으니까 마음이 좀 나아지네.",
+            "utterance_id": "BE22010471.15"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그럼. 그렇게 예뻐한 아들인데 너를 완전히 소외할 리가 없잖아? 사정상 이번만 그랬던 걸 테니 너무 걱정하지 말고 기분 풀어.",
+            "utterance_id": "BE22010471.16"
+        }
+    ]
+}

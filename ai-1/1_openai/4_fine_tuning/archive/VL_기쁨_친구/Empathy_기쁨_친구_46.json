@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009371",
+        "listener_behavior": [
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009371",
+        "relation": "친구",
+        "situation": "남편이 요즘들어 너무 잘 해준다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남편이 요즘 들어 나에게 무척 잘해주고 있어. 퇴직하고 나서 생각하는 게 달라졌나 봐.",
+            "utterance_id": "BE22009371.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 네가 남편 퇴직하고 집에 붙어 있으면서 자주 싸울까 봐 걱정했었잖아. 정말 잘 됐다!",
+            "utterance_id": "BE22009371.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 다 괜한 걱정이었다니까. 남편이 얼마나 잘해주는지 몰라. 집안일도 자기가 다 나서서 한다니까.",
+            "utterance_id": "BE22009371.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 네가 집안일을 전부 도맡아 하느라 정말 힘들어했었잖아. 네 고생이 크게 덜어졌겠구나. 나까지 흐뭇하고 기분이 좋다.",
+            "utterance_id": "BE22009371.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "퇴직하고 집에 있어 보니까 그동안 내가 얼마나 고생했는지 알겠다고 하더라고. 그 마음이 너무 예쁘지 않니? 덕분에 요즘 눈을 뜨는 게 즐겁고 행복하다니까.",
+            "utterance_id": "BE22009371.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 정도로 남편이 네게 잘해준다면 네가 행복하다고 느낄 만하다. 그동안 네가 한 번도 내색하지 않고 묵묵히 할 일을 다 했었잖아. 그런 시간을 보상받는 기분일 테니 마음이 정말 사르르 녹겠는걸.",
+            "utterance_id": "BE22009371.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그래서 부부 사이도 더 돈독해진 것 같아. 남편과 사이가 좋으니 온종일 기분이 무척 안정적이고 기쁜 거 있지? 전부 남편 덕인 것 같아.",
+            "utterance_id": "BE22009371.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그만큼 내조를 잘했다는 뜻이기도 하지. 남편이 네게 고마움을 느낄 만큼 네가 언제나 최선을 다해 네 역할을 해 왔잖아. 생색내는 일 없이 언제나 묵묵하게 네 일을 해내는 걸 보고 늘 존경스럽다고 생각했었어.",
+            "utterance_id": "BE22009371.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 칭찬을 받으니 정말 감개무량하다. 나는 그냥 남들 하는 만큼만 한다고 생각했었어. 그래서 남편이 내게 고마워하는 것도 사실은 얼떨떨해.",
+            "utterance_id": "BE22009371.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 남들보다 훨씬 더 노력을 많이 해 왔지. 나는 네 곁에서 오랜 시간 지켜봤으니까 네 수고를 알아. 남편도 네 수고를 늦게나마 알고 네게 잘해주고 싶나 봐.",
+            "utterance_id": "BE22009371.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 날 이렇게 인정해 주고 존경한다고 말해 주니까 기분이 날아갈 것 같다. 요즘은 정말 하루하루 행복하기만 해. 정말 고마워, 친구야.",
+            "utterance_id": "BE22009371.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야. 나야말로 네가 늘 내게 동기부여가 되고 자극이 되는 것 같아 고마울 따름이야. 나도 네 이야길 들으면서 남편과 더 잘 지내고 싶어졌거든.",
+            "utterance_id": "BE22009371.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 좋은 영향만 주고받을 수 있어서 참 기쁘다. 오늘 네 덕분에 너무 즐거운 하루가 될 것 같아.",
+            "utterance_id": "BE22009371.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 말해 주니까 내가 더 감동이다. 앞으로도 지금처럼 남편과 사이좋게 오순도순 살길 바라.",
+            "utterance_id": "BE22009371.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "덕담해 줘서 정말 고마워. 너도 남편과 행복하고 건강하게 잘 지내다가 곧 만나자.",
+            "utterance_id": "BE22009371.15"
+        }
+    ]
+}

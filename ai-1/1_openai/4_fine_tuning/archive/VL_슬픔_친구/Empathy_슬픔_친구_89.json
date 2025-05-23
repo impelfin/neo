@@ -1,0 +1,187 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010347",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010347",
+        "relation": "친구",
+        "situation": "치아교정 중이라 딱딱한 음식을 먹지 못한다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 지금 너무 슬퍼.",
+            "utterance_id": "BE22010347.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래? 무슨 일이야?",
+            "utterance_id": "BE22010347.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 어제 치과에 갔는데 치열이 너무 어긋났다고 치아교정을 했어. 그래서 치아교정 중이라 딱딱한 음식을 먹지 못해. 그래서 너무 슬퍼.",
+            "utterance_id": "BE22010347.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 슬프겠다. 나는 예전에 충치가 생겨서 먹고 싶던 음식을 먹지 못했거든. 그때 되게 슬펐는데 그런 기분일 거 같다는 생각이 드니까 나도 슬퍼진다.",
+            "utterance_id": "BE22010347.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 특히 내가 딱딱한 음식들을 되게 좋아하잖아. 견과류라던가 오도독뼈라든가 말이야. 그런데 그런 것들이 집에 있는데 먹지 못해서 더 슬퍼.",
+            "utterance_id": "BE22010347.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 실망스럽겠다. 좋아하는 요리가 앞에 보이는데도 먹지 못하다니 얼마나 괴로울지 나로서는 상상이 가지 않네. 그런데 이는 괜찮아?",
+            "utterance_id": "BE22010347.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어, 이는 괜찮아. 썩은 것은 없다고 그랬는데, 다만 교정 초반에는 딱딱한 음식을 먹지 말라고만 하셨어. 그런데 문제는 그 먹지 말라는 음식이 내가 좋아하는 종류라는 거지.",
+            "utterance_id": "BE22010347.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 슬프고 실망스러울 거 같아. 그런데 집에 네가 정말 좋아하는 요리들이 있어서 그리고 그것들을 지금 먹지 못해서 그런 거잖아. 그러니까 조금은 다르게 긍정적으로 생각해보는 것은 어떨까?",
+            "utterance_id": "BE22010347.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 못 먹고 있는데, 다르게 생각해보라는 것은 무슨 말이야? 네가 놀리는 것은 아닐 거라는 생각이 들어서 말이야.",
+            "utterance_id": "BE22010347.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 네가 딱딱한 음식들을 좋아하는 이유가 그것들이 고소한 맛을 주기 때문이라고 여겨졌거든. 그러니까 견과류를 간다거나 다른 향신료들로 그 맛을 내서 먹으면 슬픔이나 안타까움, 실망이 진정되지 않을까? 그리고 그렇지 않다면 네가 좋아하는 음식들을 내가 요리해줄 테니까 너무 슬퍼하지 않았으면 좋겠다.",
+            "utterance_id": "BE22010347.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그러고 보니까 내가 딱딱한 식감을 좋아하는 이유가 그런 음식들이 고소함을 주는 맛이었기 때문이었어. 그렇게 해봐야겠다. 그리고 슬퍼하는 나를 보고 그렇게까지 행동해주겠다고 해서 정말 고마워. 누군가가 나를 이렇게 소중히 여겨준다고 생각하니까 슬픔과 실망감이 해소되네.",
+            "utterance_id": "BE22010347.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭘, 네가 나한테 정말 소중한 사람인 건 맞는걸. 감정이 해소되었다니 다행이다. 그럼 맛있게 요리해서 먹고 행복해했으면 좋겠다.",
+            "utterance_id": "BE22010347.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 얘기해줘서 고마워. 내 일을 네 일처럼 생각해서 고민하고 생각해줘서 말이야. 다음에 또 연락해도 될까?",
+            "utterance_id": "BE22010347.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 언제든지 편하게 연락해. 기다릴게.",
+            "utterance_id": "BE22010347.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 다음에 또 연락할게.",
+            "utterance_id": "BE22010347.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 네 연락을 기다리고 있을게.",
+            "utterance_id": "BE22010347.16"
+        }
+    ]
+}

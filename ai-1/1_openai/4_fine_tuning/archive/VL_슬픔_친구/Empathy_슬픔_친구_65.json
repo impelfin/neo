@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010104",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010104",
+        "relation": "친구",
+        "situation": "나보다 여동생이 먼저 결혼을 한다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야. 여동생이 결혼 날짜도 잡았다고 하더라 드디어. 정말 나보다 먼저 결혼하는 게 실감이 나.",
+            "utterance_id": "BE22010104.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "벌써? 남자 친구 소개시켜 준다고 집에 데리고 오더니 속전속결로 진행되었나 보구나?",
+            "utterance_id": "BE22010104.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 마음이 잘 맞아서 일사천리로 진행되더니 다음 달이더라고. 시간이 왜 이렇게 빠르지. 진짜 많이 놀랐어. 내가 나이가 든 거를 체감하고.",
+            "utterance_id": "BE22010104.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 아직 나도 결혼을 못했는데 네 여동생이 결혼을 한다니 새삼 내 나이가 다르게 느껴지고 그러네. 네 말대로 나도 지금 많이 놀랐어. 내 나이에 내 스스로.",
+            "utterance_id": "BE22010104.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지! 특히 나는 헤어진 지 얼마 되지도 않아서 결혼이 아주 먼 일이 된 것 같은데. 기쁜 일이지만 여동생이 먼저 결혼한다고 하니 좀 많이 기분이 울적하고 슬프고 그래.",
+            "utterance_id": "BE22010104.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고. 그렇겠다. 좋아하던 사람과 이별한 지 얼마 되지 않은 상황에서 누군가가 결혼을 한다니 마음이 싱숭생숭할 것 같아. 특히 동생이라면 나도 더더욱이나 그럴 것 같은데? 네가 마음이 안 좋아 보여서 걱정이다.",
+            "utterance_id": "BE22010104.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 조금 안 좋아. 속상하달까? 슬프고? 동생도 이렇게 좋은 사람 만나서 행복하게 결혼하는데. 나는 언제쯤 좋은 인연 만날 수 있을까 싶기도 하고 말이야.",
+            "utterance_id": "BE22010104.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수 있지. 누군가를 만난다는 게 정말 어려운 일이다 보니 충분히 그런 생각에 속상한 마음 들 것 같아. 그리고 외로운 마음에 슬프기도 할 것 같다!",
+            "utterance_id": "BE22010104.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 공감해주니 그래도 조금 위안이 되는 것 같아. 요즘 온 집안이 여동생 결혼으로 바빠서 사실 슬픈 내 마음을 위로해줄 사람이 많이 없었거든.",
+            "utterance_id": "BE22010104.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 슬플 땐 함께 옆에 있어 주어야 하는데 더 외롭고 힘들었을 것 같아 마음이 많이 안 좋네. 그래도 네 곁에는 나를 포함한 좋은 친구들도 많이 있잖아! 내가 옆에서 네 행복 많이 기도해줄게.",
+            "utterance_id": "BE22010104.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워 정말. 나도 언젠가 좋은 인연 만나서 동생처럼 결혼할 수 있겠지? 여동생이 먼저 결혼하니 뭔가 초조해지고, 내가 과연 좋은 사람 만날 수 있을까 고민했었거든.",
+            "utterance_id": "BE22010104.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지! 넌 언제나 사람들에게 행복을 안겨주는 좋은 매력을 가진 사람이니까. 분명 너에게도 좋은 인연이 나타날 거라고 믿어 의심치 않아! 그러니 많이 슬퍼하지 않았으면 좋겠어.",
+            "utterance_id": "BE22010104.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야겠다. 그냥 지금은 때가 아닌 거라고 생각하고 슬픔에서 벗어나야겠어. 네 말대로 이렇게 생각하니 조금 나아지는 것 같아 기분이. 모두 네 덕분이야.",
+            "utterance_id": "BE22010104.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 기분이 조금이나마 나아지고 있다는 이야기를 들으니 정말 다행이다. 하나뿐인 여동생의 결혼식 많이 축하해주고 너에게도 좋은 일 가득할 그날을 설레어하며 기다려보면 좋을 것 같아. 네가 슬픔에서 벗어나 행복하기를 나도 진심으로 바라.",
+            "utterance_id": "BE22010104.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "너무 고마워 정말. 덕분에 많이 위로받고 힘을 얻어서 슬픔의 감정이 줄어들게 된 것 같아. 이제 조금 씩씩하고 활기차게 하루하루를 보내보아야겠다는 생각이 들어. 고마워 친구야!",
+            "utterance_id": "BE22010104.15"
+        }
+    ]
+}

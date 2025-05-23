@@ -1,0 +1,164 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009114",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009114",
+        "relation": "친구",
+        "situation": "회사에서 업무를 인정 받아 인센티브를 받았다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 저녁에 뭐 해. 내가 쏠 테니까 만나지 않을래?",
+            "utterance_id": "BE22009114.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐 좋은 일이라도 있는 거야? 웬일로 네가 밥은 산다고 해?",
+            "utterance_id": "BE22009114.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에 하던 프로젝트가 잘되는 바람에 그거 인정받아서 인센티브를 받았어. 겉으로는 덤덤한 척해도 속으로는 지금 소리 지르고 난리 났어. 진짜 기쁘더라고.",
+            "utterance_id": "BE22009114.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 축하해, 네가 그 프로젝트 이끄느라 정말 고생했잖아. 집에도 잘 못 들어가고 열심히 하는 거 보면서 네가 정말 대단해 보였어. 네 능력으로 인센티브까지 받다니 내가 다 감동이다.",
+            "utterance_id": "BE22009114.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사흘 밤낮을 잠도 제대로 못 자고 일한 적도 있었지. 내 노고에 대한 제대로 된 보상이 주어지니까 너무 만족스럽더라. 이렇게 너에게 인정받으니까 더 기분이 좋네.",
+            "utterance_id": "BE22009114.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 흘린 땀방울에 비하면 비교도 안 되는 금액이겠지만, 기분이 좋은 건 어쩔 수가 없겠지. 나라도 어깨춤이 절로 나올 것 같아.",
+            "utterance_id": "BE22009114.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "예상치 못하게 받은 인센티브라 정말 놀랐어. 또 노력했기 때문에 회사에서 정말 나를 알아주나 라는 생각에 기뻐서 기분이 붕 뜨더라고. 오늘 정말 행복한 날이야.",
+            "utterance_id": "BE22009114.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "열심히 일한 만큼 회사에서 나를 인정해주면 그것만큼 기분 좋은 일은 없지. 다시 한번 축하해, 오늘따라 더 네가 자랑스럽다.",
+            "utterance_id": "BE22009114.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 과장 더 보태서 하늘을 나는 기분이랄까? 괜히 공돈 생긴 것 같고 그래서 너한테 고기 사주려고. 내가 힘들어할 때 네가 응원 많이 해줘서 힘이 났거든.",
+            "utterance_id": "BE22009114.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 상황에서 나부터 챙기는 네 마음씨가 너무 고와서 내가 더 기분이 좋은데? 너를 축하해도 모자란 자리인데 내가 얻어먹을 수는 없지.",
+            "utterance_id": "BE22009114.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야, 정말 고마워서 그래. 이렇게 나의 좋은 일을 진심으로 기뻐하는 친구가 어디 있겠냐? 네가 받아주면 더 기분 좋을 것 같아.",
+            "utterance_id": "BE22009114.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구의 일인데 당연히 내 일처럼 기뻐할 수밖에 없지. 당연한 건데, 오늘은 받고 다음에 보답할게.",
+            "utterance_id": "BE22009114.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "보답은 무슨, 지금처럼 내 곁에서 같이 기뻐해 주기만 하면 나는 소원이 없어. 고마워 친구야.",
+            "utterance_id": "BE22009114.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고맙긴, 네가 그렇게 말하지 않아도 네 곁에 평생 있을 거야. 다시 한번 네 오늘 인센티브 받은 거 축하해. 이따 저녁에 보자.",
+            "utterance_id": "BE22009114.14"
+        }
+    ]
+}

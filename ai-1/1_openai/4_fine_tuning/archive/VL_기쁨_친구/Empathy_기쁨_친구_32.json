@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009206",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009206",
+        "relation": "친구",
+        "situation": "반려 식물인 스투키를 창가에 올려 두었다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야 내가 식물 엄청나게 좋아하잖아. 이번에 스투키를 새로운 반려 식물로 들였어.",
+            "utterance_id": "BE22009206.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오, 스투키 선인장과 아니야? 물을 조금만 줘도 오래오래 잘 자라니까 반려 식물로 제격인걸?",
+            "utterance_id": "BE22009206.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지? 오랜만에 화원 갔는데 보자마자 반려 식물로 딱 어울리겠다 싶더라고. 바로 데려와서 분갈이까지 마쳤어. 햇살 가득한 창가에 두니까 원래부터 자기 자리였던 것처럼 잘 어울린다.",
+            "utterance_id": "BE22009206.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "행복한 오후 시간을 보내고 있구나. 편안한 공간에서 내가 좋아하는 것을 하면서 여유롭게 보내는 하루. 정말 생각만 해도 기분 좋겠다.",
+            "utterance_id": "BE22009206.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오래간만에 갖는 여유라서 더 달콤한 하루인 것 같아. 너는 요즘 취미생활이 뭐야?",
+            "utterance_id": "BE22009206.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 너처럼 식물을 잘 키우는 재주는 없고, 대신 건강을 좀 신경 써 볼까 해. 가끔 틈틈이 러닝을 하고 있어.",
+            "utterance_id": "BE22009206.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그것도 정말 좋은 취미다. 건강도 챙기고 스트레스도 풀리고! 내가 창가의 식물들을 보면서 힐링한다면, 너는 땀을 개운하게 흘리면서 힐링하고 있구나.",
+            "utterance_id": "BE22009206.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 각자에게 잘 맞는 취미생활인 것 같지? 평생 가질 수 있는 취미가 있어서 정말 다행이야.",
+            "utterance_id": "BE22009206.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 활동적인 너와 정적인 나를 쏙 닮은 취미네. 뭔가 같은 취미활동을 같이 하면 좋을 것 같은데.",
+            "utterance_id": "BE22009206.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너와 나의 접점을 찾아보자. 관심사가 겹치는 부분이 분명히 있을 거야. 서로 반대 성향이니까 상대방의 장점을 배울 수 있는 계기도 되고 좋지 않을까?",
+            "utterance_id": "BE22009206.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 나는 가끔 너무 고요한 걸 추구하는 경향이 있어. 그러다 보니 변화나 행동이 필요한 걸 놓치는 경우가 있지. 그런 건 너를 본받을 필요가 있는 것 같아.",
+            "utterance_id": "BE22009206.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 또 반대야. 너처럼 신중하고 차분하고 분명하게 생각하고 의사결정을 하는 사람을 본 적이 없어. 그런 점은 너의 가장 큰 장점이지.",
+            "utterance_id": "BE22009206.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리는 그러고 보면 서로에게 정말 좋은 친구가 될 수 있겠다. 고민 상담을 할 수 있잖아.",
+            "utterance_id": "BE22009206.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아! 나는 신중한 결정이 필요할 때 너에게 물어볼게. 너는 평소와 다른 상황을 맞닥뜨렸을 때 나랑 상의하면 되겠다. 너무 좋은데?",
+            "utterance_id": "BE22009206.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래그래. 앞으로도 잘 부탁해 친구!",
+            "utterance_id": "BE22009206.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나도 잘 부탁한다. 다음에 스투키 보러 놀러 갈게!",
+            "utterance_id": "BE22009206.16"
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009591",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009591",
+        "relation": "친구",
+        "situation": "이혼 후 실직해서 아이의 양육비를 주지 못하고 있다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 달도 양육비를 주지 못했어, 어쩌면 나 같은 아빠는 없는 게 더 나을지도 모르겠다.",
+            "utterance_id": "BE22009591.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "실직해서 몇 달 동안 일 못 하고 쉬더니, 돈을 보내지 못했나 보다. 마음이 많이 안 좋지?",
+            "utterance_id": "BE22009591.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 정말 웬만하면 보내고 싶은데, 여유가 하나도 없어. 하루하루 겨우 살아가고 있는 나 자신이 너무 초라하고, 슬프다.",
+            "utterance_id": "BE22009591.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 같아도 그런 생각 할 것 같아. 네가 얼마나 힘들었을까, 가슴이 너무 아프다.",
+            "utterance_id": "BE22009591.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이혼할 당시에는 회사에 다니고 있어서 양육비 보내는 건 아무 문제 없었거든. 그런데 상황이 이렇게 되니까 전처에게도 미안하고 아이들한테도 면목이 없어.",
+            "utterance_id": "BE22009591.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일부러 안 주려고 하는 것도 아닌데, 너무 자책하지 않았으면 좋겠어. 아이 엄마도 이해해 주지 않을까.",
+            "utterance_id": "BE22009591.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 별말 없지만, 시간이 길어지면 전처도 힘들겠지. 취업이 안 돼서 계속 양육비를 못 보내게 될까 봐 먹지도, 자지도 못하겠어.",
+            "utterance_id": "BE22009591.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정되는 마음은 알겠지만, 식사도 제대로 안 하고 건강을 해친다면 취직이 되더라도 일하기 힘들 거야.",
+            "utterance_id": "BE22009591.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이젠 나이도 있고, 전문적인 능력도 없는데 누가 나를 채용해 주기나 할까.",
+            "utterance_id": "BE22009591.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "예전의 너를 생각해봐, 언제나 의욕이 가득하고 일 처리도 잘하는 능력 있는 사람이었잖아. 지금 잠깐 상황이 안 좋다고 해서 그렇게 비관적으로 생각할 거 없어.",
+            "utterance_id": "BE22009591.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "너의 말을 들으니 세상으로 나가볼 용기가 조금 생기는 것 같아. 뭘 해도 자신 있고 항상 다른 사람들 앞에서 당당했었던 때로 돌아가고 싶어.",
+            "utterance_id": "BE22009591.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 너무 달리기만 했었잖아, 이혼 문제로 잠시 쉬어갔다고 생각해. 충분히 쉬었다면 이제 다시 시작해 보는 거야.",
+            "utterance_id": "BE22009591.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "적극적으로 취업할 곳을 찾아봐야겠어. 하루라도 빨리 양육비를 보내서, 전처럼 당당하고 멋있는 아빠로 돌아가고 싶어. 살아갈 힘을 주어서 정말 고맙다.",
+            "utterance_id": "BE22009591.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네가 힘을 내보겠다니 이제 안심이 된다. 넌 충분히 능력 있는 대단한 사람이야, 어깨 펴고 당당히 살아보렴. 내가 항상 뒤에서 너의 삶을 응원하고 있다는 것도 잊지 마라.",
+            "utterance_id": "BE22009591.14"
+        }
+    ]
+}

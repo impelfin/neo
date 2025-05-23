@@ -1,0 +1,159 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009445",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009445",
+        "relation": "친구",
+        "situation": "강아지가 종을 치면 간식을 먹으러 온다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아마도 우리 강아지 천재인가 봐.",
+            "utterance_id": "BE22009445.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "연습하던 개인기 성공한 거야?",
+            "utterance_id": "BE22009445.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응! 내가 간식 줄 때마다 종을 쳤더니, 이젠 종을 치면 알아서 간식을 먹으러 와. 간식 창고 앞에서 기다리고 있는 거 보고 너무 기뻐서 소리 질렀잖아.",
+            "utterance_id": "BE22009445.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이거 성공하겠다고 한 달을 연습하더니 진짜 됐구나. 네가 얼마나 좋아했을지 말하지 않아도 눈에 선하다.",
+            "utterance_id": "BE22009445.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가르치는 것마다 성공하는 걸 보면 아무래도 우리 강아지 똑똑한 게 맞는 것 같아.",
+            "utterance_id": "BE22009445.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아주 예뻐 죽겠나 보구나? 강아지 얘기할 때가 제일 신나 보여. 너네 강아지처럼 똘똘하면 나였어도 매일 자랑했을 거야.",
+            "utterance_id": "BE22009445.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음엔 집 안에서도 어떻게 잘 놀아줄까 고민하다가 시작한 건데 얘가 너무 잘 따라줘서 놀랐다니까. 무엇보다 우리 강아지가 너무 좋아해서 만족스러워.",
+            "utterance_id": "BE22009445.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 강아지는 너랑 같이 시간을 보내는 거니까 정말 행복해할 것 같아. 강아지가 제일 사랑하는 주인이 자기한테 온통 관심을 쏟아 주는 거니까. 말은 못 해도 너한테 너무 고마워할 거야.",
+            "utterance_id": "BE22009445.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말 들으니까 왜 눈물이 나려고 하지? 강아지가 나로 인해 행복해한다니까 기분이 날아갈 것 같다.",
+            "utterance_id": "BE22009445.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 강아지 키우는 거 보면서 너 같은 사람이 반려동물을 키워야 하는구나 생각했어. 넌 강아지가 잘 지낼 수 있도록 끊임없이 노력하잖아. 한 생명을 책임지는 무게를 아는 모습이 정말 멋져.",
+            "utterance_id": "BE22009445.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "칭찬받자고 한 건 아니지만, 그래도 칭찬받으니까 뿌듯하다. 강아지는 말을 못 하니까 어떻게 소통할 수 있을까 정말 많이 고민했거든. 종을 치면 간식을 먹으러 오는 것도 그런 것 중의 하나였어.",
+            "utterance_id": "BE22009445.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 단순히 개인기를 가르치려는 목적이 아니었구나? 강아지랑 소통이 되는 것 같아서 정말 좋았겠다.",
+            "utterance_id": "BE22009445.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 이렇게 늘려가다 보면 나중엔 강아지 마음을 내가 알 수 있지 않을까 기대하고 있어.",
+            "utterance_id": "BE22009445.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "충분히 가능할 것 같은데? 나도 기대된다. 또 개인기가 생기면 또 자랑해줘.",
+            "utterance_id": "BE22009445.14"
+        }
+    ]
+}

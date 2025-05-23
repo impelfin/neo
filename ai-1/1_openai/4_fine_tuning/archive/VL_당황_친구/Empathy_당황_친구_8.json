@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009685",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009685",
+        "relation": "친구",
+        "situation": "마트에서 카드 결제 중 한도 초과를 확인했다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마트에서 카드 결제하는데 한도가 초과되는 바람에 엄청 당황스러웠어.",
+            "utterance_id": "BE22009685.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 많이 골라서 한도가 초과된 거야? 많이 당황했겠다.",
+            "utterance_id": "BE22009685.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그냥 평소대로 장 봤는데 한 10만 원 정도 샀지. 그래서 급한 대로 체크 카드로 결제했어. 사람들도 많아서 더 당황스럽더라.",
+            "utterance_id": "BE22009685.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 갑자기 카드가 초과되면 체크 카드라도 써야지. 주변 사람들이 보고 있어서 당황했었구나.",
+            "utterance_id": "BE22009685.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 더워서 급하게 에어컨 사고 휴가 갈 때 묵을 호텔 요금을 결제했거든.",
+            "utterance_id": "BE22009685.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 목돈 써서 초과됐나 보다. 나도 갑자기 목돈 쓰면 그렇게 막힐 때 있어.",
+            "utterance_id": "BE22009685.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 아무 생각 없이 막 결제하니까 이런 일 생기는 거 같아. 너무 한심한 거 같아.",
+            "utterance_id": "BE22009685.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야 그게 왜 한심해. 에어컨이야 당연히 필요한 거고, 휴가 재밌게 보내려고 쓴 돈인데. 너무 그렇게 생각하지 마.",
+            "utterance_id": "BE22009685.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 월급에 비해 너무 생각 없이 소비하는 거 같기도 해. 그 두 개 말고도 이것저것 많이 사서 그런가 봐.",
+            "utterance_id": "BE22009685.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "할부를 짧게 잡아서 그런 거 아닐까? 그래도 또 월급 들어오면 또 결제될 테니 너무 한심하게 생각하지 말아. 다들 그 정도 소비는 하고 살아.",
+            "utterance_id": "BE22009685.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 매달 일해서 번 돈이 어디로 빠져나가는지 모르겠어. 지금까지 저축해 놓은 돈도 없고 참 나도 한심하다.",
+            "utterance_id": "BE22009685.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "직장 생활한 지 1년밖에 안 됐으니 돈 모으기가 힘들지 나도 모아둔 게 없는데 말이야. 너무 조급하게 생각하지 마 전혀 한심하게 생각할 일이 아닌 거 같아. 그러니 스트레스도 너무 받지 말고.",
+            "utterance_id": "BE22009685.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "아직 사회 초년생이긴 하니깐 네 말이 맞는 거 같아. 그래도 조금 계획을 세워서 지출해야겠어.",
+            "utterance_id": "BE22009685.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 넌 잘할 수 있을 거야. 돈 없다고 기죽지 말고 기운 내서 일하자.",
+            "utterance_id": "BE22009685.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 고마워. 네 덕분에 조금 위로가 됐어.",
+            "utterance_id": "BE22009685.15"
+        }
+    ]
+}

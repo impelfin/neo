@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010196",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010196",
+        "relation": "친구",
+        "situation": "여친에게 다른 남자가 생겼다고 헤어지자고 한다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "바쁘냐. 나 지금 너무 속상한데 잠깐 대화 괜찮아?",
+            "utterance_id": "BE22010196.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 말해. 무슨 일 있어? 기분이 매우 안 좋아 보이는데.",
+            "utterance_id": "BE22010196.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여자 친구한테 방금 이별 통보받았어. 너무 슬프다.",
+            "utterance_id": "BE22010196.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐? 무슨 일이야, 너네 3년이나 만났잖아. 너 괜찮은 거야?",
+            "utterance_id": "BE22010196.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 남자 생겼다고 그만 만나자고 그러네. 정말 당황스럽다. 나 지금 너무 속상해서 눈물이 나올 거 같아.",
+            "utterance_id": "BE22010196.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고... 제삼자인 내가 들어도 속상한데, 너는 진짜 오죽하겠어.",
+            "utterance_id": "BE22010196.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 갑자기 그것도 문자로 헤어지자고 하면 나보고 어쩌라는 거야. 너무 슬퍼서 계속 눈물이 나오는데 어떡하지?",
+            "utterance_id": "BE22010196.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "야 진짜 그건 예의가 아니지. 너 기분도 나빴겠어. 왜 안 그렇겠어, 얼마나 슬플까 나도 너무 우울해진다.",
+            "utterance_id": "BE22010196.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 기분도 나쁘고 슬프기도 하고, 3년이란 세월이 이렇게 한순간에 끝나는구나 싶고 참 힘들다.",
+            "utterance_id": "BE22010196.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래... 네 마음 충분히 이해 간다. 얼마나 슬프겠어. 야 오늘 퇴근하고 나와. 저녁이나 사줄게.",
+            "utterance_id": "BE22010196.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이럴 때 너라도 있어서 다행이다, 친구야. 너 만나서 얘기하다 눈물 나올 거 같다.",
+            "utterance_id": "BE22010196.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "울어! 슬프면 울어야지. 혼자 울지 말고 나 만나서 울려고 만나자고 하는 거야.",
+            "utterance_id": "BE22010196.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고맙다. 지금 계속 드는 생각이 내가 뭘 못 해줘서 차인 건가 그 생각뿐이야.",
+            "utterance_id": "BE22010196.13"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 소리야! 너처럼 여자 친구한테 잘해주는 애가 어디 있다고. 분명 여자 친구도 너랑 헤어진 걸 후회할 거야.",
+            "utterance_id": "BE22010196.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "얘기 들어줘서 고맙다. 자세한 얘기는 좀 이따 만나서 하자.",
+            "utterance_id": "BE22010196.15"
+        }
+    ]
+}

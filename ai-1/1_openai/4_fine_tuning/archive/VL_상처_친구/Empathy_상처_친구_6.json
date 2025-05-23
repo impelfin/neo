@@ -1,0 +1,191 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010404",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010404",
+        "relation": "친구",
+        "situation": "2차 면접에서 떨어진 이유는 내정자가 있기 때문이었다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "2차 면접에서 떨어진 이유가 내정자가 있었기 때문이었대. 나 너무 상처받았어.",
+            "utterance_id": "BE22010404.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐? 내정자라니, 어디서 들은 이야기야?",
+            "utterance_id": "BE22010404.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래부터 그런 쪽으로 유명한 회사였더라고. 나만 빼고 다 아는 사실이었다는 게 더 상처야.",
+            "utterance_id": "BE22010404.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런, 면접 준비하느라 많이 고생했을 텐데 너무 유감이야. 그런 문제로 떨어졌으니 억울함은 둘째치고 마음을 많이 다쳤을 것 같아.",
+            "utterance_id": "BE22010404.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그래. 무슨 부귀영화를 누리겠다고 그 많은 시간을 노력했는지 모르겠어. 어차피 내정자가 있었으면 싸움도 안 되는 일이었는데. 충격이 너무 커.",
+            "utterance_id": "BE22010404.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 상처받은 것도 당연해. 지난 시간까지 돌아보게 될 정도로 상심이 크다니, 내 가슴이 다 찢어질 것 같아.",
+            "utterance_id": "BE22010404.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 가고 싶었던 회사거든. 이런 부정을 저지르는 곳인 줄 꿈에도 몰랐어. 상처받은 마음이 도무지 회복이 안 되네.",
+            "utterance_id": "BE22010404.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사에 대한 신뢰도 무너질 만한 일이지. 네 마음이 여러모로 힘들 것 같아 마음이 쓰인다.",
+            "utterance_id": "BE22010404.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 되면 다른 회사도 불신할 수밖에 없잖아. 앞으로 어떻게 살아가야 할지 막막하다.",
+            "utterance_id": "BE22010404.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "막막한 심정도 십분 이해해. 하지만 네가 부족해서 떨어진 것도 아닌데 자책하며 괴로워하진 않았으면 좋겠어. 그 회사와 인연이 아니었다고 생각하면 마음이 한결 편해질 거야.",
+            "utterance_id": "BE22010404.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말이 맞아. 내가 면접을 잘못 봐서 떨어진 게 아니라는 건 증명이 된 셈이니까. 이렇게 생각하면 마음이 조금은 놓여.",
+            "utterance_id": "BE22010404.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 실패는 결국 자산이 되는 법이라잖아. 이번 계기로 너는 한 번 더 성장하게 된 거라 생각해. 다음 회사에서 분명 만회할 일이 있을 거야.",
+            "utterance_id": "BE22010404.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 이 일도 내 자산이 된다고 생각하면 마음이 가벼워진다.",
+            "utterance_id": "BE22010404.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "틀림없이 그럴 거야. 너는 무궁무진한 가능성을 가진 친구니까 상처는 훌훌 털어 버리고 자신감을 가져!",
+            "utterance_id": "BE22010404.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알겠어. 덕분에 용기가 생겼어. 고작 이런 일로 낙담하지 않을래.",
+            "utterance_id": "BE22010404.15"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그거 좋은 생각이야. 도움이 필요하면 언제든지 연락해.",
+            "utterance_id": "BE22010404.16"
+        }
+    ]
+}

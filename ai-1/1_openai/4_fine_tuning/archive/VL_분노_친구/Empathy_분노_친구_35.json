@@ -1,0 +1,165 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009553",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009553",
+        "relation": "친구",
+        "situation": "동생이 실업 급여를 받기 위해 일을 그만두겠다고 한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자야. 네 동생도 이렇게 철이 없니?",
+            "utterance_id": "BE22009553.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이야? 네 동생 깨나 속깊은 녀석이잖아.",
+            "utterance_id": "BE22009553.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그런 줄 알았는데. 오늘 너무 한심스러워서 실망했어.",
+            "utterance_id": "BE22009553.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그러는데? 한번 말해봐. 네가 괜히 이러는 것도 아닌 것 같은데.",
+            "utterance_id": "BE22009553.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 갑자기 회사를 그만두겠다고 해서 이유를 물었는데. 실업급여가 나오는 게 이유라더라고.",
+            "utterance_id": "BE22009553.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "실업급여 때문에 일을 그만두겠대서 화가 났구나. 조금 당황스러운 이유네. 내가 너였으면 화나서 막 뭐라고 했을 것 같아.",
+            "utterance_id": "BE22009553.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 처음엔 무슨 일 있나 해서 물어봤는데. 회사에선 별일 없다고만 하고 입을 꾹 닫더라고. 답답해 죽겠어.",
+            "utterance_id": "BE22009553.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동생도 나름 계획이 있다고 생각하고 조금 여유를 갖고 기다리면 너도 노여움이 조금씩 풀릴지도 몰라. 그런 다음에 다시 느긋하게 대화해보면 어때?",
+            "utterance_id": "BE22009553.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "좀더 대화해보면 내가 동생을 이해할 수 있을까? 사실 그 얘기를 듣고 너무 실망해서 엄청 화내버렸거든.",
+            "utterance_id": "BE22009553.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조심스럽게 꺼낸 얘기에 형이 화낼지도 모른다고 생각해서 겁나서 그런 걸 수도 있어. 네 동생 그렇게 막무가내는 아니잖아. 조금만 더 믿어주면 너도 마음이 한결 가벼워질 것 같은데.",
+            "utterance_id": "BE22009553.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 무턱대고 화만 낸걸까? 네 말을 들으니까 조금 미안하기도 하네. 하긴 그 녀석이 별 생각 없이 뭔갈 저지르는 얘가 아닌데.",
+            "utterance_id": "BE22009553.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아냐. 나 같아도 일단 실망했을 거야. 처음부터 이유를 말해줬으면 좋았을 텐데 어려웠나보다.",
+            "utterance_id": "BE22009553.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 덕분에 좀더 동생이랑 대화해봐야겠단 생각이 드네. 마음이 한결 편안해졌어. 아까는 정말 활화산처럼 끓었는데.",
+            "utterance_id": "BE22009553.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "내가 도움이 됐다니 다행이다. 동생과의 대화도 잘 마무리하길 바랄게!",
+            "utterance_id": "BE22009553.14"
+        }
+    ]
+}

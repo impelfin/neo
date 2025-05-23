@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009532",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009532",
+        "relation": "친구",
+        "situation": "아내가 음식을 먹는 것으로 스트레스를 해소한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마 전부터 아내가 음식을 먹는 것으로 스트레스를 해소하는 것 같아서 불안해.",
+            "utterance_id": "BE22009532.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그러는지 물어봤어? 옆에서 지켜보기 많이 불안하겠네. 나 같아도 먹다가 무슨 문제 생길까 봐 걱정스러울 것 같아.",
+            "utterance_id": "BE22009532.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "계속 저러다가 폭식증으로 이어질까 봐 너무 걱정돼. 얼마 전부터 회사에서 사람들과의 관계가 힘들다고 몇 번 말은 한 적은 있었어. 그래서 그것 때문에 많이 먹는 건지 물어보니 그렇다고 울면서 말을 하더라고.",
+            "utterance_id": "BE22009532.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마나 아내가 안쓰러웠을까. 당장 직장을 그만둘 수도 없고 먹고 사는 게 뭔지. 참 내가 다 마음이 짠하네.",
+            "utterance_id": "BE22009532.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 옆에서 어떻게 해 줘야 할지 모르겠어. 마음 같아서는 당장 그만두라고 하고 싶은데, 지금 들어가는 돈이 많아서 그럴 수도 없고. 계속 폭식하는 걸 지켜볼 수밖에 없어서 너무 불안해.",
+            "utterance_id": "BE22009532.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 아내도 예전에 그런 적이 있어서 정신과 치료도 받고, 시간 나는 대로 같이 여행을 다녔었어. 대화도 많이 하고, 쌓였던 스트레스를 조금씩 해소해 나갔던 것 같아.",
+            "utterance_id": "BE22009532.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정신과를 다니면 좀 나아질 수 있을까? 지금으로써는 어떤 방법이든지 찾아서 해결해 주고 싶어.",
+            "utterance_id": "BE22009532.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 좋아지지. 의사선생님하고 상담하면서 속마음을 얘기하다 보면 자신도 모르게 마음이 해소가 되는 부분도 있다고 했어. 남편이 모든 걸 이해하는 데엔 한계가 있을 테니까 상담하면 분명 좋아질 거야.",
+            "utterance_id": "BE22009532.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말대로 나한테 말 못하는 게 있을 텐데 그걸 말하면 마음이 편안해질 수 있을 거라고 생각돼. 이제 조금 뿌연 안개가 걷히는 느낌이야. 내가 해줄 수 있는 게 없을까 봐 많이 걱정이 많이 됐어.",
+            "utterance_id": "BE22009532.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아내가 퇴근하고 집에 오면 회사에서 있었던 일을 자연스럽게 물어보고, 고민을 말할 수 있도록 해. 또, 음식을 먹을 때 옆에서 같이 먹어주고 누군가가 옆에 있다는 것만으로도 큰 위로가 되잖아. 그건 남편인 너가 해줄 수 있는 유일한 일이지.",
+            "utterance_id": "BE22009532.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말을 들으니까 확실히 어떻게 해야 할 지 알 것 같아. 또 내가 해줄 수 있는 게 없을까?",
+            "utterance_id": "BE22009532.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저녁에 같이 가볍게 산책을 한다든가 아님, 취미생활을 같이 해보는 것도 좋은 방법일 것 같아. 여러 가지 복잡한 생각을 정리할 수 있도록 아내 자신만의 시간을 갖도록 해줘. 그럼 분명 좋아질 거야.",
+            "utterance_id": "BE22009532.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 말을 해주니 답답했던 마음이 뻥 뚫리는 것 같아. 내가 얘기하길 참 잘했다고 생각해. 고마워.",
+            "utterance_id": "BE22009532.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "얘기 해줘서 내가 고맙지. 나를 믿고 얘기 해줘서 나는 기뻐.",
+            "utterance_id": "BE22009532.14"
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22010276",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010276",
+        "relation": "친구",
+        "situation": "물만 마셔도 설사를 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 요즘 고민이 있어.",
+            "utterance_id": "BE22010276.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭔데? 무슨 일 있어?",
+            "utterance_id": "BE22010276.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "장염에 걸려버렸어. 그래서 너무 고통스러워.",
+            "utterance_id": "BE22010276.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말이야? 많이 아픈 거야?",
+            "utterance_id": "BE22010276.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물만 마셔도 설사해. 종일 몸 상태도 안 좋네.",
+            "utterance_id": "BE22010276.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 예전에 장염에 걸린 적 있어. 그때 보는 사람마다 괜찮냐고 물어볼 정도로 힘들었거든. 네가 얼마나 고통스러울지 이해가 간다.",
+            "utterance_id": "BE22010276.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "최근에 시작한 프로젝트가 진도가 잘 안 나가서 스트레스를 좀 받았거든. 거기다 장염까지 걸려서 더 아픈 것 같아.",
+            "utterance_id": "BE22010276.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 프로젝트를 기획한다고 네가 신경 많이 썼잖아. 몇 날 며칠 잠도 잘 못 자고 말이야. 거기다 일이 잘 안된다니 신경증이 생길 수밖에 없을 것 같다.",
+            "utterance_id": "BE22010276.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지? 중요한 프로젝트라 계속 검토해도 시간이 모자라. 그런데 하필 장염에 걸려서 온종일 화장실을 들락날락하니까 너무 걱정이야.",
+            "utterance_id": "BE22010276.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "차라리 하루 정도 푹 쉬거나 병원을 다녀오는 게 어때? 원래 장이 제2의 심장이라고도 하잖아. 빨리 괜찮아지려면 그게 좋을 것 같아.",
+            "utterance_id": "BE22010276.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 좋을까? 괜히 나 때문에 프로젝트에 차질이 생길까 불안하네.",
+            "utterance_id": "BE22010276.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 기획한 프로젝트니까 너의 역할이 정말 중요한 건 맞을 거야. 하지만 그럴수록 너의 몸 상태가 중요한 거 아니겠어? 팀원들도 분명 이해해 줄 거야.",
+            "utterance_id": "BE22010276.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해주니까 마음이 좀 편해진다. 하루 정도는 쉬는 게 낫겠어.",
+            "utterance_id": "BE22010276.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 생각했어. 쉬고 나면 더 나은 컨디션으로 일을 할 수 있을 거야.",
+            "utterance_id": "BE22010276.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "조언 고마워. 역시 너에게 말하길 잘했다.",
+            "utterance_id": "BE22010276.15"
+        }
+    ]
+}

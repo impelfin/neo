@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009774",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009774",
+        "relation": "친구",
+        "situation": "올여름은 10년 만에 찾아온 더위다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 덥다, 이게 무슨 무더위야? 10년 만에 최고치래. 너무 더워서 화가 날 지경이다.",
+            "utterance_id": "BE22009774.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "외국에선 더위 때문에 사망자도 발생했다고 하더라.",
+            "utterance_id": "BE22009774.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상에, 이것보다 더 더우면 사람이 살 수 있는 환경이 맞아? 불쾌 지수가 높아지니까 회사에서도 사람들 간의 트러블이 잦아.",
+            "utterance_id": "BE22009774.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어딜 가나 다 그래. 퇴근길에 지하철 탈 때랑 버스 탈 때도 사람들끼리 신경전이 느껴져. 땀이 많이 나니까 더한 것 같아.",
+            "utterance_id": "BE22009774.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 방금 샤워하고 버스에 탔는데도 금세 땀이 나고 사람들이랑 부딪치면 짜증이 나. 어제는 처음으로 팀장님과 말다툼도 했어.",
+            "utterance_id": "BE22009774.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일로 그랬는데?",
+            "utterance_id": "BE22009774.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀장님이 평소에는 이거 하세요, 말씀하시는데 어제는 반말로 이거 하라면서 서류 뭉치를 던져주는 거야. 순간 욱해서 지금 뭐 하시는 거냐고 살짝 언성을 높였는데 속상하네.",
+            "utterance_id": "BE22009774.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사소한 일이긴 한데 나 같아도 저런 말을 들었으면 마음속으로 짜증은 났을 거야. 나도 요즘 엄마랑 그런 일이 있는데 참으려고 노력하고 있어. 그래서 넌 어떻게 되었어?",
+            "utterance_id": "BE22009774.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 눈치만 보고 서로 얘기를 안 하고 있어. 팀장님 마주치면 시선을 어디에다 둘지 모르겠고 어색해. 날이 더워서 짜증만 배가 되는 거 같아.",
+            "utterance_id": "BE22009774.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 땐 그냥 네가 은근슬쩍 팀장님한테 먼저 말을 거는 게 덜 불편하지 않을까? 팀장님도 사람인데 늘 객관적인 말투일 수는 없잖아. 먼저 사과하면 너도 좀 마음이 편해지면서 짜증도 덜 날 거야.",
+            "utterance_id": "BE22009774.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까? 그런데 팀 사람들도 있어서 어떻게 사과를 건네야 할지 잘 모르겠어.",
+            "utterance_id": "BE22009774.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀장님한테 회사 메신저로 나가서 커피 한잔 하자고 먼저 해봐. 그리고 제가 그날은 더워서 예민했나 봐요, 하고 말해봐.",
+            "utterance_id": "BE22009774.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 받아주시겠지? 다음부터는 나도 기분대로 성질내지 말고 한 번 참고선 내뱉어야겠어. 사과하려니까 더 어렵네.",
+            "utterance_id": "BE22009774.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래 트러블 해결하는 일이 제일 어렵지. 그래도 너는 평소에 사람들한테 친절하게 잘해왔으니까 분명 먼저 말 걸면 좋게 받아주실 거야. 그게 네 장점이잖아.",
+            "utterance_id": "BE22009774.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "응. 그럴게. 계속 이 일로 끙끙댔는데 털어놓고 나니까 속이 다 후련하네.",
+            "utterance_id": "BE22009774.15"
+        }
+    ]
+}

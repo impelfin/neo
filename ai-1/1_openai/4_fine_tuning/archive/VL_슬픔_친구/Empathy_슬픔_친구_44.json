@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009753",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009753",
+        "relation": "친구",
+        "situation": "밖에 나가서 사람들과 만나는 것이 좋다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 삶이 무상하다. 집에 들어가도 얘기 나눌 사람도 없고. 나를 반기는 사람도 없고 밖에서 사람들 만나는 게 더 좋아.",
+            "utterance_id": "BE22009753.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 우울하고 슬프겠다. 밖에서 힘들게 일하고 집에 들어왔을 때 반겨주는 사람 한 명 없으면 슬프고 우울하지. 나도 그럴 거 같아, 너 마음은 괜찮아?",
+            "utterance_id": "BE22009753.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 너 말처럼 지금 너무 슬프고 우울해. 사실 지금도 나와서 다른 사람들이랑 어울리고 있는데 내심 외롭다. 집에 덩그러니 혼자 있는 것보다는 밖에서 사람들 만나는 게 좋아서 나오는데 왜 외로운지 참.",
+            "utterance_id": "BE22009753.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아냐, 충분히 외로울 수 있을 거 같아. 우리 나이에 제일 중요하고 존중받고 싶은 사람은 가족이잖아. 그런데 자기들 다 크고 바쁘다고 반겨주지 않으면 너무 슬프고 비참한 마음마저 들 거 같아.",
+            "utterance_id": "BE22009753.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 가족과 대화하고 가족과 시간을 보내고 싶은데. 이제 다들 커버리고 바쁘다는 이유로 매일 혼자 시간을 보내니까 외롭고 슬프다.",
+            "utterance_id": "BE22009753.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니깐, 네가 진짜 너무나 슬프고 우울할 거 같아. 나도 너 마음이 너무나 이해가 된다. 우리 애들도 요즘 바쁜지 얼굴 보기가 힘들어, 그래서 나도 밤늦도록 밖에서 시간 보내고 들어오잖아.",
+            "utterance_id": "BE22009753.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "너도 그래? 나만 이렇게 외롭고 슬픈지 알았는데. 너도 나랑 같다고 하니 내 마음에 조금이나마 위로가 된다. 나는 세상에 가족이 있는데 이렇게 외로운 사람은 나 혼자인 줄 알았거든.",
+            "utterance_id": "BE22009753.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아냐, 아마 우리 나이에 부모들은 다 비슷하지 않을까? 사실 나도 나만 이렇게 외롭고 우울한 줄 알았어. 그런데 네 문자를 보니 나만 슬프고 외로운 게 아니라 다들 비슷하구나, 알게 돼서 편안해.",
+            "utterance_id": "BE22009753.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너랑 문자를 주고받으면서 나뿐 아니라 다른 사람들도 다 외롭고 우울하다는 걸 알게 됐어. 그래서 나도 마음이 편안해진다. 그리고, 이런 마음을 공유할 수 있는 네가 있어서 정말 고맙고 다행이야.",
+            "utterance_id": "BE22009753.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 다행이다. 네가 그동안 정말 열심히 살아왔잖아. 내가 널 평생 옆에서 보면서 너처럼 열심히 가족을 위해서 사는 사람은 처음 봤어. 그래서 항상 네가 대단하고 멋지다고 생각했어.",
+            "utterance_id": "BE22009753.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 네가 그렇게 말해주니까 우울하던 마음이 그래도 내 뿌듯함으로 변한다.",
+            "utterance_id": "BE22009753.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 가족들을 위해 헌신하며 성실하게 일평생 살아온 걸 가족들도 알 거야. 단지, 이제 다들 자라서 자기의 삶이 생기고 바빠져서 잠시 잊고 있는 거 일뿐이야. 너희 가족들이 네가 그동안 가족을 생각했던 마음은 가슴 깊이 새기고 있을 거니까 슬퍼하지 마.",
+            "utterance_id": "BE22009753.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴, 나도 바쁠 때는 가족들 신경을 못 썼어. 그래도 내 마음속에는 항상 가족이 있었으니까. 너랑 문자하면서 생각해 보니, 우리 가족들도 그럴 거 같아.",
+            "utterance_id": "BE22009753.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 다른 가족들도 너처럼 가슴 깊이 너와 가족을 떠올리고 있을 거야. 직접적으로 표현하지 못해서 그렇지. 그래도 가족들은 항상 나를 생각한다고 생각하면 슬프고 우울한 마음이 사랑으로 충만해지고 괜찮아지더라고.",
+            "utterance_id": "BE22009753.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 너 문자 보니 정말 마음이 편안해지고 가족들에 대한 사람으로 충만해진다. 고마워.",
+            "utterance_id": "BE22009753.15"
+        }
+    ]
+}

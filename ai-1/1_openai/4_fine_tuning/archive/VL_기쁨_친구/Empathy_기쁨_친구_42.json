@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009314",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009314",
+        "relation": "친구",
+        "situation": "하이힐보다 운동화를 더 많이 신는다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 생각해 보니까 요즘은 하이힐을 거의 안 신는 것 같아. 요즘은 하이힐보다 운동화를 훨씬 많이 신는 듯해.",
+            "utterance_id": "BE22009314.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러고 보니 네가 그토록 좋아하던 하이힐을 안 신은 지 꽤 된 것 같네. 어떤 심경의 변화가 생긴 거야?",
+            "utterance_id": "BE22009314.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "예전에는 내 몸에 대한 콤플렉스가 심했거든. 그래서 불편한 하이힐을 신어서라도 몸매를 보정하고 싶어 했던 것 같아. 이젠 그런 강박이 사라진 것 같아.",
+            "utterance_id": "BE22009314.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제는 네 몸을 긍정하게 되었구나. 네가 몸도 마음도 편해 보여서 나까지 무척 기쁘다. 정말 좋은 변화라고 생각해.",
+            "utterance_id": "BE22009314.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 이제는 운동화를 신고 편한 모습으로 다니는 내가 더 좋아. 이렇게 생각의 방식이 바뀌고 나니까 하루하루 무척 기쁘고 행복해.",
+            "utterance_id": "BE22009314.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 자유로워진 것 같아서 나까지 무척 기쁘고 설레. 내내 나를 힘들게 했던 내 단점이나 콤플렉스가 사라진 기분 알 것도 같아. 나도 피부에 무척 신경을 썼었는데, 요즘은 그런 스트레스에서 많이 자유로워졌거든.",
+            "utterance_id": "BE22009314.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지? 나 자신을 긍정하는 방법을 이제야 조금 알 것 같아. 아직까지 더 노력해야겠지만, 하이힐을 포기한 것만으로 내가 무척 발전했음을 느껴.",
+            "utterance_id": "BE22009314.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 늘 좋은 방식으로 변화하는 것 같아서 친구로서 참 보기 좋고 흐뭇해. 너 자신을 탐구하려는 노력을 멈추지 않기 때문인 것 같아. 요즘 마음이 여유로워진 것까지 정말 배울 점이라고 생각해.",
+            "utterance_id": "BE22009314.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 고마워. 네가 그렇게 말해 주니까 너무 기분 좋다! 너는 나를 오랜 시간 봐 왔잖아.",
+            "utterance_id": "BE22009314.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 그래서 네가 변화하는 모습들을 줄곧 지켜봐 온 사람 중 한 명이지. 너는 늘 옳은 길로, 더 나은 쪽으로 발전하는 사람이야.",
+            "utterance_id": "BE22009314.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 낮은 자존감을 보완하기 위한 수단으로 하이힐을 신었던 것이니까, 사실 건강하지 못한 방법이었지. 요즘은 운동화를 신은 내 모습이 마음에 들어. 좋은 쪽으로 발전한 게 맞는 것 같아.",
+            "utterance_id": "BE22009314.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 스스로의 몸을 속박하거나 틀에 가두지 않는다는 건 정말 좋은 일인 것 같아. 네가 많이 단단하고 행복해진 것 같아서 나도 무척 기분 좋다!",
+            "utterance_id": "BE22009314.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나야말로 네가 내 이야길 늘 진지하게 들어 줘서 너무 고마워. 너랑 이야기하고 나면 내가 더 좋은 사람이 된 것 같아서 기분이 좋아.",
+            "utterance_id": "BE22009314.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 말 정말 감동인데? 나도 너랑 이야기하고 나면 조금 더 나은 사람으로 살고 싶어지는 것 같아. 이런 좋은 영향을 주고받을 수 있는 친구 사이라서 참 좋다.",
+            "utterance_id": "BE22009314.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그러게말이야. 앞으로도 이런 영향을 서로 주고받으면서, 우리 우정 영원하자!",
+            "utterance_id": "BE22009314.15"
+        }
+    ]
+}

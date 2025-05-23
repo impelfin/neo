@@ -1,0 +1,190 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009822",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009822",
+        "relation": "친구",
+        "situation": "반대편 지하철을 잘 못 탔다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 나는 하는 일마다 왜 이럴까? 차가 고장 나서 오늘 출근길에 지하철을 탔는데 반대편 지하철을 탄 거 있지. 어찌나 당황스럽고 한심한지 내가 정말 싫더라.",
+            "utterance_id": "BE22009822.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지하철 안에서 늦을까봐 걱정 많이 했겠네. 나도 그런 적 있었는데, 혼이 나가는 줄 알았어. 많이 놀랐지?",
+            "utterance_id": "BE22009822.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그런 실수를 해도 나만큼은 아닐 거야. 휴대폰도 놓고 와서 집에 다시 갔다 왔어. 지각 안 하려고 열심히 뛰었는데 결국 지각했어.",
+            "utterance_id": "BE22009822.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "숨차게 뛰는 너를 생각하니 내가 더 속상하다. 너는 책임감이 강하니 더욱 속상했겠네. 네가 요즘 일이 너무 많아서 힘들었나 봐.",
+            "utterance_id": "BE22009822.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 일이 너무 많고 바빠서 그런 걸까? 내가 검색 한 번만 해봤어도 제대로 탔을 거 아니야. 아침에 있었던 회의 책임자가 나였는데 책임자가 지각이나 하고.",
+            "utterance_id": "BE22009822.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 상황이면 나는 펑펑 울었다. 그래도 넌 안 울잖아. 내가 아는 너는 위기에 강한 사람이니까 분명 문제를 해결했을 거야.",
+            "utterance_id": "BE22009822.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇긴 해. 일단 회사에 연락해서 회의 시간도 늦추고. 택시 타고 지름길로 갔더니 딱 20분 늦었어.",
+            "utterance_id": "BE22009822.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 상황에서 그렇게 빨리 판단하고 행동하기 어려운데 정말 멋진걸. 너는 대단한 사람이야. 그래도 일을 좀 줄여보는 게 좋을 거 같긴 해.",
+            "utterance_id": "BE22009822.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가? 요즘 내가 맡은 업무가 좀 많기는 해. 다른 사람에게 맡겨도 되는데 내가 다 해야 할 것 같고. 내가 잘못하는 걸까?",
+            "utterance_id": "BE22009822.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 책임감이 커서 그래. 다른 사람과 업무를 분담하는 게 좋겠어. 너도 좀 여유를 갖고, 업무 능률도 오를 수 있게.",
+            "utterance_id": "BE22009822.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말이 맞는 것 같아. 아무래도 그래야 할 것 같아. 생각해보니 다른 사람에게도 기회를 주어야 했는데.",
+            "utterance_id": "BE22009822.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 그거 좋다 난 찬성이야. 내일 당장 해보는 게 어때. 훨씬 더 모든 일이 잘될 거야.",
+            "utterance_id": "BE22009822.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하 그럼 이제 지하철 방향만큼은 똑바로 타겠네.",
+            "utterance_id": "BE22009822.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론이지. 그리고 실수하지 않는 똑똑하고 당찬 너 자신을 되찾게 될 거야.",
+            "utterance_id": "BE22009822.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워. 너밖에 없다. 큰 도움이 되었어. 또 연락할게.",
+            "utterance_id": "BE22009822.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 그러자. 잘 지내고.",
+            "utterance_id": "BE22009822.16"
+        }
+    ]
+}

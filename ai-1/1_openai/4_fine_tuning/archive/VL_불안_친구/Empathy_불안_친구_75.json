@@ -1,0 +1,192 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22010020",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010020",
+        "relation": "친구",
+        "situation": "축구 모임에 가고 싶은데 아내의 눈치가 보인다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "야야. 너 이번 주에 축구 모임 가냐?",
+            "utterance_id": "BE22010020.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 가야지. 축구는 나의 기쁨. 나의 활력소.",
+            "utterance_id": "BE22010020.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아오. 부럽다. 나도 이번 주에 축구 모임 너무 가고 싶은데 아내 눈치가 보이는 거 있지. 정말 한숨만 나오네.",
+            "utterance_id": "BE22010020.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주말에 아내가 너랑 시간 보내고 싶어서 하는 거 같아서 눈치 보이나 보네. 네가 이러지도 못하고 저러지도 못해서 많이 불안하겠구나.",
+            "utterance_id": "BE22010020.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 맞아. 사실 축구 모임 가고 싶은 마음은 굴뚝 같거든. 근데 모임 나갔다가 괜히 아내 기분 상하게 할까 봐 그게 불안하더라고. 오랜만에 잡힌 모임이라 정말 가고 싶은데.",
+            "utterance_id": "BE22010020.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜히 모임 나오겠다고 해서 아내 기분이 상하는 것만큼 걱정스러운 일이 없지 않냐? 나도 전 여자 친구 때문에 눈치 많이 봐서 그 기분 알지. 네가 불안할 만하네.",
+            "utterance_id": "BE22010020.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "휴. 맞다. 너도 맨날 전 여자 친구 눈치 보인다고 안절부절못했었지. 그때는 네 상황을 비웃기만 했었지. 이렇게 불안한 일인 줄 몰랐다. 축구 모임은 포기하기 싫고, 그렇다고 아내 기분도 상하게 하기는 싫고. 걱정이 한가득해.",
+            "utterance_id": "BE22010020.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어휴, 왜 아니겠어? 네 말 들으니까 나도 전 여자 친구 때문에 눈치 보고 불안해했던 기억이 새록새록 난다. 내가 다 불안할 지경이야 지금.",
+            "utterance_id": "BE22010020.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "축구 모임 나가겠다고 얘기 꺼냈다가 불호령 떨어질까봐 불안해서 지금 얘기도 못 꺼냈어. 모임 나가겠다고 얘기하는 상황만 생각해도 진짜 손에 땀이 다 날 지경이야.",
+            "utterance_id": "BE22010020.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 네가 집안일도 많이 도와주고 평일에 아내를 위해서 이것저것 많이 사다 주잖아. 그 정도면 아내도 이번엔 이해해주지 않을까?",
+            "utterance_id": "BE22010020.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇기는 한데, 괜히 얘기 꺼냈다가 꾸지람 듣고 서로 기분 상할까 봐 그게 불안한 거지.",
+            "utterance_id": "BE22010020.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 너무 부정적으로 생각하고 있는 게 아닌가 싶다. 너무 불안에 떨지 말고 마음 좀 편안하게 먹고 대화해봐. 걱정하는 거만큼 큰일은 안 일어날 거 같은데. 너무 걱정 마.",
+            "utterance_id": "BE22010020.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가? 네 말 들으니까 조금 용기가 생긴다. 맞아. 내가 너무 부정적으로만 생각 한 거 같아. 생각해보니 우리 아내도 내 취미를 존중해주고 있는데 말이지.",
+            "utterance_id": "BE22010020.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 내 말이 그 말이다. 분명 아내도 너를 이해하고 이번 주 주말은 축구 모임에 나가도 된다고 해줄 거야. 걱정 말고 한번 얘기해봐.",
+            "utterance_id": "BE22010020.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "오. 그래야겠어. 고맙다. 덕분에 마음이 좀 편안해진 거 같아. 얘기해보고 다시 문자 하마.",
+            "utterance_id": "BE22010020.15"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "친구 사이에 이 정도는 기본이지. 네가 마음이 편안해졌다니 너무 다행이네. 대화해보고 다시 연락해.",
+            "utterance_id": "BE22010020.16"
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010147",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010147",
+        "relation": "친구",
+        "situation": "대학생인 나의 남자 친구는 재수생이다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 나 남자 친구와 헤어질까 봐.",
+            "utterance_id": "BE22010147.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "헤어지다니, 너희 둘이 잘 지내는 거 아니었어?",
+            "utterance_id": "BE22010147.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "재수생인 남자 친구와 연애하는 게 생각보다 힘이 들어. 매일 불안한 마음도 들고. 다른 대학생 커플들처럼 안정적으로 연애하지 못하는 게 슬퍼.",
+            "utterance_id": "BE22010147.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 마음 이해해. 재수생인 애인을 둔 친구들이 참 힘들다고 이야기 많이 하더라고. 너도 불안한 마음 가지는 거 충분히 이해돼.",
+            "utterance_id": "BE22010147.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "항상 공부해야 하니 스트레스를 받고, 둘 다 심적으로 힘들어지는 것 같아. 수능 날이 다가오니 더 불안하고 초조한 마음도 들고. 내 남자 친구가 대학에 붙을 수 있을지 확신이 없어.",
+            "utterance_id": "BE22010147.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그분도 열심히 해왔고 너도 옆에서 열심히 도와줬으니 잘될 거야. 너무 걱정하지 말고 끝날 때까지 둘이 마음 편하게 가지는 게 어떨까. 모든 게 잘 풀릴 거야.",
+            "utterance_id": "BE22010147.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시험공부 스트레스도 그렇지만, 항상 말을 조심해서 해야 하는 것도 힘들어. 대학 생활을 이야기하면 남자 친구가 열등감을 느낄까 봐 불안해.",
+            "utterance_id": "BE22010147.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 마음 알지, 나도 재수생 친구 앞에서는 굳이 학교생활 이야기를 하지 않아. 그 친구에게 비교되어서 속상하게 할까 봐 조심스러운 마음 나도 충분히 공감해.",
+            "utterance_id": "BE22010147.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과연 내 남자 친구가 대학에 붙어서 남들처럼 안정적인 연애를 할 수 있을까? 나도 이제는 남들처럼 평범한 연애를 하고 싶어.",
+            "utterance_id": "BE22010147.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조금만 더 참고 기다려 봐. 시험도 얼마 안 남았고, 네 남자 친구는 분명 대학에 갈 수 있을 거야. 네 남자 친구가 너를 얼마나 사랑하는지 알잖아, 시험 끝나면 너에게 더 잘할 거야.",
+            "utterance_id": "BE22010147.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남자 친구가 나를 사랑하는 건 사실이지. 내가 너무 불안함이 커서 그걸 잊고 있었나 봐. 네 말대로 남자 친구를 믿고 기다려 줄 수 있는 마음을 키워야겠어.",
+            "utterance_id": "BE22010147.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "서로에게 믿음이 있으면 힘든 시기라도 다 견딜 수 있더라. 나중에 돌아보면 추억이라는 생각이 들 만큼 다 좋아질 거야.",
+            "utterance_id": "BE22010147.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 역시 너는 든든한 친구야. 네 덕분에 오늘 기분이 훨씬 나아졌어.",
+            "utterance_id": "BE22010147.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "기분이 나아졌다니 나도 기쁘다. 너무 걱정하지 말고 마음을 편하게 가지기를 바라.",
+            "utterance_id": "BE22010147.14"
+        }
+    ]
+}

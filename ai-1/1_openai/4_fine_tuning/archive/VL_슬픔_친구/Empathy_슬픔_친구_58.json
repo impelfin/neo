@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009940",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009940",
+        "relation": "친구",
+        "situation": "퇴근 후 편의점에서 야간 아르바이트를 한다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 요즘 직장 퇴근하고 편의점에서 야간 아르바이트를 하고 있어.",
+            "utterance_id": "BE22009940.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 회사 일만으로도 힘들 텐데 너무 무리하는 거 아니야?",
+            "utterance_id": "BE22009940.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 집안 사정이 안 좋아져서 어쩔 수가 없어. 내가 조금이라도 보탬이 되어야 해.",
+            "utterance_id": "BE22009940.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 어깨에 짐이 무거울 것 같아 걱정이야. 몸도 마음도 정말 고된 상황이겠다. 편의점 일은 힘들지 않아?",
+            "utterance_id": "BE22009940.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잠을 못 자니까 죽을 맛이야. 이게 사람 사는 게 맞나 싶은 정도로 우울하고 슬퍼.",
+            "utterance_id": "BE22009940.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나라도 그런 생각에 자괴감이 들었을 거야. 온종일 잠도 못 자고 일만 하는 셈이잖아. 네가 너무 고생하고 있는 것 같아서 마음이 아프다.",
+            "utterance_id": "BE22009940.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 상황이 언제 괜찮아질지 모르니까 너무 괴로워. 언젠가부터 매일 울면서 잠들어.",
+            "utterance_id": "BE22009940.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 얼마나 힘든지 가늠이 되지 않을 정도야. 너무 우울하고 슬퍼 보여서 나까지 눈물이 나는 것 같아. 퇴근하고 아르바이트를 또 한다니, 네가 쉴 수 있는 시간이 아예 없잖아.",
+            "utterance_id": "BE22009940.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 말이야. 그냥 돈 버는 기계가 된 것 같아. 내 미래를 위해 모아두는 돈도 아니고, 다 빠져나간다고 생각하면 우울하기 짝이 없어.",
+            "utterance_id": "BE22009940.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 지금은 너무 힘들고 고통스럽겠지만, 집안 사정이 예전으로 돌아오고 나면 자유의 몸이 될 거야. 그때까지 힘들어도 조금만 기운 내고 버텨 보자. 이런 힘든 상황에서도 네가 완전히 무너지지 않았으면 좋겠어.",
+            "utterance_id": "BE22009940.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해 줘서 고마워. 누구에게라도 털어놓으니까 정말 위로가 된다.",
+            "utterance_id": "BE22009940.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 위로되었다니 정말 다행이야. 지금은 이렇게 힘들고 우울한 상황이지만, 언젠가 반드시 볕 뜰 날이 올 거라 믿어. 그때까지 내가 네 곁을 지켜줄게.",
+            "utterance_id": "BE22009940.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "정말 감동이다. 네 덕에 슬픈 기분이 가시는 것 같아. 아까까지만 해도 너무 우울해서 눈물만 났는데, 덕분에 조금 희망을 얻은 기분이야.",
+            "utterance_id": "BE22009940.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 도움이 된다니 나야말로 기쁘다. 힘든 일이 있다면 언제든지 날 찾아도 좋아. 내가 오늘처럼 이야기 들어줄게.",
+            "utterance_id": "BE22009940.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알았어. 넌 언제나 변함없이 내 곁에 있는 친구구나. 진심으로 고마워.",
+            "utterance_id": "BE22009940.15"
+        }
+    ]
+}

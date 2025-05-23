@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009309",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009309",
+        "relation": "친구",
+        "situation": "공무원 시험을 앞두고 고시원에 들어왔다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시험이 얼마 남지 않아서 고시원을 계약했어.",
+            "utterance_id": "BE22009309.1"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고민 많이 했었잖아. 분명 좋은 선택일 거야.",
+            "utterance_id": "BE22009309.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시간은 점점 줄어가는데, 갈수록 공부가 잘되지 않아 걱정이야.",
+            "utterance_id": "BE22009309.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금까지 해왔던 것처럼 남은 기간도 잘 해낼 수 있을 거야. 많이 지쳤겠지만 조금만 더 힘내.",
+            "utterance_id": "BE22009309.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무엇보다 고시원까지 와서 가족들한테 손만 벌리고 있으니 스스로가 너무 한심하게 느껴져.",
+            "utterance_id": "BE22009309.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "더 열심히 하기 위해서인데, 가족들도 이해할 거야. 걱정하지 마.",
+            "utterance_id": "BE22009309.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 할 수 있을 거라 생각했는데, 생각했던 것보다 더 힘드네.",
+            "utterance_id": "BE22009309.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "꼭 좋은 결과가 아니더라도 괜찮아. 그러니 너무 불안해하지 않았으면 좋겠어.",
+            "utterance_id": "BE22009309.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시간은 점점 줄어가는데, 갈수록 공부가 잘되지 않아서 올해는 응시하지 말아야 하나 생각했어.",
+            "utterance_id": "BE22009309.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 많이 힘들어하는 것 같아서 걱정된다. 그래도 시험은 응시해 보는 게 어때? 경험이라 생각하고 편안한 마음으로 보고 와.",
+            "utterance_id": "BE22009309.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "점점 주위 사람들 볼 자신이 없어.",
+            "utterance_id": "BE22009309.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나를 포함한 네 주변 사람들은 네가 어떤 모습이든 상관없이 항상 네가 가는 길을 응원해. 전혀 부담 가질 필요 없어.",
+            "utterance_id": "BE22009309.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 얘기해 줘서 조금 안정이 되는 것 같아.",
+            "utterance_id": "BE22009309.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 푹 쉬고 나면 새로운 환경에서도 잘 할 수 있을 거야. 힘들면 언제든지 연락해.",
+            "utterance_id": "BE22009309.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워. 오늘은 편히 잠들 수 있을 것 같아.",
+            "utterance_id": "BE22009309.15"
+        }
+    ]
+}

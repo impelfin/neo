@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009026",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009026",
+        "relation": "친구",
+        "situation": "오랜만에 온 식구가 모여 외식을 했다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 진짜 너무 기분 좋은 날이야. 하루하루가 오늘 같았으면 좋겠어.",
+            "utterance_id": "BE22009026.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 행복한 목소리네. 무슨 일이야?",
+            "utterance_id": "BE22009026.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 오랜만에 가족들과 외식을 했어. 이게 얼마 만인지도 모르겠다. 오랜만에 외식이라 더 기쁘고 행복한 기분이야.",
+            "utterance_id": "BE22009026.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머님, 아버님이랑 동생들까지 전부 같이 간 거야? 성인 되고 사회생활 시작하면 외식 날짜 잡기도 어려운데. 모처럼 정말 즐거운 시간이었겠다.",
+            "utterance_id": "BE22009026.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 몇 번 밀리고 기다리다가 오늘 겨우 성사된 거야. 같이 살고 있는데도 시간 맞추는 게 정말 어렵더라.",
+            "utterance_id": "BE22009026.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 기다린 외식이라 네가 진짜 너무 만족스럽고 행복했겠다. 너희 가족은 평소에도 워낙 화목하니까 오늘 더 즐거운 분위기였을 것 같아. 나라도 오랜만에 온 가족이 모여서 외식한다면 정말 너무 기쁠 것 같아.",
+            "utterance_id": "BE22009026.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 어렵게 시간 맞춰서 한 외식이라 더 뜻깊고 기쁜 시간이었어. 정말이지 엄청 특별한 하루가 된 것 같아서 너무 행복해.",
+            "utterance_id": "BE22009026.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나였어도 정말 선물과 같은 하루가 주어진 기분이었을 거야. 모두 노력해서 이루어진 외식이라니 너무 부럽다.",
+            "utterance_id": "BE22009026.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이게 다 동생들 덕이지. 동생들이 매번 취소될 때마다 식구들 일정 확인하고 식당 예약하고 그랬어. 정말 너무 미안하고 고마운 마음뿐이야.",
+            "utterance_id": "BE22009026.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그것도 네가 그동안 부모님이랑 동생들 사이에서 중간 역할을 잘해서 동생들이 착하게 큰 거지. 예전부터 부모님 안 계실 때 네가 동생들 돌보고 부모님 일도 많이 도와드리고 했잖아. 너도 정말 예나 지금이나 가족을 많이 사랑하는 게 표가 나니까 너무 좋아 보여.",
+            "utterance_id": "BE22009026.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 나를 그렇게 봐주고 있다니 너무 감동적이다. 이런 날에 네 칭찬까지 들으니 정말로 기분이 날아갈 것처럼 기쁘고 행복해.",
+            "utterance_id": "BE22009026.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 이렇게 좋아하니까 나까지 행복하고 선물 같은 날이 된 것 같아. 이번을 기회로 앞으로 더 오늘 같은 날이 많아졌으면 좋겠다.",
+            "utterance_id": "BE22009026.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너랑 대화하니까 기분이 더 좋아졌어. 오랜만에 온 가족이 외식도 하고, 너랑 이렇게 정다운 대화도 나누다니! 오늘은 진짜로 더할 나위 없이 행복하고 꿈만 같은 날이야.",
+            "utterance_id": "BE22009026.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네 모습이 너무 좋아 보여. 나도 이참에 우리 가족과 외식을 한번 진행해 봐야겠다.",
+            "utterance_id": "BE22009026.14"
+        }
+    ]
+}

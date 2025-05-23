@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009723",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009723",
+        "relation": "친구",
+        "situation": "이혼하고 혼자 키운 아이가 대학에 합격했다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "살면서 오늘처럼 가슴 벅찬 날은 처음이야. 아무라도 붙잡고 막 자랑하고 축하받고 싶어.",
+            "utterance_id": "BE22009723.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 일 있는 거지? 심장이 두근거려. 무슨 일 일까?",
+            "utterance_id": "BE22009723.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 서울대에 합격했어, 제대로 뒷바라지도 못 했는데. 너무 대견해. 다니지도 않는 교회에 가서 감사하다고 기도까지 했어. 내 인생에 가장 기분 좋은 날이야.",
+            "utterance_id": "BE22009723.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "축하한다! 정말 좋은 소식이야. 나도 눈물이 나오려고 해. 그동안 얼마나 고생했니, 최고의 선물을 받았구나.",
+            "utterance_id": "BE22009723.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너라면 나만큼 기뻐할 거라 생각했어. 못난 엄마하고 살면서 불평 안 하고 공부해준 딸아이한테 너무 감사해. 잘해준 것도 없는데 이런 기쁨을 주다니.",
+            "utterance_id": "BE22009723.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 옆에서 다 봐왔잖아, 네가 이혼 후 얼마나 힘들게 살았는지. 정말 고생 많았어.",
+            "utterance_id": "BE22009723.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고생은 무슨, 아빠도 없는데 힘들다는 말 한마디도 안 하고, 열심히 공부해준 우리 딸이 대견하지.",
+            "utterance_id": "BE22009723.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 너희 둘 다 정말 자랑스럽다. 네가 이혼 후 매일 울면서 방황할 때 내가 어떻게 도와 줄 방법도 없고 얼마나 미안했는데. 고작 반찬 정도 만들어주는 것밖에 할 수 있는 일이 없었어.",
+            "utterance_id": "BE22009723.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그때 그 음식으로 한동안 딸이랑 같이 먹고 살았어, 너 아니었으면 밥도 못 먹었을 거야. 내 인생에 은인이다, 정말.",
+            "utterance_id": "BE22009723.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "작은 도움이나마 되었다니 기쁘다. 이제 입시도 끝났으니 모녀가 함께 여행도 다니고, 맘 편히 즐겁게 지낼 일만 남았네.",
+            "utterance_id": "BE22009723.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야지, 이혼하고 어떻게 키워야 하나 했던 게 얼마 전 같은데, 시간이 이렇게나 지났다니.",
+            "utterance_id": "BE22009723.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고생 끝에 낙이 온 거지, 전 남편한테도 연락했어? 많이 좋아할 텐데 연락해줘.",
+            "utterance_id": "BE22009723.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 고마워하더라고. 미안해하기도 하고. 입학식 때 꽃다발 사서 오기로 했어.",
+            "utterance_id": "BE22009723.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 그래야지, 앞으로는 너희 모녀에게 좋은 일들만 가득할 거야. 내가 기도할게!",
+            "utterance_id": "BE22009723.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "항상 옆에서 위로해주고 기쁨을 함께해줘서 고마워 친구. 나도 이제 걱정 안 끼치고 행복하게 살아 볼게.",
+            "utterance_id": "BE22009723.15"
+        }
+    ]
+}

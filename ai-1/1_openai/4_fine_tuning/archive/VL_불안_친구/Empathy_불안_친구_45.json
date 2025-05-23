@@ -1,0 +1,219 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009711",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009711",
+        "relation": "친구",
+        "situation": "스트레스를 받으면 폭식하는 습관이 있다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 오늘도 뭘 너무 많이 먹었어.",
+            "utterance_id": "BE22009711.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일 있어?",
+            "utterance_id": "BE22009711.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "모르겠어. 내가 원래 스트레스가 쌓이면 폭식하는 습관이 있기는 해.",
+            "utterance_id": "BE22009711.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 맞아 그런 사람들이 많다더라. 최근에 스트레스를 좀 많이 받았어?",
+            "utterance_id": "BE22009711.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그냥 일상이 스트레스야. 일할 때도 스트레스 쌓이고 인간관계에서도 스트레스를 받는 거 같아.",
+            "utterance_id": "BE22009711.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상에 너 너무 힘들었겠다. 네가 얼마나 힘들었으면 폭식까지 했겠어.",
+            "utterance_id": "BE22009711.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 나도 이러면 안 되는 거 아는데 끊기가 너무 어렵네.",
+            "utterance_id": "BE22009711.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상에 쉽게 끊을 수 있는 게 어디 있겠어. 그래도 끊으려고 노력했다는 게 굉장히 대단한 일이라고 생각해!",
+            "utterance_id": "BE22009711.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "끊으려고 하면 그게 또 스트레스가 돼서 더 폭식하게 되는 거 같아.",
+            "utterance_id": "BE22009711.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지, 습관 고치기는 너무 힘든 일이니까. 하지만 네가 문제도 알고 있고 고치려고 하고 있으니까 충분히 폭식을 끊을 수 있을 거야!",
+            "utterance_id": "BE22009711.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까? 이제는 나에 대한 믿음도 좀 없어지는 거 같아서 더 불안한 거 같아.",
+            "utterance_id": "BE22009711.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야, 이미 충분히 할 수 있는 건 전부 잘 해내고 있는걸? 그러니까 너무 조급해하지 않아도 될 거 같아!",
+            "utterance_id": "BE22009711.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만 이런 습관이라도 빨리 고치지 못하면 진짜 문제만 계속 생길 거 같아.",
+            "utterance_id": "BE22009711.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론 습관을 고치면 네가 더 편안해지겠지만 그렇다고 너무 급해지면 네가 오히려 지칠 거 같아. 습관을 고치기 위해 노력하는 건 좋지만 네가 힘들지 않을 정도의 속도로 노력하는 게 어떨까?",
+            "utterance_id": "BE22009711.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래. 조금 마음을 내려놓고 있어야겠어.",
+            "utterance_id": "BE22009711.15"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "직장도 열심히 다니고 있고 인간관계도 잘 관리하고 있고 이미 충분히 많은 일을 멋지게 해내고 있는걸! 조금은 마음을 편하게 먹는 것도 괜찮다고 봐.",
+            "utterance_id": "BE22009711.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 얘기해줘서 고마워.",
+            "utterance_id": "BE22009711.17"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그리고 습관을 고치기 위해 노력하는 게 얼마나 큰일인데! 지금도 충분히 잘하고 있으니까 너무 조급하게 걱정할 거 없어!",
+            "utterance_id": "BE22009711.18"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 나도 좀더 마음을 편하게 가지려고. 이러면 스트레스도 좀더 낮아지겠지?",
+            "utterance_id": "BE22009711.19"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그럼! 벌써 진전이 있네. 역시 대단해!",
+            "utterance_id": "BE22009711.20"
+        }
+    ]
+}

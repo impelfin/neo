@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009437",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009437",
+        "relation": "친구",
+        "situation": "며칠째 에너지음료를 마시며 철야 작업을 하고 있다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 어제도 철야, 오늘도 철야 작업 며칠째인지 까먹을 정도야. 이제 서서히 나의 짜증 수치가 가득 찬 거 같아서. 분노 감정이 나 자신을 휘감고 있어.",
+            "utterance_id": "BE22009437.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몸이 힘들면 마음도 지치잖아. 너 지금 수면 부족에 스트레스까지 겹쳐서 많이 힘들었겠다. 분노가 치밀어 오르며 철야 작업을 하는 너를 떠올리니 내가 더 속상하다.",
+            "utterance_id": "BE22009437.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 오늘 아침에는 홍보팀과 개발팀의 간극이 좁혀지지 않아서 회의하다가 다툼이 있었어. 거든. 내가 개발팀이라 그런 건 아니지만 홍보팀은 개발이란 걸 우습게 생각하는 것 같았어. 그것만 생각만 하면 작업하면서도 분노가 치밀어 오른다.",
+            "utterance_id": "BE22009437.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 무척 속상하겠다. 한 회사 안에서 다툼과 의견 차이가 생기면 일하기가 더 힘들어지잖아. 홍보팀과 개발팀에서 모두 일해본 너의 역할이 굉장히 중요해지겠어.",
+            "utterance_id": "BE22009437.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금도 모든 사람이 모두 나에게 의견을 구하셔서 정말 난감하고 힘들었어. 두 부서에서 모두 일해본 경력이 나에게는 마이너스로 작용하는 것 같아. 너무 지쳐서 짜증이 올라와.",
+            "utterance_id": "BE22009437.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 사람의 일까지 봐줘야 하면 당연히 많이 힘들고 지치잖아. 더군다나 며칠째 에너지 음료를 마시면 건강도 해칠까 걱정이 된다. 그래도 회사에서 널 믿고 큰 업무를 주었다고 생각하면 분노한 너의 마음이 사라질 거야.",
+            "utterance_id": "BE22009437.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그런 부분에서는 정말 감사하고 그것 때문에 더 열심히 일하고 있긴 해. 하지만 며칠째 에너지 음료를 마시면서 하는 철야 작업을 하니 몸이 많이 지쳤나 봐.",
+            "utterance_id": "BE22009437.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 의견을 읽으니 왜 회사에서 너에게 큰 업무를 맡기는지 알 것 같아. 너의 그 책임감이 너를 힘들게 하지만 회사에서 너의 노고를 모를 리가 없으니 힘을 내.",
+            "utterance_id": "BE22009437.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응 고마워. 그렇게 긍정적으로 생각하려고 노력하는 중이야. 회사에서도 나의 노고에 이번 업무를 성공적으로 마무리하면 승진의 기회가 생긴다는 말도 했었어.",
+            "utterance_id": "BE22009437.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 좋은 소식이다. 정말 축하해. 역시 그 누구보다 열심히 일하는 너에게 오는 보상이 있다는 사실에 내가 다 기쁘네.",
+            "utterance_id": "BE22009437.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 격려를 받으니 마음이 좀 풀리는 것 같아. 며칠째 에너지 음료를 마시니까 정신도 몽롱하고 일 효율도 오르지 않고. 이 삼중으로 어려움이 겹쳐오니까 나도 한계에 다다라서 분노가 뻗치더라고.",
+            "utterance_id": "BE22009437.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 너는 참을성이 높은 편이라 일반적인 사람보다 훨씬 더 많이 견딘 상태야. 너의 체력도 대단하지만 너의 정신력이 정말 대단한 거라는 사실을 자랑스러워해도 된다고.",
+            "utterance_id": "BE22009437.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 격려와 칭찬을 받으니 힘이 생긴다. 철야 작업은 역시 신체적으로도 지치는 일이라서 잠이 보약이라는 말을 몸으로 실감하게 되는 것 같아. 그래도 나의 성공을 위해 못 참을 게 없다고 생각하며 이 악물고 버티는 중이야.",
+            "utterance_id": "BE22009437.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "성공을 위한 너의 노력이 정말 대단하고 경이롭기까지 하다. 그래도 건강이 제일 중요한 것이니까 꼭 건강 챙기고. 난 언제나 너의 성공을 응원하고 있으니 힘을 받고 싶어질 때면 언제든지 연락해줘.",
+            "utterance_id": "BE22009437.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워 너의 응원이 며칠째 에너지 음료를 마시면서 철야 작업에 시달리던 나에게 단비가 되었어. 분노했던 나의 마음이 많이 해소된 것 같아서 편하게 일할 수 있을 것 같아.",
+            "utterance_id": "BE22009437.15"
+        }
+    ]
+}

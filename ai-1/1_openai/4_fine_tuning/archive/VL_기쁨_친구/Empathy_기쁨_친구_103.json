@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009979",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009979",
+        "relation": "친구",
+        "situation": "보일러가 고장나서 온 가족이 찜질방에서 잤다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "온 가족이 찜질방에서 자고 일어나서 미역국 먹었어. 이런 게 정말 오래간만이라서 기분이 좋네?",
+            "utterance_id": "BE22009979.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집 두고 왜 거기서 잔 거니?",
+            "utterance_id": "BE22009979.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 집 보일러가 고장 나서 집이 냉골이야. 오늘 수리 기사가 온다고 해서 다 같이 찜질방으로 피신 왔지. 근데 가족끼리 이렇게 둘러앉아서 이야기하고 찜질도 하니 정말 재밌더라.",
+            "utterance_id": "BE22009979.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 상황에서 오히려 가족끼리 시간을 보낼 수 있어서 좋아하는 사람은 너밖에 없을걸? 그런 상황을 진정으로 즐기고 위기를 기회로 만드는 능력을 가진 네가 정말 대단해.",
+            "utterance_id": "BE22009979.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "피할 수 없으면 즐겨야지! 애들이 크고 나서 이렇게 같이 모일 일도 없었는데 가족이 정말 소중한 걸 다시 깨달았어. 그래서 기분이 날아갈 것 같아.",
+            "utterance_id": "BE22009979.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 기분인지 잘 알 것 같아, 애들 어렸을 때 생각났겠다. 가족끼리 밤늦게까지 나누는 담소에 오가는 사랑! 그런 네 마음이 나에게까지 전달되어서 나도 행복해지네.",
+            "utterance_id": "BE22009979.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 최근에 다들 바빠서 이렇게 가족끼리 모인 적도 없었는데 이번 기회에 실컷 이야기 나눴어. 보일러가 만들어준 우연한 기회였지만 아주 제대로 활용하고 왔지. 밥도 안 해도 되고 말이야, 미역국이 어찌나 맛있는지!",
+            "utterance_id": "BE22009979.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "찜질방에서 사 먹는 음식도 사실 맛있잖아, 아주 편하게 잘 있다 왔나 보네. 가족끼리 시간도 좋지만 후끈한 찜질방에서 먹는 미역국을 생각만 해도 황홀해.",
+            "utterance_id": "BE22009979.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 집안일 걱정은 내일로 미뤄두고 아주 제대로 즐기고 왔어. 강제로 주어진 휴식인데 그 나름대로 즐거움이 있더라고!",
+            "utterance_id": "BE22009979.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "달갑지 않았을 수 있는 휴식에서 진정한 여유로움을 찾아낸 네가 정말 부럽다! 그 모습이 새삼 멋있기도 하고 말이야. 우리 가족도 찜질방 한 번 데리고 가야겠는데?",
+            "utterance_id": "BE22009979.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 추천해, 가족끼리 친목 도모에는 찜질방만 한 게 없는 것 같아! 매주 오고 싶을 정도라니까?",
+            "utterance_id": "BE22009979.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말에서 얼마나 신난 게 느껴지는지 나도 당장이라도 가고 싶을 정도야. 가족과의 소중한 시간을 누려서 네 기분이 정말 좋을 것 같아.",
+            "utterance_id": "BE22009979.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 만족스러워, 우리 가족 이렇게 보낼 수 있는 시간이 절실했었나 봐. 이번 일을 계기로 이런 시간 더 만들어야겠어.",
+            "utterance_id": "BE22009979.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "다음에 시간 있으면 나와도 같이 그런 시간 가지자! 말만 들어도 너무 행복해 보여서 너와 그런 시간 가지고 싶어!",
+            "utterance_id": "BE22009979.14"
+        }
+    ]
+}

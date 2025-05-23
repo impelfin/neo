@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010138",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010138",
+        "relation": "친구",
+        "situation": "통장 잔고가 3만 원으로 찍혔다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "휴, 이번 달 잔고가 3만원 남았다. 정말 나 이번엔 취직이 되어야 하는데... 너무 우울해.",
+            "utterance_id": "BE22010138.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자야, 요즘 취업 준비하는 거 많이 힘들지? 열심히 노력해도 끝이 잘 안 보이는 것 같은 마음 나도 이해해. 내 취업 준비생 시절도 길었잖아.",
+            "utterance_id": "BE22010138.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 가고 싶은 곳이 있는데 벌써 몇 년을 도전해도 면접을 통과 못하고 있어. 이제는 죄송해서 부모님 지원도 거절했더니 잔고가 이렇네. 참 비참하고 슬프다.",
+            "utterance_id": "BE22010138.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와, 그런 상황에서 부모님 지원을 거절하다니 너무 대견하고 멋지다. 나는 그렇게 못했을 것 같아 그래서 네가 더 대단해 보여. 꿈을 위해서 정말 죽기 살기로 참고 버티는 거잖아.",
+            "utterance_id": "BE22010138.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 내 꿈에 엄마 아빠가 희생되어서는 안 되니까. 잠깐씩 알바하면서 공부하고 있어. 나 잘하고 있는 걸까?",
+            "utterance_id": "BE22010138.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 너는 정말 대단한 사람이야. 요즘에 너처럼 성실하게 사는 사람도 없을걸? 지금은 운이 안 맞아서 잘 안 되는 것일 거야. 곧 네가 날개를 펼질 날이 올 거라 생각해.",
+            "utterance_id": "BE22010138.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까? 마치 끝이 없는 터널을 지나는 기분이야.",
+            "utterance_id": "BE22010138.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무리 긴 터널도 분명 끝이 있어. 희미하게 보이는 빛이라도 그걸 쫒아서 간다면 네가 원하는 곳으로 널 데려다 줄 거야. 그러니까 조금만 힘내 친구야.",
+            "utterance_id": "BE22010138.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 그 말을 들으니 좀 용기가 생겨. 이 순간은 분명 지나갈 거라는 그런 희망도 함께.",
+            "utterance_id": "BE22010138.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 지금은 불안하고 초조한 마음이 들겠지만. 언제가 먼 훗날에 너는 이 시절을 되돌아보며 그땐 그랬지 하며 웃을 거야. 그러니 혼자서 너무 슬퍼하고 우울해하지도 말자.",
+            "utterance_id": "BE22010138.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말대로 그런 생각을 하니 기분이 좋다. 미래의 나는 성공한 모습으로 이날을 꼭 기억하기를.",
+            "utterance_id": "BE22010138.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "분명 그렇게 될 거야. 통장 잔고 3만원의 친구가 성공해서 나 밥 사주는 그런 기대도 걸어볼게! 그리고 오늘은 내가 밥 사줄 테니 저녁에 만날까?",
+            "utterance_id": "BE22010138.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 그런데 오늘은 학원 강습이 저녁에 있어서 안 될 것 같아. 고맙지만 다음에 사주라. 그리고 내가 성공하면 꼭 크게 한턱 낼게. 네 덕에 다시 기운이 났어.",
+            "utterance_id": "BE22010138.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 오늘도 힘내고 다시 열심히 도전해보자!",
+            "utterance_id": "BE22010138.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응! 저녁에 수업 끝나고 다시 연락할게. 위로해 줘서 고마워!",
+            "utterance_id": "BE22010138.15"
+        }
+    ]
+}

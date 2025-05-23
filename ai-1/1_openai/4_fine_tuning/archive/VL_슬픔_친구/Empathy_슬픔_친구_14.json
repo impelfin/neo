@@ -1,0 +1,163 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22009388",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009388",
+        "relation": "친구",
+        "situation": "다 식어버린 커피를 마셨다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떻게 식은 커피를 줄 수가 있지? 아무리 팝업스토어라고는 하지만 너무 실망스러운걸.",
+            "utterance_id": "BE22009388.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저번에 말한 그 팝업스토어구나? 엄청 슬픈 느낌이 들것 같아. 나는 커피가 식었다는 것을 상상할 수 없어.",
+            "utterance_id": "BE22009388.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까. 아무리 유명한 곳이고 사람들이 많이 온다고는 하지만 커피가 식었다는 게 너무 슬퍼. 여름에도 따뜻한 커피만 마시는데.",
+            "utterance_id": "BE22009388.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오랫동안 기다렸던 팝업스토어인데 중요하게 생각하는 부분에서 부족하니까 많이 실망스럽구나? 역시 기대가 크면 실망도 큰 법인가 봐.",
+            "utterance_id": "BE22009388.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 너무 기대를 하고 왔던 것 같아. 이것저것 신경 쓰려면 어쩔 수 없다 생각이 들어. 하지만 조금만 더 신경 썼으면 좋았을 텐데 말이야.",
+            "utterance_id": "BE22009388.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그렇게 생각해. 규모가 엄청 큰 팝업스토어인데 관리적인 부분이 부족해 보이니 실망감이 커지는 것 같아. 내가 그 자리에 있었어도 그렇게 느꼈을 거야.",
+            "utterance_id": "BE22009388.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 말고 다른 사람들도 엄청 실망스러워하고 있을 거야. 심한 사람들은 슬픔도 느끼고 있을 거고.",
+            "utterance_id": "BE22009388.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자신이 좋아하는 것에 대한 부족함은 엄청난 실망감이 생길 수 있지. 그래도 시간이 지나면 조금씩 나아질 거야. 걱정하면서 스트레스받지 않았으면 좋겠어.",
+            "utterance_id": "BE22009388.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 그렇게 말해주니까 실망감이 줄어드는 것 같아. 처음에는 주변 상황이 어떤지 모르니까 정신없을 것 같아.",
+            "utterance_id": "BE22009388.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이야. 규모가 생각보다 크니까 제대로 운영되는 데 시간이 걸릴 수 있을 것 같아. 담당자들도 실망감을 느끼는 사람들 때문에 스트레스받고 있을 거야.",
+            "utterance_id": "BE22009388.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수 있을 것 같아. 담당자가 생각하는 대로 돌아가지 않고 있으니까 답답해하고 있겠지?",
+            "utterance_id": "BE22009388.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그리고 우리 입장에서는 어쩔 수 없을 것 같아. 기왕 찾아간 거 좋은 마음으로 즐겁게 즐기면 좋을 것 같아. 스스로 스트레스를 받을 필요는 없을 것 같아.",
+            "utterance_id": "BE22009388.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇겠지? 엄청 기대가 컸던 만큼 식은 커피를 받은 것 때문에 많이 예민해졌던 것 같아. 너랑 이야기하니까 슬픔도 실망감도 싹 사라진 것 같아. 이제야 충분히 즐길 수 있을 것 같아.",
+            "utterance_id": "BE22009388.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "다행이다. 커피에 대한 실망감은 잊고 그동안 기다린 만큼 신나게 놀 수 있었으면 좋겠어.",
+            "utterance_id": "BE22009388.14"
+        }
+    ]
+}

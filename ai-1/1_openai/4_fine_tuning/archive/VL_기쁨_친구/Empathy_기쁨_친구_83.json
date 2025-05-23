@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22009743",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009743",
+        "relation": "친구",
+        "situation": "오랜만에 달고나를 먹었다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "추억의 맛이라는 게 과연 이런 걸까?",
+            "utterance_id": "BE22009743.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 뭔 추억 타령이람?",
+            "utterance_id": "BE22009743.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 반차 내고 집 오는데 문방구에서 달고나를 팔더라고? 오랜만에 옛 생각도 나길래 하나 먹었지. 옛날에 우리 달고나 사 먹고 웃고 떠들던 게 생각나서 웃음이 나네.",
+            "utterance_id": "BE22009743.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오. 각박한 이 세상 속에서 달고나 하나로 따듯한 추억이 생각나서 편안하고 행복한 기분을 느꼈겠구나!",
+            "utterance_id": "BE22009743.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 정답이야. 숨만 쉬어도 나가는 공과금과 미래 걱정으로 지쳐있었는데. 달고나 하나로 이렇게 놀랍도록 마음이 편안해질 줄이야. 참 흡족하고 편안하네.",
+            "utterance_id": "BE22009743.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "심신이 지쳐 있었을 때 옛 추억이 생각나는 음식만큼 좋은 게 없지. 나도 저번에 어렸을 때 먹었던 옥수수 과자 먹으면서 그 기분 느꼈었어. 네 기분이 지금 참 편안하고 좋겠네!",
+            "utterance_id": "BE22009743.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그 어렸을 때는 이 달고나 하나로 온 세상이 환해지면서 행복했었잖아. 그때 그 기분이 생각나면서, 이 순간만큼은 참 행복하고 편안해지더라. 뭐가 이렇게 급하다고 쫓기면서 살았는지 싶고. 여러모로 편안해.",
+            "utterance_id": "BE22009743.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 네가 느꼈던 그 기분 나도 그대로 느꼈었지. 내가 지금까지 해온 고민과 걱정이 사르르 녹는 기분이잖아. 네 얘기 듣고 나도 그때 그 기분 생각나서 기분이 덩달아 좋아지는 거 같아!",
+            "utterance_id": "BE22009743.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 내 기분을 이렇게 잘 이해해 주니까 기분이 더 좋아진다. 남들은 이 사소한 게 뭐라고 저렇게 좋아하나 하고 유치하게 생각할지도 모르는데. 나는 그냥 지금 마냥 너무 좋아!",
+            "utterance_id": "BE22009743.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 사소한 데서 오는 행복을 느끼는 네 긍정적인 성격이 대단한 거지! 나는 언제나 본받을 만한 성격이라고 생각했는걸!",
+            "utterance_id": "BE22009743.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 칭찬해주니까 기분이 더 좋아지는 거 같아. 몸 둘 바를 모르겠네! 달고나 먹으면서 느낀 건데 너랑 나랑 새삼 어렸을 때 추억이 한가득하다.",
+            "utterance_id": "BE22009743.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 그 생각했어? 나도 옥수수 과자 먹으면서 너랑 함께한 추억이 엄청 많이 떠오르더라고. 새삼 우리가 얼마나 오래되고 좋은 친구인지 느껴서 기분이 좋더라.",
+            "utterance_id": "BE22009743.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 지금 나도 그래. 달고나를 먹으면서도 생각나는 오랜 친구가 있다는 게 얼마나 기쁜 일이야? 참 행복하다.",
+            "utterance_id": "BE22009743.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 얘기해주니까 내 기분도 너무 좋아진다. 앞으로 이렇게 쭉 사이좋게 지내자.",
+            "utterance_id": "BE22009743.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋아. 기회 되면 우리 동네 놀러 와서 같이 오랜만에 달고나 먹자. 옛날 추억 떠올리면서. 그럼 기분 최고로 좋아질 거 같아.",
+            "utterance_id": "BE22009743.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 좋지. 연차 내고 한번 갈게. 아무튼 이제 일하러 간다. 또 연락하자!",
+            "utterance_id": "BE22009743.16"
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009852",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009852",
+        "relation": "친구",
+        "situation": "손녀가 대학을 장학생으로 입학한다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 손녀가 장학생으로 대학에 들어갔어. 얼마나 기쁘고 신나는지 모르겠어.",
+            "utterance_id": "BE22009852.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오, 정말 축하해. 이렇게 기쁜 소식을 알려줘서 정말 고맙네. 내 마음도 너무 기쁘다.",
+            "utterance_id": "BE22009852.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 해준 게 없어서 늘 미안했어. 근데도 잘 자라줘서 정말 고맙지.",
+            "utterance_id": "BE22009852.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 그런 말을 해. 자네가 그 애를 다 키웠잖아. 그러니 미안한 마음 가지지 말게.",
+            "utterance_id": "BE22009852.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 얼마나 우리 손녀를 사랑하는데. 그 애는 나의 가장 소중한 보물이야.",
+            "utterance_id": "BE22009852.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 잘 알지. 걔 엄마가 죽고 자네가 엄마 역할을 다했으니.",
+            "utterance_id": "BE22009852.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 내가 할머니라 엄마로서는 많이 부족했어. 무엇보다 손녀 공부를 어떻게 도와줘야 할지가 늘 걱정이었지. 그런데도 공부를 잘해서 늘 고마웠어.",
+            "utterance_id": "BE22009852.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공부는 원래 애가 하는 거잖아. 자네는 모든 것을 다 해줬지.",
+            "utterance_id": "BE22009852.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 아이들처럼 학원이나 과외도 없었는데도 이렇게 장학생이 되어서 더욱 기쁘네.",
+            "utterance_id": "BE22009852.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자네가 그 애를 정말 사랑해 주니깐 최선을 다할 수 있었을 거야.",
+            "utterance_id": "BE22009852.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 거라면 나도 정말 고맙지. 주변에서도 얼마나 부러워하는지 몰라.",
+            "utterance_id": "BE22009852.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 나 역시 정말 부럽네. 훌륭한 손녀 때문이라도 우리 건강하게 오래 삽시다.",
+            "utterance_id": "BE22009852.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하 암 그래야지. 오래오래 살면서 우리 손녀 이쁜 짓 하는 거 다 보고 죽어야지. 생각만 해도 행복하네.",
+            "utterance_id": "BE22009852.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 그게 행복이지. 언제 밥 한 번 사야겠네?",
+            "utterance_id": "BE22009852.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 언제 우리 친구들 다 모여서 파티를 엽시다!",
+            "utterance_id": "BE22009852.15"
+        }
+    ]
+}

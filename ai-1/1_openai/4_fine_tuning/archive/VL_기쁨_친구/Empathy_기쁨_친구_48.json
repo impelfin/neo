@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009389",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009389",
+        "relation": "친구",
+        "situation": "택배회사 물류센터 아르바이트를 하고 있다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야 나 아르바이트 시작했어. 택배회사 물류센터에서.",
+            "utterance_id": "BE22009389.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와! 기분 좋겠다. 요즘 아르바이트 구하기 어려운데 언제부터 시작했어? 나는 아직 못 구했는데.",
+            "utterance_id": "BE22009389.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "옆집 형이 자기도 하고 있다면서 소개해줘서 쉽게 구할 수 있었어. 얼마나 기쁘던지.",
+            "utterance_id": "BE22009389.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘됐네. 물류센터면 힘들지 않아? 주로 하는 일이 물건 옮기는 일이야?",
+            "utterance_id": "BE22009389.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주로 하는 일이 물건 옮기는 일이긴 한데. 배송 지역별로 구분하는 일도 많이 해. 생각보다 힘들지 않고 만족스러워.",
+            "utterance_id": "BE22009389.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아르바이트 구하기도 힘든데 쉽게 구하고, 네가 기뻐하고 만족스러워해서 정말 다행이다. 하고 싶은 게 있다고 했던 것 같은데.",
+            "utterance_id": "BE22009389.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자식, 기억하고 있었네. 명품 운동화 하나 사고 싶어서. 부모님께 말씀드리기에는 죄송하고 해서.",
+            "utterance_id": "BE22009389.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "목표 의식이 뚜렷해서 아주 좋은데. 사고 싶은 게 있었는데 아르바이트 자리가 빨리 구해져서 기뻤구나?",
+            "utterance_id": "BE22009389.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하루라도 빨리 시작해야지, 목표한 금액 빨리 모으지. 그래서 힘들지도 않고 신나고 좋아. 시급도 좋아서 만족스럽고.",
+            "utterance_id": "BE22009389.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와! 운동화 빨리 사고 싶어서 힘들지도 않고 신난다고? 우리 친구가 많이 달라졌는데, 지난번에는 물류센터 일은 힘들어서 못 한다고 하더니.",
+            "utterance_id": "BE22009389.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 마음먹기에 달린 것 같아. 힘들어서 못 할 것 같았는데, 사고 싶은 운동화가 생기니 힘들지 않고, 기쁘고 좋아. 나도 나를 잘 모르겠어.",
+            "utterance_id": "BE22009389.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구나 다 그러지 않을까? 하고 싶은 게 있으면 잠깐의 힘듦은 이겨낼 수 있는 것 같아. 너뿐만이 아니고.",
+            "utterance_id": "BE22009389.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 달만 아르바이트해도 사고 싶은 운동화 충분히 살 수 있을 것 같아. 나머지 금액은 겨울방학 때 여행 자금으로 잘 모아 놔야겠어.",
+            "utterance_id": "BE22009389.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "멋진 계획인데, 시급이 좋으니까 가능하구나. 나도 어서 아르바이트 구해서 돈 모아야겠다. 너랑 같이 여행 갈 수 있도록.",
+            "utterance_id": "BE22009389.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 겨울에 꼭 같이 여행 가자, 열심히 돈 모아서.",
+            "utterance_id": "BE22009389.15"
+        }
+    ]
+}

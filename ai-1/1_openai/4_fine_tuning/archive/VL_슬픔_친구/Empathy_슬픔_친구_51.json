@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009824",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009824",
+        "relation": "친구",
+        "situation": "이혼을 했는데 경제적으로 너무 어렵다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 나 이혼한 게 요즘 조금 후회돼.",
+            "utterance_id": "BE22009824.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래, 요즘 무슨 일 있어?",
+            "utterance_id": "BE22009824.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이혼하고 나서 이렇게 경제적으로 어려워질 줄 몰랐어. 내 힘으로도 잘 살 줄 알았는데 돈이 없으니 너무 슬프다. 나 자신이 이렇게 무능력했었나 싶어서 우울하기도 하고.",
+            "utterance_id": "BE22009824.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 요즘 네가 경제적으로 많이 힘든 걸 몰랐네. 힘이 드니까 이혼한 걸 후회하게 되는구나. 그 마음 이해해.",
+            "utterance_id": "BE22009824.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "결혼하고 나서 내가 직장을 왜 그만두었었는지 이해가 안 돼. 직장을 그만두지 않았더라면 내 커리어가 끊기지도 않았을 텐데. 아르바이트로 생활을 유지하기가 힘들어서 눈물이 나.",
+            "utterance_id": "BE22009824.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 친구가 많이 힘들고 슬프구나, 내가 몰라줘서 미안해. 생활을 유지하기 힘든 정도로 네가 고생하고 있는 줄 몰랐어. 나에게 도움을 청하지 그랬어.",
+            "utterance_id": "BE22009824.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 자신이 한심하고 일상이 후회로 가득해. 주변에 도움을 청하기도 나 자신의 무능력함을 인정하는 것 같아서 슬프더라고. 가족도, 친구들도 모두 나를 한심하게 생각할 것 같아.",
+            "utterance_id": "BE22009824.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야, 이혼을 하는 것도 얼마나 큰 용기가 필요한 일인데, 너는 절대 한심하지 않아. 그리고 가족과 친구들은 모두 너를 사랑하는걸. 네가 힘들다면 언제든 도움을 청해도 괜찮아.",
+            "utterance_id": "BE22009824.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말대로 이혼을 하는 게 참 큰 결심이 필요했지. 이전 배우자와 사는 게 정말 행복하지 않았고, 이혼하면 행복해질 줄 알았어. 그런데 경제적인 문제로 이렇게 고통을 받는 게 슬픈 거야.",
+            "utterance_id": "BE22009824.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 혼자서 얼마나 힘들었을지 나도 가슴이 아프다. 배우자와 같이 지내다가 혼자서 이런 일을 겪으니 얼마나 힘들고 외로웠을까. 넌 충분히 옳은 결정을 했어, 힘들면 얼마든지 나에게 기대도 돼.",
+            "utterance_id": "BE22009824.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네게 진심 어린 위로를 들으니 마음이 따뜻해진다. 슬픔이 조금씩 작아지는 것 같아. 가족에게도, 다른 사람들에게도 도움을 청할 용기가 생겼어.",
+            "utterance_id": "BE22009824.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 사람들은 분명 널 도와줄 준비가 되어 있을 거야. 네가 얼마나 평소에 주위 사람들에게 잘하는데. 너는 너희 부모님에게 자랑스러운 딸이자 나에게는 훌륭한 친구야.",
+            "utterance_id": "BE22009824.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해 줘서 정말 고마워. 네 덕분에 마음에 희망의 불씨가 생긴 것 같아.",
+            "utterance_id": "BE22009824.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네 마음이 나아졌다니 나도 기쁘다. 언제든지 나에게 연락해도 돼.",
+            "utterance_id": "BE22009824.14"
+        }
+    ]
+}

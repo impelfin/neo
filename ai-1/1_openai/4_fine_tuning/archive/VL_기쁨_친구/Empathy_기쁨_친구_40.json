@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009299",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009299",
+        "relation": "친구",
+        "situation": "기념일이 아니지만 엄마에게 핑크색 립스틱을 사드렸다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 백화점 갈 일이 있었거든. 기념일은 아니지만, 엄마한테 문득 핑크 립스틱을 사 드리고 싶었어. 좋아하는 엄마 모습을 보니 정말 기분이 좋더라.",
+            "utterance_id": "BE22009299.1"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선물 받고 기뻐하는 모습 보고 무척 흐뭇했겠다. 너도 정말 기뻤겠는걸.",
+            "utterance_id": "BE22009299.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 좋아하는 모습을 보니 감동이 밀려왔어. 작은 선물인데도 어린아이처럼 좋아하시더라.",
+            "utterance_id": "BE22009299.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기쁜 부모님을 바라보는 건 정말 멋진 일이야. 네 마음에도 감동이 벅차올랐겠다.",
+            "utterance_id": "BE22009299.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선물 드리러 갔다가 엄마랑 좋은 시간도 보냈어. 밀린 수다를 떨다 보니 마음이 편안하고 기뻤어.",
+            "utterance_id": "BE22009299.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마와 즐거움을 공유해서 좋았겠구나. 네가 엄마를 얼마나 사랑하는지 그대로 느껴져.",
+            "utterance_id": "BE22009299.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나이가 들수록 엄마를 더 사랑하게 되는 것 같아. 늘 감사하다는 마음이 들기도 하고.",
+            "utterance_id": "BE22009299.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "흐뭇한 마음도 들고 행복했겠구나. 서로 사랑하는 모녀의 모습 정말 아름다워.",
+            "utterance_id": "BE22009299.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "앞으로도 기념일이 아니더라도 깜짝 선물을 드려야겠어. 좋아하는 엄마 모습 떠올리니 애틋한 마음에 잠도 잘 오지 않더라.",
+            "utterance_id": "BE22009299.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 진심이 그대로 느껴지네. 네 모습을 보니 나도 엄마한테 더 잘해드려야겠다는 생각이 들어.",
+            "utterance_id": "BE22009299.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그렇게 잘해드리지는 않아. 그런데 네가 그렇게 말해 주니 쑥스럽기도 하고 고맙기도 하네.",
+            "utterance_id": "BE22009299.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "넌 정말 훌륭한 효녀야. 그만큼 엄마를 깊이 사랑하는 거지. 너의 그런 모습을 보면 정말 배울 점이 많아.",
+            "utterance_id": "BE22009299.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구가 그렇게 칭찬해 주니 정말 고마운걸. 앞으로도 엄마한테 더 감사드려야겠어. 더 잘 챙겨드리도록 노력하고.",
+            "utterance_id": "BE22009299.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "넌 지금도 충분히 잘하고 있어. 네 모습을 보면서 나도 가끔 감동하거든.",
+            "utterance_id": "BE22009299.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "부족한 나에게 그런 과분한 칭찬을 해 주다니. 내게 힘을 줘서 늘 고마워, 친구.",
+            "utterance_id": "BE22009299.15"
+        }
+    ]
+}

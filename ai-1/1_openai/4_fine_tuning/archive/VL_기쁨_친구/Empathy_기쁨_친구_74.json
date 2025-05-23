@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009662",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009662",
+        "relation": "친구",
+        "situation": "아들이 처음으로 교복을 입는다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘은 아주 뜻깊고 기쁜 날이 될 것 같아. 아들이 처음으로 교복을 입고 학교 가는 날이거든.",
+            "utterance_id": "BE22009662.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞다, 오늘이 입학식이라고 했지? 정말 기쁘겠다! 축하해.",
+            "utterance_id": "BE22009662.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워, 교복 맞추러 갈 때도 흐뭇하고 벅찬 기분이 들었거든. 그런데 오늘 교복을 처음 입는다고 생각하니 더 기쁘고 이상한 거 있지.",
+            "utterance_id": "BE22009662.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 아니겠어! 그 만족스럽고 대견한 마음이 당연히 들지. 교복 입고 인사하고 나가는 모습 보며 기뻐서 눈물 흘리는 거 아니야?",
+            "utterance_id": "BE22009662.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수도 있을 것 같아. 태어나면서부터 몸이 좋지 않아 항상 미안한 마음이 있었잖아. 그런데 이렇게 건강하게 중학생이 된 모습을 보니 고맙고 대견해.",
+            "utterance_id": "BE22009662.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 아이가 아프면 다 내 탓 같아 미안한 마음이 항상 들잖아. 나도 우리 딸 유치원 가면서 한 일 년 아플 때 얼마나 힘들었는지 몰라. 이렇게 잘 자랐으니, 그 기쁘고 감사한 마음은 나도 잘 알지.",
+            "utterance_id": "BE22009662.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 딱 그 마음이야. 얼마나 그간 마음고생이 심했는지 몰라. 아이가 어떻게 될까 봐 잠도 못 자고 그랬는데, 교복 입는 모습을 본다고 생각하니 꿈같다!",
+            "utterance_id": "BE22009662.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 같은 엄마가 어디 있어. 정말 아이 건강을 향한 네 노력 정말 대단하고 위대했어. 공부도 많이 하고, 음식도 네가 다 해서 먹이고, 누구도 그 정성 못 따라갈 정도였잖아.",
+            "utterance_id": "BE22009662.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 말해주니 마음이 뜨겁다. 아무도 내 마음 모를 거라 생각했는데 말이야. 아이가 내 마음을 안 건지, 그 어느 때보다 건강한 모습이라서 벅차고 기뻐.",
+            "utterance_id": "BE22009662.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다들 표현을 안 하고 있는 거지, 네 정성을 어떻게 모르겠니. 네가 기울인 정성은 아들이 건강한 모습으로 보답하고 있잖아. 오랜만에 네가 기쁘다고 하니 난 너무 행복하다.",
+            "utterance_id": "BE22009662.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지? 교복 맞추고 나오는 길에 아이가 내 손을 지긋이 잡더니 고맙다고 하더라. 그 말을 듣는데 감동해서 눈물이 울컥 솟았어. 그러고 보면 네 말대로 아이는 다 느끼고 있었나 봐.",
+            "utterance_id": "BE22009662.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 다 눈물이 나려고 한다. 아들도 기특하다. 네 정성과 노력을 알고 감사하다고 하는 것 같아. 속 깊고, 다정한 표현에 눈물이 당연히 나지.",
+            "utterance_id": "BE22009662.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어 힘든 시간만 있으라는 법은 없나 봐. 이렇게 기쁘고 만족스러운 날들이 오는 걸 보면 말이야. 요즘은 그 어느 때보다 살맛 나는 날들을 보내고 있어.",
+            "utterance_id": "BE22009662.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 흐린 날이 있으면 맑은 날이 있지! 네가 그렇게 말하니 눈물 날 것처럼 기쁘고 감사하다.",
+            "utterance_id": "BE22009662.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "공감화자야, 네가 내 기쁨을 함께 느끼며 고맙다고 해 주니 기쁨이 배가 되는 것 같아. 고맙다, 언제나 나와 함께 해 줘서.",
+            "utterance_id": "BE22009662.15"
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009222",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009222",
+        "relation": "친구",
+        "situation": "기운이 없을땐 카라멜마끼아또를 마신다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 기운이 없을 땐 캐러멜 마키아토를 마셔. 그럼 에너지가 생기는 것 같아.",
+            "utterance_id": "BE22009222.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우와, 너도 그렇구나. 나도 한잔씩 마시면 힘이 불끈불끈 솟아나더라고. 아메리카노랑은 또 다르게.",
+            "utterance_id": "BE22009222.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일하다가 아이디어가 떠오르지 않고 탁 막힐 때가 있잖아. 그럴 때도 이걸 마시면 머리 회전이 술술 되는 느낌이야!",
+            "utterance_id": "BE22009222.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 오후쯤 축 처져 있다가도 캐러멜 마키아토 한잔이면 정신이 퍼뜩 들잖아. 그러니까 집중도가 높아지고, 사랑하지 않을 수 없는 음료라니까. 인생에서 빼놓을 수 없는 즐거움이야.",
+            "utterance_id": "BE22009222.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남자 친구랑 데이트하다가 내 거 다 먹고 나면 남자 친구 것까지 노리게 돼. 그 달콤한 유혹을 뿌리칠 수가 없는 거야.",
+            "utterance_id": "BE22009222.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남자 친구가 자기는 신경 안 쓰고 캐러멜 마키아토에만 마음이 가 있다고 토라질 수도 있겠다. 뭐 그럴 정도로 캐러멜 마키아토가 너를 너무 행복하게 해주니 어쩌겠어.",
+            "utterance_id": "BE22009222.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오히려 내가 시무룩하거나 지쳐 있으면 어느새 사라졌다가 두 손에 캐러멜 마키아토를 들고 짠 하고 나타나는 거야. 얼굴에 나를 사랑한다고 크게 씌어 있는 듯이 환하게 웃음을 머금고, 너 다 먹어, 하면서.",
+            "utterance_id": "BE22009222.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우와, 너무 달달한 연애질이네. 달콤한 캐러멜 마키아토를 저렇게 달콤한 남자 친구가 챙겨주니 너무너무 부럽다.",
+            "utterance_id": "BE22009222.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 웬만한 힘든 일이나 스트레스는 캐러멜 마키아토 한잔 마시고 가볍게 생각하려고 해. 나중에 돌아보면 별 대수롭지 않은 일인 경우가 많잖아. 그럴 때 캐러멜 마키아토가 큰 도움이 되지.",
+            "utterance_id": "BE22009222.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "입속으로 달콤한 게 들어오면 나도 모르게 힘이 솟잖아. 뾰족해져 있던 신경세포도 어느덧 느슨해지면서 굳은 몸과 마음이 살살 풀어지는 것 같아. 여기에 도넛까지 곁들여 먹으면 입 안에 달콤한 맛이 확 퍼지면서 세상에 천국이 따로 없지.",
+            "utterance_id": "BE22009222.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우와, 캐러멜 마키아토를 그렇게 즐기는 방법이 또 있었구나! 우리 함께 천국에서 만날까? 하하.",
+            "utterance_id": "BE22009222.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 되면 직장도 천국이고, 공원도 천국이고 우리에겐 어디든 천국이 될 수 있는 거지.",
+            "utterance_id": "BE22009222.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 캐러멜 마키아토 맛을 제대로 알고 난 다음부터 1일 1잔이야. 매일매일 달콤하게 산다고 할까.",
+            "utterance_id": "BE22009222.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "일상에서 늘 우리를 기쁘게 해주는 캐러멜 마키아토가 있으니 얼마나 다행이니. 우리 캐러멜 마키아토와 함께 언제나 맑고 밝게 하하 호호 하며 지내자.",
+            "utterance_id": "BE22009222.14"
+        }
+    ]
+}

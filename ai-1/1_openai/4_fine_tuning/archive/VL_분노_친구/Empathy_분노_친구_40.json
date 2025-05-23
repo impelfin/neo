@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009600",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009600",
+        "relation": "친구",
+        "situation": "부부싸움을 하고 혼자 찜질방에 갔다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좀 전에 남편이랑 크게 싸우고 혼자 찜질방에 왔어. 지금 당장은 남편 얼굴도 보기 싫은걸.",
+            "utterance_id": "BE22009600.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남편과 크게 다툰 모양이로구나. 무슨 일이라도 있었니?",
+            "utterance_id": "BE22009600.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남편이 반찬 투정을 하다가 말싸움이 시작됐는데, 그게 감정싸움으로까지 번졌어. 그동안 불만이었던 부분을 지적하며 내게 쏘아붙이는데, 너무 화가 나서 그냥 집을 나와버렸어.",
+            "utterance_id": "BE22009600.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 그렇게 다투게 되어 네가 기분이 무척 나쁜 상태겠구나. 감정싸움으로까지 이어졌으니 네가 속이 많이 상했겠는걸.",
+            "utterance_id": "BE22009600.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 오랜 시간 함께 살았지만, 종종 이렇게 부딪힐 때마다 정말 답답하고 화가 나. 더 대화해봤자 나만 힘들다는 생각에 혼자 찜질방까지 온 거야. 지금은 남편 생각만 해도 속이 부글거려.",
+            "utterance_id": "BE22009600.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 많이 힘들었겠구나. 오랜 시간을 함께 보내도 의견을 맞추는 게 쉬운 일이 아니지. 네가 그렇게 화가 나는 것도 이해가 가.",
+            "utterance_id": "BE22009600.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 오늘은 아예 찜질방에서 하루 자고 갈 생각이야. 온갖 불평불만을 쏟아내는 남편이 짜증 나서 꼴도 보기 싫은걸.",
+            "utterance_id": "BE22009600.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇구나. 그런데 너는 지금 남편에게 크게 화가 나서 많이 흥분한 것처럼 보여. 우선 침착하게 마음을 가라앉혀 보는 게 어떨까?",
+            "utterance_id": "BE22009600.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 말처럼 쉽지 않아. 찜질방에 누워 있어도 계속 남편이 내게 했던 말들이 떠올라 너무 열받는걸. 그렇게 마구 쏘아붙일 때마다 기분이 상해서 나도 감정이 더 격해져.",
+            "utterance_id": "BE22009600.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "상대방이 그렇게 너를 대한다면 물론 화가 나고 기분이 상하겠지. 그 마음을 어떻게 모르겠니. 다만 네가 너무 흥분한 상태에서 스트레스를 받는 것 같아서 걱정되어서 하는 말이야.",
+            "utterance_id": "BE22009600.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말이 맞아. 화를 낼수록 나만 더 힘들어지는 기분인걸. 더 이상 화를 내봐야 좋을 게 없겠지.",
+            "utterance_id": "BE22009600.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 기왕 혼자 찜질방까지 왔으니, 지금의 흥분한 감정을 가라앉히고 마음을 진정시켜보자. 보다 차분한 마음가짐이 너를 편안하게 해줄 거야.",
+            "utterance_id": "BE22009600.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알았어. 확실히 진정하고 나니 마음이 한결 침착해지는걸. 기분도 조금 전보다 훨씬 나아졌어.",
+            "utterance_id": "BE22009600.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 다행이야. 머리를 식히고 너를 괴롭히는 부정적인 감정들에서 멀어져 보렴. 너의 심신을 안정시키는 데 도움이 될 거야.",
+            "utterance_id": "BE22009600.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알았어. 혼자서 머리를 식히고 차분하게 생각해볼게. 조언해줘서 고마워.",
+            "utterance_id": "BE22009600.15"
+        }
+    ]
+}

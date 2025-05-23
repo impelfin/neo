@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009373",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009373",
+        "relation": "친구",
+        "situation": "결혼을 일찍한 편이다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 다른 친구들처럼 여행도 다니고, 클럽도 가보고 싶어. 난 내 생활이 없어서 슬퍼.",
+            "utterance_id": "BE22009373.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "결혼 일찍 한 걸 후회하는 거니? 네가 어린 나이에 결혼해서, 많은 경험을 하지 못했다는 거 알아. 속상한 마음 이해해.",
+            "utterance_id": "BE22009373.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이를 키우다 보면 하루가 금방 지나가. SNS에서 친구들이 여행 사진 올린 걸 보면 너무 부럽고, 내가 초라하게 느껴져.",
+            "utterance_id": "BE22009373.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그들은 그들만의 생활이 있고, 너에게도 너만의 생활이 있잖아. 서로 다를 뿐이야. 네가 더 초라한 게 아니라고 생각해 난.",
+            "utterance_id": "BE22009373.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이를 조금만 더 늦게 낳을 걸 그랬나 봐. 아니, 결혼을 좀더 늦게 할걸. 내 선택이 후회돼서 매일 밤 울면서 자.",
+            "utterance_id": "BE22009373.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "육아를 시작한 지 얼마 안 돼서 더 예민하게 느껴질 수 있어. 네가 매일 운다고 하니 나도 속상하고 마음이 아프다.",
+            "utterance_id": "BE22009373.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제일 속상한 건 친구들을 만날 시간조차 없어. 그러다 보니 대화할 사람이 없어서 더 외롭고 초라하게 느껴지는 것 같아.",
+            "utterance_id": "BE22009373.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 네 친구잖아. 네가 힘들 때는 언제든지 나에게 연락해도 돼. 너 혼자 아니니까 너무 외로워하지 말았으면 해.",
+            "utterance_id": "BE22009373.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 내가 더 외로웠던 이유는, 사실 남편이 나에게 너무 무관심한 것 같아. 육아도 나 혼자만 하고 있어.",
+            "utterance_id": "BE22009373.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 정말 너무하다. 너 안 그래도 외로움 많이 타는데 혼자서 많이 힘들었겠다. 남편까지 그렇게 무심하면, 네 마음이 정말 아팠을 것 같아.",
+            "utterance_id": "BE22009373.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 매일 우는 나를 보면서도 별로 신경도 안 써. 아이는 떼를 쓰는데, 나 혼자 감당하기가 너무 버겁다.",
+            "utterance_id": "BE22009373.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남편이 너에게 조금만 더 따뜻했더라면, 네 마음이 이렇게 힘들지 않았을 텐데. 내가 다 눈물이 나고 속상하다. 그래도 난 항상 네 편이라는 걸 기억해 줘.",
+            "utterance_id": "BE22009373.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "나 감동해서 눈물이 날 것 같아. 친구도 남편도 모두 나를 외면했다고 생각해서 너무 외로웠거든. 네 진심 어린 위로에 내 마음이 풀린다.",
+            "utterance_id": "BE22009373.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "넌 힘든 일이 많아도 항상 이겨냈잖아. 지금 느끼는 외로움도 시간이 지나면 지나갈 거라 확신해. 네가 항상 잘 해왔듯, 이 문제도 지나갈 거니 너무 상심하지 마.",
+            "utterance_id": "BE22009373.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워. 너랑 대화하니까 내가 혼자가 아닌 것 같아. 넌 정말 든든한 내 편이야.",
+            "utterance_id": "BE22009373.15"
+        }
+    ]
+}

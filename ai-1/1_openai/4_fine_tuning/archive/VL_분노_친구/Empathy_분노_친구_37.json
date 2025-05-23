@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009559",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009559",
+        "relation": "친구",
+        "situation": "방문을 닫다 손을 찧어 손톱에 피멍이 들었다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "악, 방문을 닫다가 손을 찧었어. 손이 화끈거리고 아파.",
+            "utterance_id": "BE22009559.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 많이 아프겠다. 혹시 손가락이 크게 다치진 않았니?",
+            "utterance_id": "BE22009559.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "손톱에 보기 흉하게 피멍이 들었어. 한참 동안 피멍이 사라지지 않을 걸 생각하니 벌써부터 성가시고 짜증이 나.",
+            "utterance_id": "BE22009559.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말만 들었는데도 아파서 눈살이 찌푸려질 것 같은걸. 게다가 손톱의 피멍은 오래 남을 테니 네가 신경이 많이 쓰이겠구나.",
+            "utterance_id": "BE22009559.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 여전히 손 전체가 아프고 욱신거려서 불쾌하단 말이야. 거기다 심지어 피멍까지 생긴 걸 보니 기분이 확 나빠졌어.",
+            "utterance_id": "BE22009559.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 통증 때문에 예민해졌을 텐데, 심지어 피멍까지 생겨 버린다면 기분이 많이 나빴겠다. 나 같아도 아픈 손을 보면서 속상한 마음이 들었을 거야.",
+            "utterance_id": "BE22009559.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 게다가 이런 식으로 다친 적이 한두 번이 아냐. 대체 왜 이렇게 늘 부주의하게 행동하다가 다치는 건지, 나조차 이해가 안 돼.",
+            "utterance_id": "BE22009559.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 이런 일이 잦다면 네가 더더욱 성가셨겠는걸. 혹시 급한 일이라도 있었니? 마음이 조급해지면 행동을 빨리 하려다가 무심코 그런 실수를 저지르곤 하잖아.",
+            "utterance_id": "BE22009559.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "꼭 급한 일이 있었던 건 아니야. 다만 네 말대로 무심코 성급하게 행동하는 습관이 있는 것 같긴 해. 느린 것을 답답해해서 참을 수가 없거든.",
+            "utterance_id": "BE22009559.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 생각에는, 앞으로 조금 더 신중하고 조심스러운 태도를 가지는 게 좋을 것 같아. 그런 성격이 자칫 이번과 같은 사고를 되풀이하게 될까 봐 네가 걱정되는걸.",
+            "utterance_id": "BE22009559.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말이 맞아. 그동안 나도 모르게 무심코 몸이 먼저 움직여버리는 경우가 잦았거든. 나는 늘 쉽게 초조해지고 조급해져서 이렇게 화를 부르곤 해.",
+            "utterance_id": "BE22009559.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮아. 지금부터라도 노력한다면 충분히 그런 행동도 고칠 수 있는걸. 우선은 먼저 지금 짜증이 나 있는 네 마음을 차분하게 가라앉히는 게 좋을 것 같아. 아픔도 피멍도 언젠가는 사라질 테니, 너무 마음에 두지 말자.",
+            "utterance_id": "BE22009559.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 덕분에 벌써부터 기분이 좀 나아지는 것 같아. 내가 지금도 너무 성급하게 화를 내고 있었다는 생각에 반성하게 되는걸.",
+            "utterance_id": "BE22009559.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 태도야. 앞으로도 먼저 마음을 차분히 가라앉히도록 노력해보렴. 심호흡을 하는 것도 느긋하게 마음의 안정을 찾는 데 도움이 된단다. 그렇게 한다면 네 심신이 한결 편안해질 수 있을 거야.",
+            "utterance_id": "BE22009559.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 조언해줘서 고마워. 내게 큰 도움이 되었어. 앞으로 마음을 차분히 가라앉히는 연습을 해볼게.",
+            "utterance_id": "BE22009559.15"
+        }
+    ]
+}

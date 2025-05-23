@@ -1,0 +1,164 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009168",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009168",
+        "relation": "친구",
+        "situation": "딸이 결혼을 한다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 다음 주 토요일에 결혼을 해.",
+            "utterance_id": "BE22009168.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "벌써 결혼할 때가 되었단 말이야. 조그맣던 아기가 언제 자라서 결혼을 한다니!",
+            "utterance_id": "BE22009168.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지? 어렸을 때 모습이 아직도 어제같이 생생한데, 예쁘게 자라나서 결혼한다니! 믿기지가 않는다!",
+            "utterance_id": "BE22009168.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 금이야 옥이야 애지중지 키운 딸이 잘 커서 결혼하게 되었다니! 나였어도 절로 웃음이 나겠는걸.",
+            "utterance_id": "BE22009168.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 그 애가 드레스 입고 나를 쳐다보면서 환하게 웃는데 하늘에서 천사가 내려온 줄 알았어. 세상을 다 가진 듯한 기분이었다니까.",
+            "utterance_id": "BE22009168.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 나였어도 그 모습을 봤다면 덩달아 웃음이 났겠는걸. 예쁜 딸아이 모습에서 네 젊은 시절 생각도 들었을 것 같아. 그 시절에 너도 참 아름다웠거든.",
+            "utterance_id": "BE22009168.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 어떤 부모들은 슬프고 착잡하다는데, 나는 자꾸 웃음이 나네? 잘 키운 것 같아서.",
+            "utterance_id": "BE22009168.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 잘 키웠지. 누구 딸인데! 널 닮아서 분명 예쁘고 현명한 아이일 것이라고 믿어. 사위는 어떤 사람이야?",
+            "utterance_id": "BE22009168.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사위는 회사 선배인데, 아주 똑똑하고 자상한 게 둘이 잘살기만하면 세상에 더 이상 바랄 게 없어.",
+            "utterance_id": "BE22009168.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거 진짜 잘 되었다! 딸들은 보통 아빠 닮은 사람을 고른다던데, 너처럼 똑똑하고 자상한 사람이라니! 분명 행복한 결혼생활할 수 있을 거야.",
+            "utterance_id": "BE22009168.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 네 얘기를 들으니까 정말로 그렇게 이루어질 것만 같아.",
+            "utterance_id": "BE22009168.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지! 내가 결혼식장에서도 누구보다 크게 박수 쳐주고 행복을 빌어줄게!",
+            "utterance_id": "BE22009168.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그래 준다니 영광이네. 더 기쁜걸.",
+            "utterance_id": "BE22009168.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "다시 한번 축하해. 이런 좋은 일이라면 언제든 환영이야.",
+            "utterance_id": "BE22009168.14"
+        }
+    ]
+}

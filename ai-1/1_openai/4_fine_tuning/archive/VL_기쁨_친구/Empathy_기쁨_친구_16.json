@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009069",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009069",
+        "relation": "친구",
+        "situation": "일회용생리대 대신 면생리대를 사용한다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자야, 나 요즘 면 생리대를 사용하는데, 정말 만족스러워. 너 이거 써봤니?",
+            "utterance_id": "BE22009069.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니. 그거 좋다는 말은 들었는데 그렇게 괜찮은 거니?",
+            "utterance_id": "BE22009069.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 처리는 불편하긴 하지만 익숙해지면 쉬워져. 무엇보다 일회용 생리대 대신에 사용하는 거니까 마음이 참 기뻐.",
+            "utterance_id": "BE22009069.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그렇겠다. 네 말을 들어보니 정말 좋을 것 같다는 생각이 들어. 네 마음이 편해진다는 말도 알 수 있을 거 같아.",
+            "utterance_id": "BE22009069.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지? 쓰레기를 줄이는 노력이 나 자신을 참 기쁘게 하더라. 게다가 몸에도 좋고. 생리통도 줄었어.",
+            "utterance_id": "BE22009069.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와, 정말 대단하구나. 그런 일상의 노력이 참 힘든 건데 네가 그걸 하고 있네. 얼마나 만족스러울까. 대단하다.",
+            "utterance_id": "BE22009069.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음부터 쉽지는 않았어. 처리하는 게 귀찮기도 하고 말이야.",
+            "utterance_id": "BE22009069.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 계속 익숙해질 때까지 노력한 거잖아. 네 덕분에 줄어드는 일회용 생리대가 몇 개가 되겠니. 정말 장해.",
+            "utterance_id": "BE22009069.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하, 칭찬을 들으니 어깨가 절로 으쓱하는걸? 몸도 아끼고 칭찬도 받으니 정말 기쁘다.",
+            "utterance_id": "BE22009069.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "솔직히 일회용 생리대의 위험성에 대해서는 많이 알고 있잖아. 그렇지만 다들 편의를 위해 사용하는 거지. 네 말을 들으니 나도 면 생리대에 도전해야겠다는 생각이 들어.",
+            "utterance_id": "BE22009069.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 네가 그래 준다면 나는 더 기쁠 거야.",
+            "utterance_id": "BE22009069.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워, 감정화자야. 네가 말해준 덕분에 나도 좋은 사람이 되는 행운을 얻게 되겠네. 넌 늘 그렇게 주변 사람들을 좋은 방향으로 이끄는 면이 있어. 그래서 참 존경하게 돼.",
+            "utterance_id": "BE22009069.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아휴, 그런 칭찬까지 들을 건 아니야. 하하, 그래도 고맙다.",
+            "utterance_id": "BE22009069.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 널 본받아서 일회용 생리대 대신 면 생리대를 사용하도록 노력할게. 내가 생리통 줄고 몸도 좋아지면 다 네 덕이겠다. 미리 고마워.",
+            "utterance_id": "BE22009069.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 나도 내 말을 긍정적으로 생각해줘서 고맙다. 그럼, 또 연락할게!",
+            "utterance_id": "BE22009069.15"
+        }
+    ]
+}

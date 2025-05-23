@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009291",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009291",
+        "relation": "친구",
+        "situation": "연인에게 저녁밥을 차려주고 싶다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 나 이번에 남자 친구랑 처음 여행 가는데 저녁을 내가 차려보려고 해. 잘할 수 있겠지?",
+            "utterance_id": "BE22009291.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와! 드디어 같이 여행 가는구나. 네가 요리해주면 남자 친구가 많이 좋아할 것 같아. 너 요리 엄청 잘하잖아, 둘만의 여행이라니 엄청 설레겠다.",
+            "utterance_id": "BE22009291.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 엄청 기대되고 설레. 그런데 내가 하는 음식을 좋아해 줄지 조금 걱정도 되고 그렇네. 처음에는 음식 할 생각이 없었는데 남자 친구를 사랑하다 보니 자연스럽게 밥도 해주고 싶어.",
+            "utterance_id": "BE22009291.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 그 마음 이해해. 이 사람이 사랑스러울수록 내가 해주는 음식 먹으면서 행복해하는 모습을 보고 싶은 마음? 특히 너는 워낙 사람도 잘 챙기고 다정하니까 더욱더 그런 마음이 들 것 같아.",
+            "utterance_id": "BE22009291.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 네 말대로 나는 원래도 누군가를 챙기는 걸 좋아했었지. 그런데 이 사람은 좀더 특별해. 이런 게 진정한 사랑일까?",
+            "utterance_id": "BE22009291.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 사람과 평범한 일상을 꿈꾸면서 미래를 함께하고 싶은 마음이 들어? 와, 내 친구 드디어 진정한 사랑을 만난 건가! 한동안 사람 때문에 힘들어하더니 너무 잘됐다.",
+            "utterance_id": "BE22009291.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 딱 그런 마음이야. 사랑이 넘쳐서 어느 순간 이 사람과 함께하면 평생 행복하겠다 하는 마음. 너랑 얘기하다 보니 더 확실히 내가 지금 사랑을 하고 있구나 싶네.",
+            "utterance_id": "BE22009291.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 행복해하는 모습만 봐도 지금 그 사람이랑 얼마나 깊이 사랑하는지 알 것 같아. 아, 좀 부럽다. 그 남자 친구는 네가 해주는 맛있는 요리 자주 먹을 수 있겠네. 네 사랑을 받다니 엄청 부러운걸.",
+            "utterance_id": "BE22009291.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부끄럽게 무슨 소리야. 아직 그 사람이 잘 먹을지, 좋아할지 모르는걸.",
+            "utterance_id": "BE22009291.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에이, 안 봐도 뻔한 비디오야. 너처럼 사랑스럽고 귀엽고 거기에다 환상적인 요리 솜씨를 가진 애한테 더 깊이 빠지면 빠졌지, 안 좋아할 리가 없다고. 내 친구지만 넌 정말 사랑스러워.",
+            "utterance_id": "BE22009291.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 친구가 좋네, 그런 말 들으니 자신감이 막 샘솟 걸. 내 음식을 먹고 좋아할 그 사람 생각하니 더더 사랑스럽게 느껴지고 말이야. 여행 빨리 갔으면 좋겠다.",
+            "utterance_id": "BE22009291.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 여행 다녀오면 아마 더 서로 깊이 사랑하게 될 것이라는 데 한 표 겁니다! 너도 그 사람의 새로운 매력을 발견하게 될 거고 그 사람도 그렇겠지. 얼마나 행복할지 새삼 부럽네.",
+            "utterance_id": "BE22009291.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에이, 너도 곧 좋은 남자 친구 만날 거야. 내가 여행 다녀와서 재미있었던 일 많이 이야기해 줄게. 그리고 요리한 후기도!",
+            "utterance_id": "BE22009291.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 꼭 같이 공유해줘. 그래야 나도 미래의 남친한테 어떻게 행동할지 미리 계획을 세워 놓지. 연애하는 친구 덕 좀 보자.",
+            "utterance_id": "BE22009291.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "정말 너의 말솜씨는 나를 너무 웃게 해. 고마워, 친구야. 나 잘 다녀와서 연락할게!",
+            "utterance_id": "BE22009291.15"
+        }
+    ]
+}

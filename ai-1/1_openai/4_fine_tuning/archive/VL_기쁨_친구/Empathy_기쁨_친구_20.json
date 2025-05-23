@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009090",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009090",
+        "relation": "친구",
+        "situation": "대학 졸업식 날이다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시간이 정말 너무 빠르다. 오늘이 졸업식이라는 사실이 믿기지 않아.",
+            "utterance_id": "BE22009090.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "졸업은 항상 그랬던 거 같아. 오지 않을 거 같으면서도 막상 오면 순식간처럼 느껴지잖아.",
+            "utterance_id": "BE22009090.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 분명 많은 시간을 보내고 다양한 일을 겪었는데 짧게 느껴진다.",
+            "utterance_id": "BE22009090.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 마침내 맞이하는 졸업식의 느낌은 어때?",
+            "utterance_id": "BE22009090.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 사실 지난 시간에 아쉬움이 클 줄 알았어. 하지만 지금 너무 기뻐. 고생 끝에 결승선을 통과한 기분이야.",
+            "utterance_id": "BE22009090.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 기쁘다니 나도 기분이 좋다. 오늘만큼은 기쁨이 더 클 수밖에 없지. 축하해 정말.",
+            "utterance_id": "BE22009090.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 꽃다발을 받는 사람들을 보면서도 많은 생각이 들어. 다들 기분이 좋게 미소를 짓고 있어.",
+            "utterance_id": "BE22009090.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다들 너와 같은 감정을 느끼고 있나 보네. 모두가 같이 결승선을 통과했구나. 듣기만 해도 그 에너지가 느껴진다.",
+            "utterance_id": "BE22009090.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나에게 학교생활은 경쟁처럼 느껴지지 않았던 거 같아. 동기들과 함께 지금 이 자리에서 기쁨을 나눌 수 있어서 너무 좋아.",
+            "utterance_id": "BE22009090.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기쁨을 느낄 수 있다는 것은 네가 누구보다도 열심히 그리고 성실하게 학교생활을 했다는 증거야. 그리고 그 기쁨을 나누는 너의 마음이 너무 예쁘다.",
+            "utterance_id": "BE22009090.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워 정말로. 사실 졸업 이후의 걱정이 없는 건 아니야. 하지만 오늘 이 순간만큼은 지금의 기쁨을 더 느끼고 싶어.",
+            "utterance_id": "BE22009090.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말이 맞아. 오늘만큼은 이 기쁨이 잊히지 않게 더욱 즐겨. 지금의 기쁨이 나중에 어려운 일이 있었을 때 이겨낼 힘이 될 거야.",
+            "utterance_id": "BE22009090.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 이야기해주니 마음 더 편하게 즐길 수 있을 거 같아. 고마워.",
+            "utterance_id": "BE22009090.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이게 다 네가 고생한 시간이 있기 때문이지. 오늘 하루의 주인공은 너라는 사실을 잊지 마!",
+            "utterance_id": "BE22009090.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알겠어! 지금의 기쁨과 감정을 즐기고 오래 기억할게!",
+            "utterance_id": "BE22009090.15"
+        }
+    ]
+}

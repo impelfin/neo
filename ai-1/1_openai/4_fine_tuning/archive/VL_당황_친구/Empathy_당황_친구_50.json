@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22010580",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010580",
+        "relation": "친구",
+        "situation": "필라테스 체험 수업을 했다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어휴, 오늘 처음으로 필라테스 체험 수업 갔다가 엄청나게 당황했어.",
+            "utterance_id": "BE22010580.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일 있었어?",
+            "utterance_id": "BE22010580.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상에 나 말고 다들 고수인지, 나만 못 따라 하는 거야. 창피해서 식은땀이 흐르더라.",
+            "utterance_id": "BE22010580.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고 민망했겠네. 한번 해보니까 계속 다닐만한 것 같아?",
+            "utterance_id": "BE22010580.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "계속하고 싶긴 한데 나만 너무 초보자라 부끄러워. 처음에 얼마나 당황스러웠는지 몰라.",
+            "utterance_id": "BE22010580.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 같은 초보자들이 몇 명 있었으면 좋았을 텐데 하필 혼자여서 더 쑥스럽고 멋쩍었겠다.",
+            "utterance_id": "BE22010580.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그리고 나 혼자 잘 못 하니까 강사도 자꾸 나만 더 집중해서 봐주더라고. 그래서 더 당황스럽고 부끄러웠어.",
+            "utterance_id": "BE22010580.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그랬겠다. 그래도 끝까지 혼자서 씩씩하게 수업 듣고 온 모습이 나에게는 되게 멋있어 보인다.",
+            "utterance_id": "BE22010580.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 나는 속으로 옆에 사람들이 얼마나 비웃을까 생각했는데.",
+            "utterance_id": "BE22010580.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야. 혼자 가서 체험하는 게 얼마나 용기가 필요한 일인데! 나는 뭐든 혼자서 하려면 두 배로 용기가 필요하더라고.",
+            "utterance_id": "BE22010580.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 네가 그렇게 말해주니까 기운이 나네? 그럼 용기 내서 계속 필라테스 다녀볼까?",
+            "utterance_id": "BE22010580.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 너의 끈기를 보여줘! 처음부터 잘하는 사람이 어딨겠어. 다 하면서 느는 거니까 나중엔 네가 고수가 되어 있을 거야.",
+            "utterance_id": "BE22010580.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 처음이라 당황스러웠던 거지 익숙해지면 괜찮아지겠지?",
+            "utterance_id": "BE22010580.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 당연하지! 그때까지만 참고 꾸준히 하다 보면 나중에 부끄러워했던 일도 하나도 생각 안 날 거야.",
+            "utterance_id": "BE22010580.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고마워 친구야. 역시 너랑 이야기하고 나면 항상 힘을 얻는다!",
+            "utterance_id": "BE22010580.15"
+        }
+    ]
+}

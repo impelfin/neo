@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010235",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010235",
+        "relation": "친구",
+        "situation": "교복만 입으면 추운데 롱패딩은 비싸다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제 곧 겨울인데, 진짜 짜증 나.",
+            "utterance_id": "BE22010235.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 겨울은 별로 안 좋아해서 짜증 난다. 너는 왜? 올해 많이 추울까봐 그래?",
+            "utterance_id": "BE22010235.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 그런 건 아니고. 교복만 입고 다니기에 추울 것 같아서 엄마한테 롱패딩 사달라고 했거든. 근데 롱패딩은 너무 비싸다고 약간 부담스럽다고 하셨어.",
+            "utterance_id": "BE22010235.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "헉, 그랬구나. 부모님의 부담스러운 마음도 이해되지만 나는 겨울에 추워할 네가 너무 걱정된다. 네가 추위를 힘들어하는 편이잖아. 괜찮겠어?",
+            "utterance_id": "BE22010235.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음, 안 괜찮을 것 같아. 롱패딩 있어야 할 것 같은데, 나 어쩌지? 엄마는 롱패딩 하나 안 사주고, 짜증 나!",
+            "utterance_id": "BE22010235.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 작년에 엄마가 롱패딩 안 사줘서 너무 춥게 보냈어. 추워하는 걸 보고 나서 사주시더라. 이번 겨울은 특히 더 춥다고 했는데, 그래서 이렇게 걱정하는 네가 너무 이해돼.",
+            "utterance_id": "BE22010235.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "흥, 그리고 내가 다른 겉옷이 하나 있어서. 엄마는 그거 입고 다녔으면 좋겠나 봐. 근데 추운 것도 추운 건데 다들 롱패딩 입어서 나도 입고 싶은데, 진짜 짜증 나.",
+            "utterance_id": "BE22010235.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 나도 추운 것 말고도 그런 생각도 들었어. 나만 롱패딩 없어서 약간 부끄럽기도 하고. 우리처럼 친구들의 옷차림에 예민할 나이에 그런 생각 드는 게 당연하다고 생각해.",
+            "utterance_id": "BE22010235.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜? 너도 그런 생각 했구나. 엄마는 이런 내 마음도 몰라주고!",
+            "utterance_id": "BE22010235.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머니한테 서운하고 화나는 마음 나도 너무 잘 알지. 하지만 사달라고 조르는 것 말고 진지하게 말씀드려보는 건 어때? 때로는 진심 어린 말이 다른 사람의 마음을 돌릴 수도 있더라고.",
+            "utterance_id": "BE22010235.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오, 진심으로 엄마에게 다가갈 생각은 못 해봤어. 맞아, 내가 대화에 있어서 너무 서먹했던 것 같네. 괜히 화를 냈나봐.",
+            "utterance_id": "BE22010235.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 방향으로 생각하면 상황을 더 긍정적으로 바꿀 수 있을 거야. 그리고 마음에 켕기는 게 있는 것보단 이야기를 잘 나누고 풀어내는 것도 좋을 것 같아. 네가 화랑 걱정을 좀 덜었으면 해.",
+            "utterance_id": "BE22010235.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "역시 네 마음을 알아주는 건 네가 최고야. 나 이제 어떻게 하면 좋을지 알 것 같아. 네 말대로 해볼게.",
+            "utterance_id": "BE22010235.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜로 추울 것 같아서 사주셨으면 좋겠다. 잘 해결되길 바랄게!",
+            "utterance_id": "BE22010235.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워. 내일 학교에서 보자!",
+            "utterance_id": "BE22010235.15"
+        }
+    ]
+}

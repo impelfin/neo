@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009558",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009558",
+        "relation": "친구",
+        "situation": "비가 그치고 나니 밝은 햇살에 신선한 바람이 분다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "드디어 비가 그쳤어. 밝은 햇살에 신선한 바람까지 불어오니 살 것 같아.",
+            "utterance_id": "BE22009558.1"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여행 중에 그렇게 비가 내렸으니 얼마나 걱정스럽고 불편했겠어. 이제 날씨가 쾌청해졌으니 계획한 대로 할 수 있어서 너무 좋겠어. 마음이 편해졌으니 발걸음도 가볍겠다.",
+            "utterance_id": "BE22009558.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "비가 오는 내내 망했다 싶어 우울했었는데, 지금은 뭐든 할 수 있을 것 같아. 스노클링이랑 줄낚시도 가고, 저녁에는 야시장도 선다니 구경 갈 거야.",
+            "utterance_id": "BE22009558.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "궂은 날씨에는 이동이나 레저 활동에 제약이 많아 속상하지. 바람도 분다니 덥지도 않고 시원해서 뭘 해도 좋은 날이야. 야시장도 유명하다니 맛있는 것도 먹고, 신기한 볼거리도 있다니 사진도 많이 찍어.",
+            "utterance_id": "BE22009558.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 저녁은 거기 가서 골라서 맛보면서 해결하기로 했어. 햇살이 쫙 내리니까 갑자기 다른 세상에 온 것처럼 들뜨고 신나.",
+            "utterance_id": "BE22009558.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몇 년 만에 떠난 해외여행인데 우중충한 날씨 때문에 실망해서 기운 빠졌을 거야. 그러다 만난 반가운 햇살인데 나라도 기뻐서 춤추겠다. 이런 반전의 날을 맞이했으니 설레고 기대가 되는 건 당연하지.",
+            "utterance_id": "BE22009558.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제까지 길거리에 사람들이 손가락으로 셀만큼 보일 듯 말 듯 했는데, 지금은 셀 수가 없어. 날씨에 따라 이렇게 거리 풍경이 다를 수 있다는 게 신기해.",
+            "utterance_id": "BE22009558.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람들도, 거리도 활기가 넘쳐흐르는구나. 모두 너처럼 기분이 좋을 거니까, 누굴 만나도 분명히 즐거운 하루가 될 거야.",
+            "utterance_id": "BE22009558.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지나가는 사람들 표정이 다들 날씨만큼 밝고 활력이 넘쳐서 보는 나도 기분이 더 좋아져.",
+            "utterance_id": "BE22009558.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주변이 즐거우면 나는 두 배로 행복해지는 거니까. 좋은 날씨는 신이 주는 선물이니까 마음껏 즐겨야지.",
+            "utterance_id": "BE22009558.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내일은 바다에 나가서 고래상어도 보고, 폭포도 보러 갈 거야.",
+            "utterance_id": "BE22009558.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "축하 축하해, 학수고대하던 고래상어와의 만남이 마침내 이루어지는구나. 내일도 맑고 갠 날씨가 이어진다고 하니 상어도 잘 보일 거야. 폭포는 그냥 관람만 하는 거야?",
+            "utterance_id": "BE22009558.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여기 폭포는 다이빙 명소로 알려진 곳이라 꼭 다이빙할 거야. 좀 긴장되지만 짜릿하게 흥분되는 성취감을 느낄 수 있거든. 정말 기대되는 장소 중 하나야.",
+            "utterance_id": "BE22009558.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 열정과 도전은 여행에서도 멈추지 않는구나. 겁 많은 나는 절대 못 할 일인데, 역시 너답게 용기 있고 멋지다 멋져.",
+            "utterance_id": "BE22009558.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너하고 얘기하면 별거 아닌 일도 의미 있고, 멋지게 느껴져서 즐거워. 돌아가서 재미있는 얘기 많이 해줄 수 있게 신이 나게 놀고 갈게.",
+            "utterance_id": "BE22009558.15"
+        }
+    ]
+}

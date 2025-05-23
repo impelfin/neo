@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009292",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009292",
+        "relation": "친구",
+        "situation": "내일 대표선수 선발전이 있는데 발목이 많이 부었다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내일 진짜 내 인생에서 중요한 날인데 부상이라니, 나는 왜 이렇게 운이 나쁠까?",
+            "utterance_id": "BE22009292.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저번에 훈련하다가 발목 다쳤다고 했었잖아. 아직도 많이 안 좋아?",
+            "utterance_id": "BE22009292.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "훈련 쉬면서 계속 재활도 하고 있는데 부은 게 가라앉지를 않네. 주치의 선생님은 무리하면 발목 습관성 골절 생긴다고 회복이 우선이래.",
+            "utterance_id": "BE22009292.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 선발전 네가 많이 기다리고, 기대 했었잖아. 그래서 더 안타깝고 마음이 아프네. 내 마음이 이런데 너는 더 힘들겠다.",
+            "utterance_id": "BE22009292.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 하늘이 무너지는 기분이 뭔지 조금은 알 것 같더라. 작년엔 팔꿈치 부상이어서 출전 못했었잖아. 회복 잘해서 올해는 꼭 나가고 싶었는데 갑자기 발목 부상이 왔으니, 말 다 했지.",
+            "utterance_id": "BE22009292.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시즌 내내 성적 좋다가 부상 때문에 선발전을 못 나가니 네 마음이 얼마나 아프겠어. 내가 감히 상상할 수 없겠지만 작년부터 네가 재활하는 모습 지켜봐서 나도 이 상황이 야속해.",
+            "utterance_id": "BE22009292.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그치? 왜 매번 큰 대회 직전에 부상이 나는 걸까. 내가 욕심이 과한가? 운동선수라면 항상 목표에 도달하고 싶고, 한계를 뛰어넘고 싶고 그렇잖아.",
+            "utterance_id": "BE22009292.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그치 그런 도전정신이 결국 좋은 결과를 내게 하는 원동력이기도 하잖아. 너는 그런 점에서 정말 대단한 선수야. 부상이랑은 별개로 그 점은 변하지 않으니까 그 부분은 네가 자부심을 가졌으면 좋겠어.",
+            "utterance_id": "BE22009292.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "운동선수로서 가져야 할 기본 덕목이라고 생각하거든. 근데 그게 항상 내 몸이 허락하는 범위보다 앞서 나가나 봐. 그래도 자부심을 가지라고 얘기해 주서 고맙다 친구야.",
+            "utterance_id": "BE22009292.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "옆에서 보면 어쩜 한결같이 성실하게 훈련을 할까 대단하다고 생각할 때 많아. 이건 진심이니까 한치의 의심도 없이 너는 좋은 운동선수야. 지금 비록 크고 작은 부상으로 힘들어도 이것 또한 다 지나간다는 마음으로 우리 또 힘내보자.",
+            "utterance_id": "BE22009292.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 내 인생에 큰 대회가 이거 하나도 아니니까. 전화위복이란 말을 새기려고 노력하고 있어. 말처럼 쉽지만은 않지만.",
+            "utterance_id": "BE22009292.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이것 봐, 아까 나한테 부상으로 힘들다고 했지만 벌써 너는 멘탈 관리를 잘 하고 있잖아. 그런 점이 참 멋져 친구야.",
+            "utterance_id": "BE22009292.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 우울할까 봐 일부러 더 그러는 거지? 그래도 나를 그렇게 생각해 주고 있다니 감동이다 친구야. 그런 너를 생각해서라도 부상 잘 이겨내고 좋은 성적을 내야지.",
+            "utterance_id": "BE22009292.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 이래야 내 친구지. 너는 큰 선수가 될 거야. 믿어 의심치 않아.",
+            "utterance_id": "BE22009292.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고맙다. 재활 잘 할게.",
+            "utterance_id": "BE22009292.15"
+        }
+    ]
+}

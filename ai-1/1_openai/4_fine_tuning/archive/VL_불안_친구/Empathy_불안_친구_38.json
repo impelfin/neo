@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009671",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009671",
+        "relation": "친구",
+        "situation": "엄마는 농사를 거의 다 지으신다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 때문에 나 너무 신경 쓰이고 마음이 안 좋아.",
+            "utterance_id": "BE22009671.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머니가 어디 아프셔? 아니면 무슨 안 좋은 일이라도 생긴 거야?",
+            "utterance_id": "BE22009671.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 엄마 2년 전에 귀농하셨잖아. 건강 때문에 공기 좋은 데로 가신다고 한 거거든.",
+            "utterance_id": "BE22009671.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 기억나. 공기도 좋고 살기도 편한 데로 가셨다고 너무 좋아했잖아.",
+            "utterance_id": "BE22009671.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "텃밭 정도 하는 줄 알았는데 농사를 짓고 계시더라고. 아빠는 도와주지도 않고 엄마 혼자 농사를 다 지으셔.",
+            "utterance_id": "BE22009671.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "농사짓는 게 보통 일이 아닌데. 네 마음이 왜 불안한지 알겠다. 힘든 일 하는 건 아닌가 생각되고 나라도 걱정 많이 될 거 같아.",
+            "utterance_id": "BE22009671.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "건강이 완전히 좋아진 것도 아닌데 새벽부터 저렇게 일하시니 혹시나 쓰러질까 봐 너무 불안한 거야.",
+            "utterance_id": "BE22009671.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 불안해하지 마. 몸만 편하다고 건강한 건 아니잖아. 건강해지니까 그렇게 농사도 짓고 하시는 거라고 생각하면 네 마음도 편하지 않을까?",
+            "utterance_id": "BE22009671.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "의사 선생님이 엄마 힘든 일 하시면 안 된다고 하셨는데 왜 그러시는 건지 모르겠어.",
+            "utterance_id": "BE22009671.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "적적해서 그러실 수도 있어. 우리도 한가하면 이것저것 할 거 없나 찾고는 하잖아.",
+            "utterance_id": "BE22009671.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 적적해서 그러실 수 있겠구나. 하긴 서울에 있을 때에 비하면 심심하시겠네.",
+            "utterance_id": "BE22009671.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "서울에선 너무 정신없이 바쁘잖아. 어머니도 아직은 시골 생활에 적응 중이시겠지. 너도 그런 변화에 천천히 적응하면 불안함도 사라지고 점차 마음이 편안해질 거야.",
+            "utterance_id": "BE22009671.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "내가 자주 내려가고 동네 친구들도 좀 사귀고 놀러 다니시기도 해야겠다.",
+            "utterance_id": "BE22009671.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그럼 좋겠다. 어머니 주변에 좋은 분들 많아지면 네 마음도 훨씬 편안해지겠다.",
+            "utterance_id": "BE22009671.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 엄마만 건강하시면 나야 좋지.",
+            "utterance_id": "BE22009671.15"
+        }
+    ]
+}

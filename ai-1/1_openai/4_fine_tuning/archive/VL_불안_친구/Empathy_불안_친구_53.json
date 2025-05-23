@@ -1,0 +1,190 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009817",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009817",
+        "relation": "친구",
+        "situation": "초등학생 아들이 반 친구에게 폭행을 당했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 애가 학교에서 친구한테 맞고 왔어.",
+            "utterance_id": "BE22009817.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어쩌다가 그런 거야? 네가 많이 놀랐겠다. 아이는 괜찮니?",
+            "utterance_id": "BE22009817.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원에 갈 정도는 아닌데, 허벅지 뒤쪽이 멍이 들었어. 어린 마음에 상처받았을까 봐 걱정스러워.",
+            "utterance_id": "BE22009817.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지, 얼마나 힘들었겠어. 이런 일이 또 안 생기게 조치를 해줘야 할 것 같은데.",
+            "utterance_id": "BE22009817.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞는 걸 친구들도 보고 있어서 충격을 받았는지 말도 잘 안 해. 불안해서 병원에 데려가 봐야겠어.",
+            "utterance_id": "BE22009817.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음은 나도 충분히 이해하지만, 엄마가 더 화내고 흥분하면 아이는 어떻겠니. 아이를 위해서라도 일단 진정하고 이성적으로 생각해 보려고 해보자.",
+            "utterance_id": "BE22009817.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러고 싶은데, 잘 안돼. 선생님은 친구들끼리 놀다가 그런 거라고 별거 아니라고 하는데. 나는 너무 억울하고, 다음에 또 그럴까 봐 너무 걱정돼.",
+            "utterance_id": "BE22009817.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 당연히 화나고 나 같아도 정말 속상했을 거 같아. 어떻게 해결하는 게 좋은 방법일까? 혼내는 게 답은 아닐 텐데.",
+            "utterance_id": "BE22009817.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 어린애들이기도 해서 고민이 많아. 주홍글씨를 만들어주기도 그렇고. 우선, 사과 먼저 받고 싶어.",
+            "utterance_id": "BE22009817.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 받아야지, 담임 선생님하고 다시 상담하고, 그 아이 엄마를 만나봐. 벌주는 게 목적이 아니잖아, 또다시 이런 일이 없는 게 중요하지. 원래 애들은 가끔 싸우기도 하잖아, 너무 심각하게만 생각하지 말고.",
+            "utterance_id": "BE22009817.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진심으로 반성하고, 그쪽에서 사과하면 좀 괜찮아질 것도 같은데. 깊은 상처는 아니니까.",
+            "utterance_id": "BE22009817.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 어리니까 말하면 잘 알아들을 거야. 폭력이 얼마나 안 좋은 건지는 학교에서도 가르치니까, 너무 걱정하지 마. 잘못되었다는 것을 알려주는 것을 스스로 알게 하면 다시 반복되지 않을 거야.",
+            "utterance_id": "BE22009817.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맘이 조금 편해졌어. 내일 학교에 가서 선생님을 만나 봐야겠다. 사과도 받고, 잘 해결해서 다시 전처럼 학교 다니게 해줘야지.",
+            "utterance_id": "BE22009817.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 자꾸 불안해하면 아이도 그럴지 몰라. 힘들더라도 엄마답게 의연하게 잘 처리하고 오길 바라.",
+            "utterance_id": "BE22009817.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워, 덕분에 많이 안정됐어. 나중에 다시 메시지 할게.",
+            "utterance_id": "BE22009817.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 연락 기다릴게.",
+            "utterance_id": "BE22009817.16"
+        }
+    ]
+}

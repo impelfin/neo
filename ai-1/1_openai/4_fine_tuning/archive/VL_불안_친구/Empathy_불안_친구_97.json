@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010289",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010289",
+        "relation": "친구",
+        "situation": "중학교 때는 전교권 성적이었는데, 고등학교는 벼락치기가 통하지 않는다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 시험 쳤는데 내 생각보다 너무 못 친 것 같아.",
+            "utterance_id": "BE22010289.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 정말? 너도 열심히 준비했을 텐데 속상하겠다. 시험공부 할 때 문제가 있었어?",
+            "utterance_id": "BE22010289.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 고등학교에도 벼락치기가 통할 줄 알고 공부를 쉬엄쉬엄했거든. 아무래도 중학교 때는 그렇게 공부해도 늘 전교권 성적이어서 오만했어. 그러지 말았어야 했는데.",
+            "utterance_id": "BE22010289.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음 이해해. 원하는 만큼 성적이 만족스럽게 나오지 않아 많이 힘들지? 특히 첫 시험이었는데, 시작이 좋지 않아 더 기분이 안 좋을 것 같아.",
+            "utterance_id": "BE22010289.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 시험 끝나고 집 와서 혼자 울었어. 분명 알고 있는 문제였는데, 손도 대지 못하고 제출해버린 게 억울했단 말이야.",
+            "utterance_id": "BE22010289.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 잘했어. 슬플 땐 확 울고 털어내는 것도 좋은 방법이라고 생각해. 속상하겠지만 다음에 더 잘 치면 되니까.",
+            "utterance_id": "BE22010289.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고등학교도 벼락치기가 통할 줄 알고 공부를 쉬엄쉬엄했거든. 그러지 말았어야 했는데.",
+            "utterance_id": "BE22010289.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 그래도 너무 상심하지 마. 다음번에도 또 기회가 있잖아.",
+            "utterance_id": "BE22010289.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만 친구들은 다 잘 봤는데 나만 망쳤어! 이럴 줄 알았으면 나도 벼락치기 하지 않고 진작 공부 좀 많이 해놓을걸.",
+            "utterance_id": "BE22010289.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 자책하지 마. 대신 다음에는 어떻게 해야 할지 확실히 알았잖아? 이번 경험을 바탕으로 꼼꼼하게 준비하면 다음에는 원하는 성과 얻을 수 있을 거야.",
+            "utterance_id": "BE22010289.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 알고 있지만 여전히 속상해. 이런 기분으로는 당분간 아무것도 하지 못할 것 같아.",
+            "utterance_id": "BE22010289.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 아쉬움이 많이 남아있다는 건 한편으론 네가 정말 열심히 준비했다는 증거겠지. 그러니 앞으로도 잘 해낼 수 있어. 이제 겨우 시작일 뿐인걸?",
+            "utterance_id": "BE22010289.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말 들으니까 맘이 편해지긴 한다. 네 말대로 해볼게. 고마워.",
+            "utterance_id": "BE22010289.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "좋아. 내가 항상 응원할게.",
+            "utterance_id": "BE22010289.14"
+        }
+    ]
+}

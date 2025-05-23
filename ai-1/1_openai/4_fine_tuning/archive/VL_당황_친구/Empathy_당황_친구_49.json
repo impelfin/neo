@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010578",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010578",
+        "relation": "친구",
+        "situation": "나이 어린 상사의 말에서 무시하는 느낌을 지울 수 없다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "퇴근하고 한잔 할 수 있니? 오늘 기분이 너무 별로네.",
+            "utterance_id": "BE22010578.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사에서 무슨 일 있었어?",
+            "utterance_id": "BE22010578.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 지난달에 신설 부서로 발령 났다고 말했지? 새 부서라 그런지, 여기 팀원들 연령대가 전체적으로 낮아서 적응하기가 힘들었거든. 내 직속으로 배정된 상사도 나보다 어리니 말 다했지 뭐.",
+            "utterance_id": "BE22010578.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어린애들 사이에서 네가 그동안 고생깨나 했겠는데?",
+            "utterance_id": "BE22010578.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 열심히 해보려고 나름 고군분투했는데, 생각처럼 잘 안 돼서 당황스러워. 나는 부서 단합이 중요하다고 생각해왔는데, 여긴 다들 개인주의야. 게다가 상사도 사사건건 나를 무시하듯이 말해서 기분 나빠.",
+            "utterance_id": "BE22010578.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀워크 잘 챙기기로 소문난 네가 적응하기 힘들 정도면, 거기 분위기가 어떨지 상상이 간다. 그럴 때일수록 상사 역할이 중요한데 상사가 오히려 무시하다니, 나였어도 당황스럽고 힘들 것 같아.",
+            "utterance_id": "BE22010578.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회의할 때도 다들 내가 잘 모르는 영어 단어를 자주 사용해서 소통이 안 돼. 잘 못 알아들으면 상사가 이것도 모르냐는 식으로 반응해. 그럴 때마다 내가 정말 무가치한 인간처럼 느껴져.",
+            "utterance_id": "BE22010578.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 때 잘 설명해주는 게 상사의 역할일 텐데, 자괴감을 부추기다니 참 안타깝다. 하지만 너무 자책하지는 마. 네가 부족해서 생긴 일이 절대 아니야.",
+            "utterance_id": "BE22010578.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠지? 이성적으로 생각하려 하는데, 자꾸 면전에서 무시당하니 그동안 자괴감이 많이 들었어. 내가 나이가 많아서 그런가, 하는 열등감도 생기고.",
+            "utterance_id": "BE22010578.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나이의 많고 적음은 숫자일 뿐이지, 사람의 가치를 따지는 척도가 될 순 없어. 나는 네가 충분히 발전하고 있고, 그 모습이 진정 멋지다고 생각해. 지금 이렇게 감정의 부침을 겪는 것도 네가 부지런히 노력하고 있다는 방증이잖아!",
+            "utterance_id": "BE22010578.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 오랜만에 나를 알아주는 사람과 대화하니까 힘이 난다! 앞으로는 퇴근해서 영어 단어 공부도 하고, 열심히 젊은 애들 따라가 봐야겠다는 생각이 들어.",
+            "utterance_id": "BE22010578.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 지난 인사 때 승진에서 밀린 뒤로 내가 남보다 못한 부적격 인간이라는 생각에 시달렸거든. 그동안 우울해하느라 업무에 집중도 잘 못했는데, 어려운 상황에서도 포기하지 않는 너를 본받고 싶어.",
+            "utterance_id": "BE22010578.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 힘들었겠다. 나만 투정을 부린 것 같아 조금 쑥스럽네! 우리 같이 공부해서 어학점수 올려볼까? 다음 고과에 반영될 수 있을 거야!",
+            "utterance_id": "BE22010578.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "좋은 생각이다! 긍정적인 결론이 나와서 나도 기쁘다.",
+            "utterance_id": "BE22010578.14"
+        }
+    ]
+}

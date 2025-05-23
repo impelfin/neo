@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009654",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009654",
+        "relation": "친구",
+        "situation": "식당을 개업하려고 메뉴를 개발하고 있다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "식당 개업을 앞두고 걱정이 많아.",
+            "utterance_id": "BE22009654.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이야? 얼마 전까지만 해도 문제없이 진행하고 있는 것 같더니.",
+            "utterance_id": "BE22009654.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 대부분 다 마무리는 됐어. 그런데 저녁 코스메뉴가 조금 심심하지 않냐는 반응이 있어서 새 메뉴 하나를 더 개발하고 있거든. 생각보다 진도가 더뎌서 불안하네.",
+            "utterance_id": "BE22009654.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴, 이제 개업 날까지 얼마 남지 않았으니 조금 불안하긴 하겠다. 게다가 너는 꼼꼼한 완벽주의자니까. 대충대충 넘기고 싶지 않아서 더 열심히 하고 있을 것 같은데?",
+            "utterance_id": "BE22009654.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 역시 네가 나를 잘 아는구나. 사실 메인 메뉴도 아닌데 다른 걸 다 제쳐두고 레시피 개발에만 매달리는 게 맞나 싶었거든.",
+            "utterance_id": "BE22009654.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음식을 파는 가게에서 음식이 제일 맛있어야 하는 거 아니야? 네가 그렇게 시간과 공을 쏟는 게 당연하지. 자기 일에 진심을 가지고 하는 게 얼마나 멋진 모습인데!",
+            "utterance_id": "BE22009654.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람들은 그렇게 중요하지 않은 메뉴는 조금 대충 해도 괜찮다고 하더라. 이렇게 사소한 부분은 아무도 모르고 넘어갈 거라고 말이야.",
+            "utterance_id": "BE22009654.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "손님들이 나중에 먹어보면 네 노력과 시간의 가치를 알아줄 거라고 생각해. 무엇보다도 네 이름을 걸고 내놓는 것에 이렇게 정성을 들이는 네가 너무 멋져 보여.",
+            "utterance_id": "BE22009654.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "역시 그렇겠지? 누가 뭐라고 해도 내가 자랑스러운 메뉴를 개발할 수 있도록 마지막까지 더 노력해야겠다.",
+            "utterance_id": "BE22009654.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "벌써 사장님이 다 된 것 같은데? 네 식당 메뉴는 뭘 먹어도 맛있을 거라는 기대가 확 생긴다. 사이드 메뉴에도 이렇게 정성을 쏟는데, 다른 메뉴는 얼마나 더 대단하겠어.",
+            "utterance_id": "BE22009654.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 노력을 알아주는 사람이 있으니까 든든하다. 걱정이 많았는데, 그냥 내가 믿는 대로 밀고 나가야겠어.",
+            "utterance_id": "BE22009654.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 누가 뭐라고 해도 네 식당의 주인은 너니까! 남들이 지적하는 소리에 귀 기울이기보다는, 네 신념대로 밀고 나아가길 기도할게.",
+            "utterance_id": "BE22009654.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워, 나도 쓸데없이 불안해할 시간에 레시피 마무리에 더 집중해야겠어.",
+            "utterance_id": "BE22009654.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 잘 생각했어. 얼른 개업 날이 왔으면 좋겠다!",
+            "utterance_id": "BE22009654.14"
+        }
+    ]
+}

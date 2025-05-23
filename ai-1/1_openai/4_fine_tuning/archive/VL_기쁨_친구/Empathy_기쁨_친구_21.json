@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009091",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009091",
+        "relation": "친구",
+        "situation": "친구들과 자라섬의 재즈페스티벌에 갔다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 진짜 좋은 일 있었다?",
+            "utterance_id": "BE22009091.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이야? 이렇게 들뜨다니?",
+            "utterance_id": "BE22009091.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 자라섬 재즈 페스티벌 갔었거든. 오랜만에 야외 페스티벌에 갔더니 기분이 하늘을 뚫고 날아갈 것 같았어.",
+            "utterance_id": "BE22009091.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와, 그런 곳에 안 간지 나도 3년은 넘은 것 같다. 날씨도 진짜 좋았는데, 너 정말 좋았겠다. 부러운걸!",
+            "utterance_id": "BE22009091.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 해도 쨍쩅하고 바람도 살랑살랑 부는 게 음악듣고 감상하기에 정말 딱 좋은 날씨였어. 함께한 친구들도 계속 웃고 있더라.",
+            "utterance_id": "BE22009091.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "듣기만 해도 내 마음이 다 편해진다. 정말 좋은 하루를 보냈을 것 같네? 몇 명이 함께 간 거야?",
+            "utterance_id": "BE22009091.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나까지 5명이 갔어. 오랜만에 야외에서 북적이는 사람들 틈에서 음악 듣고, 술 마시고 하니까 정말 흥이 나더라고. 그래서 나도 모르게 과음을 했지.",
+            "utterance_id": "BE22009091.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 신나는 분위기, 사람들의 함성과 자연을 벗 삼아 즐기는 시간, 나라도 마음껏 행복했을 거야. 아, 그립다. 그 분위기!",
+            "utterance_id": "BE22009091.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 딱 그 분위기였어. 친한 친구들과 함께라서 더 거리낌 없이 편한 모습으로 즐길 수 있어서 기쁘고 행복했지.",
+            "utterance_id": "BE22009091.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 함께 가는 사람들도 너무 중요하지. 막역한 친구들과 그런 자리라면 언제든지 편안하고 좋지. 근데 나랑은 언제 갈 거야?",
+            "utterance_id": "BE22009091.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하, 우리는 가을에 같이 가기로 했잖아. 음악과 함께 내 몸도 빙빙 돌면서 흥분이 머리끝까지 가 닿는 기분이었어.",
+            "utterance_id": "BE22009091.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음악과 친구와 즐거움이라니! 얘기만 들어도 내가 다 기뻐. 어서 가을이 와서 나도 꼭 그 기쁨을 함께하고 싶네.",
+            "utterance_id": "BE22009091.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너랑 함께 갈 페스티벌도 정말 즐거울 것 같아! 그때는 이번보다 더 신나겠지?",
+            "utterance_id": "BE22009091.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리가 함께하는데 그것보다 즐거운 일이 또 있을까?",
+            "utterance_id": "BE22009091.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "같이 좋은 추억을 꼭 쌓아보자. 내 행복을 전해 들어줘서 고마워! 또 좋은 일이 생기면 너에게 바로 알릴게.",
+            "utterance_id": "BE22009091.15"
+        }
+    ]
+}

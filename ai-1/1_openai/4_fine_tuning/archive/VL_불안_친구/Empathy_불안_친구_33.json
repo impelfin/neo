@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22009613",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009613",
+        "relation": "친구",
+        "situation": "업무시간에 나도 모르게 잠이 들었다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아. 정말 큰일 났어.",
+            "utterance_id": "BE22009613.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래? 곧 퇴근 시간인데 무슨 일 있어?",
+            "utterance_id": "BE22009613.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아까 점심을 많이 먹어서 그런지 업무 시간에 나도 모르게 잠이 들었어. 잠깐 눈 감았다고 생각했는데 벌써 2시간이나 지났네.",
+            "utterance_id": "BE22009613.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 점심 먹고 자리에서 졸았던 적 있어서 네 상황 이해해. 일어났는데 곧 퇴근 시간이라서 무지 당황스러웠겠다.",
+            "utterance_id": "BE22009613.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까. 오늘까지 끝내야 하는 업무 있는데 큰일이야. 퇴근 시간 전까지 다 못 할 것 같아서 너무 불안해.",
+            "utterance_id": "BE22009613.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조금 있으면 퇴근 시간이라서 불안하겠지만, 네가 손이 빠르잖아. 평소 네 작업 시간 생각하면 충분히 오늘 할 일 끝낼 수 있을 거야. 넌 잘 할 수 있을 거야!",
+            "utterance_id": "BE22009613.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수 있을까? 오늘까지 보내줘야 하는 작업이 있거든. 너무 스트레스를 받아.",
+            "utterance_id": "BE22009613.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잠깐 졸았다가 일어났는데 퇴근 시간이 다가와서 당황스럽겠다. 일어나서 시간을 봤는데 오늘까지 해야 하는 마감을 못 지킬 것 같아서 초조하다는 거지?",
+            "utterance_id": "BE22009613.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 왜 잠이 들었을까. 내가 너무 한심하게 느껴져.",
+            "utterance_id": "BE22009613.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 너희 회사가 야근이 많았잖아. 그렇지 않아도 피곤했는데 점심 먹으니까 나른해진 거 아닐까? 잘하고 있으니까 너무 스트레스를 받지 마.",
+            "utterance_id": "BE22009613.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "하긴 요즘 야근이 좀 많기는 했어. 그나저나 오늘 마감은 끝낼 수 있으려나?",
+            "utterance_id": "BE22009613.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "업체에 연락해서 일정 조율을 해보는 건 어때? 늦게 연락하는 것보다는 지금 연락하는 게 서로 업무 조절하기 편하지 않을까? 마감 시간이 늘어나면 네 마음도 좀더 편해질 거야.",
+            "utterance_id": "BE22009613.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 더 늦기 빨리 연락해봐야겠다. 그럼 네 말대로 마음이 편해질 것 같아.",
+            "utterance_id": "BE22009613.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자고 일어나서 업무가 좀 밀리긴 했지만 어쩌겠어. 어차피 해야 할 작업이니 마음을 먹고, 즐겁게 일하는 게 좋을 거야.",
+            "utterance_id": "BE22009613.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 내 이야기 들어줘서 고마워!",
+            "utterance_id": "BE22009613.15"
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009315",
+        "listener_behavior": [
+            "조언",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009315",
+        "relation": "친구",
+        "situation": "바닥에서 잤더니 허리가 아프다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 허리가 안 좋아서 바닥에서 잤는데 너무 아파서 스트레스를 받아.",
+            "utterance_id": "BE22009315.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "허리 아프면 짜증이 많이 날 텐데 고생이 많네.",
+            "utterance_id": "BE22009315.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 몸이 안 좋으니까 스트레스도 잘 받고 짜증도 심해지고 그래서 큰일이야.",
+            "utterance_id": "BE22009315.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 건강이 제일 중요하다고 하는 거지. 어디 조금이라도 아프면 너무 신경 쓰이고 그러잖아.",
+            "utterance_id": "BE22009315.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 데도 아니고 허리가 아프니까 더 신경 쓰여. 앉아있거나 걷는 것도 아파서 불편한 게 이만저만이 아니야.",
+            "utterance_id": "BE22009315.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 많이 아픈가 보구나. 빨리 나아야 할 텐데 계속 아파서 어떡하니. 일상생활 하는 데 지장이 있으니 진짜 스트레스가 심하겠어.",
+            "utterance_id": "BE22009315.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "침대는 안 좋다고 그래서 바닥에서 잤는데 그게 또 뭔가 잘못된 것 같아서 불안해.",
+            "utterance_id": "BE22009315.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 바닥에 누웠던 거구나. 괜찮아야 할 텐데 통증이 더 심해졌다니 참 걱정이다.",
+            "utterance_id": "BE22009315.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 허리에 신경 많이 쓰고 있긴 하거든. 스트레칭 자주 했었는데 어제 바닥에서 자는 바람에 아프니까 더 스트레스가 쌓여.",
+            "utterance_id": "BE22009315.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 허리 운동 했는데도 아프니까 너무 스트레스를 받았겠다. 그래도 스트레칭 꾸준히 했다니까 통증은 조금 가라앉을 거야. 너무 짜증 내거나 불안해하지 말아.",
+            "utterance_id": "BE22009315.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주변에서 조언들 많이 듣고 있는데 술 담배 줄이고 스트레스를 받지 말라고 하더라. 운동으로만 치료하려면 그런 것부터 신경 쓰라고 하더라고.",
+            "utterance_id": "BE22009315.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 그게 제일 중요한 것 같아. 너는 치료 열심히 잘하고 있으니까 불안해하거나 스트레스를 너무 받지 말아.",
+            "utterance_id": "BE22009315.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래 네가 신경 많이 써주는 것 같아 기분이 조금 나아졌어. 기운 내서 계속 운동해야겠다.",
+            "utterance_id": "BE22009315.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 힘내고 기운 내. 분명히 효과가 생길 거야. 통증도 많이 줄어들 테고.",
+            "utterance_id": "BE22009315.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알았어, 차분하게 꾸준히 운동해볼게.",
+            "utterance_id": "BE22009315.15"
+        }
+    ]
+}

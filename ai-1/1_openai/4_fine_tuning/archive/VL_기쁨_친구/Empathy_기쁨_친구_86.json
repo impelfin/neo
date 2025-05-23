@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009762",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009762",
+        "relation": "친구",
+        "situation": "오래된 책갈피에서 지폐를 발견했다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 정말 대박이야. 오래된 책갈피에서 지폐를 발견했지 뭐야? 옛날에 내가 넣어둔 건가 봐.",
+            "utterance_id": "BE22009762.1"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 횡재했네! 책 읽다가 그런 기쁨을 발견할 줄 누가 알았겠어.",
+            "utterance_id": "BE22009762.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 말이야. 내가 내게 준 용돈인 셈이지. 우연히 돈을 벌게 되니 정말 기쁘다.",
+            "utterance_id": "BE22009762.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 지금 얼마나 기쁠지 상상이 가서 나도 웃음이 난다. 청소하거나 빨래할 때 지폐를 발견하면 그렇게 행복할 수가 없지. 나도 네 마음 정말 이해해.",
+            "utterance_id": "BE22009762.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지? 사람 마음은 정말 웃긴다니까. 엄밀히 따지면 이것도 내 돈인 건데, 꼭 누군가 공짜로 준 것 같아.",
+            "utterance_id": "BE22009762.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잊고 살았던 돈이니까 따지고 보면 갑자기 생긴 용돈인 셈이지. 너 오늘 정말 신나고 즐겁겠다. 나까지 덩달아 기분이 좋아지는 것 같아.",
+            "utterance_id": "BE22009762.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 지금 혼자 얼마나 웃고 있는지 몰라. 이 돈은 뭐에 써도 즐거울 것 같아. 우선 오늘은 맛있는 음식을 시켜 먹으려고.",
+            "utterance_id": "BE22009762.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맛있는 음식만큼 기분이 즉각적으로 행복해지는 게 없지. 네가 오늘 너무 행복해 보여서 아무 일 없는 나까지 즐겁다. 이런 이야기를 내게 말해 줘서 정말 고마워.",
+            "utterance_id": "BE22009762.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고맙긴. 네가 재밌게 들어 주니까 나도 더 신나고 행복해. 오히려 내가 더 고마워!",
+            "utterance_id": "BE22009762.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 사소하다면 사소할 수 있는 일을 네가 정말 기뻐하는 게 참 멋져 보여. 너는 작은 행복도 마음껏 누릴 줄 아는 사람 같아. 그래서 너를 보면서 나도 인생을 어떻게 살아야 할지 배울 수 있다니까.",
+            "utterance_id": "BE22009762.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 말해 주니까 안 그래도 좋았던 기분이 정말 날아갈 것 같다. 돈도 벌고 칭찬도 받고. 정말 최고의 하루야!",
+            "utterance_id": "BE22009762.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 칭찬은 끝도 없이 할 수 있지. 앞으로도 이런 좋은 일이 생기면 내게 꼭 말해줘야 해.",
+            "utterance_id": "BE22009762.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알았어. 네가 내 이야기를 잘 들어주니까 나도 기쁜 일, 힘든 일 다 네게 말하고 싶어져. 정말 고마워.",
+            "utterance_id": "BE22009762.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 네 이야기는 언제든 듣고 싶어져. 그러니 부담 갖지 말고 언제든 나를 찾아주면 좋겠어. 나는 늘 네가 궁금하다고.",
+            "utterance_id": "BE22009762.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네 덕분에 내 인생은 늘 외롭지 않고 따뜻한 것 같아. 고맙다, 친구야.",
+            "utterance_id": "BE22009762.15"
+        }
+    ]
+}

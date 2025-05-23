@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009245",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009245",
+        "relation": "친구",
+        "situation": "아들을 신병교육대에 들여보냈다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 나 오늘 아들을 신병교육대에 보내고 왔어. 내 눈에는 아직 아기인데 너무 걱정돼서 잠이 안 오고, 다치지 않을까 불안해.",
+            "utterance_id": "BE22009245.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무척 속상했겠다. 아들을 군대에 보내는 어머니의 마음이 다 그렇잖아. 걱정되고 어디 다치지 않을까 해서 초조한 그 마음 잘 알지.",
+            "utterance_id": "BE22009245.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 가슴이 미어졌어. 가서 혼자 해나갈 모습을 상상하면 안쓰럽고 걱정이 돼. 이제 성인이 됐는데 왜 내 눈에는 아직도 초등학교 입학하는 아이로 보이는지 모르겠어.",
+            "utterance_id": "BE22009245.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 그런 마음이 나도 들어. 우리 아들도 작년에 군대를 보냈잖아. 1년이 지난 지금도 문득 걱정스러워서 뜬눈으로 지새울 때가 있어.",
+            "utterance_id": "BE22009245.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 그럴 때가 있구나. 역시 너에게 말하니까 나의 마음을 잘 이해해줘서 정말 고맙다. 나는 이런 말을 남에게 하기가 너무 조심스러워.",
+            "utterance_id": "BE22009245.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 그렇지. 직장 동료들이나 나와 안 친한 사람들에게는 말하기가 조심스럽잖아. 아들을 심적으로 독립시키지 못한 나를 흉볼 것 같아 염려돼서.",
+            "utterance_id": "BE22009245.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 고작 아들 군대 보내는 것으로 이렇게 고민하고 걱정한다고 손가락질할 것 같아 염려돼. 우리 아들을 마마보이라고 생각할 수도 있잖아.",
+            "utterance_id": "BE22009245.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아들을 걱정하는 건 당연한 마음이고 자연스러운 일이니 너무 걱정하지 않았으면 좋겠어. 되려 마음을 편히 먹으면 조금이나마 너의 걱정스러운 마음에 도움이 될 거야.",
+            "utterance_id": "BE22009245.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 고마워. 불안한 내 마음을 이렇게 너에게 말하니 도움이 많이 된다. 우리 아들이 입대한다는 건 예전부터 알고 있었는데, 왜 이렇게 적응이 안 되는지 모르겠어.",
+            "utterance_id": "BE22009245.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "미리 알고 있었다고 해도 정말 보내는 게 아니었잖아. 갑자기 아들은 군대에 보내는 것과 같지. 네가 적응이 안 되고 걱정이 되는 게 당연한 일인걸.",
+            "utterance_id": "BE22009245.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 아들을 신병교육대 보내고 뒤돌아서서 우리 부부가 같이 울었어. 남편이 우는 모습을 보니 나도 슬프고 걱정되고 복잡한 감정이 한꺼번에 올라왔어. 차를 몰고 집에 돌아오면서도 한마디 나누지 못했어.",
+            "utterance_id": "BE22009245.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너희 부부 모두 너무 속상했겠다. 아들을 보내고 슬퍼하는 너희 부부를 생각하니 내가 더 슬프고 눈물이 나려 한다. 너희 부부는 둘 다 마음도 약하고 여리잖아.",
+            "utterance_id": "BE22009245.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 그래서 둘 다 울다가 말도 못 했나 봐. 이제 아들이 군대도 갔으니 정신 차리고 아들처럼 씩씩하게 생활해야겠다는 다짐을 하고 있어. 아들이 나라를 지키는데 내가 우울하게 있을 수만은 없다는 생각도 했고.",
+            "utterance_id": "BE22009245.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 좋은 생각을 했다. 아들은 군인으로 큰일을 하잖아. 너도 씩씩하게 웃으면서 기다려 준다면 아들도 불안하지 않고 잘 생활을 할 수 있을 거야.",
+            "utterance_id": "BE22009245.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "너와 메신저를 나누면서 불안했던 나의 마음이 많이 해소되었어. 아들이 큰일을 하는데 내가 슬퍼하고만 있을 수는 없다고 생각했어. 고마워.",
+            "utterance_id": "BE22009245.15"
+        }
+    ]
+}

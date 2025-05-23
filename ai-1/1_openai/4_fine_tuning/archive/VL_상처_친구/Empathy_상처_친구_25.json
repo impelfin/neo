@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010710",
+        "listener_behavior": [
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010710",
+        "relation": "친구",
+        "situation": "남편이 음식을 너무 빨리 먹는다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오랜만에 남편이랑 외식하러 나갔다가 기분만 안 좋아진 채로 돌아왔어.",
+            "utterance_id": "BE22010710.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 오랜만의 외식이었으면 분명 기쁘고 행복해야 하잖아. 뭐 때문이야?",
+            "utterance_id": "BE22010710.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남편이 음식을 너무 빨리 먹는 거야. 원래 식탐이 있는 건 알았지만, 요즘은 부쩍 심해진 것 같아. 내가 잘 먹고 있는지는 신경도 안 쓴다니까.",
+            "utterance_id": "BE22010710.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 그런 사람과 함께 밥을 먹으면 어떤 기분인지 잘 알아. 함께 속도를 맞춰서 먹어주는 배려가 부족하다고 느껴지니까 속상할 만하지. 게다가 상대가 남편이라면 네가 상처받고 서운한 것도 당연하다.",
+            "utterance_id": "BE22010710.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 자기 때문에 메인 요리는 한 점도 못 먹는 걸 신경도 안 쓰더라. 얼마나 상처받았는지 몰라. 연애 때였다면 절대 저러지 않았을 거면서 말이야.",
+            "utterance_id": "BE22010710.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음 정말 이해해. 가끔 남편이 연애 시절과 너무도 달라진 모습을 볼 때마다 마음에 생채기가 나지. 네가 모처럼 외식이었을 텐데, 기분 상해서 왔겠구나.",
+            "utterance_id": "BE22010710.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 기대한 내가 바보 같고 초라해. 남편은 내가 뭐 때문에 이렇게 섭섭해하는지 이해도 못해.",
+            "utterance_id": "BE22010710.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 때는 안 그래도 상처받은 마음이 더욱 외롭고 처량해지지. 네가 너무 속상해 보여서 나도 마음이 아프다. 남편이 네가 밉거나 싫어서 그런 건 아닐 테니까 마음 넓은 네가 조금만 이해해 줘.",
+            "utterance_id": "BE22010710.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야겠지? 남편이 음식을 빨리 먹는 습관만 고쳐도 이렇게 상처받을 일은 없을 텐데. 매번 반복되는 기분이야.",
+            "utterance_id": "BE22010710.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 비슷한 일로 계속해서 상처받을까 걱정돼. 남편과 진솔한 대화를 통해 습관을 바꿔 보는 것도 좋겠어. 오늘 같은 일이 또 일어나면 네 마음이 더 다칠 것 같아.",
+            "utterance_id": "BE22010710.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말이 맞아. 앞으로도 매일 함께 밥을 먹어야 할 텐데, 계속 이럴 순 없지. 그래도 너랑 이야기하니까 속이 좀 풀린다.",
+            "utterance_id": "BE22010710.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 그렇다면 다행이다. 남편 때문에 속상하고 상처받는 날에는 가족한테 말하기도 눈치 보이고 싫잖아. 그럴 땐 친구한테 하소연하는 게 최고지.",
+            "utterance_id": "BE22010710.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그럴 때마다 넌 정말 최고의 친구라는 생각이 들어. 네게 이런 일을 말하고 나면 항상 기분이 좋아지거든. 네가 위로를 잘해 줘서 그런 것 같아.",
+            "utterance_id": "BE22010710.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 널 무척 좋아하니까, 네가 속상하지 않았으면 좋겠다 싶을 뿐이야. 나로 인해 기분이 조금이라도 나아졌다면 만족해.",
+            "utterance_id": "BE22010710.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "오늘도 정말 고마워. 넌 내 맞춤형 친구라니까. 덕분에 속상한 마음이 많이 가셨어.",
+            "utterance_id": "BE22010710.15"
+        }
+    ]
+}

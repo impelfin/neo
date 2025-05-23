@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009041",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009041",
+        "relation": "친구",
+        "situation": "팔 힘을 키우기 위해 팔굽혀펴기를 시작했다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "후후 조만간 내 두꺼운 팔뚝을 구경할 수 있을걸?",
+            "utterance_id": "BE22009041.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오, 맨날 운동하겠다고 말만 하더니 드디어 시작한 거야?",
+            "utterance_id": "BE22009041.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 얼마 전부터 팔굽혀펴기를 하고 있어! 팔 힘도 키우는 동시에 근육도 아주 잘 생기고 있다구!",
+            "utterance_id": "BE22009041.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이야 팔굽혀펴기라니 그거 엄청 힘든 운동이잖아! 목표를 세우고 열심히 운동하는 모습 아주 보기 좋은걸?",
+            "utterance_id": "BE22009041.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "근력을 얼마큼 키울지 명확한 목표를 세우니까 하는 게 전혀 힘들지 않더라고! 그래서 일단은 차근차근 해보자는 생각에 팔굽혀펴기를 시작했어!",
+            "utterance_id": "BE22009041.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "목표를 세워도 그걸 이룰 수 있는지 없는지는 완전한 너의 역량인데. 노력하는 네가 참 대단한 것 같아!",
+            "utterance_id": "BE22009041.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하 칭찬해줘서 고마워. 나도 혼자가 아니라 주변에서 같이 응원해주는 친구들이 있거든. 덕분에 더 열심히 운동을 할 수 있는 것 같아!",
+            "utterance_id": "BE22009041.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 운동은 너무 힘든 일이라 이렇게 기분 좋게 하기 힘든데. 운동하는 것도 재미있고 기대도 되는 걸 보니 아주 잘하고 있는 것 같네!",
+            "utterance_id": "BE22009041.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그치? 너도 같이 운동해보자. 그러면 내 기분이 어떤지 더 잘 느낄 수 있을 거야!",
+            "utterance_id": "BE22009041.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우와, 그럼 나도 한번 그래볼까? 나는 항상 운동을 혼자만 해서 같이 하는 기쁨은 느껴본 적이 드물거든.",
+            "utterance_id": "BE22009041.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "앗 그렇다면 더더욱 같이 해보자! 나랑 같이 팔 힘을 위한 팔굽혀펴기부터 시작하면 차근차근 더 어려운 운동도 할 수 있을 거야!",
+            "utterance_id": "BE22009041.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "덕분에 나에게 이런 기회도 생기고 너무 좋다! 운동 시작한 지 얼마 안 되었는데도 재미를 느껴서 어느새 좋은 일을 추천도 해줄 수 있다니! 넌 역시 멋있는 친구야.",
+            "utterance_id": "BE22009041.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하 조금 쑥스러운걸? 운동을 시작하면서 자신감도 많이 생겼거든. 네가 이런 기분을 느낄 수 있으면 정말 좋을 것 같아!",
+            "utterance_id": "BE22009041.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 운동이 삶에 긍정적인 영향을 많이 끼친다는 이야기는 나도 들어봤던 것 같아. 나도 얼른 운동해서 자신감을 만들어야겠어!",
+            "utterance_id": "BE22009041.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "좋아 조만간 운동 같이 시작하자!",
+            "utterance_id": "BE22009041.15"
+        }
+    ]
+}

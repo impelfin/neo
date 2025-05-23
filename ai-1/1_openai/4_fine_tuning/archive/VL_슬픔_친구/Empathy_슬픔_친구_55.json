@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009897",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009897",
+        "relation": "친구",
+        "situation": "일자목과 거북목으로 고생중이다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 일만 하고 살다가 몸이 다 고장 나는 건 아닐까.",
+            "utterance_id": "BE22009897.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 허리디스크 더 심해졌어?",
+            "utterance_id": "BE22009897.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "허리디스크도 모자라서 이제는 일자목이랑 거북목으로 고생 중이야. 병원 가서 진단받고 나오는데 너무 슬프더라.",
+            "utterance_id": "BE22009897.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "열심히 일했는데 이렇게 결국 몸이 아프게 되면 다 부질없이 느껴지잖아. 지금 많이 착잡한 마음일 것 같아서 내가 다 속상하다.",
+            "utterance_id": "BE22009897.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "빚을 갚는 게 먼저일 것 같아서 친구들도 안 만나고 열심히 돈만 벌었는데. 몸이 이렇게 아프면 무슨 소용인지 모르겠어.",
+            "utterance_id": "BE22009897.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하고 싶은 거 다 참아가면서 돈 모은다는 거 정말 어려운 일이잖아. 그렇게 고생하고 있는데 몸까지 아프면 서글픈 마음이 들지.",
+            "utterance_id": "BE22009897.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 나 그래서 요즘 너무 우울해. 이렇게 산 게 후회되고, 내가 너무 보잘것없어 보여.",
+            "utterance_id": "BE22009897.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 소리야, 너처럼 열심히 사는 거 아무나 할 수 있는 일 아니야. 포기하지 않고 나아가고 있잖아 그거 정말 대단한 일이야. 너 자신을 좀더 사랑해줬으면 좋겠어.",
+            "utterance_id": "BE22009897.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 얘기해 주니까 갑자기 눈물이 날 것 같다. 너무 힘들어서 다 포기하고 싶은 마음에 너한테 연락했던 건데. 덕분에 다시 기운 차릴 수 있을 것 같아.",
+            "utterance_id": "BE22009897.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 정말 진심으로 한 말이야. 너 지금 너무 잘하고 있어. 이번에 몸이 아픈 건 조금 쉬어가라는 뜻이니까 이번 일을 계기로 일과 삶의 균형을 찾아보자.",
+            "utterance_id": "BE22009897.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 난 아직 젊으니까. 일자목도 운동하고 자세 고치면 나을 수 있다고 하니까 이번에 반드시 회복할 거야.",
+            "utterance_id": "BE22009897.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 이렇게 씩씩해야 내 친구지. 나랑 같이 운동도 하고 기분전환도 좀 하러 다니자. 건강이 좋아지면 다시 앞으로 나아갈 힘이 날 거야.",
+            "utterance_id": "BE22009897.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말만 들어도 힘이나. 너 같은 친구가 내 옆에 있어서 정말 다행이야.",
+            "utterance_id": "BE22009897.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇게 말해주니까 내가 눈물이 나려고 하는데? 힘들면 언제든지 연락해.",
+            "utterance_id": "BE22009897.14"
+        }
+    ]
+}

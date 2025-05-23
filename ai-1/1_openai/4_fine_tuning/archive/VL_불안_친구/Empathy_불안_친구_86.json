@@ -1,0 +1,199 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22010139",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010139",
+        "relation": "친구",
+        "situation": "운영하는 가게의 손님이 줄었다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나, 이대로 가게 운영해도 되는 걸까?",
+            "utterance_id": "BE22010139.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래? 무슨 일 이라도 있어?",
+            "utterance_id": "BE22010139.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "코로나 때문인지 뭔지, 내가 지금 운영하는 가게의 손님이 너무 줄었어.",
+            "utterance_id": "BE22010139.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 혹시 그러다 가게를 접어야 하는 게 아닐지 많이 불안한 마음이 들겠구나.",
+            "utterance_id": "BE22010139.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 맞아. 정확해. 인건비조차도 안 나와서 알바생들 자른 지도 오래야. 알바생들 없이 나 혼자 가게 보는데도 손님이 너무 줄어서 힘들지도 않은 거 있지? 이러다 망하는 거 아닌지 너무 불안해서 요즘 음식도 잘 못 만들겠어.",
+            "utterance_id": "BE22010139.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "코로나 때문에 자영업자들이 많이 힘들어한다더니. 너도 그걸 피해서 가지는 못했구나. 지금 얼마나 마음 쓰이고 걱정되겠어.",
+            "utterance_id": "BE22010139.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 이 동네 상권 대부분 죽은 거 보니 내 음식 솜씨에 문제는 아닌 거 같은데. 오히려 상권이 다 죽으니까 그 가운데 우리 가게가 살아남을 수 있을지 너무 걱정돼. 진짜 하루하루 불안해서 피가 마른다니까.",
+            "utterance_id": "BE22010139.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 그러겠어. 코로나 때문에 영업시간은 줄어서 매출은 안 나오는데 월세는 계속 나가잖아. 금전적으로도 너무 부담되니 더 불안하겠지. 진짜 얘기 듣는 나도 불안할 지경인데 너는 오죽 불안하겠어?",
+            "utterance_id": "BE22010139.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "휴. 맞아. 진짜 한 달 매출 보면 한숨 나오고, 가게에 맨날 파리만 날리고 손님은 안 온다. 이 코로나는 끝나기는 하는 건지 진짜 매일매일 불안함 속에 사는 내 속이 엉망진창이 되어가고 있어.",
+            "utterance_id": "BE22010139.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 비 온 뒤 날씨가 맑아지는 거처럼, 이 위기를 겪어내면 좋은 날이 올 거야. 너무 좌절하고 불안해하지 말고 마음을 조금만 편히 먹어보자. 네 성실함과 끈기가 빛을 발하는 날이 분명 올 거라고 나는 생각해. 기운 내자.",
+            "utterance_id": "BE22010139.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 계속 버티다 보면 그런 날이 올까? 나 이제 더 이상 불안함 속에 살기는 싫어.",
+            "utterance_id": "BE22010139.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 분명 올 거라고 생각해. 많이 힘들고 불안하겠지만 마음을 조금만 부정적인 시선에서 벗어나게 해봐. 이 힘든 날이 다 네 가게가 대박 날 거라는 작은 액땜이라고 긍정적으로 생각해 보자!",
+            "utterance_id": "BE22010139.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 조언이야. 내가 너무 불안함 속에 떨며 미래에 대해서 안 좋게 만 생각 했나 봐. 그래. 이제 곧 영업 제한도 풀린다니까 예전처럼 손님이 많아질 거라고 생각해야겠어.",
+            "utterance_id": "BE22010139.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 너는 안주가 맛있는 술집 이자카야니까 영업 제한 풀리면 분명 새벽 시간대에도 손님이 많이 찾아올 거야. 반드시 그럴 거라고 생각하고 우리 힘내자. 내가 언제나 응원할게.",
+            "utterance_id": "BE22010139.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응. 덕분에 마음이 좀 편안해졌어. 네 응원과 위로 잊지 않을게. 고마워.",
+            "utterance_id": "BE22010139.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "별말씀을. 언제든 힘들고 불안할 때 나한테 문자 보내. 정말 최선을 다해서 위로해주고 얘기 들어줄게. 친구야 힘내. 파이팅!",
+            "utterance_id": "BE22010139.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 파이팅! 이제 가게 오픈 준비해야겠다. 얘기 들어줘서 고맙고 또 연락할게!",
+            "utterance_id": "BE22010139.17"
+        }
+    ]
+}

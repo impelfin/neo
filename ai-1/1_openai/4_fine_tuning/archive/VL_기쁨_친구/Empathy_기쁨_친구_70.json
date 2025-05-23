@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009607",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009607",
+        "relation": "친구",
+        "situation": "남자 친구가 연하이다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 드디어 남자 친구에게 고백받아서 사귀기로 했어.",
+            "utterance_id": "BE22009607.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오 너무 잘 됐다. 누구랑 어떻게 만난 건지 모든 것이 궁금해.",
+            "utterance_id": "BE22009607.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "같은 회사 동기인데 몇 달째 서로 좋은 마음이다가 드디어 고백받았어. 나이는 나보다 세 살 아래인데 어른스러워 나도 이게 생시인지 꿈인지 모를 정도로 너무 기쁘다.",
+            "utterance_id": "BE22009607.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 지난번에 네 이상형 만났다고 잘 됐으면 좋겠다고 마냥 설레한 거 기억나. 나도 그때 부럽기도 하고 한편으로 잘 되길 바라고 있었는데 내 일처럼 행복하다. 친구로서 나이가 어떻든지 너에게 좋은 사람이 생긴 걸 진심으로 축하해.",
+            "utterance_id": "BE22009607.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워 너에게 축하 인사를 받으니 갑자기 조금 쑥스러워. 하지만 네 표현처럼 나이가 내 짝이 될 만한 기준은 아니었어. 그래서 마냥 행복하고 미래가 기대되고 그래.",
+            "utterance_id": "BE22009607.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 전적으로 동의해 우리 언니도 연하 남자 친구가 지난주에 집에 인사 왔었어. 나이에 대한 모든 편견이 사라질 정도로 사람 자체가 좋더라고. 부모님도 흡족해하셨어, 그러고 보면 나이에 구애받지 않은 네가 현명한 거야.",
+            "utterance_id": "BE22009607.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 안 그래도 이 사람이랑 잘 되면 결혼까지 할 생각인데 매우 낙관적인 이야기를 들려줘서 고마워. 가족 모두 응원하는 관계는 누구나 꿈꾸는 거니까.",
+            "utterance_id": "BE22009607.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "둘 사이가 진전되면 나에게도 인사시켜 줘야 한다. 눈 높은 너의 마음을 사로잡은 분이니 얼마나 멋진 사람일까 궁금하거든.",
+            "utterance_id": "BE22009607.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나의 가장 소중한 친구에게 인사시키는 건 당연하지. 남자 친구 생긴 건 너에게 처음 꺼낸 건데 이렇게 진한 응원과 격려를 받아 더 기뻐.",
+            "utterance_id": "BE22009607.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 언제나 네 편인 거 잘 알잖아. 학교 다닐 때부터 이과 반이었는데 문과로의 전과를 선택했던 네가 신기하고 멋져 보였어. 늘 자기만의 소신이 있는 너를 보며 나도 배우는 점이 많았거든.",
+            "utterance_id": "BE22009607.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 남이 하지 않는 또 남이 잘 가지 않는 선택을 잘하는 것 같아. 그래서 날 이상한 아이 취급하기도 하는데 너는 늘 한결같았어. 세상에 누구 하나 온전한 나의 편이라는 게 얼마나 안심이 되는 일인지.",
+            "utterance_id": "BE22009607.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 생각해 주니 앞으로도 너의 모든 결정을 응원해. 너의 결정에는 다 그럴만한 이유가 있고 그만큼 신중한 고민 끝에 내렸을 테니까. 연하여서 누군가에게 어떤 말을 들어도 너는 강한 아이니까 사랑을 잘 지켜내리라 믿어.",
+            "utterance_id": "BE22009607.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금은 너무 기쁘고 행복해서 얼떨떨하기만 한데 앞으로 시련이 닥치더라도 너의 조언을 기억할게. 그리고 곁에서 든든하게 힘이 되어주는 친구가 있으니 두려운 것이 없어.",
+            "utterance_id": "BE22009607.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 앞으로 둘 사이에 꽃길만 가득하길 마음 깊이 바랄게. 그리고 시간 지나 더 좋은 결정하기를 기다릴게.",
+            "utterance_id": "BE22009607.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응 네 바람대로 됐으면 너무 좋겠어. 고마워.",
+            "utterance_id": "BE22009607.15"
+        }
+    ]
+}

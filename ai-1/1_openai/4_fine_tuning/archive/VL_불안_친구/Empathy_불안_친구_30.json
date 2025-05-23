@@ -1,0 +1,166 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009574",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009574",
+        "relation": "친구",
+        "situation": "퇴사 예정일이 다가온다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 점점 불안해지는 것 같아. 걱정스러운 마음에 어제는 잠도 설쳤어.",
+            "utterance_id": "BE22009574.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지난번에는 곧 퇴사한다고 엄청 신났었잖아. 그 사이에 무슨 일 있었어?",
+            "utterance_id": "BE22009574.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이 있었던 건 아니고, 막상 퇴사 예정일이 다가오니까 불안해지네. 괜히 잘 다니던 회사 그만두는 바보 같은 짓을 하는 건 아닌지... 당장이라도 이직할 회사를 찾아봐야 하나 너무 걱정돼.",
+            "utterance_id": "BE22009574.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사 생활을 오래 하다가 이제 곧 그만둔다고 하니 갑자기 막막해졌나 보다. 나라도 오래 다니던 회사를 그만두게 되면 막연한 불안감이 생길 수도 있을 것 같아. 네 심정 충분히 이해해.",
+            "utterance_id": "BE22009574.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그냥 휴가를 붙여서 조금만 쉴 걸 괜히 퇴사한다고 했나? 내가 아무 대책도 없이 쓸데없이 나댄 건 아닌지 조금 후회도 돼.",
+            "utterance_id": "BE22009574.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 휴학도 없이 학교 다니고 졸업하자마자 취업했으니 조금 쉬어도 돼. 이번 퇴사가 애초에 마음 편히 쉬려고 결정한 일이니까 마음 편하게 가져. 스스로 한 결정을 네가 가장 믿고 지지했으면 좋겠다.",
+            "utterance_id": "BE22009574.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 맞아. 좋은 기회로 입사했지만 준비되지 않은 채로 들어와서 많이 힘들었었지. 휴가 나 휴직도 눈치 보여서 퇴사를 결심했으니 정말 이번 기회에 푹 쉬어야겠다. 내가 갑자기 백수가 된다는 생각에 막연히 불안감이 커졌었나 봐.",
+            "utterance_id": "BE22009574.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 잘 다니던 직장을 그만둔다니까 내심 섭섭한 마음도 있어서 더 그럴 수도 있지. 지금 회사에서 잘했으니 다시 취업할 때 더 좋은 곳으로 갈 수 있을 거야. 아마 네가 다시 취업 준비한다고 하면 여기저기서 서로 와달라고 할걸?",
+            "utterance_id": "BE22009574.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네가 그렇게 얘기해 주니까 정말 마음이 편해졌어. 네 덕에 앞으로 열심히 인수인계하고, 퇴사 후에도 마음껏 쉴 수 있을 것 같아.",
+            "utterance_id": "BE22009574.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 마음이 편해졌다니 나도 너무 다행이다. 너는 항상 침착하고 차분하게 판단하고 결정하는 사람이잖아. 나는 네가 이번에도 너에게 가장 이로운 선택을 했을 거라고 생각해.",
+            "utterance_id": "BE22009574.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 나를 믿어주니 나도 나를 더 신뢰할 수 있을 것 같아. 네가 있어서 정말 든든하다.",
+            "utterance_id": "BE22009574.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 항상 너의 선택을 믿고 응원해. 앞으로 또 힘들거나 지치는 일이 있으면 언제든 연락해.",
+            "utterance_id": "BE22009574.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 다정하게 말해줘서 정말 고마워. 나 퇴사하면 한번 만나자.",
+            "utterance_id": "BE22009574.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래! 그럼 그동안 퇴사할 때까지 일 마무리 잘하고, 다음에 보자!",
+            "utterance_id": "BE22009574.14"
+        }
+    ]
+}

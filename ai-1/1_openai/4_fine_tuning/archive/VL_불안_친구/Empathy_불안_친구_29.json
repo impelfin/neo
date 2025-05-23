@@ -1,0 +1,163 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009572",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009572",
+        "relation": "친구",
+        "situation": "이유없이 자주 머리가 아프다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 요즘 아무 이유 없이 머리가 너무 자주 아픈 것 같아.",
+            "utterance_id": "BE22009572.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 원래 편두통 같은 게 있는 편이었어?",
+            "utterance_id": "BE22009572.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 전혀 없었지. 내가 원래 복잡한 것 진짜 싫어하고, 스트레스 하나 안 받으면서 편하게 사는 스타일이잖아. 그래서 평생 두통을 모르고 살았는데, 요즘 머리가 계속 아프더라고.",
+            "utterance_id": "BE22009572.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 평소랑 다른 게 느껴질 정도면 꽤 많이 아픈가 보네. 병원에 가 봐야 하는 것 아니야?",
+            "utterance_id": "BE22009572.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 친가에 뇌 질환을 앓은 어른이 계셨거든. 아무래도 병원에 가서 정식 검사까지 받으려고 하니까 그 생각부터 들면서 불안하고 무섭더라.",
+            "utterance_id": "BE22009572.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집안 내력이 있으면 당연히 무서울 수 있지. 더구나 네가 평소에 두통을 모르고 살았다고 하니 더 그럴 수 있겠다. 우리 나이가 되면 조금만 아파도 별별 생각이 다 들잖아, 나도 요즘 그렇더라고.",
+            "utterance_id": "BE22009572.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시나 정말 병원에서 큰 병이라고 할까 봐 너무 걱정되는 거 있지. 그래서 계속 여기저기 좋다는 병원만 알아보고, 검사 날짜는 잡지도 못하고 있어. 어린애도 아니고, 다 컸는데 병원 가는 게 이렇게 무서울 줄이야.",
+            "utterance_id": "BE22009572.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 의사 만나는 게 싫은 건 이 나이 먹도록 똑같더라. 게다가 네 입장이라면 더더욱 병원에 가기 무서울 만해.",
+            "utterance_id": "BE22009572.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래도 갑자기 두통이 잦아지고 나니 새삼스레 내 삶을 돌아보게 되더라. 지금보다 일도 줄이고, 스트레스를 받는 환경에서도 벗어나려고 노력하게 되고 말이야.",
+            "utterance_id": "BE22009572.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마냥 괴로워하고 있기보다는, 긍정적으로 상황을 해결하려고 노력하고 있구나. 보통 큰 병이 걱정되면 우울감에 빠져서 아무것도 안 하는 사람도 많은데, 역시 넌 달라. 이번 일을 기회 삼아서 좀더 건강한 네가 될 수 있을 것 같은데?",
+            "utterance_id": "BE22009572.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말을 들으니까 걱정이 조금 줄어드는 것 같아. 결과가 어떻든, 생활 방식은 계속 바꿔나가려고. 얼마 전에는 운동도 시작했어.",
+            "utterance_id": "BE22009572.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 잘 됐다. 땀을 많이 흘리고, 육체를 피곤하게 만들면 깊은 잠을 잘 수 있게 되잖아. 그게 두통에도 큰 도움이 될 수 있지 않을까?",
+            "utterance_id": "BE22009572.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠지? 너한테 터놓고 나니까 그래도 용기가 조금 생기는 기분이야. 쇠뿔도 단김에 빼랬다고, 이번 주에는 꼭 병원에 다녀와야겠어.",
+            "utterance_id": "BE22009572.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "잘 생각했어. 너무 어렵게 생각하거나 고민하지 말고, 가벼운 마음으로 다녀와. 별일 없을 거야.",
+            "utterance_id": "BE22009572.14"
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009764",
+        "listener_behavior": [
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009764",
+        "relation": "친구",
+        "situation": "초음파로 뱃속 아기의 심장소리를 들었다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야. 생명이란 너무 위대하고 대단한 거 같아. 나 지금 가슴이 너무 벅차오른다.",
+            "utterance_id": "BE22009764.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오. 오늘 산부인과 다녀왔다더니 좋은 소식이라도 있는 거야?",
+            "utterance_id": "BE22009764.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 나 임신이래. 벌써 7주라고 해서 초음파로 뱃속 아기의 심장 소리 듣고 왔어. 얼마나 감동적이었는지 몰라. 나 정말 기뻐서 눈물 날 거 같아.",
+            "utterance_id": "BE22009764.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머! 네가 얼마나 기다려왔던 아이야. 심장 소리 들었을 때만큼 진짜 감동적인 일은 없잖아. 네가 지금 너무 행복하겠어.",
+            "utterance_id": "BE22009764.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 진짜 이 행복한 감정을 어떻게 말로 표현할 수가 없어서 아쉽다. 귓가에 쿵쿵하는 심장 소리가 들려오는데, 손톱보다 작은 아기가 자기 건강하게 살아있다고 하는 거 같았어. 너무 기특하고 사랑스럽더라고.",
+            "utterance_id": "BE22009764.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 우리 첫째 심장 소리 들었을 때 정말 얼마나 행복했는지 몰라. 네 얘기 들으니까 그때 그 심정이 다시 생각난다. 나도 덩달아 감동적이고 기분이 좋아지는걸.",
+            "utterance_id": "BE22009764.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난임이라는 소식 들었을 때 진짜 마른하늘에 날벼락 같았는데. 이렇게 기적같이 아기가 찾아와 줘서 너무 감사하고 기뻐. 정말 얼마나 사랑스러운지 몰라.",
+            "utterance_id": "BE22009764.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 난임 소식 듣고 얼마나 슬퍼하고 힘들어했는지 내가 잘 알잖아. 그래도 금방 슬픔을 딛고 차근차근 임신을 준비했을 때 얼마나 대단했는지. 네 결단력과 굳은 의지는 정말 멋진 거 같아.",
+            "utterance_id": "BE22009764.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그때는 정말 하늘이 무너지는 기분이었지만, 내가 힘들어하면 우리 아기도 믿음직스럽지 못해서 찾아오지 않겠구나, 라는 생각이 들더라고. 그래서 더 힘내서 임신을 준비했지. 이렇게 내 노력에 화답하듯 아기가 찾아와 줘서 정말 너무 감사하지. 세상이 환해진다.",
+            "utterance_id": "BE22009764.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 난임이면 진짜 임신 준비 기간이 길어지면 길어질수록 초조해지고 마음이 많이 힘들어지는데. 생각보다 일찍 와줘서 너무 다행이야. 나도 이제 마음이 놓인다. 걱정 많이 했거든.",
+            "utterance_id": "BE22009764.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 내 일을 본인 일처럼 걱정하고 기뻐해 주는 친구가 있어서 더할 나위 없이 행복하다. 내 인생이 너무 사랑스러워지는 순간이야.",
+            "utterance_id": "BE22009764.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그만큼 네가 주변 사람에게 얼마나 잘했는지 느껴지지 않니? 정말 너의 좋은 소식에 내 가슴이 덩달아 따듯해졌어. 고마워.",
+            "utterance_id": "BE22009764.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 너에게 내 기쁜 소식을 공유하니까 더 행복해졌어. 초음파로 뱃속 아기 심장 소리를 들었을 때보다 지금이 기분이 더 좋은 거 같아.",
+            "utterance_id": "BE22009764.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 최고의 찬사네. 아무튼 너무 축하하고 조만간 선물 들고 찾아갈게!",
+            "utterance_id": "BE22009764.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 기다릴게. 시간 날 때 언제든지 놀러 와. 너라면 언제나 환영이야.",
+            "utterance_id": "BE22009764.15"
+        }
+    ]
+}

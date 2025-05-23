@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010140",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010140",
+        "relation": "친구",
+        "situation": "시어머니 생신을 깜빡했다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 진짜 큰일 났다. 어떡하지?",
+            "utterance_id": "BE22010140.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐야 무슨 일 생겼어?",
+            "utterance_id": "BE22010140.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시어머니 생신을 깜빡했어. 요즘 일이 너무 바빠서 매일 야근하느라 날짜가 이렇게 된 줄 몰랐어. 나 진짜 너무 당황스러워, 어쩌지?",
+            "utterance_id": "BE22010140.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고 이번에 결혼하고 첫 생신이라고 선물까지 고민했었잖아. 그렇게 신경 쓰고 있던 걸 깜빡했으니 너무 놀랐을 것 같아.",
+            "utterance_id": "BE22010140.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "달력에 표시까지 해놓고 잊어버렸어. 시어머니도 기대 많이 하셨을 것 같은데 나 정말 울고 싶다.",
+            "utterance_id": "BE22010140.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시어머니가 속상해하실 거라는 생각에 더 마음이 불편하구나? 시어머니랑 좋은 관계로 지내고 싶다고 노력해 왔었는데 이런 일이 생겨서 울적하겠다.",
+            "utterance_id": "BE22010140.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시어머니가 나한테 정말 잘해주시거든. 우리 맞벌이한다고 매번 반찬도 만들어 주시고 이번 생신에 감사하는 마음을 꼭 표현하고 싶었는데. 나 왜 이렇게 한심한 걸까.",
+            "utterance_id": "BE22010140.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 평소에 시어머니한테 잘하고, 남편이랑도 사이좋게 잘 사니까 시어머니도 널 예뻐하시는 거지. 너의 마음 다 이해하실 거야. 일이 너무 바쁘면 실수할 수도 있는 거니까 너무 자책하지 마.",
+            "utterance_id": "BE22010140.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 이해해주실까? 나 깜빡했다는 사실 깨닫자마자 바로 남편한테 전화했었거든. 그런데 남편은 내가 너무 바빠 보여서 그냥 말 안 했다고 하는 거 있지.",
+            "utterance_id": "BE22010140.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남편도 시어머니도 다 널 배려하고 싶은 마음에 말 안 한 것 같아. 네 상황을 알고 계신다는 거니까 일단 진정하고, 감사한 마음을 잘 표현해 보는 건 어때?",
+            "utterance_id": "BE22010140.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 네 말이 맞아. 이미 벌어진 일이니까 마음을 좀 가라앉히고 생각을 해봐야겠어. 나의 진심이 잘 전달될 수 있었으면 좋겠다.",
+            "utterance_id": "BE22010140.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 안절부절못하는 모습에서 이미 너의 진심이 느껴져. 진심은 반드시 통하기 마련이니까 너무 걱정하지 마.",
+            "utterance_id": "BE22010140.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네가 아니었으면 계속 우왕좌왕하느라 아무것도 못 했을 거야. 덕분에 안심하고 대처할 수 있을 것 같아. 고마워.",
+            "utterance_id": "BE22010140.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "다행이다. 잘 해결돼서 네 마음도, 시어머니 마음도 편했으면 좋겠다.",
+            "utterance_id": "BE22010140.14"
+        }
+    ]
+}

@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009304",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009304",
+        "relation": "친구",
+        "situation": "공공도서관에서 책을 빌렸다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 너 도서관에서 책 빌려본 적 있어?",
+            "utterance_id": "BE22009304.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼! 당연히 있지. 지난주에도 세 권 빌렸는걸? 근데 갑자기 왜?",
+            "utterance_id": "BE22009304.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 이번에 자료 준비 때문에 도서관에서 빌렸는데, 책 상태가 너무 안 좋아서 짜증 난다. 괜히 빌렸나 싶어!",
+            "utterance_id": "BE22009304.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 나도 잘 알지. 이상한 거 묻어있는 경우도 많고 책 자체가 너무 오염돼서 손대기 싫을 때도 있어.",
+            "utterance_id": "BE22009304.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 맞아. 게다가 내가 빌린 책은 중간에 몇 페이지가 찢어져 있어서 책 내용 자체를 읽을 수가 없었어. 진짜 왜 이래?",
+            "utterance_id": "BE22009304.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐? 책이 찢어져 있다고? 그거 문제가 참 심각한데. 그런 상태라면 책을 빌린 의미가 없잖아.",
+            "utterance_id": "BE22009304.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 말이 그 말이야. 어렵게 찾아서 빌린 책인데 이 모양이니까 너무 짜증 나고 화난다.",
+            "utterance_id": "BE22009304.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 지난번에 같은 경험해 본 적 있어서 네 기분 너무 잘 알아. 번거롭게 발품 팔아 도서관까지 갔다 온 노력이 물거품이 된 기분이잖아. 내가 지금 네 입장이었어도 엄청 허탈하고 속상했을 것 같아.",
+            "utterance_id": "BE22009304.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "이해해 줘서 정말 고맙다. 책 찢어졌다고 짜증 조금 냈더니 뭐 그런 걸로 화내냐고 하더라. 너무 억울했어.",
+            "utterance_id": "BE22009304.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수 있어. 이게 직접 경험하지 않은 이상 공감하기가 어렵더라고. 나는 비슷한 일 겪은 적 있어서 네 기분 충분히 이해해!",
+            "utterance_id": "BE22009304.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 기분 공감해 주는 사람이 있어서 다행이야. 그나저나 리포트 쓰려면 이 책 내용이 꼭 필요한데 어떡하지. 다른 도서관에 가봐야 하나? 난감하게 되었네.",
+            "utterance_id": "BE22009304.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당장은 번거롭고 힘들겠지만, 별수 없지. 어차피 해야 할 일이니 다시 시작한다는 마음으로 좋게 생각해 봐. 지금 고생한 만큼 분명히 좋은 결과로 돌아올 거야.",
+            "utterance_id": "BE22009304.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠지? 책 못 구했다고 리포트를 포기할 수는 없는 노릇이니까. 생각이 복잡하고 어지러웠는데 네 덕분에 말끔하게 정리가 되었어. 고맙다.",
+            "utterance_id": "BE22009304.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐 이런 걸로 고맙대. 나도 우리 동네 도서관에 네가 필요한 책 있나 알아봐 줄게. 허탕 쳐서 속상하겠지만 힘내라!",
+            "utterance_id": "BE22009304.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래 주면 나야 정말 고맙지. 이따가 다시 연락할게.",
+            "utterance_id": "BE22009304.15"
+        }
+    ]
+}

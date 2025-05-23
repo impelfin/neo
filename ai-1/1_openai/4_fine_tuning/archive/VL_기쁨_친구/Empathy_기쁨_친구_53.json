@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009417",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009417",
+        "relation": "친구",
+        "situation": "결혼식을 앞두고 웨딩쵤영을 했다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 기쁜 일이 있었어.",
+            "utterance_id": "BE22009417.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네게 어떤 기쁜 일이 일어난 건지 정말 궁금한걸.",
+            "utterance_id": "BE22009417.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 결혼식을 앞두고 웨딩 촬영을 하고 왔거든. 이젠 정말 결혼하는 게 실감이 나는 거 같아. 정말 기뻐서 눈물이 다 나왔다니까.",
+            "utterance_id": "BE22009417.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오. 그랬구나. 기분 정말 좋았겠다. 벌써 웨딩촬영이라니 정말 믿기지 않았을 거 같아. 네가 전부터 엄청나게 기대했던 거잖아.",
+            "utterance_id": "BE22009417.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 하늘을 날아갈 것 같이 행복한 기분이었어. 사랑하는 사람과 행복한 시간을 추억으로 남길 수 있다는 게 정말 벅차오르는 기분이더라고.",
+            "utterance_id": "BE22009417.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 좋아하는 마음이 나한테까지 느껴진다. 정말 짜릿하고 황홀한 기분이었을 거 같아. 드디어 네가 바라고 바라던 게 이루어졌으니 말이야.",
+            "utterance_id": "BE22009417.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 게다가 촬영할 때는 정말 시간이 멈췄으면 좋겠다고 생각했어. 너무 행복해서 흘러가는 시간이 아깝다고 느껴졌거든. 시간을 잡을 수만 있었다면 꽉 잡고 있었을 거야.",
+            "utterance_id": "BE22009417.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "흘러가는 시간이 아까웠다니 정말 로맨틱하고 낭만적이기까지 하다. 얼마나 만족스러운 기분이었는지 잘 알겠어. 감격스럽기까지 했겠는데?",
+            "utterance_id": "BE22009417.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 모든 게 평화롭고 마음에 들었던 거 같아. 꿈인지 생시인지 몰라서 몇 번씩이고 볼을 꼬집어봤다니까. 정말이지 태어나서 이렇게 기쁜 건 처음이었어.",
+            "utterance_id": "BE22009417.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 기뻐하는 모습을 보니 정말 흐뭇하다. 정말 활기차고 즐거워하는 거 같아서 보기 좋은데? 네 말을 들으니 나까지 흡족한 기분이야.",
+            "utterance_id": "BE22009417.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 아직도 두근두근하는 심장이 가라앉지 않는 거 같아. 말로는 표현할 수 없는 감정도 느껴지고 말이야. 마음도 가볍고 산뜻해진 거 같아.",
+            "utterance_id": "BE22009417.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그때의 사랑스러운 분위기가 나한테까지 생생하게 전달되는 느낌이야. 네가 좋아하는 것들만 잔뜩 있었잖아. 당연히 행복할 수밖에 없는 시간을 보냈겠다.",
+            "utterance_id": "BE22009417.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 촬영 전부터 흥분되고 들뜨는 마음이 있었는데 마친 뒤에는 가슴이 뭉클하기도 했던 거 같아. 나 이렇게 행복할 자격이 있는 거겠지?",
+            "utterance_id": "BE22009417.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론이지. 넌 늘 주위 사람들을 행복하게 만들어주는 밝은 에너지를 가지고 있는 사랑스러운 사람이야. 나까지 행복해지게 만들어줬으니 말이야. 웨딩촬영한 거 정말 축하해!",
+            "utterance_id": "BE22009417.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 네가 그렇게 말해주니 내 행복이 더 커진 거 같아. 얘기 들어줘서 고마워.",
+            "utterance_id": "BE22009417.15"
+        }
+    ]
+}

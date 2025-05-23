@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010111",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010111",
+        "relation": "친구",
+        "situation": "채용 합격자 명단에 내 이름만 빠져있었다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 정말 기운이 안 난다.",
+            "utterance_id": "BE22010111.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일 있었어?",
+            "utterance_id": "BE22010111.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "직원 3명을 모집하는 채용공고에 지원했는데. 나까지 포함해서 총 4명을 면접 보더라고. 그런데 채용 합격자 명단에 내 이름만 빠져있더라.",
+            "utterance_id": "BE22010111.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "3명을 뽑는데, 4명이 지원했다면 확률이 낮은 것도 아닌데 떨어졌다니. 너 정말 실망스러웠겠다. 나였어도 크게 낙담했을 거야.",
+            "utterance_id": "BE22010111.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "졸업한 지 1년이 넘도록 취업이 되질 않아서, 부모님께도 죄송한 마음이야. 이렇게 확률이 높은 곳에서도 떨어지니, 정말 가슴이 찢어질 것 같다. 떨어지는 이유가 나한테 문제가 있는 거 같아서 정말 속상하기도 하고.",
+            "utterance_id": "BE22010111.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 얼마나 마음이 공허하면 그렇게 비관적으로 이야기하겠어. 얼마나 힘들지 나로서는 감히 판단할 수 없겠다.",
+            "utterance_id": "BE22010111.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 이제 포기하고 싶은 마음마저 들어. 지금까지는 내가 운이 나빠서, 나보다 대단한 지원자들이 많기 때문이라고 생각했는데. 이번에는 지원자 수도 많지 않았는데 또 떨어지다니, 정말 자신감을 상실했어.",
+            "utterance_id": "BE22010111.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 들어 취업시장이 각박하다는 기사가 많이 나올 정도로 취업하기 힘든 세상이잖아. 힘들어서 포기하고 심정은 이해하지만, 너무 실망하지 않았으면 해. 지금 포기하기에는 네 젊음과 능력이 아까운걸.",
+            "utterance_id": "BE22010111.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금까지는 나도 그렇게 생각하고 훌훌 털어버렸는데. 오늘은 너무 속상해서 그럴 수가 없어. 결과가 궁금하신 부모님한테서 연락이 오면 울게 될까 봐 핸드폰도 꺼놓은 상태야.",
+            "utterance_id": "BE22010111.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "실패는 성공의 어머니라는 말이 있듯이 오늘의 실패에 대해 분석하다 보면 곧 합격하게 될 거야. 준비가 되지 않은 채 회사에 합격하게 된다면, 문제만 잔뜩 떠앉게 될 수 있어. 그래서 지금을 그저 실패라고 생각하기보다는, 확실한 성공을 위한 발판이라고 생각하는 건 어떨까?",
+            "utterance_id": "BE22010111.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "나에게 꼭 필요한 말이었어. 지금의 실패를 기회 삼아 더 발전한 내 모습을 보여줘야겠다. 네 덕분에 슬픈 마음을 탈탈 털고 다시 일어설 수 있겠어.",
+            "utterance_id": "BE22010111.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬다면 정말 다행이다. 급할 거 없으니, 오늘은 기분 전환을 위해 나랑 만나서 달콤한 디저트 먹자. 가끔은 쉬어갈 때도 있어야지.",
+            "utterance_id": "BE22010111.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 좋은 생각이다! 아직 만나지도 않았는데 벌써부터 기대가 되네.",
+            "utterance_id": "BE22010111.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "기분이 많이 좋아진 것 같네. 이따 한 시간 뒤에 우리가 자주 만나는 디저트 카페에서 보자!",
+            "utterance_id": "BE22010111.14"
+        }
+    ]
+}

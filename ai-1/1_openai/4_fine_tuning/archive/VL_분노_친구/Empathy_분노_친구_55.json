@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22009768",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009768",
+        "relation": "친구",
+        "situation": "여행을 갔다 소매치기를 당했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 너무 화가 나. 진짜 속이 부글부글 끓어.",
+            "utterance_id": "BE22009768.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여행 간다더니 무슨 일 생겼어?",
+            "utterance_id": "BE22009768.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "길 걷다가 소매치기당했어. 이게 무슨 일이야. 말이 되는 상황이라고 생각해?",
+            "utterance_id": "BE22009768.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮아? 다치진 않았어? 거기에 그런 일 많다고 듣긴 했는데 내 친구가 당할 줄은 몰랐네. 많이 놀랐겠다.",
+            "utterance_id": "BE22009768.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 진짜 놀랐어. 그래도 다치진 않았는데 가방에 여권이 들어있어서 엄청 곤란해. 인제 어쩌지.",
+            "utterance_id": "BE22009768.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다친 곳은 없는 거지? 괜히 내 마음이 다 콩닥거리네. 너무 무서운 상황이었을 것 같아.",
+            "utterance_id": "BE22009768.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에이 그 정도는 아니야. 그래도 걱정해주는 사람이 있어서 위로된다. 정말 잠깐 시선을 돌렸을 뿐인데 이렇게 당할 줄은 몰랐어. 처음엔 진짜 화나고 무섭더라고.",
+            "utterance_id": "BE22009768.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아휴 당연히 무섭지. 얼마나 당황했니. 여권은 대사관 가면 임시로 발급해 줄 테니까 너무 걱정하지 마. 그리고 휴대폰은 잃어버리지 않아서 불행 중 다행이야.",
+            "utterance_id": "BE22009768.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행히 휴대폰은 손에 꽉 쥐고 있었어. 이 휴대폰마저 없었으면 나 완전 길에서 울었을 거 같아. 너랑 연락이 되어서 다행이다.",
+            "utterance_id": "BE22009768.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 다 잃어버려도 핸드폰이 있으면 그래도 해결이 되더라고. 나도 몇 번이나 당했잖아. 그때마다 휴대폰은 들고 있어서 금방 해결할 수 있었어. 너도 너무 걱정하지 마.",
+            "utterance_id": "BE22009768.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 너도 그랬었지. 기억난다.",
+            "utterance_id": "BE22009768.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 그래서 지금 네 상황 완전히 이해해. 내가 왜 그랬을까 계속 후회되고 화도 나고 그렇지? 그래도 몸 성하니까 너무 속상해하지 마.",
+            "utterance_id": "BE22009768.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응. 너랑 대화하니까 안심이 되면서 마음도 좀 풀렸어. 별일이 다 있다.",
+            "utterance_id": "BE22009768.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이야. 놀란 가슴 좀 진정시키고 지금 바로 대사관에 연락해봐. 그리고 혹시 내가 도와줄 일이 있으면 언제든 이야기해. 계속 대기하고 있을게.",
+            "utterance_id": "BE22009768.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "덕분에 든든하다. 대사관에 알아보고 또 연락할게. 고마워!",
+            "utterance_id": "BE22009768.15"
+        }
+    ]
+}

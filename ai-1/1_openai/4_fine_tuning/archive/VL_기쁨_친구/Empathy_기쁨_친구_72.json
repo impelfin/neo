@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009629",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009629",
+        "relation": "친구",
+        "situation": "남자 친구가 커다란 곰인형을 선물해 줬다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 기분이 너무 좋아.",
+            "utterance_id": "BE22009629.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 좋은 일 있었어?",
+            "utterance_id": "BE22009629.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남자 친구가 커다란 곰 인형을 선물해 줬어. 안 그래도 내가 갖고 싶어 했던 인형이라 너무 기쁘더라고. 내가 갖고 싶어 하는 것도 바로 알아채고 남자 친구가 너무 사랑스러워.",
+            "utterance_id": "BE22009629.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오, 그러면 나 같아도 기쁠 수밖에 없겠다. 평소 갖고 싶었던 물건을 누군가 선물로 주면 그게 그렇게 기쁠 수가 없지!",
+            "utterance_id": "BE22009629.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 곰 인형 주는 순간부터 기분이 붕 뜨더라고. 오늘 곰 인형 들고 데이트했는데 정말 즐거운 날이었어. 사랑하는 사람과 이렇게 함께 있으니까 좋더라.",
+            "utterance_id": "BE22009629.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋아하는 인형과 남자 친구랑 함께 보내는 하루라면 나 같아도 정말 하루가 완벽할 것 같아. 너 정말 기분 좋겠다. 나도 가끔 남자 친구가 뭘 선물해주면 그 자체가 너무 감동적이더라고.",
+            "utterance_id": "BE22009629.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 어떻게 이렇게 내 마음을 알까 싶어. 진짜 곰 인형이 폭신폭신하고 부드러워서 잘 때도 껴안고 자려고. 곰 인형만 봐도 기분이 좋아져.",
+            "utterance_id": "BE22009629.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 너 인형 되게 좋아하잖아. 그것도 커다란 인형으로 받아서 기쁨을 주체할 수 없을 것 같아. 남자 친구가 진짜 센스 있게 선물 잘 해줬네.",
+            "utterance_id": "BE22009629.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 인형 진짜 귀엽다? 사진 찍어서 보내줄게. 봐, 진짜 귀엽지?",
+            "utterance_id": "BE22009629.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오, 되게 깜찍하게 생겼네. 네가 좋아하는 생김새의 인형이다. 나 같아도 저렇게 귀여운 인형 선물 받으면 기분 좋을 것 같아.",
+            "utterance_id": "BE22009629.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 나 정말 이 인형 맨날 껴안고 잘 거야. 부드러워서 쿠션 역할도 해주고 너무 좋더라고.",
+            "utterance_id": "BE22009629.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "커다랗고 그래서 껴안고 자기 좋겠다. 너 정말 괜찮은 인형 받았구나. 남자 친구도 너한테 선물하려고 이것저것 다 따져보고 선물했나 보다!",
+            "utterance_id": "BE22009629.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 봐도 그렇지? 꼼꼼하게 인형 알아보고 골라서 산 것 같아서 더 기분이 좋더라고! 너도 그렇게 느끼는 걸 보면 진짜 남자 친구가 알아보고 산 것 같아서 더 기분이 좋네!",
+            "utterance_id": "BE22009629.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 정말 기분 좋은 게 나한테도 느껴진다. 네 취향에 딱 맞는 인형을 선물 받아서 다행이야! 더구나 인형이 너랑도 어울리네!",
+            "utterance_id": "BE22009629.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 그렇게 말해줘서 고마워!",
+            "utterance_id": "BE22009629.15"
+        }
+    ]
+}

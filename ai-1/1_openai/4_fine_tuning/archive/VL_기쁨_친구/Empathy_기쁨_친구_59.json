@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009459",
+        "listener_behavior": [
+            "조언",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009459",
+        "relation": "친구",
+        "situation": "아들이 초등학교에 입학해 책가방을 사줬다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제 다음 주면 하나뿐인 아들이 초등학교에 입학해. 설레기도 하고 기쁘네.",
+            "utterance_id": "BE22009459.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "축하해. 드디어 학교에 입학하는구나. 학부모 되어서 기쁜 마음이 크겠다.",
+            "utterance_id": "BE22009459.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 고마워. 오늘 책가방 사러 갔는데, 그거 메고 학교 갈 생각에 엄청 들떴더라고. 학교 싫어할까봐 걱정했는데, 안도했어.",
+            "utterance_id": "BE22009459.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "환경이 변해서 무서워하는 애들도 많은데, 그런 걱정은 덜었겠다. 책가방 메고 엄청 기분 냈나보다. 엄마로서 네가 많이 안심됐겠다.",
+            "utterance_id": "BE22009459.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 애가 많이 소극적이라 유치원 가는 것도 싫어해서 걱정했거든. 근데 학교 얘기 하면서 책가방 사줬더니 얼른 학교 가고 싶다고 그래서 안심이야.",
+            "utterance_id": "BE22009459.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아들이 참 대견하겠어. 한시름 덜어서 다행이겠다. 이제 혼자 학교 가고 하교도 해야 할 텐데 혼자서도 잘할 거 같으니 안심이겠다.",
+            "utterance_id": "BE22009459.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 아직도 내 눈엔 아기 같은데 학교 간다고 설레하고 그러니깐 기특하더라.",
+            "utterance_id": "BE22009459.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 환경이 바뀌는데도 아들이 걱정보다는 기대감이 더 큰가보다. 너도 너무 걱정하지 말고 안심해도 되겠어.",
+            "utterance_id": "BE22009459.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집에서 공책이랑 필통도 챙겨서 책가방 메고 그러더라고. 유치원 다닐 때랑 너무 달라서 놀랍기도 하고, 걱정 안 해도 되서 기쁘기도 해.",
+            "utterance_id": "BE22009459.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아들이 학교 생활 잘할 거 같은데? 벌써부터 학교에 대한 기대가 큰 거 보니까 말이야.",
+            "utterance_id": "BE22009459.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 주면 진짜 큰 걱정 하나 덜 텐데. 아직 학교 다니는 건 아니라 섣불리 판단하기 힘들지만, 유치원 때랑은 달라서 기대가 돼.",
+            "utterance_id": "BE22009459.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이가 그렇게 행동하니깐 너는 부모로서 그만큼 기대되는 게 당연하지. 학교 생활 잘하면 너도 참 기쁘겠다.",
+            "utterance_id": "BE22009459.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 그래서 얼른 입학식이 왔으면 좋겠어. 아이가 가방 메고 학교 가는 거 보고 있으면 진짜 기쁘고 대견할 거 같아.",
+            "utterance_id": "BE22009459.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄청 기쁘겠다. 아들 입학식 보면 말이야. 아무튼 아들 입학하게 된 거 축하해.",
+            "utterance_id": "BE22009459.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 고마워. 학교 들어가게 되면 또 얘기 들려줄게.",
+            "utterance_id": "BE22009459.15"
+        }
+    ]
+}

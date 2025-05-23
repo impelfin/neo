@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009174",
+        "listener_behavior": [
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009174",
+        "relation": "친구",
+        "situation": "커피보다는 물이나 차를 더 마신다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘에는 확실히 커피보다 물이나 차를 더 많이 마시는 것 같아! 진짜 뿌듯하고 너무 행복해!",
+            "utterance_id": "BE22009174.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오! 예전에는 물은 한잔도 안 마시고 커피를 물처럼 마시더니 그새 좋은 습관을 만들었네!",
+            "utterance_id": "BE22009174.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응! 지난번에 방광염이며 편도염이며 몸 상태가 난리도 아니었잖아. 병원에서 의사 선생님들 마다 커피는 절대 마시지 말라고 하셔서 꾹 참았지 뭐.",
+            "utterance_id": "BE22009174.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오랫동안 자연스럽게 몸에 익혀진 습관들은 생각보다 진짜 바꾸기 어렵잖아. 요즘 사람들 다 너처럼 바뀌고 싶은데 못하고 있는 걸 걸! 진짜 대단해.",
+            "utterance_id": "BE22009174.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 이게 딱히 어디 가서 막 자랑하고 내세울 일은 아닌데 묘하게 뿌듯하고 만족스러워. 뭔가 사소하지만 나를 위해 온전히 내 노력으로 만들어 낸 습관이라 그런가? 이제는 물 마실 때마다 너무 기쁘다니까!",
+            "utterance_id": "BE22009174.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "식습관보다 고치기 까다로운 게 음수 습관이라는데, 너 진짜 대단하다. 나도 물 마시는 양을 좀 늘려야 하는데 쉽지 않더라. 내가 지금 너였다면 엄청 뿌듯할 것 같아!",
+            "utterance_id": "BE22009174.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말대로 습관이 진짜 무서워. 처음에는 나도 모르게 카페에서 커피를 주문하고 있더라니까. 한 1주일 정도는 진짜 적응 안 돼서 너무 힘들었어.",
+            "utterance_id": "BE22009174.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 직장 다니면서 커피 안 마시기는 쉽지 않지. 몽롱한 정신에 커피라도 마셔서 좀 개운해지는데 말이야. 게다가 너는 정말 커피를 좋아해서 더 힘들었겠다.",
+            "utterance_id": "BE22009174.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그때 이곳저곳 아팠으니까 억지로 계속하면서 고칠 수 있었지. 그냥 이유 없이 했었다면 중간에 포기했을 거야.",
+            "utterance_id": "BE22009174.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그때 너 몸 상태 많이 안 좋아서 진짜 고생 많이 했잖아. 그런 상황에 바꾼 습관이라 더 대단해. 주변에서도 다 놀라겠다.",
+            "utterance_id": "BE22009174.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 회사 사람들이 특히 더 그렇지. 부모님도 좋아하시고. 이 나이에 이런 걸로 칭찬 들으니까 좀 쑥스럽기도 한데, 내심 속으로는 기분 엄청 좋아!",
+            "utterance_id": "BE22009174.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람들은 끈기와 노력에 감탄하고 칭찬하는 거지. 근데 너는 예전부터 정말 끈기 하나는 최고였어. 뭐든 마음먹으면 끝까지 해서 이루어냈잖아.",
+            "utterance_id": "BE22009174.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 또 그렇게 연결되나. 너랑 얘기하니까 더 기분 좋아진다. 막 성취감까지 느껴지네.",
+            "utterance_id": "BE22009174.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진심으로 하는 말들이야. 나도 이번에는 음수 습관 좀 바꿔봐야겠다. 너를 보니까 완전 의욕이 샘솟고 있어.",
+            "utterance_id": "BE22009174.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래! 내가 다음에 만나면 좋은 차 선물해줄게!",
+            "utterance_id": "BE22009174.15"
+        }
+    ]
+}

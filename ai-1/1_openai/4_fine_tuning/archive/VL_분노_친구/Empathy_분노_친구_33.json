@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009547",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009547",
+        "relation": "친구",
+        "situation": "USB가 망가져서 저장해놓은 자료를 확인할 수가 없다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런, USB가 망가져서 필요한 자료를 확인할 수 없게 되었어.",
+            "utterance_id": "BE22009547.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거 큰일인걸. 어쩌다가 망가진 거야?",
+            "utterance_id": "BE22009547.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어린 동생이 실수로 내 USB를 물에 빠뜨리고 말았어. 아예 맛이 간 모양이야. 중요한 자료가 거기 있는데, 하필 이런 사고가 생겨서 너무 화가 치밀어 올라.",
+            "utterance_id": "BE22009547.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 복구가 어렵다면 무척 성가신 일이겠는걸. 네가 많이 화가 날 법도 해. 네게 그렇게나 중요한 자료가 거기 있었던 거야?",
+            "utterance_id": "BE22009547.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 조별 과제를 위해 모아둔 각종 자료가 몽땅 거기에 있었단 말이야. 내일이면 과제 회의가 있는데, 자료가 사라진 셈이니 짜증을 참을 수가 없어.",
+            "utterance_id": "BE22009547.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 상황이었다니, 네가 정말 속상했겠다. 네가 열심히 모으고 준비한 자료일 텐데 하루아침에 그게 사라져버리면 나 같아도 크게 낙담했을 거야.",
+            "utterance_id": "BE22009547.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 솔직히 동생이 너무 미울 지경이야. 내 물건을 함부로 건드리지 말라고 했는데, 제멋대로 가져갔다가 이런 일이 생기고 말았어. 속에서 얼마나 열불이 나는지 몰라.",
+            "utterance_id": "BE22009547.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 성을 내는 것도 이해해. 동생도 아마 너에게 무척 미안해하고 있을 것 같은데, 동생은 어때?",
+            "utterance_id": "BE22009547.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 잘못한 걸 아는 눈치야. 미안하다고 말하면서 사과하는데, 솔직히 당장은 열이 받아서 그냥 무시해버렸어. 화가 나서 얼굴도 보고 싶지 않은걸.",
+            "utterance_id": "BE22009547.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 많이 화가 나 있는 상태니 그런 마음이 들 수도 있지. 하지만 네 동생도 고의로 그런 게 아니고, 충분히 미안함을 느끼고 있을 거야. 조금만 너그러운 마음으로 용서해 주는 게 어떻겠니?",
+            "utterance_id": "BE22009547.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론 일부로 내 자료를 망치지는 않았겠지. 하지만 지금 당장은 중요한 자료를 잃었다는 충격이 더 커서 그런 것까지 이해해줄 수가 없어. 너무 속상하단 말이야.",
+            "utterance_id": "BE22009547.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 지금 동생에게 화를 내고 모질게 구는 것은 네게 큰 도움이 되지 않을 거야. 그런다고 해서 이미 벌어진 상황이 수습되지는 않으니, 우선 진정하는 게 좋을 것 같아. 부디 화를 식히고 너그럽게 동생을 용서하면서 차분한 마음가짐을 되찾아보렴.",
+            "utterance_id": "BE22009547.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "듣고 보니 네 말이 맞아. 동생에게 화를 낸다고 해서 달라지는 것은 없겠지. 차라리 평정을 되찾고 지금부터라도 자료 조사를 시작하는 게 마음이 더 편할 거야.",
+            "utterance_id": "BE22009547.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거야. 게다가 이미 찾았던 자료라 금방 다시 모을 수 있을 테니 그리 어렵지 않을 거야. 조금 촉박하긴 해도 일단 해보는 거야. 무엇보다 침착한 태도를 잃지 않도록 해.",
+            "utterance_id": "BE22009547.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네 말이 맞아. 그게 가장 현명한 방법인 것 같네. 얼른 조사를 다시 시작해볼게.",
+            "utterance_id": "BE22009547.15"
+        }
+    ]
+}

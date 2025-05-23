@@ -1,0 +1,164 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22009182",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009182",
+        "relation": "친구",
+        "situation": "주말엔 약속도 없고 해서 혼자 미술관에 다녀왔다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주말 잘 보냈어? 난 혼자 미술관에 다녀왔어.",
+            "utterance_id": "BE22009182.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 미술관 가는 거 좋아하니?",
+            "utterance_id": "BE22009182.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 내가 제일 좋아하는 취미야. 혼자 다녀오니 더 여유롭게 볼 수 있어서 더 만족스러웠어.",
+            "utterance_id": "BE22009182.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너에게 힐링 같은 시간이었겠구나. 만족스러웠다니 나도 정말 기쁘네.",
+            "utterance_id": "BE22009182.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "약속도 없고 그래서 그냥 한번 다녀온 건데, 괜찮더라고.",
+            "utterance_id": "BE22009182.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혼자서도 자신을 위해 시간을 가지려고 마음먹는 게 보통 일은 아닌데, 넌 참 부지런하고 대단해.",
+            "utterance_id": "BE22009182.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 말해주니 더 기쁘다. 칭찬을 받을 거라고는 생각 못했어.",
+            "utterance_id": "BE22009182.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음이 기쁜 건, 그만큼 스스로를 아끼고 소중하게 생각하기 때문일 거야.",
+            "utterance_id": "BE22009182.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게도 생각할 수 있겠구나. 참 좋은 말이다.",
+            "utterance_id": "BE22009182.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 너처럼 혼자서도 안정감을 느끼는 사람이 대단하다고 느껴. 스스로 에너지를 충전할 수 있다는 거잖아.",
+            "utterance_id": "BE22009182.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말대로 좋은 시간을 보내고 와서 에너지가 충전된 것 같아.",
+            "utterance_id": "BE22009182.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 네가 기뻐하니 나도 마음이 편안하고 기쁘네. 나도 너를 보면서 나 자신을 아끼는 방법을 배우고 싶어.",
+            "utterance_id": "BE22009182.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 말해주니 혼자 미술관에서 시간을 보낸 게 스스로에게 선물을 준 것 같아서 기뻐.",
+            "utterance_id": "BE22009182.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네가 느끼는 게 맞아. 다음에는 나랑도 같이 가보자!",
+            "utterance_id": "BE22009182.14"
+        }
+    ]
+}
