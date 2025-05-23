@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Generator</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Custom styles for Inter font and overall aesthetics */
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f0f4f8; /* Light blue-gray background */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+        .container {
+            background-color: #ffffff;
+            border-radius: 1.5rem; /* More rounded corners */
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1); /* Soft shadow */
+            padding: 2.5rem;
+            max-width: 600px;
+            width: 100%;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+        }
+        input[type="text"] {
+            border: 2px solid #e2e8f0; /* Light border */
+            border-radius: 0.75rem; /* Rounded input */
+            padding: 0.75rem 1rem;
+            font-size: 1rem;
+            width: 100%;
+            box-sizing: border-box;
+            transition: border-color 0.2s ease-in-out;
+        }
+        input[type="text"]:focus {
+            outline: none;
+            border-color: #6366f1; /* Indigo focus border */
+        }
+        button {
+            background-color: #6366f1; /* Indigo button */
+            color: white;
+            padding: 0.75rem 1.5rem;
+            border-radius: 0.75rem;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background-color 0.2s ease-in-out, transform 0.1s ease-in-out;
+            box-shadow: 0 4px 10px rgba(99, 102, 241, 0.3); /* Button shadow */
+        }
+        button:hover {
+            background-color: #4f46e5; /* Darker indigo on hover */
+            transform: translateY(-2px); /* Slight lift on hover */
+        }
+        button:active {
+            transform: translateY(0); /* Press effect */
+        }
+        .image-display {
+            min-height: 300px; /* Ensure space for image */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #f8fafc; /* Lighter background for image area */
+            border-radius: 0.75rem;
+            overflow: hidden; /* Hide overflow if image is too big */
+        }
+        .image-display img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 0.5rem; /* Slightly rounded image */
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+        }
+        .loading-indicator {
+            display: none; /* Hidden by default */
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #6366f1;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        .message-box {
+            background-color: #fef2f2; /* Light red for errors */
+            border: 1px solid #ef4444; /* Red border */
+            color: #dc2626; /* Dark red text */
+            padding: 0.75rem;
+            border-radius: 0.5rem;
+            margin-top: 1rem;
+            display: none; /* Hidden by default */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-3xl font-bold text-gray-800">이미지 생성기</h1>
+        <p class="text-gray-600">설명을 입력하고 이미지를 생성하세요.</p>
+
+        <input type="text" id="promptInput" placeholder="예: 해질녘의 미래 도시 풍경" class="mb-4">
+        <button id="generateButton">이미지 생성</button>
+
+        <div id="loadingIndicator" class="loading-indicator"></div>
+        <div id="messageBox" class="message-box"></div>
+
+        <div class="image-display">
+            <img id="generatedImage" src="https://placehold.co/512x512/e2e8f0/6366f1?text=Your+Image+Here" alt="생성된 이미지">
+        </div>
+    </div>
+
+    <script type="module">
+        // Get references to DOM elements
+        const promptInput = document.getElementById('promptInput');
+        const generateButton = document.getElementById('generateButton');
+        const generatedImage = document.getElementById('generatedImage');
+        const loadingIndicator = document.getElementById('loadingIndicator');
+        const messageBox = document.getElementById('messageBox');
+
+        // Function to display messages in the message box
+        function showMessage(message, type = 'error') {
+            messageBox.textContent = message;
+            messageBox.style.display = 'block';
+            if (type === 'error') {
+                messageBox.className = 'message-box bg-red-50 border-red-400 text-red-700';
+            } else {
+                messageBox.className = 'message-box bg-green-50 border-green-400 text-green-700';
+            }
+        }
+
+        // Function to hide the message box
+        function hideMessage() {
+            messageBox.style.display = 'none';
+        }
+
+        // Event listener for the generate button
+        generateButton.addEventListener('click', async () => {
+            const prompt = promptInput.value.trim();
+
+            if (!prompt) {
+                showMessage('이미지 설명을 입력해주세요.', 'error');
+                return;
+            }
+
+            // Show loading indicator and disable button
+            loadingIndicator.style.display = 'block';
+            generateButton.disabled = true;
+            hideMessage();
+            generatedImage.src = "https://placehold.co/512x512/e2e8f0/6366f1?text=Generating..."; // Placeholder while loading
+
+            try {
+                // Prepare the payload for the image generation API
+                const payload = {
+                    instances: { prompt: prompt },
+                    parameters: { "sampleCount": 1 }
+                };
+
+                // API key is left empty as per instructions; Canvas will provide it at runtime
+                const apiKey = "AIzaSyB8kNrebPymx319bkyc59OfxcQGfPN2qrE";
+                const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-generate-002:predict?key=${apiKey}`;
+
+                // Make the fetch call to the Gemini API for image generation
+                const response = await fetch(apiUrl, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(payload)
+                });
+
+                if (!response.ok) {
+                    const errorData = await response.json();
+                    throw new Error(`API Error: ${response.status} ${response.statusText} - ${errorData.error.message || 'Unknown error'}`);
+                }
+
+                const result = await response.json();
+
+                // Check if image data is present in the response
+                if (result.predictions && result.predictions.length > 0 && result.predictions[0].bytesBase64Encoded) {
+                    const imageUrl = `data:image/png;base64,${result.predictions[0].bytesBase64Encoded}`;
+                    generatedImage.src = imageUrl; // Display the generated image
+                    showMessage('이미지가 성공적으로 생성되었습니다!', 'success');
+                } else {
+                    showMessage('이미지 생성에 실패했습니다. 유효한 응답을 받지 못했습니다.', 'error');
+                    generatedImage.src = "https://placehold.co/512x512/e2e8f0/6366f1?text=Error"; // Show error placeholder
+                }
+            } catch (error) {
+                console.error('Error generating image:', error);
+                showMessage(`이미지 생성 중 오류가 발생했습니다: ${error.message}`, 'error');
+                generatedImage.src = "https://placehold.co/512x512/e2e8f0/6366f1?text=Error"; // Show error placeholder
+            } finally {
+                // Hide loading indicator and enable button
+                loadingIndicator.style.display = 'none';
+                generateButton.disabled = false;
+            }
+        });
+    </script>
+</body>
+</html>
