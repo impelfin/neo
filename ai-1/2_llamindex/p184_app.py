@@ -33,6 +33,7 @@ print('-' * 50)
 print("Index initialized successfully")
 
 query_engine = index.as_query_engine()
+print('-' * 50)
 print("Query engine initialized successfully")
 
 query = "미코의 소꼽친구 이름은?"
