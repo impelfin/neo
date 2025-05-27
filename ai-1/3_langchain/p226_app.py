@@ -2,8 +2,8 @@ from langchain.prompts import FewShotPromptTemplate
 from langchain.prompts import PromptTemplate
 
 examples = [
-    {"input": "明るい", "output": "暗い"},
-    {"input": "おもしろい", "output": "つまらない"},
+    {"input": "明るい", "output": "暗い"},         # 밝다 → 어둡다
+    {"input": "おもしろい", "output": "つまらない"},  # 재미있다 → 재미없다
 ]
 
 example_prompt = PromptTemplate(
