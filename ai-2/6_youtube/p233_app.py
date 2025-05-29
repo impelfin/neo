@@ -20,6 +20,7 @@ def get_youtube_video_info(video_url):
                 'duration' : video_info.get('duration_string'),
             }
     except Exception as e:
+        print("yt_dlp.YoutubeDL(ydl_opts) error")
         return f'Error: {e}'
 
 def remove_invalid_char_for_filename(input_str):
@@ -54,8 +55,14 @@ def download_youtube_video(video_url, folder, filename=None):
 
     ydl_opts = {
         'cookies' :'./data/cookies.txt',
-        'format': 'best',
+        'extract_audio': True,
+        'format': 'bestaudio',
         'outtmpl': outtmpl_str,
+        'postprocessors': [{
+            'key': 'FFmpegExtractAudio',
+            'preferredcodec': 'mp3',
+            'preferredquality': '192',
+        }],
         'noplaylist': True,
         'quiet': True,
         'no_warnings': True
@@ -67,9 +74,10 @@ def download_youtube_video(video_url, folder, filename=None):
 
     return title, download_path
 
-video_url = 'https://www.youtube.com/watch?v=pSJrML-TTmI'
+video_url = 'https://youtu.be/RcGyVTAoXEU?si=49Frho5vGyYQsGxd'
 download_folder = './data'
-video_title, download_path = download_youtube_video(video_url, download_folder)
+file_name = "youtube_download"
+video_title, download_path = download_youtube_video(video_url, download_folder, file_name)
 
 print("- 유튜브 제목 : ", video_title)
 print("- 다운로드한 파일명 : ", download_path.name)
