@@ -27,7 +27,7 @@ def summarize_text(user_text, lang='en'):
 
     return summary
 
-def summariz_text_final(text_list, lang='en'):
+def summarize_text_final(text_list, lang='en'):
     joined_summary = ' '.join(text_list)
 
     enc = tiktoken.encoding_for_model("gpt-3.5-turbo")
@@ -59,7 +59,7 @@ def translate_english_to_korean_using_openAI(text):
 
     return assistant_reply
 
-def translate_english_to_korean_using_deepl(text):
+def translate_english_to_korean_using_deepL(text):
     translator = deepl.Translator(os.getenv('DEEPL_API_KEY'))
     result = translator.translate_text(text, target_lang='KO')
 
