@@ -85,9 +85,9 @@ def summarize_youtube_video(video_url, selected_lang, trans_method):
 
     if selected_lang == '영어': 
         if trans_method == 'OpenAI':
-            trans_result = my_text_sum.traslate_english_to_korean_using_openAI(final_summary)
+            trans_result = my_text_sum.translate_english_to_korean_using_openAI(final_summary)
         elif trans_method == 'DeepL':
-            trans_result = my_text_sum.traslate_english_to_korean_using_deepL(final_summary)
+            trans_result = my_text_sum.translate_english_to_korean_using_deepL(final_summary)
 
         shorten_trans_result = textwrap.shorten(trans_result, width=120, placeholder=' [..이하 생략..]')
         st.write("- 한국어 요약(축약):", shorten_trans_result) # 한국어 번역문 출력 (축약)
