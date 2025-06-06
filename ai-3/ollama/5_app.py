@@ -4,7 +4,7 @@ from datetime import datetime
 import json
 
 llama_client = OpenAI(
-    base_url = 'http://192.168.1.3:11434/v1',
+    base_url = 'http://localhost:11434/v1',
     api_key='ollama'
 )
 
@@ -14,7 +14,7 @@ def llama_trading(start_date, end_date, ticker):
     df_summary = df[['종가']].tail(30).copy()
     df_summary['MA5'] = df_summary['종가'].rolling(window=5).mean()
     df_summary['MA5=20'] = df_summary['종가'].rolling(window=20).mean()
-    
+
     df_summary = df_summary.reset_index()
     df_summary['날짜'] = df_summary['날짜'].dt.strftime('%Y-%m-%d')
     data_json = df_summary.to_dict(orient='records')
@@ -23,7 +23,7 @@ def llama_trading(start_date, end_date, ticker):
         model='llama3.2:latest',
         messages = [
             {
-                'role': 'system', 
+                'role': 'system',
                 'content': [
                     {
                         "type" : "text",
@@ -40,14 +40,14 @@ def llama_trading(start_date, end_date, ticker):
                 ]
             },
             {
-                'role': 'user', 
+                'role': 'user',
                 'content': [
                     {
                         "type" : "text",
                         "text" : json.dumps(data_json, ensure_ascii=False)
-                    }   
+                    }
                 ]
-                
+
             }
         ]
     )

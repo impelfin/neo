@@ -1,7 +1,7 @@
 from openai import OpenAI
 
 client = OpenAI(
-    base_url = 'http://192.168.1.3:11434/v1',
+    base_url = 'http://localhost:11434/v1',
     api_key='ollama',
 )
 
@@ -14,4 +14,4 @@ response = client.chat.completions.create(
 )
 
 result = response.choices[0].message.content
-print(result)   
+print(result)
