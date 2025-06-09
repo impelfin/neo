@@ -5,7 +5,7 @@ chat = lms.Chat("You are a task focused AI assistant.")
 
 while True:
     try:
-        user_input = input("You : (leave blank to exit) ")
+        user_input = input("You (leave blank to exit) : ")
     except EOFError:
         print()
         break
