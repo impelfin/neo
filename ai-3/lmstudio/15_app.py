@@ -9,7 +9,7 @@ def does_chat_fit_in_context(model: lms.LLM, chat: lms.Chat) -> bool:
 
 model = lms.llm()
 
-chat = lms.Chat_from_history({
+chat = lms.Chat.from_history({
     "messages" : [
         {"role": "system", "content": "You are a resident AI philosopher."},
         {"role": "user", "content": "What is the meaning of life?"}
