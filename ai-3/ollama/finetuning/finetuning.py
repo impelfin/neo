@@ -206,7 +206,7 @@ else:
         "python", convert_py_path,
         merged_model_save_path, # 병합된 모델 경로 사용
         "--outfile", gguf_output_path,
-        "--outtype", "F16" # GGUF 파일도 F16 정밀도로 변환 (메모리 절약)
+        "--outtype", "f16" # GGUF 파일도 F16 정밀도로 변환 (메모리 절약)
     ]
     logger.info(f"실행 명령: {' '.join(convert_command)}")
 
