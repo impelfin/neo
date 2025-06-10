@@ -1,24 +1,24 @@
-import readline
+import readline 
 from pathlib import Path
 
 import lmstudio as lms
 
-def create_file(name:str, content:str):
+def create_file(name: str, content: str):
+    """Create a file with the given name and content."""
     dest_path = Path(name)
     if dest_path.exists():
-        return "Error : File already exists"
+        return "Error: File already exists."
     try:
         dest_path.write_text(content, encoding="utf-8")
-    except Exception as e:
-        return f"Error : {e!r}"
-    return f"File created : {name}"
+    except Exception as exc:
+        return "Error: {exc!r}"
+    return "File created."
 
 def print_fragment(fragment, round_index=0):
-    print(fragment, end='', flush=True)
+    print(fragment.content, end="", flush=True)
 
 model = lms.llm()
-chat = lms.Chat("Your are a task focused AI assistant.")
-
+chat = lms.Chat("You are a task focused AI assistant")
 while True:
     try:
         user_input = input("You (leave blank to exit) : ")
