@@ -1,8 +1,8 @@
 import lmstudio as lms
 
 downloaded = lms.list_downloaded_models()
-llm_only = lms.list_downloaded_models(llm_only=True)
-embbding_only = lms.list_downloaded_models(embedding_only=True)
+llm_only = lms.list_downloaded_models("llm")
+embbding_only = lms.list_downloaded_models("embedding")
 
 for model in downloaded:
     print(model)
