@@ -5,7 +5,7 @@ BookSchema = {
     "properties": {
         "title": {"type": "string"},
         "author": {"type": "string"},
-        "year": {"type": "string"},
+        "year": {"type": "integer"},
     },
     "required" : ["title", "author", "year"],
 }
