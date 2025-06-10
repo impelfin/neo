@@ -9,7 +9,7 @@ class BookSchema(BaseModel):
 model = lms.llm()
 
 result = model.respond(
-    "Tell me about the book",
+    "Tell me about the Hobbit",
     response_format = BookSchema
 )
 

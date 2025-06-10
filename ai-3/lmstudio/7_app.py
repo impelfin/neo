@@ -13,7 +13,7 @@ BookSchema = {
 model = lms.llm()
 
 prediction_stream = model.respond_stream(
-    "Tell me about the book",
+    "Tell me about the Hobbit",
     response_format = BookSchema
 )
 
